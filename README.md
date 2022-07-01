@@ -4,4 +4,4 @@ POSTHUMAN validator not only provide security to the Networks, but also contribu
 
 Here is the list of our contributions to:
 
-- [Osmosis]()
+- [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
