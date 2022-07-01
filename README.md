@@ -12,6 +12,7 @@ Here is the list of our contributions to:
 - [LikeCoin](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LikeCoin.md)
 - [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
+- [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.me)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
