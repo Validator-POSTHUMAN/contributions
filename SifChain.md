@@ -44,27 +44,44 @@ We will create public node for RPC/GRPC/REST
 
 - We've created a brand new SifChain Weekly Infographics! <br/>
 ![image](https://user-images.githubusercontent.com/92199696/171229504-f8d3c591-785f-4a76-b6c2-ce74a8f06ed4.png)<br/>
-[31 MAY 22](https://twitter.com/CosmosEcosystem/status/1531677784103391234), [7 JUNE 22](https://twitter.com/CosmosEcosystem/status/1534248844988489730),[14 JUNE 22](https://twitter.com/CosmosEcosystem/status/1536759530113089536), [21 JUNE 22](https://twitter.com/CosmosEcosystem/status/1539305844134789122) <br/>
+
+<details>
+  <summary>2022 SifChain Weekly Episodes:</summary>
+
+- [31 MAY 22](https://twitter.com/CosmosEcosystem/status/1531677784103391234)
+- [7 JUNE 22](https://twitter.com/CosmosEcosystem/status/1534248844988489730)
+- [14 JUNE 22](https://twitter.com/CosmosEcosystem/status/1536759530113089536)
+- [21 JUNE 22](https://twitter.com/CosmosEcosystem/status/1539305844134789122)
+- [28 JUNE 22](https://twitter.com/CosmosEcosystem/status/1541724832311672832)
+- [RU SPEAKING COMMUNITY ANNOUNCEMENT](https://twitter.com/CosmosEcosystem/status/1543129670828294147)
+- [5 JULY 22](https://twitter.com/CosmosEcosystem/status/1544348897648095232)
+- [12 JULY 22](https://twitter.com/CosmosEcosystem/status/1546787848690573314)
+  </details>
 
 We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem). <br/>
 We have Cosmos News with SifChain mention:
 - Cosmos News <br/>
 
-2022 Twitter Graphics News with SifChain Mentioned:
+<details>
+  <summary>2022 Twitter Graphics News with SifChain Mentioned:</summary>
+  
+- [14 JAN 22](https://twitter.com/CosmosEcosystem/status/1482022761023381514)
+- [22 JAN 22](https://twitter.com/CosmosEcosystem/status/1484649435208507395)
+- [29 JAN 22](https://twitter.com/CosmosEcosystem/status/1487170440577667073)
+- [11 FEB 22](https://twitter.com/CosmosEcosystem/status/1492208944353320962)
+- [18 FEB 22](https://twitter.com/CosmosEcosystem/status/1494745569482448901)
+- [18 MAR 22](https://twitter.com/CosmosEcosystem/status/1504796975262277645)
+- [25 MAR 22](https://twitter.com/CosmosEcosystem/status/1507456026190221345)
+- [16 APR 22](https://twitter.com/CosmosEcosystem/status/1515350581963018251)
+- [6 MAY 22](https://twitter.com/CosmosEcosystem/status/1522652655990063106)
+- [13 MAY 22](https://twitter.com/CosmosEcosystem/status/1525170815385452544)
+- [03 JUNE 22](https://twitter.com/CosmosEcosystem/status/1532711849677963269)
+- [10 JUNE 22](https://twitter.com/CosmosEcosystem/status/1535327674285056004)
+- [18 JUNE 22](https://twitter.com/CosmosEcosystem/status/1538182138813718528)
+- [2 JULY 22](https://twitter.com/CosmosEcosystem/status/1543282585442422786)
+- [9 JULY 22](https://twitter.com/CosmosEcosystem/status/1545811903926132740)
+  </details>
 
-[14 JAN 22](https://twitter.com/CosmosEcosystem/status/1482022761023381514),
-[22 JAN 22](https://twitter.com/CosmosEcosystem/status/1484649435208507395),
-[29 JAN 22](https://twitter.com/CosmosEcosystem/status/1487170440577667073),
-[11 FEB 22](https://twitter.com/CosmosEcosystem/status/1492208944353320962),
-[18 FEB 22](https://twitter.com/CosmosEcosystem/status/1494745569482448901),<br/>
-[18 MAR 22](https://twitter.com/CosmosEcosystem/status/1504796975262277645),
-[25 MAR 22](https://twitter.com/CosmosEcosystem/status/1507456026190221345),
-[16 APR 22](https://twitter.com/CosmosEcosystem/status/1515350581963018251),
-[6 MAY 22](https://twitter.com/CosmosEcosystem/status/1522652655990063106),
-[13 MAY 22](https://twitter.com/CosmosEcosystem/status/1525170815385452544)<br/>
-[03 JUNE 22](https://twitter.com/CosmosEcosystem/status/1532711849677963269),
-[10 JUNE 22](https://twitter.com/CosmosEcosystem/status/1535327674285056004)
-[18 JUNE 22](https://twitter.com/CosmosEcosystem/status/1538182138813718528)</br>
 ![Sifc](https://user-images.githubusercontent.com/92199696/171862762-32024354-8b6b-4086-ba78-2583ff8c8d8a.jpg)<br/>
 [26 JUNE 22 SIFCHAIN RECAP MID JUNE GRAPHICS](https://twitter.com/CosmosEcosystem/status/1541055688016797697) <br/>
 ![image](https://user-images.githubusercontent.com/92199696/175817738-d4b8e8c1-5b1d-4a3d-ab79-cb5f0cc80557.png)<br/>
