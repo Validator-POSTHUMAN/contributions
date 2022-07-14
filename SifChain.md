@@ -10,6 +10,7 @@ This repository based on [@Antropocosmist Public Github](https://github.com/Antr
 - [Albert OpenTech competencies](https://github.com/albertandrejev)
 - [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
 - [Valentin Medniyy Competencies](https://github.com/Medniyy)
+- [Eugeniy 3000 Competencies](https://github.com/evgen3000)
 - [Danil Milyutin Competencies](https://github.com/danilmilyutin)
 
 ## Technical Contributions
