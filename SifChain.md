@@ -4,7 +4,8 @@
 
 # The list of contributions for the [SifChain](https://sifchain.finance/)
 
-This repository based on [@Antropocosmist Public Github](https://github.com/Antropocosmist/My-Contributions) with my additions. I will add here other contributions from POSTHUMAN validator as Part of It!
+<details>
+  <summary>Our Team:</summary>
 
 - [Vladimir Ponmimajushij competencies](https://github.com/Antropocosmist/my_competencies)
 - [Albert OpenTech competencies](https://github.com/albertandrejev)
@@ -12,8 +13,12 @@ This repository based on [@Antropocosmist Public Github](https://github.com/Antr
 - [Valentin Medniyy Competencies](https://github.com/Medniyy)
 - [Eugeniy 3000 Competencies](https://github.com/evgen3000)
 - [Danil Milyutin Competencies](https://github.com/danilmilyutin)
+</details>
 
-## Technical Contributions
+# Technical Contributions
+
+<details>
+  <summary>Our Technical Contributions List:</summary>
 
 - We're validating [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $ROWAN to https://t.me/SputnikPriceBot without any support
@@ -27,9 +32,14 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 ![photo_2022-05-30_12-33-33 (2)](https://user-images.githubusercontent.com/92199696/170964034-48658d45-a0b3-41ed-b939-826bf1f7c4a5.jpg)<br/>
 - In the near future:
 We will create public node for RPC/GRPC/REST
+  </details>
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
 ## Twitter <br/>
+
+<details>
+  <summary>Twitter Activity</summary>
+  
 ![223](https://user-images.githubusercontent.com/92199696/166885936-4603128a-0ba0-4090-9e41-a20c3d82a140.jpg)<br/>
 
 - We've created a brand new SifChain Weekly Infographics! <br/>
@@ -65,8 +75,13 @@ We have Cosmos News with SifChain mention:
 
 Some stats:<br/>
 ![Twitter Stats Views etc](https://user-images.githubusercontent.com/92199696/170971060-b34fb21a-af62-4929-bd29-943673267073.jpg)
+</details>
 
 ## Telegram <br/>
+
+<details>
+  <summary>Telegram Activity</summary>
+  
 We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:<br>
 <br/>![333](https://user-images.githubusercontent.com/92199696/166893977-525aa9fe-3ca4-41ac-ae29-418def7e69bd.jpg)
 - https://t.me/Osmosis_ru
@@ -74,8 +89,13 @@ We're creating and working with Russian Language Communities in Telegram. Also w
 - https://t.me/Crypto_Base_Chat <br/>
 Also we have news channel where we posting Rowan Updates and Links and other news from Cosmos Ecosystem:
 <br/>[Example about Sifchain Hiring](https://t.me/CosmosEcosystemNews_ru/620)<br/>
+  </details>
 
 ## YouTube<br/>
+
+<details>
+  <summary>YouTube Activity</summary>
+
 This is our big part of humanitarian side of our contibutions for Osmosis: <br/>
 We have several YouTube channels: <br/>
 1. [CryptoBase](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A)
@@ -89,16 +109,22 @@ Videos (We mentioned SifChain in our videos)
 - [The best projects on cosmos. Part 2](https://youtu.be/kOCAyx-oILw)<br/>
 ![image](https://user-images.githubusercontent.com/92199696/170970812-923cad17-3f12-4bad-9e8b-7ef775c86c06.png)<br/>
 - Practical online [How to use SifChain DEX](https://youtu.be/hcRXY6O9lm8)
+   </details>
 
 
 ## Evangelism
+
+<details>
+  <summary>Evangelism Activity:</summary>
 
 - We always write about SifChain at [Twitter](https://twitter.com/ponimajushij),[Twitter 2](https://twitter.com/ZametkiHodlera)
 - We creating content on https://twitter.com/CosmosEcosystem and always make reposts of SifChain news
 - We write about SifChain at [my blog on Medium](https://medium.com/@antropocosmist)
 - We have [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) where we explaining for non-tech and tech people how to validate networks with humanitarian and technical lessons. <br/>
 
-Our graduates now validating SifChain:<br/>
+<details>
+  <summary>Our graduates now validating SifChain:</summary>
+  
 1. https://www.mintscan.io/sifchain/validators/sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg <br/>
 
 2. https://www.mintscan.io/sifchain/validators/sifvaloper1tvy5apxqsf3jf0uhzknvj6qndy473smzjezvh9 <br/>
@@ -108,6 +134,8 @@ Our graduates now validating SifChain:<br/>
 4. https://www.mintscan.io/sifchain/validators/sifvaloper1j64nlm43umrrv62krql2ek48dfdjkh38s07e3e <br/>
 
 5. https://www.mintscan.io/sifchain/validators/sifvaloper156cvgn9glppsjhmlt3rel8h0j070zpp38rua3v <br/>
+     </details>
+  
 
 And there will be more! <br/>
 
@@ -127,3 +155,4 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [Cosmos Talks 8](https://www.youtube.com/watch?v=OkcToiATIDk)
 - [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
 - [Cosmos Talks 10](https://youtu.be/sLqmZqONxcY?t=2493) 
+ </details>
