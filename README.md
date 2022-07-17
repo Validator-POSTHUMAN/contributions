@@ -17,4 +17,4 @@ Here is the list of our contributions to:
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.me)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
 - [Umee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
-
+- [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
