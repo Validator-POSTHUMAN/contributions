@@ -6,6 +6,7 @@
   <summary>List of Technical Contributions:</summary>
 
 - We validating Tgrade Chain in Mainnet [Validator's link](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q)
+- We running relayer between Osmosis and Tgrade | [Relayer Link](https://tgrade.aneka.io/accounts/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
 - We running three public Tgrade nodes for everyone who want to get onchain data without self-running a node
 1) https://rpc.tgrade.posthuman.digital/ (with state sync support)
 2) https://grpc.tgrade.posthuman.digital/
