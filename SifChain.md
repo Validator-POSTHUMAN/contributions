@@ -152,6 +152,8 @@ Videos (We mentioned SifChain in our videos)
 4. https://www.mintscan.io/sifchain/validators/sifvaloper1j64nlm43umrrv62krql2ek48dfdjkh38s07e3e <br/>
 
 5. https://www.mintscan.io/sifchain/validators/sifvaloper156cvgn9glppsjhmlt3rel8h0j070zpp38rua3v <br/>
+
+6. https://www.mintscan.io/sifchain/validators/sifvaloper1rdlnmy04q5xdf22q5v4hl7phzzt9uegmr3cf8u <br/>
      </details>
   
 
