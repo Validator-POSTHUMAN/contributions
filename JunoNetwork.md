@@ -1,18 +1,16 @@
 # POSTHUMAN CONTRIBUTIONS TO [JUNO NETWORK](https://junochain.com/)
 
-- [My competencies](https://github.com/Antropocosmist/my_competencies)
-
-## Videos that I made about Juno Network
+## Videos about Juno Network
 
 - [The Validator Show #6 | Juno Network: Testing the COSMOS - second try](https://youtu.be/Dyi3Ew_YPS4)
 - [Smart-contracts and bureaucracy: how to save time and nerves? | Fork The System](https://youtu.be/ucCIx_AsbRs)
 - [How to get cryptocurrency for free | Promo of HackJuno Phase 2](https://youtu.be/4q6GpcctvcU)
 
-## Video Guides that I made for Juno Network in English
+## Video Guides for Juno Network in English
 
 - [How to add, buy, stake and vote in Juno Network | Keplr, Osmosis, OmniFlix](https://youtu.be/Z-M8pBSVks0)
 
-## Video Guides that I made for Juno Network in Russian
+## Video Guides for Juno Network in Russian
 
 - [Deploy smart-contract on Juno Network | Part 1 - prepare](https://youtu.be/xjGj8PIkrKU)
 - [Deploy smart-contract on Juno Network | Part 2 - deploy](https://youtu.be/SuPByXkjbKk)
