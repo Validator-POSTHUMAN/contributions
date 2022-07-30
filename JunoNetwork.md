@@ -1,4 +1,4 @@
-# MY CONTRIBUTIONS TO [JUNO NETWORK](https://junochain.com/)
+# POSTHUMAN CONTRIBUTIONS TO [JUNO NETWORK](https://junochain.com/)
 
 - [My competencies](https://github.com/Antropocosmist/my_competencies)
 
