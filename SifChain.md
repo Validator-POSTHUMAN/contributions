@@ -118,7 +118,7 @@ Also we have news channel where we posting Rowan Updates and Links and other new
 <details>
   <summary>YouTube Activity</summary>
 
-This is our big part of humanitarian side of our contibutions for Osmosis: <br/>
+This is our big part of humanitarian side of our contibutions for SifChain: <br/>
 We have several YouTube channels: <br/>
 1. [CryptoBase](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A)
 2. [PostHuman](https://www.youtube.com/c/POSTHUMAN)
@@ -141,7 +141,7 @@ Videos (We mentioned SifChain in our videos)
 
 - We always write about SifChain at [Twitter](https://twitter.com/ponimajushij),[Twitter 2](https://twitter.com/ZametkiHodlera)
 - We creating content on https://twitter.com/CosmosEcosystem and always make reposts of SifChain news
-- We write about SifChain at [my blog on Medium](https://medium.com/@antropocosmist)
+- We write about SifChain at [blog on Medium](https://medium.com/@antropocosmist)
 - We have [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) where we explaining for non-tech and tech people how to validate networks with humanitarian and technical lessons. <br/>
 
 <details>
