@@ -4,6 +4,7 @@ POSTHUMAN validator not only provide security to the Networks, but also contribu
 
 Here is the list of our contributions to:
 
+- [Evmos](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Evmos.md)
 - [Comdex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/comdex.md)
 - [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/cosmos.md)
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
