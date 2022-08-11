@@ -11,6 +11,7 @@
 1) https://rpc.tgrade.posthuman.digital/ (with state sync support)
 2) https://grpc.tgrade.posthuman.digital/
 3) https://lcd.tgrade.posthuman.digital/
+- We added $TGD to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $TGD in Twitter and Telegram, and also p2p-exchange $TGD directly in Telegram!
 </details>
 
 # Humanitarian Contributions
@@ -29,6 +30,8 @@
 - [2 JULY 22](https://twitter.com/CosmosEcosystem/status/1543282596876099593)
 - [9 JULY 22](https://twitter.com/CosmosEcosystem/status/1545811915779235841)
 - [16 JULY 22](https://twitter.com/CosmosEcosystem/status/1548334581232766976)
+- [24 JULY 22](https://twitter.com/CosmosEcosystem/status/1551287141451370496)
+- [7 AUG 22](https://twitter.com/CosmosEcosystem/status/1556023753599066115)
  </details>
  
   <details>
