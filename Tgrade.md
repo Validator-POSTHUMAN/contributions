@@ -11,7 +11,7 @@
 1) https://rpc.tgrade.posthuman.digital/ (with state sync support)
 2) https://grpc.tgrade.posthuman.digital/
 3) https://lcd.tgrade.posthuman.digital/
-- We added $TGD to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $TGD in Twitter and Telegram, and also p2p-exchange $TGD directly in Telegram!
+- We added $TGD to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $TGD in Twitter and Telegram, and also p2p-exchange $TGD directly in Telegram! |  [Twitter Announcement](https://twitter.com/SputnikNetwork/status/1557743007516209155)
 </details>
 
 # Humanitarian Contributions
