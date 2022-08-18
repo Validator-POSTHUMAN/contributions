@@ -1,36 +1,32 @@
-# POSTHUMAN CONTRIBUTIONS TO [JUNO NETWORK](https://junochain.com/)
+![1v (1)](https://user-images.githubusercontent.com/92199696/185401448-fc628c34-1b8b-4771-9e35-ffd7982d66b7.png)
+<br/>
+# Posthuman-Validator-Contributions-for-Juno Network
 
-## Videos about Juno Network
+# The list of contributions for the [Juno Network](https://www.junonetwork.io)
 
-- [The Validator Show #6 | Juno Network: Testing the COSMOS - second try](https://youtu.be/Dyi3Ew_YPS4)
-- [Smart-contracts and bureaucracy: how to save time and nerves? | Fork The System](https://youtu.be/ucCIx_AsbRs)
-- [How to get cryptocurrency for free | Promo of HackJuno Phase 2](https://youtu.be/4q6GpcctvcU)
+<details>
+  <summary>Our Team:</summary>
 
-## Video Guides for Juno Network in English
+- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
+- [Albert Andrejev Competencies](https://github.com/albertandrejev)
+- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
+- [Valentin Medniyy Competencies](https://github.com/Medniyy)
+- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
+- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
+</details>
 
-- [How to add, buy, stake and vote in Juno Network | Keplr, Osmosis, OmniFlix](https://youtu.be/Z-M8pBSVks0)
+# Technical Contributions
 
-## Video Guides for Juno Network in Russian
+<details>
+  <summary>Our Technical Contributions List:</summary>
 
-- [Deploy smart-contract on Juno Network | Part 1 - prepare](https://youtu.be/xjGj8PIkrKU)
-- [Deploy smart-contract on Juno Network | Part 2 - deploy](https://youtu.be/SuPByXkjbKk)
+- We're validating [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
+- We've launched our $PHMN token on Juno Network <br/>
+| [Tokenomics ENG](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6) | [Tokenomics RU](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94) | [FAQ ENG](https://antropocosmist.medium.com/phmn-faq-ca65522b5c8d) | [FAQ RU](https://antropocosmist.medium.com/phmn-faq-rus-3512227b7443) | [Token Info Mintscan](https://www.mintscan.io/juno/wasm/contract/juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l) | [Liquidity Pool JunoSwap](https://junoswap.com/pools/JUNO-PHMN)| [PHMN RU AMA](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | [PHMN ENG AMA](https://www.youtube.com/watch?v=0lzDFbjK-ik&t=3s)| [Liquidity Adding Process Video](https://www.youtube.com/watch?v=1AU-qurmsoU)| 
 
-## Articles/Documentation/Translation about Juno Network in Russian
+- We've launched our own DAS (Decentralized Autonomous Synchronization) on [DAODAO](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)<br/>
+[DAS Medium Doc](https://antropocosmist.medium.com/posthuman-das-is-created-578253c8e226)
 
-- [HackJuno — Cоздавай, Cтрой, Выигрывай!](https://antropocosmist.medium.com/hackjuno-ru-42e53ec0cc78)
-
-## Articles/Documentation/Translation about Juno Network in English
-
-- [Juno Network: How to add Juno-testnet to Keplr and get test-$JUNO](https://antropocosmist.medium.com/juno-testnet-guide-6269baa3fc05)
-
-## My contribution to Juno Network Community
-
-- I validate [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
-- We added $JUNO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchange $JUNO directly in Telegram! 
-News in [Twitter](https://twitter.com/SputnikNetwork/status/1445420421172678657) <br />
-News in [Telegram](https://t.me/SputnikDish/116) <br />
-- I always write about Juno Network at [my Twitter](https://twitter.com/ponimajushij)
-- I'm owner of https://twitter.com/CosmosEcosystem and I always make reposts of Juno Network news
-- I’m creator of [russian-speaking community of Juno Network in Telegram](https://t.me/juno_ru)
-
-... More information will be added soon...
+- We working on [Sputnik Network](https://sputnik.exchange/), and we added $JUNO to https://t.me/SputnikPriceBot without any support
+- We added $JUNO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchange $JUNO directly in Telegram! | [Twitter Announcement 1 ](https://twitter.com/SputnikNetwork/status/1445420421172678657) | [Twitter Announcement 2](https://twitter.com/SputnikNetwork/status/1451330370801213441)
+  
