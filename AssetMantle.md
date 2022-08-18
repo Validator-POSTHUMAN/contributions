@@ -1,3 +1,4 @@
+![1v (3)](https://user-images.githubusercontent.com/92199696/185402488-a4909304-5efa-4a09-bd81-bb960dc020b9.png)
 <details>
   <summary>Our Team:</summary>
 
