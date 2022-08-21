@@ -29,7 +29,7 @@
 
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $JUNO to https://t.me/SputnikPriceBot without any support
 - We added $JUNO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchange $JUNO directly in Telegram! | [Twitter Announcement 1 ](https://twitter.com/SputnikNetwork/status/1445420421172678657) | [Twitter Announcement 2](https://twitter.com/SputnikNetwork/status/1451330370801213441)
-<details>
+</details>
   
 # Humanitarian Contributions
 
@@ -46,4 +46,4 @@
 - Community Developmemnt
 [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
 [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
-<details>
+</details>
