@@ -36,7 +36,10 @@
 [DAS Medium Doc](https://antropocosmist.medium.com/posthuman-das-is-created-578253c8e226) | [DAS AMA ENG](https://www.youtube.com/watch?v=HF-8gEocZ7o&t=11s) | [DAS AMA RU](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | 
 
 ### We working on [Sputnik Network](https://sputnik.exchange/), and we added $JUNO to https://t.me/SputnikPriceBot
-### We added $JUNO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchange $JUNO directly in Telegram! | [Twitter Announcement 1 ](https://twitter.com/SputnikNetwork/status/1445420421172678657) | [Twitter Announcement 2](https://twitter.com/SputnikNetwork/status/1451330370801213441)  
+### We added $JUNO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot)
+Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchange $JUNO directly in Telegram! <br/>
+- [Twitter Announcement 1](https://twitter.com/SputnikNetwork/status/1445420421172678657)
+- [Twitter Announcement 2](https://twitter.com/SputnikNetwork/status/1451330370801213441)  
 </details>
   
 # Humanitarian Contributions
