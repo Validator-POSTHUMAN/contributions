@@ -35,7 +35,7 @@
 ### We've launched our own DAS (Decentralized Autonomous Synchronization) on [DAODAO](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)<br/>
 [DAS Medium Doc](https://antropocosmist.medium.com/posthuman-das-is-created-578253c8e226) | [DAS AMA ENG](https://www.youtube.com/watch?v=HF-8gEocZ7o&t=11s) | [DAS AMA RU](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | 
 
-### We working on [Sputnik Network](https://sputnik.exchange/), and we added $JUNO to https://t.me/SputnikPriceBot without any support
+### We working on [Sputnik Network](https://sputnik.exchange/), and we added $JUNO to https://t.me/SputnikPriceBot
 ### We added $JUNO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchange $JUNO directly in Telegram! | [Twitter Announcement 1 ](https://twitter.com/SputnikNetwork/status/1445420421172678657) | [Twitter Announcement 2](https://twitter.com/SputnikNetwork/status/1451330370801213441)  
 </details>
   
