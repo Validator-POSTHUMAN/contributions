@@ -43,7 +43,7 @@
 [The best blockchain projects on Cosmos. Part 1](https://youtu.be/3YFKDHx-is4) <br/>
 [What is Gas and Fee in blockchain?](https://youtu.be/EEhzzY7mHgM) <br/>
 
-- Community Developmemnt
+- Community Development <br/>
 [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
 [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
 </details>
