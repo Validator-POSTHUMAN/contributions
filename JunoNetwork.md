@@ -59,3 +59,14 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
 
 </details>
+
+# Economical Contributions
+
+<details>
+  <summary>Our Economical Contributions List:</summary>
+
+## We convert 20% of income from all validated networks into $JUNO
+- [POSTHUMAN add 20% of income to LP JUNO PHMN](https://youtu.be/1AU-qurmsoU) <br/>
+
+</details>
+
