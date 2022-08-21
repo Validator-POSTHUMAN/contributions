@@ -36,14 +36,15 @@
 <details>
   <summary>Our Humanitarian Contributions List:</summary>
 
-- Videos, where Juno Network is mentioned <br/>
-[Smart contracts and bureaucracy: how to save time and nerves?](https://youtu.be/ucCIx_AsbRs) <br/>
-[How to get cryptocurrency for free](https://youtu.be/4q6GpcctvcU) <br/>
-[How to create your own tokens?](https://youtu.be/whXfUYytE34) <br/>  
-[The best blockchain projects on Cosmos. Part 1](https://youtu.be/3YFKDHx-is4) <br/>
-[What is Gas and Fee in blockchain?](https://youtu.be/EEhzzY7mHgM) <br/>
+## Videos, where Juno Network is mentioned
+- [Smart contracts and bureaucracy: how to save time and nerves?](https://youtu.be/ucCIx_AsbRs) <br/>
+- [How to get cryptocurrency for free](https://youtu.be/4q6GpcctvcU) <br/>
+- [How to create your own tokens?](https://youtu.be/whXfUYytE34) <br/>  
+- [The best blockchain projects on Cosmos. Part 1](https://youtu.be/3YFKDHx-is4) <br/>
+- [What is Gas and Fee in blockchain?](https://youtu.be/EEhzzY7mHgM) <br/>
 
-- Community Development <br/>
-[Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
-[JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
+## Community Development
+- [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
+- [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
+
 </details>
