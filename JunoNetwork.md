@@ -58,6 +58,13 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
 - [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
 
+## Spreading of Information (not full list, only examples) - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+- [Juno Weekly 1](https://twitter.com/CosmosEcosystem/status/1557762134062276608) <br/>
+- [Juno Weekly 2](https://twitter.com/CosmosEcosystem/status/1501287295957229573) <br/>
+- [Juno Weekly 3](https://twitter.com/CosmosEcosystem/status/1534616772237836290) <br/>
+- [Juno Weekly 4](https://twitter.com/CosmosEcosystem/status/1542194652782235651) <br/>
+- [Juno Weekly 5](https://twitter.com/CosmosEcosystem/status/1493599389457207306) <br/>
+- [Juno Weekly 6](https://twitter.com/CosmosEcosystem/status/1546194990849826816) <br/>
 </details>
 
 # Economical Contributions
