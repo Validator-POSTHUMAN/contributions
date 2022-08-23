@@ -65,7 +65,15 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [Juno Weekly 4](https://twitter.com/CosmosEcosystem/status/1542194652782235651) <br/>
 - [Juno Weekly 5](https://twitter.com/CosmosEcosystem/status/1493599389457207306) <br/>
 - [Juno Weekly 6](https://twitter.com/CosmosEcosystem/status/1546194990849826816) <br/>
+  
+  <details>
+  <summary>Full list Here:</summary>
+  
+    
 </details>
+</details>
+
+
 
 # Economical Contributions
 
