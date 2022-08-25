@@ -137,7 +137,9 @@ Videos (We mentioned SifChain in our videos)
 - [What is the difference between CEX and DEX?](https://youtu.be/wKQ7NyRD4ZQ)
 - [The best projects on cosmos. Part 2](https://youtu.be/kOCAyx-oILw)<br/>
 ![image](https://user-images.githubusercontent.com/92199696/170970812-923cad17-3f12-4bad-9e8b-7ef775c86c06.png)<br/>
-- Practical online [How to use SifChain DEX](https://youtu.be/hcRXY6O9lm8)
+- Practical online [How to use SifChain DEX](https://youtu.be/hcRXY6O9lm8)<br/>
+![g92 8 (3)](https://user-images.githubusercontent.com/92199696/186640799-76086433-f438-47f2-b9c6-c278e5cf7986.jpg)
+- [AMA with POSTHUMAN Team in SifChain Russian](https://youtu.be/OuggeFYiNgA)
    </details>
 
 
