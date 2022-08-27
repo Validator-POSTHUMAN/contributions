@@ -71,6 +71,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 ## COSMOS NEWS 
 
+![image](https://user-images.githubusercontent.com/92199696/187020324-317c896b-9c85-4529-934d-d88d375394cb.png) <br/>
+
+### Weekly News with Juno Mentioned
+
 - [13 NOV 2021](https://twitter.com/CosmosEcosystem/status/1459241853648347148?t=ju3fNfv7PMzxpXO1bqzbug&s=19)
 - [19 NOV 2021](https://twitter.com/CosmosEcosystem/status/1461720436841058318?t=y3TVo16nSSZTBqQL8AOjjg&s=19)
 - [26 NOV 2021](https://twitter.com/CosmosEcosystem/status/1464298546711175181?t=XZGhji7alEi0Cq7FtdubKg&s=19)
@@ -102,6 +106,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 ## ABOUT JUNO
 
+![image](https://user-images.githubusercontent.com/92199696/187020278-ca1487fd-3499-4e66-bfcf-0089ede52478.png) <br/>
+
+### Juno Weekly, Guides, Explanations etc. 
+
 - [21 JULY 2021](https://twitter.com/CosmosEcosystem/status/1417586147715424260?t=EBot77tUhl2Jrda-qxha9A&s=19)
 - [28 OCT 2021](https://twitter.com/CosmosEcosystem/status/1453798686350352397?t=jKjaX6WEUA5PzQNRKJZXvg&s=19)
 - [08 NOV 2021](https://twitter.com/CosmosEcosystem/status/1457424400127508488?t=N-ISntbpkieaSY4QuZeEWA&s=19)
@@ -129,6 +137,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [19 JULY 2022](https://twitter.com/CosmosEcosystem/status/1549462096567582725?t=-dO98PbqLp3Y0gawJoqzCA&s=19)
 
 ## JUNO MENTIONED
+
+![image](https://user-images.githubusercontent.com/92199696/187020298-eee14e42-ae14-4112-9e06-68153db10dff.png) <br/>
+
+### Threads,tweets, memes etc. 
 
 - [05 NOV 2021](https://twitter.com/CosmosEcosystem/status/1456692392204062725?t=Q1tp7ep10xvhZNe_x2AJcw&s=19)
 - [24 DEC 2021](https://twitter.com/CosmosEcosystem/status/1474294220840222720?t=BFaU6QBToJtb-FDSIqIN2g&s=19)
