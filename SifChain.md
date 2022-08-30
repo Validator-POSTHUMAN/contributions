@@ -64,6 +64,7 @@ We will create public node for RPC/GRPC/REST
 - [09 AUG 22](https://twitter.com/CosmosEcosystem/status/1557051400785465344)
 - [16 AUG 22](https://twitter.com/CosmosEcosystem/status/1559543064443723777)
 - [23 AUG 22](https://twitter.com/CosmosEcosystem/status/1562031740260155392)
+- [30 AUG 22](https://twitter.com/CosmosEcosystem/status/1564611689307422745)
   </details>
 
 We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem). <br/>
