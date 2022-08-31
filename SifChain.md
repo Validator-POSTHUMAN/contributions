@@ -99,6 +99,7 @@ We have Cosmos News with SifChain mention:
 [26 JUNE 22 SIFCHAIN RECAP MID JUNE GRAPHICS](https://twitter.com/CosmosEcosystem/status/1541055688016797697) <br/>
 [16 JULY 22 SIFCHAIN RECAP](https://twitter.com/CosmosEcosystem/status/1548194856383614978) <br/>
 ![image](https://user-images.githubusercontent.com/92199696/175817738-d4b8e8c1-5b1d-4a3d-ab79-cb5f0cc80557.png)<br/>
+[31 AUG 22 AUG RECAP](https://twitter.com/CosmosEcosystem/status/1564990303983075328)
 
 
 
