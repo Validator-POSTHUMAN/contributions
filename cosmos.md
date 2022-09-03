@@ -1,6 +1,4 @@
-# The list of my contributions for the [Cosmos Network](https://cosmos.network/)
-
-- [My competencies](https://github.com/Antropocosmist/my_competencies)
+# The list of POSTHUMAN contributions for the [Cosmos Network](https://cosmos.network/)
 
 ## Videos
 
@@ -55,9 +53,9 @@
 - [Двухнедельные новости об экосистеме вокруг Cøsmos Network #36](https://antropocosmist.medium.com/%D0%B4%D0%B2%D1%83%D1%85%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%BE%D0%B1-%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3-c%C3%B8smos-network-36-3ef6ba9e70af)
 - [Космический Пост #1](https://antropocosmist.medium.com/%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-1-125a0d6557f7)
 
-## My contribution to Cosmos Network Community
+## Contribution to Cosmos Network Community
 
-I’m admin or owner in this Tlegram groups of Cosmos Network: <br />
+We are devloping this Tlegram groups of Cosmos Network: <br />
 - https://t.me/CosmosprojectRu
 - https://t.me/cosmosinrussian
 - https://t.me/cosmostation_ru
@@ -70,13 +68,7 @@ I’m admin or owner in this Tlegram groups of Cosmos Network: <br />
 - https://t.me/Sputnik_Network
 - https://t.me/SputnikDish
 
-Also, near 2 years I was Community Advocate of Cosmostation, and was helping to thousands of people. And bring a lot of value to Cosmos Network Community. But several weeks ago, I met with repressions from the side Daniela Catdotfish. She pressured the Cosmostation Team to ask me to leave the community. Since I have published evidence that Daniela is using her social power for personal interests and against the interests of the community: <br />
-- [General Strike against Centralization of the Cosmos Network](https://antropocosmist.medium.com/general-strike-against-centralization-of-the-cosmos-network-bb00fb9507c9)
-- [Repressions to those who disagree with Centralization in the Cosmos Ecosystem](https://antropocosmist.medium.com/repressions-to-those-who-disagree-with-centralization-in-the-cosmos-ecosystem-487bc6d3ff9f) <br />
+## Other Contributions
 
-But for near 2 years, I was helping to all community without any reward, just with enthusiasm! <br />
-
-- I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
-- I always write about Cosmos Network at [my Twitter](https://twitter.com/ponimajushij)
-- I'm an owner of https://twitter.com/CosmosEcosystem and I always make reposts of Cosmos News
-- About me at [jobs.cosmos.network](https://jobs.cosmos.network/contributor/vladimir-netkjt-networker-evangelist-navigator-community-net-neutrality-marseille-france/)
+- We develop [Sputnik Network](https://sputnik.exchange/), and we added $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
+- We develop https://twitter.com/CosmosEcosystem 
