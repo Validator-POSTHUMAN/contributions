@@ -53,6 +53,12 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [How to create your own tokens?](https://youtu.be/whXfUYytE34) <br/>  
 - [The best blockchain projects on Cosmos. Part 1](https://youtu.be/3YFKDHx-is4) <br/>
 - [What is Gas and Fee in blockchain?](https://youtu.be/EEhzzY7mHgM) <br/>
+- [How to use JunoSwap DEX](https://www.youtube.com/watch?v=4bL8m9mq1d4&list=PLgQFzABJoJYweJqPzI1oXcp8CN2K_Pxwq&index=14) <br/>
+- [How to delegate Juno with Keplr Mobile](https://youtu.be/UrN_svxHaXI)
+
+### Also we have a weekly community audio/video chats with 35+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ## Community Development
 - [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
@@ -102,7 +108,8 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [25 JULY 2022](https://twitter.com/CosmosEcosystem/status/1551287130357383176?t=vAJPrzNLoHdLxzGAVXp8_w&s=19)
 - [07 AUG 2022](https://twitter.com/CosmosEcosystem/status/1556023744338038784?t=y0Bc2GsVO2rMdJPvIiQWiA&s=19)
 - [13 AUG 22](https://twitter.com/CosmosEcosystem/status/1558344736515170304)
-- [26 AUG 22]( https://twitter.com/CosmosEcosystem/status/1563142268445687809)
+- [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142268445687809)
+- [02 SEPT 22](https://twitter.com/CosmosEcosystem/status/1565723772421799938)
 
 ## ABOUT JUNO
 
@@ -135,6 +142,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [05 JULY 2022](https://twitter.com/CosmosEcosystem/status/1544248058984255490?t=wbUaVNFRlFqo4T1nfCUyWg&s=19)
 - [10 JULY 2022](https://twitter.com/CosmosEcosystem/status/1546194990849826816?t=HM2CHpR0ulQs9Iz89hfgIg&s=19)
 - [19 JULY 2022](https://twitter.com/CosmosEcosystem/status/1549462096567582725?t=-dO98PbqLp3Y0gawJoqzCA&s=19)
+- [03 SEPT 2022](https://twitter.com/CosmosEcosystem/status/1565969099099983873)
 
 ## JUNO MENTIONED
 
@@ -150,38 +158,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [04 FEB 2022](https://twitter.com/CosmosEcosystem/status/1489590146316095492?t=0cwbOJK5Q3rmPBpSopMNTQ&s=19)
 - [05 FEB 2022](https://twitter.com/CosmosEcosystem/status/1489877080917614593?t=r3nQ0eR2HbYRxwz3B_pXDw&s=19)
 - [22 APRL 2022](https://twitter.com/CosmosEcosystem/status/1517552252348678144?t=DghBJMQIyUI6D53LF9MYuA&s=19)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [31 AUG 2022](https://twitter.com/CosmosEcosystem/status/1564992639598051330)
 
 
 </details>
