@@ -34,6 +34,7 @@
 - [7 AUG 22](https://twitter.com/CosmosEcosystem/status/1556023753599066115)
 - [13 AUG 22](https://twitter.com/CosmosEcosystem/status/1558344745700794368)
 - [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142277622804481)
+- [02 SEP 22](https://twitter.com/CosmosEcosystem/status/1565723782022676482)
  </details>
  
   <details>
