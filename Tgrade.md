@@ -22,6 +22,7 @@
 - We've created and working on Russian Speaking TGrade Community in [Telegram!](https://t.me/tgrade_ru_com)
 - We've translated Securing a blockchain with Proof of Engagement article into Russian [Medium link](https://medium.com/@Medniyy/защита-блокчейна-с-помощью-доказательства-вовлечённости-80226e29d784)
 - We started posting about Tgrade in our Twitter Accounts. <br/>
+- [YouTube Video with Tgrade Explanation included](https://www.youtube.com/watch?v=X_xaMNPYYGY)
   </details>
   
 <details>
