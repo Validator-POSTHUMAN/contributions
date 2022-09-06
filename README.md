@@ -15,7 +15,7 @@ Here is the list of our contributions to:
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
 - [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
-- [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.me)
+- [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
 - [Umee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
 - [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
