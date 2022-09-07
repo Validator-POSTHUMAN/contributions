@@ -41,8 +41,10 @@ Including Validation, Free tools for Community etc.
                                                            
 ## Community Development
 - [Russian-Speaking AssetMantle Community Chat](https://t.me/Asset_Mantle_ru)  
-                                                           
+ 
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+<details>
+  <summary>Full List Here:</summary>
 - [16 MAR 2022](https://twitter.com/CosmosEcosystem/status/1504108010305695760)
 - [19 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505277951968956418)
 - [21 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505972625968877570)
@@ -54,3 +56,5 @@ Including Validation, Free tools for Community etc.
 - [10 JUN 2022](https://twitter.com/CosmosEcosystem/status/1535327674285056004)
 - [24 JUL 2022](https://twitter.com/CosmosEcosystem/status/1551287141451370496)
 - [7 AUG 2022](https://twitter.com/CosmosEcosystem/status/1556023753599066115)
+  
+  </details>
