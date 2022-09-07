@@ -28,3 +28,27 @@
 - Sifchain
 
 ### We validate [Omniflix Testnet](https://www.skynetexplorers.com/flixnet-4)
+</details>
+
+# Humanitarian Contributions
+
+<details>
+  <summary>Our Humanitarian Contributions List:</summary>
+
+## Community Development
+
+- We run Omniflix [Russian-Speaking Community-Group](https://t.me/OmniFlix_ru)
+
+## Videos, where Omniflix is mentioned
+
+- [Video about OmniFlix Project on YouTube-channel](https://www.youtube.com/watch?v=5scvSCgaQJ8)
+- [We always talk about OmniFlix on the Cosmos Ecosystem voice chats in this group](https://t.me/CosmosEcosystem_ru)
+
+### Also we have a weekly community audio/video chats with 35+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Omniflix and other Cosmos Ecosystem projects! 
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+
+- [26 AUG 2022](https://twitter.com/CosmosEcosystem/status/1563142268445687809/photo/1)
+- [2 SEP 2022](https://twitter.com/CosmosEcosystem/status/1565723772421799938/photo/1)
