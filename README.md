@@ -20,3 +20,4 @@ Here is the list of our contributions to:
 - [Umee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
 - [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
 - [Omniflix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
+- [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
