@@ -20,7 +20,7 @@ Including Validation, Free tools for Community etc.
 - We validating AssetMantle Chain in Mainnet | [Validator's link](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $MNTL to https://t.me/SputnikPriceBot without any support
-- We've added $MNTL to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $MNTL in Twitter and Telegram, and also p2p-exchange $MNTL directly in Telegram!| News in [Twitter]()
+- We've added $MNTL to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $MNTL in Twitter and Telegram, and also p2p-exchange $MNTL directly in Telegram!| News in [Twitter](https://twitter.com/SputnikNetwork/status/1520050423457009664)
   </details>
 
 # Humanitarian Contributions
