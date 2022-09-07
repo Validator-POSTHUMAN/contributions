@@ -59,6 +59,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
+### Cosmos Academy in Russian 10 lessons for new users! 
+
+[==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d)
+
 ## Articles/Documentation/Translation about Juno Network in Russian
 
 - [HackJuno — Cоздавай, Cтрой, Выигрывай!](https://antropocosmist.medium.com/hackjuno-ru-42e53ec0cc78)
