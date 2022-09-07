@@ -59,6 +59,31 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
+## Articles/Documentation/Translation about Juno Network in Russian
+
+- [HackJuno — Cоздавай, Cтрой, Выигрывай!](https://antropocosmist.medium.com/hackjuno-ru-42e53ec0cc78)
+- [Juno Multiverse Translation](https://medium.com/p/a87c86f6abf6)
+- [Raw fairdrop details translation](https://medium.com/@Medniyy/raw-fairdrop-ru-bbe9e4ef8318)
+- [Juno Lupercalia Update](https://medium.com/@Medniyy/обновление-junø-lupercalia-1e7b872bc196)
+- [RAW blackpapaer translation](https://medium.com/@Medniyy/blackpaper-нативного-токена-junoswap-raw-5d874d0b2bb2)
+- [Moneta Hacks translation](https://medium.com/@Medniyy/moneta-hacks-открывая-инновации-на-совместимой-сети-смарт-контрактов-junø-9ac7426808be)
+- [PHMN first snapshot info](https://antropocosmist.medium.com/phmn-first-snapshot-rus-40cf291668e8)
+- [PHMN FAQ RU](https://antropocosmist.medium.com/phmn-faq-rus-3512227b7443)
+- [PHMN Tokenomics RU](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94)
+- [Moneta upgrade translation](https://telegra.ph/Obnovlenie-Moneta-Jun%C3%B8-10-12)
+- [Juno Tokenomics Translation](https://telegra.ph/Tokenomika-i-primenenie-Jun%C3%B8Pervyj-v-mire-polnostyu-sovmestimyj-blokchejn-smart-kontraktov-10-04)
+
+## Articles/Documentation/Translation about Juno Network in English
+
+- [Juno Network: How to add Juno-testnet to Keplr and get test-$JUNO](https://antropocosmist.medium.com/juno-testnet-guide-6269baa3fc05)
+- [How to send magic tx for PHMN Stakedrop](https://medium.com/@Medniyy/how-to-send-magic-tx-for-phmn-stakedrop-participation-5a5914ed7aea)
+- [POSTHUMAN DAS is created](https://antropocosmist.medium.com/posthuman-das-is-created-578253c8e226)
+- [What will be if u delegate $300 to POSTHUMAN](https://antropocosmist.medium.com/what-will-be-if-you-delegate-300-to-posthuman-209e05b0e9c0)
+- [How to send magic tx for PHMN stakedrop 2](https://antropocosmist.medium.com/how-to-send-magic-transaction-to-claim-phmn-stakedrop-e98e4b5711c5)
+- [PHMN first snapshot info eng](https://antropocosmist.medium.com/phmn-first-snapshot-9327ed45cd42)
+- [PHMN FAQ ENG](https://antropocosmist.medium.com/phmn-faq-ca65522b5c8d)
+- [PHMN Tokenomics ENG](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6)
+
 ## Community Development
 - [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
 - [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
