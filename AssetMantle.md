@@ -45,6 +45,7 @@ Including Validation, Free tools for Community etc.
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
 <details>
   <summary>Full List Here:</summary>
+
 - [16 MAR 2022](https://twitter.com/CosmosEcosystem/status/1504108010305695760)
 - [19 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505277951968956418)
 - [21 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505972625968877570)
