@@ -50,5 +50,6 @@
 
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
 
+- [19 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505277951968956418/photo/1)
 - [26 AUG 2022](https://twitter.com/CosmosEcosystem/status/1563142268445687809/photo/1)
 - [2 SEP 2022](https://twitter.com/CosmosEcosystem/status/1565723772421799938/photo/1)
