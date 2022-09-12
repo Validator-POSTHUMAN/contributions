@@ -54,6 +54,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [What is Gas and Fee in blockchain?](https://youtu.be/EEhzzY7mHgM) <br/>
 - [How to use JunoSwap DEX](https://www.youtube.com/watch?v=4bL8m9mq1d4&list=PLgQFzABJoJYweJqPzI1oXcp8CN2K_Pxwq&index=14) <br/>
 - [How to delegate Juno with Keplr Mobile](https://youtu.be/UrN_svxHaXI)
+- [How to use HOWL Testnet](https://www.youtube.com/watch?v=idGK8Surv20)
 
 ### Also we have a weekly community audio/video chats with 35+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
 
