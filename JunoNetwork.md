@@ -171,6 +171,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [10 JULY 2022](https://twitter.com/CosmosEcosystem/status/1546194990849826816?t=HM2CHpR0ulQs9Iz89hfgIg&s=19)
 - [19 JULY 2022](https://twitter.com/CosmosEcosystem/status/1549462096567582725?t=-dO98PbqLp3Y0gawJoqzCA&s=19)
 - [03 SEPT 2022](https://twitter.com/CosmosEcosystem/status/1565969099099983873)
+- [12 SEPT 2022](https://twitter.com/CosmosEcosystem/status/1569326676139560960)
 
 ## JUNO MENTIONED
 
