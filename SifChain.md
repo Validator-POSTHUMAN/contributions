@@ -30,10 +30,15 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 * omniflix
 * osmosis <br/>
 ![photo_2022-05-30_12-33-33 (2)](https://user-images.githubusercontent.com/92199696/170964034-48658d45-a0b3-41ed-b939-826bf1f7c4a5.jpg)<br/>
-- In the near future:
-We will create public node for RPC/GRPC/REST
+
+-We've added and running 3 public nodes for SifChain
+- https://rpc.sifchain.posthuman.digital/
+- https://grpc.sifchain.posthuman.digital:443
+- https://lcd.sifchain.posthuman.digital/
+
 - We've added Restake Support for $ROWAN on [EcoStake](https://twitter.com/POSTHUMAN_DVS/status/1563433230631866370)
   </details>
+
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
 ## Twitter <br/>
