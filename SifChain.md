@@ -151,6 +151,7 @@ Videos (We mentioned SifChain in our videos)
 - Practical online [How to use SifChain DEX](https://youtu.be/hcRXY6O9lm8)<br/>
 ![g92 8 (3)](https://user-images.githubusercontent.com/92199696/186640799-76086433-f438-47f2-b9c6-c278e5cf7986.jpg)
 - [AMA with POSTHUMAN Team in SifChain Russian](https://youtu.be/OuggeFYiNgA)
+- [Jazear's speech on Cosmoverse with short recap and machine translation on Russian](https://youtu.be/jrkIdsk0phQ)
    </details>
 
 
