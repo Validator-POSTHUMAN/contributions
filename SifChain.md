@@ -71,6 +71,8 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 - [23 AUG 22](https://twitter.com/CosmosEcosystem/status/1562031740260155392)
 - [30 AUG 22](https://twitter.com/CosmosEcosystem/status/1564611689307422745)
 - [06 SEPT 22](https://twitter.com/CosmosEcosystem/status/1567177983550541830)
+- [13 SEPT 22](https://twitter.com/CosmosEcosystem/status/1569776389397561345)
+- [27 SEPT 22](https://twitter.com/CosmosEcosystem/status/1574720458162728962/photo/1)
   </details>
 
 We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem). <br/>
@@ -101,6 +103,7 @@ We have Cosmos News with SifChain mention:
 - [13 AUG 22](https://twitter.com/CosmosEcosystem/status/1558344745700794368)
 - [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142277622804481)
 - [02 SEP 22](https://twitter.com/CosmosEcosystem/status/1565723782022676482)
+- [17 SEP 22](https://twitter.com/CosmosEcosystem/status/1571152607351287809)
   </details>
 
 ![Sifc](https://user-images.githubusercontent.com/92199696/171862762-32024354-8b6b-4086-ba78-2583ff8c8d8a.jpg)<br/>
