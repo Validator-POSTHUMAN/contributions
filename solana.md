@@ -9,13 +9,12 @@
 
 - [The fastest blockchain, or Strenght in Consensus](https://youtu.be/00qqPGOwpTg)
 - [Blocks Must Go On](https://youtu.be/a90VyAxoGyY)
-- [In this video I speak about another project, but I'm in t-shirt of Solana](https://youtu.be/0JDAcUF1iUo)
-- [Video about CEX and DEX, and you can see the logo of Solana in video, and link on Solana in description](https://youtu.be/wKQ7NyRD4ZQ?t=695)
+- [CEX and DEX](https://youtu.be/wKQ7NyRD4ZQ?t=695)
 
 ## EVANGELISM FOR SOLANA
 
-- I speak about Solana at all meetup, where I'm a speaker. [What is to be a validator?](https://youtu.be/KKRWpayLAf8?t=190)
-... Soon I will add more information ...
+- [What is to be a validator?](https://youtu.be/KKRWpayLAf8?t=190)
+
 
 ## SOLANA DEVELOPMENT
 
