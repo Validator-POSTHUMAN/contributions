@@ -28,5 +28,15 @@ Including Validation, Free tools for Community etc.
 - We will add $AXL to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot).And users will be able to send tips with $AXL in Twitter and Telegram, and also p2p-exchange $AXL directly in Telegram!|
   </details>
 
+ # Humanitarian Contributions
+ Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
+ 
+ <details>
+  <summary>List of Humanitarian Contributions:</summary>
+  
+## Twitter <br/>
+
+<details>
+  <summary>Twitter Activity</summary>
 
 </details>
