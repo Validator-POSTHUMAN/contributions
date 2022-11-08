@@ -67,6 +67,20 @@ Including Validation, RPC nodes, Free tools for Community etc.
 -	[09 JULY 22](https://twitter.com/CosmosEcosystem/status/1545811903926132740)
 -	[16 JULY 22](https://twitter.com/CosmosEcosystem/status/1548334569128017922)
 -	[25 JULY 22](https://twitter.com/CosmosEcosystem/status/1551287130357383176) 
+- [02 JULY 22](https://twitter.com/CosmosEcosystem/status/1543282585442422786)
+- [09 JULY 22](https://twitter.com/CosmosEcosystem/status/1545811903926132740)
+- [16 JULY 22](https://twitter.com/CosmosEcosystem/status/1548334569128017922)
+- [24 JULY 22](https://twitter.com/CosmosEcosystem/status/1551287130357383176)
+- [07 AUG 22](https://twitter.com/CosmosEcosystem/status/1556023744338038784)
+- [13 AUG 22](https://twitter.com/CosmosEcosystem/status/1558344736515170304)
+- [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142268445687809)
+- [02 SEPT 22](https://twitter.com/CosmosEcosystem/status/1565723772421799938)
+- [17 SEPT 22](https://twitter.com/CosmosEcosystem/status/1571152597226258437)
+- [07 OCT 22](https://twitter.com/CosmosEcosystem/status/1578427132354920448)
+- [14 OCT 22](https://twitter.com/CosmosEcosystem/status/1580959673716310025)
+- [21 OCT 22](https://twitter.com/CosmosEcosystem/status/1583556576073289728)
+- [04 NOV 22](https://twitter.com/CosmosEcosystem/status/1588563231861526528)
+
     </details>
   
   <details>
@@ -78,6 +92,10 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - [02 JUNE RESTAKE PROMO VIDEO](https://twitter.com/POSTHUMAN_DVS/status/1532364172054388737)
 -	[02 JUNE 22](https://twitter.com/CosmosEcosystem/status/1532408474596003842)
 -	[27 JUNE 22](https://twitter.com/CosmosEcosystem/status/1541371990434631682)
+- [18 JULY 22](https://twitter.com/CosmosEcosystem/status/1548975598395072512)
+- [18 SEPT 22](https://twitter.com/CosmosEcosystem/status/1571547329551028225)
+- [30 OCT 22](https://twitter.com/CosmosEcosystem/status/1586710255957786624)
+
   </details>
   </details>
   
