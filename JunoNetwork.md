@@ -148,6 +148,9 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [21 OCT 22](https://twitter.com/CosmosEcosystem/status/1583556576073289728)
 - [29 OCT 22](https://twitter.com/CosmosEcosystem/status/1586351868414132225)
 - [04 NOV 22](https://twitter.com/CosmosEcosystem/status/1588563220091977728)
+- [19 NOV 22](https://twitter.com/CosmosEcosystem/status/1593650869735759879)
+- [26 NOV 22](https://twitter.com/CosmosEcosystem/status/1596206565169954816)
+- [03 DEC 22](https://twitter.com/CosmosEcosystem/status/1598729419765342209)
 
 ## ABOUT JUNO
 
@@ -190,6 +193,8 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [17 OCT 2022](https://twitter.com/CosmosEcosystem/status/1582026252998672384)
 - [31 OCT 2022](https://twitter.com/CosmosEcosystem/status/1587141579503898624)
 - [08 NOV 2022](https://twitter.com/CosmosEcosystem/status/1590008529917992960)
+- [14 NOV 2022](https://twitter.com/CosmosEcosystem/status/1592190387351089155)
+- [29 NOV 2022](https://twitter.com/CosmosEcosystem/status/1597286272338300929)
 
 ## JUNO MENTIONED
 
@@ -209,6 +214,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [15 OCT 2022](https://twitter.com/CosmosEcosystem/status/1581315399051714560)
 - [25 OCT 2022](https://twitter.com/CosmosEcosystem/status/1584958642800902144)
 - [30 OCT 2022](https://twitter.com/CosmosEcosystem/status/1586710255957786624)
+- [10 NOV 2022](https://twitter.com/CosmosEcosystem/status/1590416012377493505)
+- [16 NOV 2022](https://twitter.com/CosmosEcosystem/status/1592760298435645440)
+- [24 NOV 2022](https://twitter.com/CosmosEcosystem/status/1595815898899656704)
+-
 
 </details>
 </details>
