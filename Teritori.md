@@ -21,6 +21,8 @@
 
 We working on Sputnik Network, and we added $TORI to https://t.me/SputnikNetworkBot without any support
 
+![image](https://user-images.githubusercontent.com/92199696/205491037-51fa4cfb-f604-4acc-9a43-66cad0fca7c2.png)
+
 We've added $TORI to Sputnik Exchange and to Sputnik Network. Now users can send tips with $TORI in Twitter and Telegram, and also p2p-exchange $TORI directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
 
 
