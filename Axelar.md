@@ -24,8 +24,11 @@ Including Validation, Free tools for Community etc.
 
 - Also we've implemented support for Ethereum external chain.
 
-- We're working on [Sputnik Network](https://sputnik.exchange/), and we will add $AXL to https://t.me/SputnikPriceBot without any support
-- We will add $AXL to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot).And users will be able to send tips with $AXL in Twitter and Telegram, and also p2p-exchange $AXL directly in Telegram!|
+We working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkBot without any support
+
+![image](https://user-images.githubusercontent.com/92199696/205491037-51fa4cfb-f604-4acc-9a43-66cad0fca7c2.png)
+
+We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send tips with $AXL in Twitter and Telegram, and also p2p-exchange $AXL directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
   </details>
 
  # Humanitarian Contributions
