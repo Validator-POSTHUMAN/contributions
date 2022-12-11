@@ -1,18 +1,42 @@
-# The list of my contributions for the [Persistence One](https://persistence.one/)
+![Persistence](https://user-images.githubusercontent.com/92199696/206889579-fcadac6e-3def-4410-a18f-ab33ba5e038e.png)
 
-## My technical contributions to Persistence One 
+# The list of contributions for the [Persistence One](https://persistence.one/)
 
-- I validate [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
-- I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $XPRT to https://t.me/SputnikPriceBot
+<details>
+  <summary>Our Team:</summary>
+
+- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
+- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
+- [Valentin Medniyy Competencies](https://github.com/Medniyy)
+- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
+- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
+- Secret Member😎
+- This character is unexplored👽
+  </details>
+
+# Technical Contributions
+
+<details>
+
+  <summary>List of Technical Contributions:</summary>
+
+- We validate [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
+- [Vladimir Understanding](https://github.com/Antropocosmist) is the Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $XPRT to https://t.me/SputnikPriceBot
 - We added $XPRT to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $XPRT in Twitter and Telegram, and also p2p-exchange $XPRT directly in Telegram! News about it in [Twitter](https://twitter.com/SputnikNetwork/status/1417799239598592000)
+- We attract people to delegate and hold $XPRT tokens with our Distributed Validator Model with $PHMN token incentives for the real delegators. [Details](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6)
+</details>
 
-## My humanitarian contributions to Persistence One
+## Humanitarian contributions
 
-- I always write about Persistence at [my Twitter](https://twitter.com/ponimajushij)
-- I'm owner of https://twitter.com/CosmosEcosystem and I always retweet news from Persistence and pSTAKE
-- I participate in many difference online and meetups as a speaker, and very often tell about Persistence and pSTAKE for russian-speaking people
+<details>
 
-I help to Persistence with community development: <br />
+  <summary>List of Humanitarian Contributions:</summary>
+
+- [Vladimir Understanding](https://github.com/Antropocosmist) always write about Persistence at [his Twitter](https://twitter.com/ponimajushij)
+- We operate  https://twitter.com/CosmosEcosystem and I always retweet news from Persistence and pSTAKE. We included 
+- We participate in many difference online and meetups as a speakers, and very often tell about Persistence and pSTAKE for english and russian-speaking people!
+
+We help to Persistence with community development: <br />
 - I'm admin in russian-speaking group of [Persistence One](https://t.me/PersistenceRussia)
 - I translate news from Persistence One into russian language and post it in [Persistence News in Russian](https://t.me/PersistenceNewsRussia)
 
