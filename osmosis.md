@@ -1,12 +1,17 @@
 ![image](https://user-images.githubusercontent.com/92199696/170952043-4b06d93b-7545-4ca5-8532-29a06610fc5c.png) <br/>
-# Posthuman-Validator-Contributions-for-Osmosis-Chain
-This repository based on @Antropocosmist Public Github with my additions. I will add here other contributions from POSTHUMAN validator as Part of It!
 # The list of contributions for the [Osmosis](https://app.osmosis.zone/)
 
-- [Vladimir Ponmimajushij competencies](https://github.com/Antropocosmist/my_competencies)
-- [Albert OpenTech competencies](https://github.com/albertandrejev)
+<details>
+  <summary>Our Team:</summary>
+
+- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
 - [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
 - [Valentin Medniyy Competencies](https://github.com/Medniyy)
+- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
+- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
+- Secret Member😎
+- This character is unexplored👽
+  </details>
 
 ## Technical Contributions
 
