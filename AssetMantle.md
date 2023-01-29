@@ -43,7 +43,8 @@ Including Validation, Free tools for Community etc.
 [==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d)
                                                            
 ## Community Development
-- [Russian-Speaking AssetMantle Community Chat](https://t.me/Asset_Mantle_ru)  
+- [Russian-Speaking AssetMantle Community Chat](https://t.me/Asset_Mantle_ru) 
+- [We are in the process of adding Asset Mantle to the Cosmos Ecosystem Crew3](https://crew3.xyz/c/cosmosecosystem/questboard) 
  
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
 <details>
