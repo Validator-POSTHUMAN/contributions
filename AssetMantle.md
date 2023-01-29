@@ -21,6 +21,9 @@ Including Validation, Free tools for Community etc.
 
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $MNTL to https://t.me/SputnikPriceBot without any support
 - We've added $MNTL to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $MNTL in Twitter and Telegram, and also p2p-exchange $MNTL directly in Telegram!| News in [Twitter](https://twitter.com/SputnikNetwork/status/1520050423457009664)
+
+- *We also support few relayers with Asset Mantle*. At this moment there are two for **Osmosis** and **Juno** chains:
+[Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
   </details>
 
 # Humanitarian Contributions
@@ -57,5 +60,28 @@ Including Validation, Free tools for Community etc.
 - [10 JUN 2022](https://twitter.com/CosmosEcosystem/status/1535327674285056004)
 - [24 JUL 2022](https://twitter.com/CosmosEcosystem/status/1551287141451370496)
 - [7 AUG 2022](https://twitter.com/CosmosEcosystem/status/1556023753599066115)
-  
+- [18 SEP 2022](https://twitter.com/CosmosEcosystem/status/1571242231708753921)
+- [07 OCT 2022](https://twitter.com/CosmosEcosystem/status/1578427122296578053)
+- [14 OCT 2022](https://twitter.com/CosmosEcosystem/status/1580959673716310025)
+- [15 OCT 2022](https://twitter.com/CosmosEcosystem/status/1581315399051714560)
+- [22 OCT 2022](https://twitter.com/CosmosEcosystem/status/1583556576073289728)
+- [29 OCT 2022](https://twitter.com/CosmosEcosystem/status/1586351868414132225)
+- [04 NOV 2022](https://twitter.com/CosmosEcosystem/status/1588563220091977728)
+- [10 NOV 2022](https://twitter.com/CosmosEcosystem/status/1590416012377493505)
+- [19 NOV 2022](https://twitter.com/CosmosEcosystem/status/1593650869735759879)
+- [26 NOV 2022](https://twitter.com/CosmosEcosystem/status/1596206565169954816)
+- [03 DEC 2022](https://twitter.com/CosmosEcosystem/status/1598729419765342209)
+- [07 DEC 2022](https://twitter.com/CosmosEcosystem/status/1600382720885944321)
+- [10 DEC 2022](https://twitter.com/CosmosEcosystem/status/1601609883937558530)
+- [18 DEC 2022](https://twitter.com/CosmosEcosystem/status/1604165494025891840)
+- [19 DEC 2022](https://twitter.com/CosmosEcosystem/status/1604822579482873856)
+- [23 DEC 2022](https://twitter.com/CosmosEcosystem/status/1606274632419508224)
+- [14 JAN 2023](https://twitter.com/CosmosEcosystem/status/1613948878499491840)
+- [18 JAN 2023](https://twitter.com/CosmosEcosystem/status/1615690042063876097)
+- [21 JAN 2023](https://twitter.com/CosmosEcosystem/status/1616482163385593856)
+- [24 JAN 2023](https://twitter.com/CosmosEcosystem/status/1617921483422208000)
+- [29 JAN 2023](https://twitter.com/CosmosEcosystem/status/1618600070747938818)
+- [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619334484020822016)
+- [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619349322306572293)
+
   </details>
