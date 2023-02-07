@@ -24,3 +24,4 @@ Here is not the full list of our contributions:
 - [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
 - [Velas](https://github.com/Validator-POSTHUMAN/contributions/blob/main/velas.md)
+- [KiChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/KiChain.md)
