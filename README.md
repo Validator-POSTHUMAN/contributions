@@ -22,3 +22,4 @@ Here is not the full list of our contributions:
 - [Teritori](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Teritori.md)
 - [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
 - [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
+- [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
