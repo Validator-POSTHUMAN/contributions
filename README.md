@@ -12,6 +12,7 @@ Here is not the full list of our contributions:
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
 - [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/gravity_bridge.md)
 - [LikeCoin](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LikeCoin.md)
+- [Injective](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Injective.md)
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
