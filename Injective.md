@@ -107,6 +107,9 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - [17 FEB 23](https://twitter.com/CosmosEcosystem/status/1626605802378383360?t=goJWqYPtnri1El51Ows1tw&s=09) 
 - [18 FEB 23](https://twitter.com/CosmosEcosystem/status/1626933506294046721?t=Jbi2-udDKOJ2vx4N0Yz6Tw&s=35)
 - [22 FEB 23](https://twitter.com/CosmosEcosystem/status/1628383717344391169)
+- [25 FEB 23](https://twitter.com/CosmosEcosystem/status/1629196610705006592)
+- [26 FEB 23](https://twitter.com/CosmosEcosystem/status/1629849126237003776)
+
 
 ### Statistics 
   
@@ -129,6 +132,7 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 
 ### We have more than 4.2k subsctibers our YouTube channel [CryptoBase](https://youtube.com/cryptobased)
 ![image](https://user-images.githubusercontent.com/92199696/220563685-1cfa3933-b615-484d-ad4c-045e6f32eb70.png) <br/>
-- We even met in reality! Live interview with Jenna from Injective on Staking Summit. [link](https://youtu.be/CJpWwtUXu1Y?t=3121)
+- We even met in reality! Live interview with Jenna from Injective on Staking Summit. [Link](https://youtu.be/CJpWwtUXu1Y?t=3121)
+- New episode of CryptoBase with the better quality and Injective was warmly discussed! [Link](https://youtu.be/ntKJxcjAOF4?t=1578)
 - [**Playlist**](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) of 58+videos of our Weekly Community Calls where we speak about Cosmos Ecosystem projects and also about Injective! 
 </details>
