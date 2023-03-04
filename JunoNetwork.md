@@ -12,6 +12,10 @@
 - [Valentin Medniyy Competencies](https://github.com/Medniyy)
 - [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
 - [Danil Milyutin Competencies](https://github.com/danilmilyutin)
+- Secret Member😎
+- Testnet Guru 🥷
+- This character is unexplored👽
+
 </details>
 
 # Technical Contributions
