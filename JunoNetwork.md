@@ -55,8 +55,12 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [How to use JunoSwap DEX](https://www.youtube.com/watch?v=4bL8m9mq1d4&list=PLgQFzABJoJYweJqPzI1oXcp8CN2K_Pxwq&index=14) <br/>
 - [How to delegate Juno with Keplr Mobile](https://youtu.be/UrN_svxHaXI)
 - [How to use HOWL Testnet](https://www.youtube.com/watch?v=idGK8Surv20)
+- [HOWL, Hopers mentioned](https://twitter.com/ZametkiHodlera/status/1623342296359116800)
+- [Best Cosmos DEX/Curve on Cosmos/Complete guide on WYND DAO DEX](https://www.youtube.com/watch?v=P05VjwpzZD0&t=4s&ab_channel=CRYPTOBASE)
+- [How to use DAODAO](https://www.youtube.com/watch?v=4zyJuGFn-mQ&ab_channel=CRYPTOBASE)
+- [Interview with Keyne from CAC OTC on Juno](https://youtu.be/ElZ-OBekWPE?t=363)
 
-### Also we have a weekly community audio/video chats with 35+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
+### Also we have a weekly community audio/video chats with 59+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
@@ -91,7 +95,8 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 ## Community Development
 - [Russian-speaking Juno Community](https://t.me/juno_ru) <br/>
-- [JunoSwap Trading Group](https://t.me/Osmosis_ru) <br/>
+- [Wynd Trading Group and other Cosmos DEXes](https://t.me/Osmosis_ru) <br/>
+- [WYND Russian Speaking Community](https://t.me/WYNDRU)
 
 ## Spreading of Information (not full list, only examples) - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
 - [Juno Weekly 1](https://twitter.com/CosmosEcosystem/status/1557762134062276608) <br/>
@@ -139,18 +144,25 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [16 JULY 2022](https://twitter.com/CosmosEcosystem/status/1548334569128017922?t=SRVgy7X8q8RNXLdcGvdthg&s=19)
 - [25 JULY 2022](https://twitter.com/CosmosEcosystem/status/1551287130357383176?t=vAJPrzNLoHdLxzGAVXp8_w&s=19)
 - [07 AUG 2022](https://twitter.com/CosmosEcosystem/status/1556023744338038784?t=y0Bc2GsVO2rMdJPvIiQWiA&s=19)
-- [13 AUG 22](https://twitter.com/CosmosEcosystem/status/1558344736515170304)
-- [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142268445687809)
-- [02 SEPT 22](https://twitter.com/CosmosEcosystem/status/1565723772421799938)
-- [17 SEPT 22](https://twitter.com/CosmosEcosystem/status/1571152597226258437)
-- [07 OCT 22](https://twitter.com/CosmosEcosystem/status/1578427122296578053)
-- [14 OCT 22](https://twitter.com/CosmosEcosystem/status/1580959673716310025)
-- [21 OCT 22](https://twitter.com/CosmosEcosystem/status/1583556576073289728)
-- [29 OCT 22](https://twitter.com/CosmosEcosystem/status/1586351868414132225)
-- [04 NOV 22](https://twitter.com/CosmosEcosystem/status/1588563220091977728)
-- [19 NOV 22](https://twitter.com/CosmosEcosystem/status/1593650869735759879)
-- [26 NOV 22](https://twitter.com/CosmosEcosystem/status/1596206565169954816)
-- [03 DEC 22](https://twitter.com/CosmosEcosystem/status/1598729419765342209)
+- [13 AUG 2022](https://twitter.com/CosmosEcosystem/status/1558344736515170304)
+- [26 AUG 2022](https://twitter.com/CosmosEcosystem/status/1563142268445687809)
+- [02 SEPT 2022](https://twitter.com/CosmosEcosystem/status/1565723772421799938)
+- [17 SEPT 2022](https://twitter.com/CosmosEcosystem/status/1571152597226258437)
+- [07 OCT 2022](https://twitter.com/CosmosEcosystem/status/1578427122296578053)
+- [14 OCT 2022](https://twitter.com/CosmosEcosystem/status/1580959673716310025)
+- [21 OCT 2022](https://twitter.com/CosmosEcosystem/status/1583556576073289728)
+- [29 OCT 2022](https://twitter.com/CosmosEcosystem/status/1586351868414132225)
+- [04 NOV 2022](https://twitter.com/CosmosEcosystem/status/1588563220091977728)
+- [19 NOV 2022](https://twitter.com/CosmosEcosystem/status/1593650869735759879)
+- [26 NOV 2022](https://twitter.com/CosmosEcosystem/status/1596206565169954816)
+- [03 DEC 2022](https://twitter.com/CosmosEcosystem/status/1598729419765342209)
+- [10 DEC 2022](https://twitter.com/CosmosEcosystem/status/1601609883937558530)
+- [18 DEC 2022](https://twitter.com/CosmosEcosystem/status/1604165494025891840)
+- [21 JAN 2023](https://twitter.com/CosmosEcosystem/status/1616482163385593856)
+- [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619349327398473729)
+- [4 FEB 2023](https://twitter.com/CosmosEcosystem/status/1621585620035305478)
+- [25 FEB 2023](https://twitter.com/CosmosEcosystem/status/1629196599271346179)
+
 
 ## ABOUT JUNO
 
@@ -195,6 +207,16 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [08 NOV 2022](https://twitter.com/CosmosEcosystem/status/1590008529917992960)
 - [14 NOV 2022](https://twitter.com/CosmosEcosystem/status/1592190387351089155)
 - [29 NOV 2022](https://twitter.com/CosmosEcosystem/status/1597286272338300929)
+- [20 DEC 2022](https://twitter.com/CosmosEcosystem/status/1604886416852660225)
+- [9 JAN 2023](https://twitter.com/CosmosEcosystem/status/1612467814807506946)
+- [14 JAN 2023](https://twitter.com/CosmosEcosystem/status/1613948878499491840)
+- [16 JAN 2023](https://twitter.com/CosmosEcosystem/status/1615011868166467590)
+- [16 JAN 2023](https://twitter.com/CosmosEcosystem/status/1615280942846967815)
+- [30 JAN 2023](https://twitter.com/CosmosEcosystem/status/1620082170638520320)
+- [5 FEB 2023](https://twitter.com/CosmosEcosystem/status/1622275343834050560)
+- [27 FEB 2023](https://twitter.com/CosmosEcosystem/status/1630231765292920838)
+
+
 
 ## JUNO MENTIONED
 
@@ -217,7 +239,19 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [10 NOV 2022](https://twitter.com/CosmosEcosystem/status/1590416012377493505)
 - [16 NOV 2022](https://twitter.com/CosmosEcosystem/status/1592760298435645440)
 - [24 NOV 2022](https://twitter.com/CosmosEcosystem/status/1595815898899656704)
--
+- [2 DEC 2022](https://twitter.com/CosmosEcosystem/status/1598502576789815296)
+- [5 DEC 2022](https://twitter.com/CosmosEcosystem/status/1606263210536992771)
+- [8 JAN 2023](https://twitter.com/CosmosEcosystem/status/1611772150721175552)
+- [11 JAN 2023](https://twitter.com/CosmosEcosystem/status/1613162334532534273)
+- [16 JAN 2023](https://twitter.com/CosmosEcosystem/status/1614930220754292737)
+- [17 JAN 2023](https://twitter.com/CosmosEcosystem/status/1615366033795170306)
+- [18 JAN 2023](https://twitter.com/CosmosEcosystem/status/1616060265711407104)
+- [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619334484020822016)
+- [30 JAN 2023](https://twitter.com/CosmosEcosystem/status/1620050041129025536)
+- [30 JAN 2023](https://twitter.com/CosmosEcosystem/status/1620044652643753986)
+- [1 FEB 2023](https://twitter.com/CosmosEcosystem/status/1620754265831800833)
+- [8 FEB 2023](https://twitter.com/CosmosEcosystem/status/1623327571214757888)
+- [2 MAR 2023](https://twitter.com/CosmosEcosystem/status/1631336658724589568)
 
 </details>
 </details>
@@ -230,6 +264,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 ## We convert 20% of income from all validated networks into $JUNO
 - [POSTHUMAN add 20% of income to LP JUNO PHMN](https://youtu.be/1AU-qurmsoU) <br/>
+
+## We don't sell WYND tokens and lock liquidy and have pool on them
+- [POSTHUMAN lock LP tokens on 42 days](https://twitter.com/POSTHUMAN_DVS/status/1631038131699871745)
+- [POSTHUMAN lock WYND tokens on 730 days](https://twitter.com/POSTHUMAN_DVS/status/1630189985751085056)
 
 </details>
 
