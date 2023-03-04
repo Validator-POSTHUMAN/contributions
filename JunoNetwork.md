@@ -1,4 +1,4 @@
-![1v (1)](https://user-images.githubusercontent.com/92199696/185401448-fc628c34-1b8b-4771-9e35-ffd7982d66b7.png)
+![1v (5)](https://user-images.githubusercontent.com/92199696/222923113-c6747d9f-e41e-47ed-ad5f-b8314b45243a.png)
 <br/>
 # Posthuman-Validator-Contributions-for-Juno Network
 
