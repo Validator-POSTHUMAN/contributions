@@ -36,3 +36,4 @@ Here is not the full list of our contributions:
 - [Crescent Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crescent_Network.md)
 - [Stargaze](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stargaze.md)
 - [HoneyWood](https://github.com/Validator-POSTHUMAN/contributions/blob/main/HoneyWood.md)
+- [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
