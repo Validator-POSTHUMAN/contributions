@@ -37,3 +37,4 @@ Here is not the full list of our contributions:
 - [Stargaze](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stargaze.md)
 - [HoneyWood](https://github.com/Validator-POSTHUMAN/contributions/blob/main/HoneyWood.md)
 - [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
+- [Akash Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Akash.md)
