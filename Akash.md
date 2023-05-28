@@ -6,9 +6,9 @@
 
 ## Examples of our contributions
 
-https://twitter.com/CosmosEcosystem/status/1416925261048729601
-https://twitter.com/CosmosEcosystem/status/1660634547040526337
-https://twitter.com/CosmosEcosystem/status/1659203661623627778
-https://twitter.com/CosmosEcosystem/status/1654853702279221252
-https://twitter.com/CosmosEcosystem/status/1638946472254230528
-https://twitter.com/CosmosEcosystem/status/1638813770133786624
+- https://twitter.com/CosmosEcosystem/status/1416925261048729601
+- https://twitter.com/CosmosEcosystem/status/1660634547040526337
+- https://twitter.com/CosmosEcosystem/status/1659203661623627778
+- https://twitter.com/CosmosEcosystem/status/1654853702279221252
+- https://twitter.com/CosmosEcosystem/status/1638946472254230528
+- https://twitter.com/CosmosEcosystem/status/1638813770133786624
