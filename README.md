@@ -39,3 +39,4 @@ Here is not the full list of our contributions:
 - [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
 - [Akash Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Akash.md)
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
+- [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
