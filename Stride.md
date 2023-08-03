@@ -48,7 +48,9 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+
 ### NEWS 2023 
+
 - [03.08.2023](https://twitter.com/CosmosEcosystem/status/1687079946257051648?t=8ECrdOwtaaNLDGTSGLElxw&s=19)
 - [29.07.2023](https://twitter.com/CosmosEcosystem/status/1685278195191275520?t=MX8fAbCSk263LhUom-8GyA&s=19)
 - [27.06.2023](https://twitter.com/CosmosEcosystem/status/1673721552632786944?t=W7PE37vS5_Jg1UF29aMjLw&s=19)
@@ -86,8 +88,25 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 - [21.01.2023](https://twitter.com/CosmosEcosystem/status/1616778823139295232?t=B6M4NUFPe41tWBReW2Vocw&s=19)
 - [19.01.2023](https://twitter.com/CosmosEcosystem/status/1616060265711407104?t=_2HrXbIuNDpQ9jYkZaZEJw&s=19)
 - [13.01.2023](https://twitter.com/CosmosEcosystem/status/1613948884673523712?t=P2TOu48nhQjntaK9tnTzvw&s=19)
+
 ### NEWS 2022
+
 - [10.12.2022](https://twitter.com/CosmosEcosystem/status/1601609892602998785?t=gawlSQGpHseLEgSJN8APeA&s=19)
 - [02.12.2022](https://twitter.com/CosmosEcosystem/status/1598729428573786112?t=GK8oB-EiCL39_lc9fa0ccQ&s=19)
 - [04.11.2022](https://twitter.com/CosmosEcosystem/status/1588563231861526528?t=0xx10G8TA_KjOrSc8EwRnA&s=19)
 
+### MENTIONS 22-23 
+
+- [08.04.2023](https://twitter.com/CosmosEcosystem/status/1644679039523725312?t=mJxjDK8zJmPy1DNx7Az4lQ&s=19)
+- [08.02.2023](https://twitter.com/CosmosEcosystem/status/1623327571214757888?t=D6Ve3CH49wyYdihxt56IpA&s=19)
+- [30.01.2023](https://twitter.com/CosmosEcosystem/status/1620050041129025536?t=PQMA_LrZgZtRTdAo3lidvA&s=19)
+- [24.11.2022](https://twitter.com/CosmosEcosystem/status/1595815898899656704?t=9vL0otEhq_BmPyZ2HEh7hA&s=19)
+- [30.10.2022](https://twitter.com/CosmosEcosystem/status/1586710255957786624?t=mMBK9fIMujQUr5VrL917cQ&s=19)
+- [19.10.2022](https://twitter.com/CosmosEcosystem/status/1582637624006541312?t=U-V6qFO1EGecxKVIk-ESgg&s=19)
+- [27.09.2022](https://twitter.com/CosmosEcosystem/status/1574787411153866754?t=8T7iaIe6Vz55R14ugoXVhw&s=19)
+
+
+</details>
+
+# Economical Contributions
+ We distribute part of 20% of our validator's income to our Stride delegators [Details](https://posthuman.digital/phmn)
