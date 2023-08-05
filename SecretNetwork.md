@@ -1,3 +1,4 @@
+![Secret](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/3b73ee7d-c5af-4e29-a15a-351383f81b5d)
 # The list of POSTHUMAN contributions for the [Secret Network](https://scrt.network/)
 
 ## Videos
