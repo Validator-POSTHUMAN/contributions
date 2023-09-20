@@ -199,6 +199,7 @@ Videos, infographics, community development, public events speeches and particip
 ## Real-life events and organization
 
 ## Evangelism
+ </details>
 
 # Economical contributions 
 
