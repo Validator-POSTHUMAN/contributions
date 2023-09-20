@@ -199,3 +199,7 @@ Videos, infographics, community development, public events speeches and particip
 ## Real-life events and organization
 
 ## Evangelism
+
+# Economical contributions 
+
+Here's the list of projects we provide liquidity
