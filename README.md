@@ -40,3 +40,4 @@ Here is not the full list of our contributions:
 - [Akash Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Akash.md)
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
+- [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/humans_ai.md)
