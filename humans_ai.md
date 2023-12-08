@@ -55,7 +55,8 @@ We were maintaining a couple of architectural tools for Humans.ai such as RPC, R
 ## Some videos with HumansAi
 
 - [Cosmos Ecosystem community call #41 - Conversation with Vali and HumansAi introduction](https://youtu.be/yDd0c1toMVU?t=243)
-- [Nebular Summit 2022 - Conversation with HumansAi](https://youtu.be/IHcp_-4GVds?t=1289)
+- [Nebular Summit 2022 - Conversation with Humans.ai](https://youtu.be/IHcp_-4GVds?t=1289)
+- [Nebular Summit 2023 - Conversation with Humans.ai](https://youtu.be/qPJQ2q8RF6A?si=DyqdJyWh3-mJzAxU&t=2627)
 
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
 
