@@ -41,3 +41,4 @@ Here is not the full list of our contributions:
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
 - [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/humans_ai.md)
+- [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
