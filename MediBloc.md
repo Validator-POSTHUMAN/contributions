@@ -1,4 +1,4 @@
-# List of contributions for the development of the MediBloc
+# List of contributions for the development of the MediBloc (This is not full list, it's in the process of updating)
 
 POSTHUMAN validate MediBloc: https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z
 
