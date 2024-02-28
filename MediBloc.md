@@ -4,7 +4,9 @@ POSTHUMAN validate MediBloc: https://www.mintscan.io/medibloc/validators/panacea
 
 ## Informational Contributions
 
-POSTHUMAN provide informational support with [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) to MediBloc
+1. POSTHUMAN translated MediBloc whitepaper into russian language: https://antropocosmist.medium.com/medibloc-white-paper-rus-4217a8e4febf
+
+2. POSTHUMAN provide informational support with [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) to MediBloc
 
 Examples:
 
@@ -25,8 +27,12 @@ POSTHUMAN creates video content about MediBloc. You can see logo of MediBloc in 
 - Video about MediBloc "Medicine of the future": https://youtu.be/7WyoynTMhIE
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/b335622d-89a5-4b7b-b4c4-e717bcfb2dec)
 
-- Video "How to implement blockchain in real life?": https://youtu.be/2cJHhM4wje4
+- Video "How to implement blockchain in real life?": https://youtu.be/2cJHhM4wje4?si=2Y6XmbzhWi1fQqAj&t=401
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/aae30432-685a-49a2-97a4-f3410337dad2)
+
+- Video "Best blockchain projects on Cosmos Network. Part 2": https://youtu.be/kOCAyx-oILw?si=sUJmhVJcf5CFt5dr&t=380
+![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/2d1005c6-996f-429e-a2e4-d4ccdceac3ed)
+
 
 ## Support in other networks
 
