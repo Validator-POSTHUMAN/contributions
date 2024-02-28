@@ -1,9 +1,10 @@
 # Contributions for Gravity Bridge
 
-## Technical Contributions
-- We validate Gravity Bridge with [POSTHUMAN validator](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6)
+POSTHUMAN validate Gravity Bridge: https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6
 
-- We support next IBC-relayers with G-Bridge: 
+## Technical Contributions
+
+We provide next IBC-relayers with G-Bridge: 
 [Relayer link](https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4)
 - chihuahua
 - juno
@@ -13,8 +14,6 @@
 - colosseum (firmachain)
 - injective
 - crescent
-
-- We provide [fresh snapshots for Gravity Bridge](https://snapshots.validators.network/)
 
 ## Informational Contributions
 
