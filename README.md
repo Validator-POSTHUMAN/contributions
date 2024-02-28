@@ -26,7 +26,6 @@ Here is not the full list of our contributions:
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
 - [Velas](https://github.com/Validator-POSTHUMAN/contributions/blob/main/velas.md)
 - [KiChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/KiChain.md)
-- [Rizon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Rizon.md)
 - [MediBloc](https://github.com/Validator-POSTHUMAN/contributions/blob/main/MediBloc.md)
 - [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
 - [LUM Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LUM_Network.md)
