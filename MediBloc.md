@@ -16,6 +16,9 @@ Examples:
 - https://twitter.com/CosmosEcosystem/status/1672919017130975232
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/09095b0d-ad25-4058-bf72-3470f4fc8e62)
 
+- https://twitter.com/CosmosEcosystem/status/1657019066618445826
+![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/1ffae296-2fc6-40d0-a924-af3e15fffb8c)
+
 3. POSTHUMAN add MediBloc into infographics:
 - https://twitter.com/CosmosEcosystem/status/1673294243710771205
 - https://twitter.com/CosmosEcosystem/status/1664227684807856129
