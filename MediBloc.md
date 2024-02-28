@@ -16,6 +16,14 @@ Examples:
 - https://twitter.com/CosmosEcosystem/status/1672919017130975232
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/09095b0d-ad25-4058-bf72-3470f4fc8e62)
 
+3. POSTHUMAN add MediBloc into infographics:
+- https://twitter.com/CosmosEcosystem/status/1673294243710771205
+- https://twitter.com/CosmosEcosystem/status/1664227684807856129
+- https://twitter.com/CosmosEcosystem/status/1590416012377493505
+- https://twitter.com/CosmosEcosystem/status/1633888653633093634
+- https://twitter.com/CosmosEcosystem/status/1660634547040526337
+- https://twitter.com/CosmosEcosystem/status/1650541163626082316
+ 
 ## Community Contributions
 
 POSTHUMAN moderate russian-speaking community of MediBloc: https://t.me/MediBloc_ru
