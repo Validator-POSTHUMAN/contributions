@@ -9,21 +9,18 @@
 
 </details>
 
-# Technical Contributions
+### Technical Contributions
 
-<details>
-  <summary>Our Technical Contributions List:</summary>
-
-### We validate [HumansAi](https://humans.explorers.guru/validator/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
-### We provide RPCs, SEEDs, Address book, and many more useful information [here](https://nodes.posthuman.digital/chains/humans)
-### We add Humans.ai into our [blockexplorer](https://explorer.posthuman.digital/humans)
-### We add Humans.ai into our [proposal service](https://proposals.posthuman.digital/)
+- We validate [HumansAi](https://humans.explorers.guru/validator/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
+- We provide RPCs, SEEDs, Address book, and many more useful information [here](https://nodes.posthuman.digital/chains/humans)
+- We add Humans.ai into our [blockexplorer](https://explorer.posthuman.digital/humans)
+- We add Humans.ai into our [proposal service](https://proposals.posthuman.digital/)
 
 ### Archive 
 
 We were maintaining a couple of architectural tools for Humans.ai such as RPC, REST, gRPC. 
 
-</details>
+
 
 # Humanitarian Contributions
 
