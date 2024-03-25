@@ -4,13 +4,8 @@
 <details>
   <summary>Our Team:</summary>
 
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Albert Andrejev Competencies](https://github.com/albertandrejev)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- All the team could be found here: https://posthuman.digital/
+- [List of POSTHUMAN core-team members](https://github.com/Validator-POSTHUMAN/core-team)
+
 
 </details>
 
@@ -20,6 +15,9 @@
   <summary>Our Technical Contributions List:</summary>
 
 ### We validate [HumansAi](https://humans.explorers.guru/validator/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
+### We provide RPCs, SEEDs, Address book, and many more useful information [here](https://nodes.posthuman.digital/chains/humans)
+### We add Humans.ai into our [blockexplorer](https://explorer.posthuman.digital/humans)
+### We add Humans.ai into our [proposal service](https://proposals.posthuman.digital/)
 
 ### Archive 
 
