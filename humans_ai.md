@@ -22,21 +22,21 @@ We were maintaining a couple of architectural tools for Humans.ai such as RPC, R
 
 
 
-# Humanitarian Contributions
+## Humanitarian Contributions
 
-## Community Development
+### Community Development
 
 - We run Cosmos Ecosystem community and CryptoBase (related to our YouTube channel) with 6k+ users in total where we're always answering on questions related with HumansAi! <br/>
 - [Cosmos Ecosystem RU](https://t.me/CosmosEcosystem_ru)
 - [СryptoBase](https://t.me/Crypto_Base_Chat)
 
-## Cosmos Ecosystem Zealy Integration and management
+### Cosmos Ecosystem Zealy Integration and management
 
 **We added and supported HumansAi via Zealy (ex.Crew3) managing an Ambassador Campaing for Cosmos Ecosystem users.** <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fb36c5e2-6dbb-41e3-8777-154fe03c6ac5)
 
 
-## Videos
+### Videos
 
 - [We always talk about HumansAi on the Cosmos Ecosystem voice chats in this group](https://t.me/CosmosEcosystem_ru)
 
@@ -44,7 +44,7 @@ We were maintaining a couple of architectural tools for Humans.ai such as RPC, R
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
-## Some videos with HumansAi
+### Some videos with HumansAi
 
 - [Cosmos Ecosystem community call #41 - Conversation with Vali and HumansAi introduction](https://youtu.be/yDd0c1toMVU?t=243)
 - [Nebular Summit 2022 - Conversation with Humans.ai](https://youtu.be/IHcp_-4GVds?t=1289)
