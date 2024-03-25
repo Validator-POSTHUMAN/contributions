@@ -9,7 +9,7 @@
 
 </details>
 
-### Technical Contributions
+## Technical Contributions
 
 - We validate [HumansAi](https://humans.explorers.guru/validator/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
 - We provide RPCs, SEEDs, Address book, and many more useful information [here](https://nodes.posthuman.digital/chains/humans)
@@ -23,9 +23,6 @@ We were maintaining a couple of architectural tools for Humans.ai such as RPC, R
 
 
 # Humanitarian Contributions
-
-<details>
-  <summary>Our Humanitarian Contributions List:</summary>
 
 ## Community Development
 
@@ -71,5 +68,3 @@ We were maintaining a couple of architectural tools for Humans.ai such as RPC, R
 - https://twitter.com/CosmosEcosystem/status/1659232840851025920
 - https://twitter.com/CosmosEcosystem/status/1635985793230725120
 - https://twitter.com/CosmosEcosystem/status/1688935429544800257
-
-</details>
