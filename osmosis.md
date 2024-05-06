@@ -1,37 +1,56 @@
-![image](https://user-images.githubusercontent.com/92199696/170952043-4b06d93b-7545-4ca5-8532-29a06610fc5c.png) <br/>
+![1v (3)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/73591292-0124-4fe6-a7d4-c3f9b2ce417c) <br/>
 # The list of contributions for the [Osmosis](https://app.osmosis.zone/)
 
 <details>
   <summary>Our Team:</summary>
 
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- Secret Member😎
-- This character is unexplored👽
-  </details>
+[POSTHUMAN](https://posthuman.digital/) stands as the pioneer distributed validator, 
+committed to providing dedicated, highly experienced, 
+and community-oriented Proof-of-Stake (PoS) chains 
+validation services since 2019.
+With a core team comprising 13 highly qualified 
+individuals across diverse fields including development, 
+design, marketing, and content creation, we ensure the 
+security and reliability of various Cosmos SDK chains, 
+including flagship networks like Cosmos and Osmosis.
+  
+</details>
 
 ## Technical Contributions
 
-- We're validating [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
-- We working on [Sputnik Network](https://sputnik.exchange/), and we added $OSMO to https://t.me/SputnikPriceBot without any support
+<details>
+  <summary>List of techical contributions:</summary>
+
+- We validate [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) since genesis.
+- We develop [Sputnik Network](https://sputnik.exchange/), and we added $OSMO to https://t.me/SputnikPriceBot.
 - We added $OSMO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $OSMO in Twitter and Telegram, and also p2p-exchange $OSMO directly in Telegram! News in [Twitter](https://twitter.com/SputnikNetwork/status/1417665774785794048)
-- Relayers. Now we have several relayers which working in two directions (to osmosis and out) 
-1. chihuahua
-2. juno
-3. g-bridge
-4. fetch ai
-5. umee
-6. sifchain 
-7. omniflix
-8. asset mantle
+### Relayers. 
+Now we have several relayers which working in two directions (to osmosis and out) 
+
+- Chihuahua Chain
+- Juno Network
+- G-bridge
+- Fetch-ai
+- UX (Umee)
+- SifChain
+- OmniFlix
+- Odin Protocol
+- Tgrade
+- AssetMantle
+- Cosmos Hub
+- Injective
+- Stride
+- Persistence
 
 [Relayer Address](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
 
+  </details>
+
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
-## Twitter <br/>
+<details>
+<summary>2021-2022</summary>
+
+Twitter <br/>
 ![223](https://user-images.githubusercontent.com/92199696/166885936-4603128a-0ba0-4090-9e41-a20c3d82a140.jpg)<br/>
 
 We're creating a lot of content related with Osmosis to improve community knowledge about Osmosis functionality and features. <br/>
@@ -118,12 +137,13 @@ Some stats:<br/>
 
 
 ## Telegram <br/>
-We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:<br>
+We've been developing Russian-language speaking communities about Cosmos Ecosystem in Telegram. 
+Also we're administrators of these groups:<br>
 <br/>![333](https://user-images.githubusercontent.com/92199696/166893977-525aa9fe-3ca4-41ac-ae29-418def7e69bd.jpg)
 - https://t.me/Osmosis_ru
 - https://t.me/Osmosis_School
 - https://t.me/Crypto_Base_Chat <br/>
-Also we have news channel where we posting Osmosis Updates and Links and other news from Cosmos Ecosystem:
+Also we have news channel where we publish Osmosis Updates and Links and other news from Cosmos Ecosystem:
 <br/>[Example](https://t.me/CosmosEcosystemNews_ru/790)<br/>
 
 ## YouTube<br/>
@@ -155,7 +175,6 @@ This is Vladimir's Ponimajushij own channel where he sharing most valuable updat
 CRYPTOSLOVO VIDEOS:<br/>
 Here Valentin Medniyy record explaining videos for CryptoCommunity:
 -[How to participate in Governance with any devices RU](https://youtu.be/zL1D58I6gBQ?t=851)
-
 
 Also we participate and discuss about Osmosis on other channels:<br/>
 
@@ -190,11 +209,13 @@ Our Medium links:<br/>
 Vladimir Ponimajushij [Medium](https://antropocosmist.medium.com)<br/>
 Valentin Medniyy [Medium](https://medium.com/@Medniyy)
 
-## Evangelism
-- We always write about Osmosis at our Twitter Accounts [Vladimir Ponimajushij](https://twitter.com/ponimajushij), [POSTHUMAN Twitter](https://twitter.com/POSTHUMAN_DVS), [Valentin Medniyy Twitter](https://twitter.com/ZametkiHodlera), [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
-- Vladimir Ponimajushij participating in different crypto-conferences as a speaker. For example, He was a speaker at [CoInvest Conference](https://coinvest.events/), that have been organized by [CoinPost](https://t.me/Coin_Post) - the biggest Crypto Channel in Telegram. It was a paid conference, so only people who bought ticket could see online, and here is a [video from his speech](https://youtu.be/Z_crcY4NGA4), and he spoke about Osmosis and Cosmos Ecosystem a lot!
-Here is the translation of my [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
-And here is a [presentation in Russian](https://docs.google.com/presentation/d/1Hlh5lPUhM1EK-dV5vmkjQi4PYUbJc9bidaDEtG22M7A/edit?usp=sharing)
-- We've sponsored [Airdrop Tracker Cosmosdrops.io](https://cosmosdrops.io/en/)<br/> ![image](https://user-images.githubusercontent.com/92199696/166925598-7b1b6aa6-e9af-49fe-a390-4ed498198cc4.png)
-<br/> where people can check their addresses for airdrops eligibility where a lot of projects distributing tokens between $OSMO holders/stakers. Webpage is working on 2 languages RU and ENG right now.
+</details>
 
+## Evangelism
+- We participate in as many as possible Cosmos Conferences and capturing moments to share with community about these events and deliver all the insights from there to our communities! 
+- We actively participate in Osmosis Governance in [various ways](https://twitter.com/POSTHUMAN_DVS/status/1744039189912428812)
+- We always write about Osmosis at our Twitter Accounts [Vladimir Ponimajushij](https://twitter.com/ponimajushij), [POSTHUMAN Twitter](https://twitter.com/POSTHUMAN_DVS), [Valentin Medniyy Twitter](https://twitter.com/ZametkiHodlera), [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+- Vladimir Ponimajushij participate in different online crypto-conferences as a speaker. For example, He was a speaker at [CoInvest Conference](https://coinvest.events/), that have been organized by [CoinPost](https://t.me/Coin_Post) - the biggest Crypto Channel in Telegram. It was a paid conference, so only people who bought ticket could see online, and here is a [video from his speech](https://youtu.be/Z_crcY4NGA4), and he spoke about Osmosis and Cosmos Ecosystem a lot!
+Here is the translation of Vladi's [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
+And here is a [presentation in Russian](https://docs.google.com/presentation/d/1Hlh5lPUhM1EK-dV5vmkjQi4PYUbJc9bidaDEtG22M7A/edit?usp=sharing)
+- We sponsored [Airdrop Tracker Cosmosdrops.io](https://cosmosdrops.io/en/), where people can check their addresses for airdrops eligibility where a lot of projects distributing tokens between $OSMO holders/stakers. Webpage is working on 2 languages RU and ENG right now.
