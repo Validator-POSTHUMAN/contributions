@@ -48,7 +48,7 @@ Now we have several relayers which working in two directions (to osmosis and out
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
 <details>
-<summary>2021-2022</summary>
+<summary>2022-2021</summary>
 
 Twitter <br/>
 ![223](https://user-images.githubusercontent.com/92199696/166885936-4603128a-0ba0-4090-9e41-a20c3d82a140.jpg)<br/>
