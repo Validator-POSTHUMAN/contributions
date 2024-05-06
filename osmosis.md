@@ -43,10 +43,192 @@ Now we have several relayers which working in two directions (to osmosis and out
 - Persistence
 
 [Relayer Address](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
-
-  </details>
+</details>
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
+
+<details>
+<summary>2024-2023</summary>
+
+## Twitter 
+
+We utilize our Twitter medias to support informational awareness about the Cosmos Ecosystem and beyond. Osmosis, as the premiere Cosmos Ecosystem DEX and the Liquidity Hub of Cosmos is always in our news, retweets and infographic materials. <br/>
+
+There are several categories of infographics:
+- Cosmos Ecosystem [Weekly News](https://twitter.com/CosmosEcosystem/status/1766153318122856855) (issued weekly)
+- Cosmos [Daily News](https://x.com/cosmosecosystem/status/1745796602722468051?s=52) (issued daily)
+- Osmosis Weekly (issued from time-to-time)
+- Cosmos Stats infographics (issued from time-to-time)
+- Retweets, Quotes 
+
+<details>
+  <summary>2024:</summary> 
+
+### [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) 
+- https://twitter.com/CosmosEcosystem/status/1786736395953865114/
+- https://twitter.com/CosmosEcosystem/status/1784187665534902523/
+- https://twitter.com/CosmosEcosystem/status/1783520089565790239/
+- https://twitter.com/CosmosEcosystem/status/1783054295333581184/
+- https://twitter.com/CosmosEcosystem/status/1782759439994695817/
+- https://twitter.com/CosmosEcosystem/status/1779097816654115267/
+- https://twitter.com/CosmosEcosystem/status/1777648653487722519/
+- https://twitter.com/CosmosEcosystem/status/1776311665874624844/
+- https://twitter.com/CosmosEcosystem/status/1773692834840744081/
+- https://twitter.com/CosmosEcosystem/status/1771104090082181174/
+- https://twitter.com/CosmosEcosystem/status/1768967266333245814/
+- https://twitter.com/CosmosEcosystem/status/1766153318122856855/
+- https://twitter.com/CosmosEcosystem/status/1765027311282434052/
+- https://twitter.com/CosmosEcosystem/status/1763557885269721219/
+- https://twitter.com/CosmosEcosystem/status/1763086813777031481/
+- https://twitter.com/CosmosEcosystem/status/1761376668772381083/
+- https://twitter.com/CosmosEcosystem/status/1760261588030816693/
+- https://twitter.com/CosmosEcosystem/status/1758841498588655918/
+- https://twitter.com/CosmosEcosystem/status/1755232006861148446/
+- https://twitter.com/CosmosEcosystem/status/1754492162753057125/
+- https://twitter.com/CosmosEcosystem/status/1754171682997096607/
+- https://twitter.com/CosmosEcosystem/status/1753466962045243464/
+- https://twitter.com/CosmosEcosystem/status/1752040177894363211/
+- https://twitter.com/CosmosEcosystem/status/1750932858661650455/
+- https://twitter.com/CosmosEcosystem/status/1748371775644180884/
+- https://twitter.com/CosmosEcosystem/status/1747911340184707117/
+- https://twitter.com/CosmosEcosystem/status/1746265222728273979/
+- https://twitter.com/CosmosEcosystem/status/1745796602722468051/
+- https://twitter.com/CosmosEcosystem/status/1743620798735172030/
+- https://twitter.com/CosmosEcosystem/status/1742183179992121674/
+
+### 2024 [POSTHUMAN DVS TWITTER](https://twitter.com/posthuman_dvs)
+- https://x.com/posthuman_dvs/status/1744039189912428812?s=52
+- https://x.com/posthuman_dvs/status/1743336630620999908?s=52
+- https://x.com/posthuman_dvs/status/1743335658217992594?s=52
+</details>
+
+
+<details>
+  <summary>2023:</summary> 
+
+### [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) 
+- https://twitter.com/CosmosEcosystem/status/1738230990831780284/ 
+- https://twitter.com/CosmosEcosystem/status/1735682220176609453/ 
+- https://twitter.com/CosmosEcosystem/status/1733443387628634561/ 
+- https://twitter.com/CosmosEcosystem/status/1732673337921556660/ 
+- https://twitter.com/CosmosEcosystem/status/1730552674431430698/ 
+- https://twitter.com/CosmosEcosystem/status/1729507120121270588/ 
+- https://twitter.com/CosmosEcosystem/status/1728681562127098295/ 
+- https://twitter.com/CosmosEcosystem/status/1728391167824335359/ 
+- https://twitter.com/CosmosEcosystem/status/1725786783495975048/ 
+- https://twitter.com/CosmosEcosystem/status/1723058459908682192/ 
+- https://twitter.com/CosmosEcosystem/status/1721903180999733272/ 
+- https://twitter.com/CosmosEcosystem/status/1720492246573728226/ 
+- https://twitter.com/CosmosEcosystem/status/1718597006799819110/ 
+- https://twitter.com/CosmosEcosystem/status/1717907900218122445/ 
+- https://twitter.com/CosmosEcosystem/status/1717126858138063270/ 
+- https://twitter.com/CosmosEcosystem/status/1716103315019456962/ 
+- https://twitter.com/CosmosEcosystem/status/1715410764792463801/ 
+- https://twitter.com/CosmosEcosystem/status/1713199226283581679/ 
+- https://twitter.com/CosmosEcosystem/status/1712838871526875430/ 
+- https://twitter.com/CosmosEcosystem/status/1709177763041780087/ 
+- https://twitter.com/CosmosEcosystem/status/1707749914451587401/ 
+- https://twitter.com/CosmosEcosystem/status/1705916946179600720/ 
+- https://twitter.com/CosmosEcosystem/status/1705219900401131875/ 
+- https://twitter.com/CosmosEcosystem/status/1703427543498407965/ 
+- https://twitter.com/CosmosEcosystem/status/1700208647983284594/ 
+- https://twitter.com/CosmosEcosystem/status/1699010715900866842/ 
+- https://twitter.com/CosmosEcosystem/status/1697626194798154010/ 
+- https://twitter.com/CosmosEcosystem/status/1697252544450633728/ 
+- https://twitter.com/CosmosEcosystem/status/1696568089402372438/ 
+- https://twitter.com/CosmosEcosystem/status/1695488698492612876/ 
+- https://twitter.com/CosmosEcosystem/status/1695097842967191917/ 
+- https://twitter.com/CosmosEcosystem/status/1694716237421707704/ 
+- https://twitter.com/CosmosEcosystem/status/1693257231104675984/ 
+- https://twitter.com/CosmosEcosystem/status/1692831342659096657/ 
+- https://twitter.com/CosmosEcosystem/status/1691687481585086482/ 
+- https://twitter.com/CosmosEcosystem/status/1690742905663868928/ 
+- https://twitter.com/CosmosEcosystem/status/1690007250146938880/ 
+- https://twitter.com/CosmosEcosystem/status/1689359004072288256/ 
+- https://twitter.com/CosmosEcosystem/status/1688164863732801536/ 
+- https://twitter.com/CosmosEcosystem/status/1685278172844056576/ 
+- https://twitter.com/CosmosEcosystem/status/1682438881298227221/ 
+- https://twitter.com/CosmosEcosystem/status/1681333421820321792/ 
+- https://twitter.com/CosmosEcosystem/status/1681262796447813632/ 
+- https://twitter.com/CosmosEcosystem/status/1680520098233085956/ 
+- https://twitter.com/CosmosEcosystem/status/1679914312364589058/ 
+- https://twitter.com/CosmosEcosystem/status/1678463778264850448/ 
+- https://twitter.com/CosmosEcosystem/status/1677355367381057537/ 
+- https://twitter.com/CosmosEcosystem/status/1674798200216256513/ 
+- https://twitter.com/CosmosEcosystem/status/1674458443401543685/ 
+- https://twitter.com/CosmosEcosystem/status/1672258296269373441/ 
+- https://twitter.com/CosmosEcosystem/status/1671853803912544258/ 
+- https://twitter.com/CosmosEcosystem/status/1669775705830293507/ 
+- https://twitter.com/CosmosEcosystem/status/1667147551756398592/ 
+- https://twitter.com/CosmosEcosystem/status/1665347757186351105/ 
+- https://twitter.com/CosmosEcosystem/status/1664685441683947542/ 
+- https://twitter.com/CosmosEcosystem/status/1664263044908879873/ 
+- https://twitter.com/CosmosEcosystem/status/1662109372992856067/ 
+- https://twitter.com/CosmosEcosystem/status/1660634547040526337/ 
+- https://twitter.com/CosmosEcosystem/status/1659599472899371010/ 
+- https://twitter.com/CosmosEcosystem/status/1658456811161223170/ 
+- https://twitter.com/CosmosEcosystem/status/1657695630255325185/ 
+- https://twitter.com/CosmosEcosystem/status/1657409355786989570/ 
+- https://twitter.com/CosmosEcosystem/status/1657409355786989570/ 
+- https://twitter.com/CosmosEcosystem/status/1657019040731131906/ 
+- https://twitter.com/CosmosEcosystem/status/1654518948841369600/ 
+- https://twitter.com/CosmosEcosystem/status/1652323011209605126/ 
+- https://twitter.com/CosmosEcosystem/status/1649481846504169733/ 
+- https://twitter.com/CosmosEcosystem/status/1649037358833213443/ 
+- https://twitter.com/CosmosEcosystem/status/1648377776800514052/ 
+- https://twitter.com/CosmosEcosystem/status/1647284502857646080/ 
+- https://twitter.com/CosmosEcosystem/status/1646971334017142797/ 
+- https://twitter.com/CosmosEcosystem/status/1646477168845680641/ 
+- https://twitter.com/CosmosEcosystem/status/1644679039523725312/ 
+- https://twitter.com/CosmosEcosystem/status/1644641533881364480/ 
+- https://twitter.com/CosmosEcosystem/status/1644362314966024192/ 
+- https://twitter.com/CosmosEcosystem/status/1642555441212211203/ 
+- https://twitter.com/CosmosEcosystem/status/1641828593381806080/ 
+- https://twitter.com/CosmosEcosystem/status/1639236627007520768/ 
+- https://twitter.com/CosmosEcosystem/status/1638946472254230528/ 
+- https://twitter.com/CosmosEcosystem/status/1638813770133786624/ 
+- https://twitter.com/CosmosEcosystem/status/1636784594371620864/ 
+- https://twitter.com/CosmosEcosystem/status/1635270520760586242/ 
+- https://twitter.com/CosmosEcosystem/status/1634266848052105216/ 
+- https://twitter.com/CosmosEcosystem/status/1631704592466444295/ 
+- https://twitter.com/CosmosEcosystem/status/1629196599271346179/ 
+- https://twitter.com/CosmosEcosystem/status/1628383717344391169/ 
+- https://twitter.com/CosmosEcosystem/status/1626605796745441280/ 
+- https://twitter.com/CosmosEcosystem/status/1625451496455254016/ 
+- https://twitter.com/CosmosEcosystem/status/1624088452898648065/ 
+- https://twitter.com/CosmosEcosystem/status/1621585620035305478/ 
+- https://twitter.com/CosmosEcosystem/status/1620826014229360641/ 
+- https://twitter.com/CosmosEcosystem/status/1620044652643753986/ 
+- https://twitter.com/CosmosEcosystem/status/1619349322306572293/ 
+- https://twitter.com/CosmosEcosystem/status/1617921483422208000/ 
+- https://twitter.com/CosmosEcosystem/status/1617871893578776578/ 
+- https://twitter.com/CosmosEcosystem/status/1617146767409119232/ 
+- https://twitter.com/CosmosEcosystem/status/1616482163385593856/ 
+- https://twitter.com/CosmosEcosystem/status/1616060265711407104/ 
+- https://twitter.com/CosmosEcosystem/status/1614930220754292737/
+- https://twitter.com/CosmosEcosystem/status/1613948878499491840/ 
+- https://twitter.com/CosmosEcosystem/status/1611772150721175552/ 
+
+### [POSTHUMAN DVS TWITTER](https://twitter.com/posthuman_dvs)
+- https://x.com/posthuman_dvs/status/1728142408666206334?s=52 
+- https://twitter.com/POSTHUMAN_DVS/status/1787257418314887378/ 
+- https://twitter.com/POSTHUMAN_DVS/status/1787265903215755421/ 
+- https://x.com/posthuman_dvs/status/1655595402098270210?s=52 
+</details>
+
+## YouTube
+
+Content creation is what we are truly passionate about, as well as validation. Our goal is to provide informational and educational support not only via text but also through videos! Here are a couple of examples of what we do: we have two YouTube channels. 
+
+> One is Russian-speaking - [CRYPTOBASE](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) with approximately 10k subscribers. Our videos are educational and informational, featuring guests who are founders, creators, developers, and enthusiasts. We cater not only to Russian speakers but also to English speakers, always providing timely translations for them. We've hosted guests such as Omniflix, Persistence, Archway, Asset Mantle, Injective, Warden Protocol, Massa, Sei, CryptoDungeons, Odin, Quasar, and many more founders and community developers of Cosmos Ecosystem projects on our special, Cosmos Ecosystem dedicated community calls. We have been doing this weekly for over 121 weeks in a row!
+
+> Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
+
+
+
+
+</details>
+
 <details>
 <summary>2022-2021</summary>
 
