@@ -54,11 +54,11 @@ Now we have several relayers which working in two directions (to osmosis and out
 
 We utilize our Twitter medias to support informational awareness about the Cosmos Ecosystem and beyond. Osmosis, as the premiere Cosmos Ecosystem DEX and the Liquidity Hub of Cosmos is always in our news, retweets and infographic materials. <br/>
 
-There are several categories of infographics:
+> There are several categories of infographics:
 - Cosmos Ecosystem [Weekly News](https://twitter.com/CosmosEcosystem/status/1766153318122856855) (issued weekly)
 - Cosmos [Daily News](https://x.com/cosmosecosystem/status/1745796602722468051?s=52) (issued daily)
-- Osmosis Weekly (issued from time-to-time)
-- Cosmos Stats infographics (issued from time-to-time)
+- [Osmosis Weekly](https://twitter.com/CosmosEcosystem/status/1620826014229360641/) (issued from time-to-time)
+- Cosmos [Stats infographics](https://twitter.com/CosmosEcosystem/status/1660634547040526337/) (issued from time-to-time)
 - Retweets, Quotes 
 
 <details>
@@ -221,6 +221,19 @@ There are several categories of infographics:
 Content creation is what we are truly passionate about, as well as validation. Our goal is to provide informational and educational support not only via text but also through videos! Here are a couple of examples of what we do: we have two YouTube channels. 
 
 > One is Russian-speaking - [CRYPTOBASE](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) with approximately 10k subscribers. Our videos are educational and informational, featuring guests who are founders, creators, developers, and enthusiasts. We cater not only to Russian speakers but also to English speakers, always providing timely translations for them. We've hosted guests such as Omniflix, Persistence, Archway, Asset Mantle, Injective, Warden Protocol, Massa, Sei, CryptoDungeons, Odin, Quasar, and many more founders and community developers of Cosmos Ecosystem projects on our special, Cosmos Ecosystem dedicated community calls. We have been doing this weekly for over 121 weeks in a row!
+
+### 2024+late 2023 Videos:
+- [Osmocon Paris 2023](https://www.youtube.com/watch?v=FmTdUpjI3OE&t=55s)
+- [Nebular Summit 2023 Interview with ARC](https://youtu.be/qPJQ2q8RF6A)
+- [Osmosis 2024 Overview](https://www.youtube.com/watch?v=AYbHUSrjKWw)
+- [Mad Scientists NFT collection update and Osmosis check](https://www.youtube.com/watch?v=CIttj6R0FIA&t=1s)
+- [Mad Scientists NFT Streaswap live educational discussion](https://www.youtube.com/watch?v=xa7XFpsM_to)
+- [Cosmos Projects 2024 overview and news](https://www.youtube.com/watch?v=MCsFOisC8IA&t=270s)
+- [Cosmos News + Osmosis 2.0. overview](https://www.youtube.com/watch?v=zlEGbxIbaTU)
+- [Cosmos Voice #80 - Osmosis Updates](https://www.youtube.com/watch?v=E_HTJkkGrmI&t=45s)
+- [PHMN/ATOM Pool creation, live tutorial on pools on Osmosis](https://www.youtube.com/watch?v=KF_HW8YQqe0)
+- [PHMN Liquidity providing on Osmosis](https://youtu.be/BQ0Oyx0LfYo)
+
 
 > Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
 
