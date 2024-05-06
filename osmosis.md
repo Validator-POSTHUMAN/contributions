@@ -50,9 +50,9 @@ Now we have several relayers which working in two directions (to osmosis and out
 <details>
 <summary>2024-2023</summary>
 
-## Twitter 
+## Twitter (X)
 
-We utilize our Twitter medias to support informational awareness about the Cosmos Ecosystem and beyond. Osmosis, as the premiere Cosmos Ecosystem DEX and the Liquidity Hub of Cosmos is always in our news, retweets and infographic materials. <br/>
+We utilize our Twitter(X) medias to support informational awareness about the Cosmos Ecosystem and beyond. Osmosis, as the premiere Cosmos Ecosystem DEX and the Liquidity Hub of Cosmos is always in our news, retweets and infographic materials. <br/>
 
 > There are several categories of infographics:
 - Cosmos Ecosystem [Weekly News](https://twitter.com/CosmosEcosystem/status/1766153318122856855) (issued weekly)
@@ -222,6 +222,8 @@ Content creation is what we are truly passionate about, as well as validation. O
 
 > One is Russian-speaking - [CRYPTOBASE](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) with approximately 10k subscribers. Our videos are educational and informational, featuring guests who are founders, creators, developers, and enthusiasts. We cater not only to Russian speakers but also to English speakers, always providing timely translations for them. We've hosted guests such as Omniflix, Persistence, Archway, Asset Mantle, Injective, Warden Protocol, Massa, Sei, CryptoDungeons, Odin, Quasar, and many more founders and community developers of Cosmos Ecosystem projects on our special, Cosmos Ecosystem dedicated community calls. We have been doing this weekly for over 121 weeks in a row!
 
+> Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
+
 ### 2024+late 2023 Videos:
 - [Osmocon Paris 2023](https://www.youtube.com/watch?v=FmTdUpjI3OE&t=55s)
 - [Nebular Summit 2023 Interview with ARC](https://youtu.be/qPJQ2q8RF6A)
@@ -234,11 +236,24 @@ Content creation is what we are truly passionate about, as well as validation. O
 - [PHMN/ATOM Pool creation, live tutorial on pools on Osmosis](https://www.youtube.com/watch?v=KF_HW8YQqe0)
 - [PHMN Liquidity providing on Osmosis](https://youtu.be/BQ0Oyx0LfYo)
 
+Feel free to discover more videos on our channels, or overthere in 2022-2021 contributions list.
 
-> Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
+## Community
 
+We develop Cosmos Ecosystem Russian-speaking community since 2019. From that point, we created and contributed to multiple Telegram channels. It's pretty much tough to count all the replies and things we answered about Osmosis and related to it topics. But, feel free to inpect it! 
 
+Few of our largest Russian-speaking communities, where we're always happy to support every Osmosis user, have encountered some difficulties:
 
+- Cosmos Ecosystem Russian Speaking Group 6000+members [link](https://t.me/CosmosEcosystem_ru)
+- CryptoBase 3600+members [link](https://t.me/Crypto_Base_Chat)  
+- Osmosis Russian Speaking channel 1300+members [Link](https://t.me/Osmosis_ru)
+
+> "How to inspect if I don't know Russian language?"-you may ask. So feel free to use search engine in following communities and paste related with Osmosis words, such as:
+- Осмо
+- Осмосис
+- Осмозис
+- Osmosis
+- Osmo
 
 </details>
 
@@ -405,6 +420,22 @@ Vladimir Ponimajushij [Medium](https://antropocosmist.medium.com)<br/>
 Valentin Medniyy [Medium](https://medium.com/@Medniyy)
 
 </details>
+
+## Economical Contributions
+
+As a decentralized validator, we must have a governance token. So it's called - $PHMN. To mitigate price impact from JUNO pools only, we moved part of our liquidity to Osmosis. Here's the chronology:
+
+- First pool created(PHMN/ATOM):
+https://twitter.com/POSTHUMAN_DVS/status/1787257418314887378
+
+- Second pool created (PHMN/IBCX):
+https://twitter.com/POSTHUMAN_DVS/status/1669378467689902080
+
+- Third pool created (PHMN/OSMO:
+https://twitter.com/POSTHUMAN_DVS/status/1787257418314887378
+
+> 20% of liquidity of POSTHUMAN validator is utilized for PHMN liquidity provision. Here's the [PHMN tokenomics](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6).
+
 
 ## Evangelism
 - We participate in as many as possible Cosmos Conferences and capturing moments to share with community about these events and deliver all the insights from there to our communities! 
