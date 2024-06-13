@@ -84,5 +84,5 @@ Including Validation, Free tools for Community etc.
 - [29 JAN 2023](https://twitter.com/CosmosEcosystem/status/1618600070747938818)
 - [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619334484020822016)
 - [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619349322306572293)
-
+- [And there's way more in our Cosmos Ecosystem X! Check it out!](https://x.com/cosmosecosystem) 
   </details>
