@@ -13,3 +13,5 @@
 - https://twitter.com/CosmosEcosystem/status/1654853702279221252
 - https://twitter.com/CosmosEcosystem/status/1638946472254230528
 - https://twitter.com/CosmosEcosystem/status/1638813770133786624
+- [Community call with Akash recording team member + validator in Russian speaking community](https://youtu.be/68Ijtt_wXkw)
+- [Akash history + usecases overview video in russian](https://youtu.be/Zi3NBSPf8fU)
