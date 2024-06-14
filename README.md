@@ -5,6 +5,7 @@ POSTHUMAN validator not only provide security to the Networks, but also contribu
 Here is not the full list of our contributions:
 - [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/cosmos.md)
 - [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
+- [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/dymension.md)
 - [Juno Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/JunoNetwork.md)
 - [Evmos](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Evmos.md)
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
