@@ -2,6 +2,11 @@
 <br/>
 # Posthuman-Validator-Contributions-for-Juno Network
 
+> Currently, POSTHUMAN is in the process of decentralization. For now - it's operated by the POSTHUMAN SubDAOs, under the POSTHUMAN DAS - decentralized autonomous synchronization. And this one is honorably mentioned in DAODAO's Featured DAO's list. POSTHUMAN DAS and $PHMN token are based on Juno Network. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
+
+### [**Here's the latest of our video from Juno Network's community call:**](https://www.youtube.com/watch?v=L_L-5QcZ2kE&t=368s)
+
+
 # The list of contributions for the [Juno Network](https://www.junonetwork.io)
 
 <details>
@@ -64,7 +69,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [How to use DAODAO](https://www.youtube.com/watch?v=4zyJuGFn-mQ&ab_channel=CRYPTOBASE)
 - [Interview with Keyne from CAC OTC on Juno](https://youtu.be/ElZ-OBekWPE?t=363)
 
-### Also we have a weekly community audio/video chats with 59+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
+### Also we have a weekly community audio/video chats with 127+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
