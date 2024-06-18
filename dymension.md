@@ -119,3 +119,12 @@ All these videos are also exists on the [Omniflix TV](https://omniflix.tv/crypto
 > As a dedicated contributor, we care about our delegators. Using Zealy (ex.Crew3 platform) we provided onboarding quests to them. There's a [spreadsheet with detailed recap](https://docs.google.com/spreadsheets/d/1sCUPwCmXqU6PsTKQQujhRscl31-Ov_Mz0DTHeMbH5uU/edit?gid=0#gid=0) of this activity. 
 
 </details>
+
+<details>
+  <summary>ECONOMICAL CONTRIBUTIONS</summary>
+
+## Economical contribution
+
+> We allocate a portion of PHMN tokens to those who delegate on the POSTHUMAN validator in the Dymension chain. We supply its liquidity with 20% of our validator's income, and it is used as a governance token for the POSTHUMAN Validator. A detailed description and tokenomics are [here](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6).
+
+</details>
