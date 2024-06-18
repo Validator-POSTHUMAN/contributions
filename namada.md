@@ -25,3 +25,6 @@ We add information about Namada into Cosmos Ecosystem infographics:
 - [We added Namada into Cosmos Ecosystem Zealy](https://zealy.io/c/cosmosecosystem/questboard)
   ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/6717e2af-10c3-48fd-8f8c-737b34134134)
 
+We do videos about Namada
+- YouTube Discussion about Namada on our Weekly [Cosmos Voice community calls](https://www.youtube.com/watch?v=mUA9afh4YwM&t=70s)
+- Nam Claim [tutorial](https://www.youtube.com/watch?v=XYUsx7pZjAo)
