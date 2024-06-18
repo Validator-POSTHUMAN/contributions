@@ -48,3 +48,5 @@
 [POSTHUMAN TWITTER 3K FOLLOWERS](https://twitter.com/POSTHUMAN_DVS), AND [COSMOS ECOSYSTEM TWITTER 35K FOLLOWERS](https://twitter.com/CosmosEcosystem)
 ![tgrade](https://user-images.githubusercontent.com/92199696/176707443-a7ffdcd0-bb91-4754-97c2-6b0bf57b422f.jpg)
 </details>
+
+Project seems to not be alive for a while.
