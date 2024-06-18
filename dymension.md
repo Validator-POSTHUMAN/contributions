@@ -15,9 +15,10 @@
 ![Скриншот 17-06-2024 201646](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/f98fcf99-8cf5-44fd-abc5-535deaaafc3e)
 
 - We validate [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
-- We added Dymension to our [blockexplorer](https://explorer.posthuman.digital/dymension)
+- We added Dymension to our [block explorer](https://explorer.posthuman.digital/dymension)
 - We added Dymension to our [proposal service](https://proposals.posthuman.digital/?bc=dymension_1100-1)
-- We support Dymension [Testnet validator](https://explorer.nodestake.org/dymension-testnet/staking/dymvaloper1d98hrl5dnsksjqzvr0wede686peng8gjqtswvv)
+- We support Dymension [testnet validator](https://explorer.nodestake.org/dymension-testnet/staking/dymvaloper1d98hrl5dnsksjqzvr0wede686peng8gjqtswvv)
+- We provide [RPC, REST, GRPC, EVM-RPC](https://nodes.posthuman.digital/chains/dymension) for Dymension
 ## We provide IBC relayers for Dymension with those chains:
 [Relayer link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy)
 - Osmosis 
@@ -36,9 +37,24 @@
 ## Humanitarian Contributions
 ![Скриншот 17-06-2024 201214](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/287e168c-e733-4a37-be4c-52da5cdbaea6)
 
-### Twitter Activity 
+## Our media resources:
+> All of these are self-funded and has no advertisement, so we use them to deliver updates, news, videos about Dymension along with other supported networks. These links doesn't include our personal socials (we're team of 14), and related with Cosmos other channels in Russian which we're using to spread the word! 
 
-Daily News
+- Cosmos Ecosystem ([Twitter](https://x.com/CosmosEcosystem)) - 35k+
+- POSTHUMAN ([Twitter](https://x.com/POSTHUMAN_DVS)) - 6.5k+
+- Cosmos Ecosystem на Русском ([Telegram](https://t.me/CosmosEcosystem_ru)) - 6k+
+- CryptoBase ([YouTube Channel](https://www.youtube.com/@CRYPTOBASED)) - 10k+
+- POSTHUMAN ([Zealy](https://zealy.io/cw/posthumandvs/questboard)) - 900+participants 
+- POSTHUMAN ([Discord International](https://discord.com/invite/TyrYS5bHYz)) - 3.4k 
+- CryptoBase ([Telegram](https://t.me/Crypto_Base_Chat)) - 4k+
+- POSTHUMAN [Telegram Eng](https://t.me/posthumanchat) - 1.3k
+- POSTHUMAN ([Medium](https://antropocosmist.medium.com/))
+
+
+## Twitter Activity 
+> Since 2021 we deliver news and updates on projects across Cosmos Ecosystem. We support Dymension and include it's news in Cosmos Ecosystem Updates. List doesn't include general retweets and likes. 
+
+### Daily News
 - [30.05.2024](https://x.com/CosmosEcosystem/status/1796203291111780728/photo/1)
 - [10.05.2024](https://x.com/CosmosEcosystem/status/1788842366796959832/photo/1)
 - [30.04.2024](https://x.com/CosmosEcosystem/status/1785300798748213272/photo/1)
@@ -63,14 +79,40 @@ Daily News
 - [04.01.2024](https://x.com/CosmosEcosystem/status/1742932881876672718/photo/1)
 - [03.01.2024](https://x.com/CosmosEcosystem/status/1742490724724347212/photo/1)
  
-Weekly News
+### Weekly News
 - [03.05.2024](https://x.com/CosmosEcosystem/status/1786411184368845015/photo/1)
 - [05.04.2024](https://x.com/CosmosEcosystem/status/1776311665874624844/photo/1)
 - [29.03.2024](https://x.com/CosmosEcosystem/status/1773692834840744081/photo/1)
 - [08.03.2024](https://x.com/CosmosEcosystem/status/1766153318122856855/photo/1)
 - [22.12.2023](https://x.com/CosmosEcosystem/status/1738230990831780284/photo/1)
 
+## Articles 
 
+- [Twitter Link](https://x.com/POSTHUMAN_DVS/status/1800840510069969279)
+- Telegraph [Russian version ](https://telegra.ph/Vvedenie-sponsorskih-programm-DYM-Novyj-funkcional-dlya-polzovatelej-seti-Dymension-06-11)
+-[ Medium English version ](https://antropocosmist.medium.com/introducing-dym-sponsorships-a-new-feature-for-dymension-network-users-8923603b3a0c?source=social.tw)
 
+## Videos
+[Cryptobase YouTube Channel](https://www.youtube.com/@CRYPTOBASED)
+- [03.01.2024](https://www.youtube.com/watch?v=dmiT6STlM-E)
+- [06.02.2024](https://www.youtube.com/watch?v=Cqx7r8e3cxc)
+- [07.03.2024](https://www.youtube.com/watch?v=Cqx7r8e3cxc)
+- [22.03.2024](https://www.youtube.com/watch?v=o_6zcIYic3Y)
+- [01.04.2024](https://www.youtube.com/watch?v=DXRrAtcs1rA&t=66s) <br/>
+All these videos are also exists on the [Omniflix TV](https://omniflix.tv/cryptobase)
+
+## Discord 
+
+> Make our community aware about upcoming airdrop and educational opportunuties - is our honor! There area related with Dymension announcements in our [Discord](https://discord.com/invite/TyrYS5bHYz)
+
+- https://discord.com/channels/1015658414090768514/1220365716453068883/1243781643542593669
+- https://discord.com/channels/1015658414090768514/1027116444430901308/1245956946843013161
+- https://discord.com/channels/1015658414090768514/1027116444430901308/1238099581674324079
+- https://discord.com/channels/1015658414090768514/1027116444430901308/1220383954696409168
+- https://discord.com/channels/1015658414090768514/1027116444430901308/1225461787340832919
+
+## Zealy 
+
+> As a dedicated contributor, we care about our delegators. Using Zealy (ex.Crew3 platform) we provided onboarding quests to them. There's a [spreadsheet with detailed recap](https://docs.google.com/spreadsheets/d/1sCUPwCmXqU6PsTKQQujhRscl31-Ov_Mz0DTHeMbH5uU/edit?gid=0#gid=0) of this activity. 
 
 </details>
