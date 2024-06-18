@@ -68,3 +68,7 @@ We were maintaining a couple of architectural tools for Humans.ai such as RPC, R
 - https://twitter.com/CosmosEcosystem/status/1659232840851025920
 - https://twitter.com/CosmosEcosystem/status/1635985793230725120
 - https://twitter.com/CosmosEcosystem/status/1688935429544800257
+
+### Economical contribution
+
+> We allocate a portion of PHMN tokens who delegate on POSTHUMAN validator in Humans chain. Detailed description and tokenomics is [here](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6).
