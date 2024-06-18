@@ -42,4 +42,6 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 <details>
   <summary>Twitter Activity</summary>
 
+There's a plenty of updates about Axelar in our Cosmos Ecosystem [Twitter](https://x.com/CosmosEcosystem)
+
 </details>
