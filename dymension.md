@@ -18,7 +18,7 @@
 - We added Dymension to our [block explorer](https://explorer.posthuman.digital/dymension)
 - We added Dymension to our [proposal service](https://proposals.posthuman.digital/?bc=dymension_1100-1)
 - We support Dymension [testnet validator](https://explorer.nodestake.org/dymension-testnet/staking/dymvaloper1d98hrl5dnsksjqzvr0wede686peng8gjqtswvv)
-- We provide [RPC, REST, GRPC, EVM-RPC](https://nodes.posthuman.digital/chains/dymension) for Dymension
+- We provide [RPC, REST, GRPC, EVM-RPC, Snapshot service](https://nodes.posthuman.digital/chains/dymension) for Dymension
 ## We provide IBC relayers for Dymension with those chains:
 [Relayer link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy)
 - Osmosis 
