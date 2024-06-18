@@ -34,7 +34,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 
 ## Community Development
 
-- We run Cosmos Ecosystem community and CryptoBase (related to our YouTube channel) with 6k+ users in total where we're always answering on questions related with Stride <br/>
+- We run Cosmos Ecosystem community and CryptoBase (related to our YouTube channel) with 10k+ users in total where we're always answering on questions related with Stride <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/c22742ac-80bf-41b8-891b-6ce06ff5159f) <br/>
 - [Cosmos Ecosystem RU](https://t.me/CosmosEcosystem_ru)
 - [СryptoBase](https://t.me/Crypto_Base_Chat)
