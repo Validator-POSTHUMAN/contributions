@@ -13,5 +13,5 @@
 - My article about [joining to LikeCoin as a validator](https://antropocosmist.medium.com/glad-to-join-likecoin-as-a-validator-2b1637700fcd)
 - My video-guide [how to add LikeCoin into Keplr, and how to delegate $LIKE in russian language](https://youtu.be/bZ4wVG3FkwM)
 - I made a [giveaway of 4000 $LIKE](https://t.me/CosmosEcosystemNews_ru/116) to promote LikeCoin among russian-speaking people
-
+- We constantly utilize LIKE to incentivize decentralized publishing and community activity 
 ...More info I will add soon...
