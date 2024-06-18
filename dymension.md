@@ -49,6 +49,9 @@
 - CryptoBase ([Telegram](https://t.me/Crypto_Base_Chat)) - 4k+
 - POSTHUMAN [Telegram Eng](https://t.me/posthumanchat) - 1.3k
 - POSTHUMAN ([Medium](https://antropocosmist.medium.com/))
+- POSTHUMAN (YouTube Eng) - 500+subscribers
+- PHMN GANG[ Omniflix TV](https://omniflix.tv/phmngang) - 9 videos 
+- CryptoBase [Omniflix TV](https://omniflix.tv/cryptobase) - 137 videos 
 
 
 ## Twitter Activity 
