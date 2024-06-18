@@ -1,4 +1,4 @@
-# CONTRIBUTIONS TO SOLANA
+# OUR CONTRIBUTIONS TO SOLANA
 
 ## We validate [Solana](https://solana.com)
 
