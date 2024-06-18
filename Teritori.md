@@ -70,3 +70,5 @@ We've added $TORI to Sputnik Exchange and to Sputnik Network. Now users can send
 - Voice Chat #40 [link](https://www.youtube.com/watch?v=ygGzD2V5b4k&ab_channel=CRYPTOBASE)
 - Voice Chat #45 [link](https://www.youtube.com/watch?v=gi-pF-yD5kc&ab_channel=CRYPTOBASE)
 </details>
+
+We update community on the recent updates of Teritori in our Telegram communities! 
