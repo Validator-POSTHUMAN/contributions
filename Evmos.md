@@ -27,21 +27,21 @@ Including Validation, RPC nodes, Free tools for Community etc.
 3. grpc.evmos.posthuman.digital:443
  
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $EVMOS to https://t.me/SputnikPriceBot without any support
-- We've added $EVMOS to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $EVMOS in Twitter and Telegram, and also p2p-exchange $EVMOS directly in Telegram!| News in [Twitter](https://twitter.com/SputnikNetwork/status/1535044628902182920)
+- We've added $EVMOS to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $EVMOS in X and Telegram, and also p2p-exchange $EVMOS directly in Telegram!| News in [X](https://X.com/SputnikNetwork/status/1535044628902182920)
   </details>
   
   # Humanitarian Contributions
- Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
+ Including Community Growth (X, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
  
  <details>
   <summary>List of Humanitarian Contributions:</summary>
   
-## Twitter <br/>
+## X <br/>
 
 <details>
-  <summary>Twitter Activity</summary>
+  <summary>X Activity</summary>
   
-  ![TWITTER JULY](https://user-images.githubusercontent.com/92199696/182177504-341e08bb-31ae-4712-a1b4-3b29ea731e36.jpg) <br/>
+  ![X JULY](https://user-images.githubusercontent.com/92199696/182177504-341e08bb-31ae-4712-a1b4-3b29ea731e36.jpg) <br/>
   
   -We've created a brand new Evmos Weekly Graphics! <br/>
   
@@ -51,50 +51,50 @@ Including Validation, RPC nodes, Free tools for Community etc.
 <details>
   <summary>Cosmos News</summary>
   
--	[22 JANUARY 22](https://twitter.com/CosmosEcosystem/status/1484649432050249735)
--	[29 JANUARY 22](https://twitter.com/CosmosEcosystem/status/1487170430997876737)
--	[18 FEBRUARY 22](https://twitter.com/CosmosEcosystem/status/1494745556207423498)
--	[11 FEBRUARY 22](https://twitter.com/CosmosEcosystem/status/1492208935415201792)
--	[16 APRIL 22](https://twitter.com/CosmosEcosystem/status/1515350571162742799)
--	[07 MAY 22](https://twitter.com/CosmosEcosystem/status/1522652646645063680)
--	[13 MAY 22](https://twitter.com/CosmosEcosystem/status/1525170805566578688)
--	[21 MAY 22](https://twitter.com/CosmosEcosystem/status/1527729803079589889)
--	[27 MAY 22](https://twitter.com/CosmosEcosystem/status/1530258481353306115)
--	[04 JUNE 22](https://twitter.com/CosmosEcosystem/status/1532800528421462016)
--	[10 JUNE 22](https://twitter.com/CosmosEcosystem/status/1535327662339661824)  
--	[18 JUNE 22](https://twitter.com/CosmosEcosystem/status/1538182126331371521)  
--	[02 JULY 22](https://twitter.com/CosmosEcosystem/status/1543282585442422786)  
--	[09 JULY 22](https://twitter.com/CosmosEcosystem/status/1545811903926132740)
--	[16 JULY 22](https://twitter.com/CosmosEcosystem/status/1548334569128017922)
--	[25 JULY 22](https://twitter.com/CosmosEcosystem/status/1551287130357383176) 
-- [02 JULY 22](https://twitter.com/CosmosEcosystem/status/1543282585442422786)
-- [09 JULY 22](https://twitter.com/CosmosEcosystem/status/1545811903926132740)
-- [16 JULY 22](https://twitter.com/CosmosEcosystem/status/1548334569128017922)
-- [24 JULY 22](https://twitter.com/CosmosEcosystem/status/1551287130357383176)
-- [07 AUG 22](https://twitter.com/CosmosEcosystem/status/1556023744338038784)
-- [13 AUG 22](https://twitter.com/CosmosEcosystem/status/1558344736515170304)
-- [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142268445687809)
-- [02 SEPT 22](https://twitter.com/CosmosEcosystem/status/1565723772421799938)
-- [17 SEPT 22](https://twitter.com/CosmosEcosystem/status/1571152597226258437)
-- [07 OCT 22](https://twitter.com/CosmosEcosystem/status/1578427132354920448)
-- [14 OCT 22](https://twitter.com/CosmosEcosystem/status/1580959673716310025)
-- [21 OCT 22](https://twitter.com/CosmosEcosystem/status/1583556576073289728)
-- [04 NOV 22](https://twitter.com/CosmosEcosystem/status/1588563231861526528)
+-	[22 JANUARY 22](https://X.com/CosmosEcosystem/status/1484649432050249735)
+-	[29 JANUARY 22](https://X.com/CosmosEcosystem/status/1487170430997876737)
+-	[18 FEBRUARY 22](https://X.com/CosmosEcosystem/status/1494745556207423498)
+-	[11 FEBRUARY 22](https://X.com/CosmosEcosystem/status/1492208935415201792)
+-	[16 APRIL 22](https://X.com/CosmosEcosystem/status/1515350571162742799)
+-	[07 MAY 22](https://X.com/CosmosEcosystem/status/1522652646645063680)
+-	[13 MAY 22](https://X.com/CosmosEcosystem/status/1525170805566578688)
+-	[21 MAY 22](https://X.com/CosmosEcosystem/status/1527729803079589889)
+-	[27 MAY 22](https://X.com/CosmosEcosystem/status/1530258481353306115)
+-	[04 JUNE 22](https://X.com/CosmosEcosystem/status/1532800528421462016)
+-	[10 JUNE 22](https://X.com/CosmosEcosystem/status/1535327662339661824)  
+-	[18 JUNE 22](https://X.com/CosmosEcosystem/status/1538182126331371521)  
+-	[02 JULY 22](https://X.com/CosmosEcosystem/status/1543282585442422786)  
+-	[09 JULY 22](https://X.com/CosmosEcosystem/status/1545811903926132740)
+-	[16 JULY 22](https://X.com/CosmosEcosystem/status/1548334569128017922)
+-	[25 JULY 22](https://X.com/CosmosEcosystem/status/1551287130357383176) 
+- [02 JULY 22](https://X.com/CosmosEcosystem/status/1543282585442422786)
+- [09 JULY 22](https://X.com/CosmosEcosystem/status/1545811903926132740)
+- [16 JULY 22](https://X.com/CosmosEcosystem/status/1548334569128017922)
+- [24 JULY 22](https://X.com/CosmosEcosystem/status/1551287130357383176)
+- [07 AUG 22](https://X.com/CosmosEcosystem/status/1556023744338038784)
+- [13 AUG 22](https://X.com/CosmosEcosystem/status/1558344736515170304)
+- [26 AUG 22](https://X.com/CosmosEcosystem/status/1563142268445687809)
+- [02 SEPT 22](https://X.com/CosmosEcosystem/status/1565723772421799938)
+- [17 SEPT 22](https://X.com/CosmosEcosystem/status/1571152597226258437)
+- [07 OCT 22](https://X.com/CosmosEcosystem/status/1578427132354920448)
+- [14 OCT 22](https://X.com/CosmosEcosystem/status/1580959673716310025)
+- [21 OCT 22](https://X.com/CosmosEcosystem/status/1583556576073289728)
+- [04 NOV 22](https://X.com/CosmosEcosystem/status/1588563231861526528)
 
     </details>
   
   <details>
   <summary>Evmos Stats and Mentions</summary>
     
--	[22 JANUARY 22](https://twitter.com/CosmosEcosystem/status/1484920494377902090)
--	[20 MARCH 22](https://twitter.com/CosmosEcosystem/status/1505277951968956418)    
--	[26 MAY 22](https://twitter.com/CosmosEcosystem/status/1529447115717484544)
-- [02 JUNE RESTAKE PROMO VIDEO](https://twitter.com/POSTHUMAN_DVS/status/1532364172054388737)
--	[02 JUNE 22](https://twitter.com/CosmosEcosystem/status/1532408474596003842)
--	[27 JUNE 22](https://twitter.com/CosmosEcosystem/status/1541371990434631682)
-- [18 JULY 22](https://twitter.com/CosmosEcosystem/status/1548975598395072512)
-- [18 SEPT 22](https://twitter.com/CosmosEcosystem/status/1571547329551028225)
-- [30 OCT 22](https://twitter.com/CosmosEcosystem/status/1586710255957786624)
+-	[22 JANUARY 22](https://X.com/CosmosEcosystem/status/1484920494377902090)
+-	[20 MARCH 22](https://X.com/CosmosEcosystem/status/1505277951968956418)    
+-	[26 MAY 22](https://X.com/CosmosEcosystem/status/1529447115717484544)
+- [02 JUNE RESTAKE PROMO VIDEO](https://X.com/POSTHUMAN_DVS/status/1532364172054388737)
+-	[02 JUNE 22](https://X.com/CosmosEcosystem/status/1532408474596003842)
+-	[27 JUNE 22](https://X.com/CosmosEcosystem/status/1541371990434631682)
+- [18 JULY 22](https://X.com/CosmosEcosystem/status/1548975598395072512)
+- [18 SEPT 22](https://X.com/CosmosEcosystem/status/1571547329551028225)
+- [30 OCT 22](https://X.com/CosmosEcosystem/status/1586710255957786624)
 
   </details>
   </details>
@@ -136,8 +136,8 @@ Videos (We mentioned Evmos in our videos)
 <details>
   <summary>Evangelism Activity:</summary>
 
-- We always write about Evmos in our Socials! | [Twitter](https://twitter.com/ponimajushij),[Twitter 2](https://twitter.com/ZametkiHodlera)
-- We creating content on https://twitter.com/CosmosEcosystem and always make reposts of Evmos news
+- We always write about Evmos in our Socials! | [X](https://X.com/ponimajushij),[X 2](https://X.com/ZametkiHodlera)
+- We creating content on https://X.com/CosmosEcosystem and always make reposts of Evmos news
 - We write about Evmos at [blog on Medium](https://link.medium.com/i2acZwrQ8rb)
 - We have [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) where we explaining for non-tech and tech people how to validate networks with humanitarian and technical lessons. <br/>
 
