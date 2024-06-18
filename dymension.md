@@ -125,6 +125,6 @@ All these videos are also exists on the [Omniflix TV](https://omniflix.tv/crypto
 
 ## Economical contribution
 
-> We allocate a portion of PHMN tokens to those who delegate on the POSTHUMAN validator in the Dymension chain. We supply its liquidity with 20% of our validator's income, and it is used as a governance token for the POSTHUMAN Validator. A detailed description and tokenomics are [here](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6).
+>  Our DYM stakers are not only allowed to delegate their tokens but also receive a portion of PHMN eight times a year. This gives them a voice and the right to influence how we contribute to Dymension. We allocate a portion of PHMN tokens to those who delegate to the POSTHUMAN validator in the Dymension chain. We supply its liquidity with 20% of our validator's income, and it is used as a governance token for the POSTHUMAN validator. We allocate a portion of PHMN tokens to those who delegate on the POSTHUMAN validator in the Dymension chain. We supply its liquidity with 20% of our validator's income, and it is used as a governance token for the POSTHUMAN Validator. A detailed description and tokenomics are [here](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6).
 
 </details>
