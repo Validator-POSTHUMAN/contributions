@@ -81,7 +81,9 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - [21 OCT 22](https://X.com/CosmosEcosystem/status/1583556576073289728)
 - [04 NOV 22](https://X.com/CosmosEcosystem/status/1588563231861526528)
 
-    </details>
+And more could be discovered from 2023-2024 in our [X(Twitter)](x.com/cosmosecosystem)
+
+  </details>
   
   <details>
   <summary>Evmos Stats and Mentions</summary>
@@ -108,8 +110,8 @@ We're creating and working with Russian Language Communities in Telegram. Also w
 <br/> ![image](https://user-images.githubusercontent.com/92199696/182184346-75fa351c-03df-42a0-bff0-7ffe820be5e2.png)
 
 - https://t.me/evmos_rus | ~250 members
-- https://t.me/CosmosEcosystem_ru | ~3600 members
-- https://t.me/Crypto_Base_Chat |  ~1300 members
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
 
 Also we have news channel where we posting Evmos Updates and Links and other news from Cosmos Ecosystem:
 <br/> Example about Evmos [Staking Guide](https://t.me/CosmosEcosystemNews_ru/972)<br/>
@@ -158,7 +160,9 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [Cosmos Talks 7](https://www.youtube.com/watch?v=vjUvzYJrw3k)
 - [Cosmos Talks 8](https://www.youtube.com/watch?v=OkcToiATIDk)
 - [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
-- [Cosmos Talks 10](https://youtu.be/sLqmZqONxcY?t=2493) 
-- Whole playlist of Cosmos Talks [here](https://youtube.com/playlist?list=PLHJPonHxjyvrdVgK8YvFfqAN0hiwns5P4)
+- [Cosmos Talks 10](https://youtu.be/sLqmZqONxcY?t=2493)
+
+  We had more than 130 meetings already! 
+- Whole playlist of Cosmos Voice Talks [here](https://youtube.com/playlist?list=PLHJPonHxjyvrdVgK8YvFfqAN0hiwns5P4)
  </details>
  </details>
