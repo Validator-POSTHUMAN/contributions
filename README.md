@@ -16,7 +16,6 @@ Here is not the full list of our contributions:
 - [Injective](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Injective.md)
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
-- [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
 - [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
 - [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
 - [Umee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
