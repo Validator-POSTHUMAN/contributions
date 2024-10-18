@@ -12,7 +12,7 @@
 
 ### Install Go
 ```bash
-ver="1.23.1" && \
+ver="1.23.2" && \
 wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz" && \
 sudo rm -rf /usr/local/go && \
 sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.gz" && \
@@ -31,7 +31,8 @@ go version
 ```bash
 cd $HOME
 rm -rf celestia-node
-git clone https://github.com/celestiaorg/celestia-node && cd celestia-node
+git clone https://github.com/celestiaorg/celestia-node.git
+cd celestia-node/
 git checkout tags/v0.18.2-mocha
 make build
 make install
@@ -45,12 +46,12 @@ mv $HOME/celestia-node/cel-key /usr/local/bin/
 
 ### Create wallet
 ```bash
-   cel-key add light_wallet --keyring-backend test --node.type light --p2p.network mocha
+   celestia light init --p2p.network mocha
 ```
 
 ### Show wallet
 ```bash
-   cel-key list --node.type light --keyring-backend test --p2p.network mocha
+   celestia light start --core.ip rpc-mocha.pops.one --p2p.network mocha
    
 ### Initialize Light node
 ```bash
