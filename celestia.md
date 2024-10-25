@@ -51,7 +51,7 @@ celestia light_wallet init --p2p.network mocha --keyring-backend test
 
 ### Show wallet
 ```bash
-celestia light_wallet start --core.ip rpc-mocha.pops.one --p2p.network mocha
+celestia light start --core.ip rpc-mocha.pops.one --p2p.network mocha
 ```
 ### Initialize Light node
 
