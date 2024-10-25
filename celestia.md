@@ -65,7 +65,7 @@ mv $HOME/celestia-node/cel-key /usr/local/bin/
 
 ### Сreate service file
 ```bash
-   sudo tee <<EOF >/dev/null /etc/systemd/system/celestia-light.service
+sudo tee <<EOF >/dev/null /etc/systemd/system/celestia-light.service
 [Unit]
 Description=celestia-light testnet daemon
 After=network-online.target
