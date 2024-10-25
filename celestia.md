@@ -2,12 +2,12 @@
 
 ### Update packages
   ```bash
-   apt update && sudo apt upgrade -y
+  sudo apt update && sudo apt upgrade -y
   ```
 
 ### Install utils
 ```bash
-   apt install curl build-essential git wget jq make gcc tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev lz4 -y
+  sudo apt install curl build-essential git wget jq make gcc tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev lz4 -y
 ```
 
 ### Install Go
@@ -24,7 +24,7 @@ go version
 
 ###  Set ufw alowance
 ```bash
- ufw allow 2121 comment light_node
+sudo ufw allow 2121 comment light_node
 ```
 
 ### Install binaries
@@ -35,7 +35,7 @@ git clone https://github.com/celestiaorg/celestia-node.git
 cd celestia-node/
 git checkout tags/v0.18.3-mocha
 make build
-make install
+sudo make install
 ```
 
 ### Build cel-key
@@ -65,7 +65,7 @@ mv $HOME/celestia-node/cel-key /usr/local/bin/
 
 ### Сreate service file
 ```bash
-    tee <<EOF >/dev/null /etc/systemd/system/celestia-light.service
+   sudo tee <<EOF >/dev/null /etc/systemd/system/celestia-light.service
 [Unit]
 Description=celestia-light testnet daemon
 After=network-online.target
@@ -88,9 +88,9 @@ EOF
 ### Start service and check logs
 
 ```bash
-systemctl daemon-reload
-systemctl enable celestia-light
-systemctl restart celestia-light && journalctl -u celestia-light -f -o cat
+sudo systemctl daemon-reload
+sudo systemctl enable celestia-light
+sudo systemctl restart celestia-light && sudo journalctl -u celestia-light -f -o cat
 ```
 
 ### Check node id
