@@ -54,8 +54,9 @@ mv $HOME/celestia-node/cel-key /usr/local/bin/
    celestia light start --core.ip rpc-mocha.pops.one --p2p.network mocha
    
 ### Initialize Light node
+
 ```bash
-    celestia light init \
+celestia light init \
   --core.ip 8.52.247.236 \
   --p2p.network mocha \
   --core.rpc.port 26657 \
