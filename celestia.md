@@ -46,7 +46,7 @@ mv $HOME/celestia-node/cel-key /usr/local/bin/
 
 ### Create wallet
 ```bash
-celestia light init --p2p.network mocha --keyring-backend test
+celestia light init --p2p.network mocha --keyring.backend test
 ```
 
 ### Show wallet
