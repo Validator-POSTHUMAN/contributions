@@ -33,7 +33,7 @@ cd $HOME
 rm -rf celestia-node
 git clone https://github.com/celestiaorg/celestia-node.git
 cd celestia-node/
-git checkout tags/v0.18.2-mocha
+git checkout tags/v0.18.3-mocha
 make build
 make install
 ```
