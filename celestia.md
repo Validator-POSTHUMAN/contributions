@@ -40,19 +40,19 @@ sudo make install
 
 ### Build cel-key
 ```bash
- make cel-key
+make cel-key
 mv $HOME/celestia-node/cel-key /usr/local/bin/
 ```
 
 ### Create wallet
 ```bash
-   celestia light init --p2p.network mocha
+celestia light init --p2p.network mocha
 ```
 
 ### Show wallet
 ```bash
-   celestia light start --core.ip rpc-mocha.pops.one --p2p.network mocha
-   
+celestia light start --core.ip rpc-mocha.pops.one --p2p.network mocha
+```
 ### Initialize Light node
 
 ```bash
