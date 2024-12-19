@@ -8,7 +8,7 @@
 <details>
   <summary>Our Team:</summary> 
   
-### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+### ***[Our actual roster](https://posthuman.digital/team)***
   </details>
 
 # Technical Contributions
@@ -17,3 +17,15 @@
 
   <summary>List of Technical Contributions:</summary>
 <br/>  
+
+</details>
+
+# Community and Marketing Contributions
+
+<details>
+
+  <summary>Community and Marketing Contributions:</summary>
+<br/>  
+
+
+</details>
