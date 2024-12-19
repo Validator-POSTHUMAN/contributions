@@ -30,9 +30,15 @@
 |                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
 | **YouTube**      | CryptoBase Russian-speaking              | 11.4k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
 |                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+| **Coming Soon**  | Sputnik Network Version 2.0              | -                      | -                                                     |
+|                  | Centrifuge Users Engagement Platform     | -                      | -                                                     |
+|                  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | POSTHUMAN Explorer                       | -                      | -                                                     |
 
   </details>
-
 
 
 # Technical Contributions
