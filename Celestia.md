@@ -9,7 +9,31 @@
   <summary>Our Team:</summary> 
   
 ### ***[Our actual roster](https://posthuman.digital/team)***
+
   </details>
+
+<details>
+  <summary>Our SuperPower:</summary> 
+
+
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 11.4k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+
+  </details>
+
+
 
 # Technical Contributions
 
@@ -107,7 +131,10 @@
 ---
 
 ## Workshops 
-- **21.10** - [Setting up Celestia LightNode](https://x.com/synctems/status/1848311413309137153)
+ **21.10 Announcement** - [Setting up Celestia LightNode](https://x.com/synctems/status/1848311413309137153)
+<br/>
+[Recording](https://www.youtube.com/watch?v=nadajBxYlgY&t=4s)
+
 
 
 </details>
