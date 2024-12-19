@@ -48,6 +48,28 @@
   <summary>List of Technical Contributions:</summary>
 <br/>  
 
+## Celestia Technical Contributions
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/d1ad92be-565b-422e-a532-219fb0c54f2b)
+
+### At the moment, we provide the following services for the Celestia:
+
+</div>
+
+- **Type**: mainnet  
+- **Chain ID**: celestia  
+- **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.celestia-mainnet.posthuman.digital)  
+- **REST**: [https://rest.celestia-mainnet.posthuman.digital](https://rest.celestia-mainnet.posthuman.digital)  
+- **gRPC**: [https://grpc.celestiamainnet.posthuman.digital](https://grpc.celestiamainnet.posthuman.digital)  
+- **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
+
+### Additional Resources:
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)  
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
+- **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
+
 </details>
 
 # Community and Marketing Contributions
@@ -57,7 +79,18 @@
   <summary>Community and Marketing Contributions:</summary>
 <br/>  
 
-## 2024
+<div align="center">
+
+### Services we've been providing since early 2022:
+
+</div>
+
+- Early Advocates: Mentioned Celestia on our YouTube channel as early as 2022, even before the mainnet launch.
+- Community Engagement: Active discussions about Celestia across our Telegram channels: Cosmos Russian-speaking community (7k+ members) and CryptoBase (4k+ members).
+- Daily Updates: Published daily news infographics on Twitter, covering updates across the Cosmos ecosystem, including Celestia.
+- Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
+- 
+## 2024 
 
 ### Celestia Weekly
 > Celestia-dedicated digital newspaper:
