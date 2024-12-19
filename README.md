@@ -42,3 +42,4 @@ Here is not the full list of our contributions:
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
 - [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/humans_ai.md)
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
+- [Celestia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md)
