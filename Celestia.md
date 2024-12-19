@@ -66,7 +66,8 @@
 - **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
 
 ### Additional Resources:
-- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)  
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
+- **Celestia Lightnode Setup Tutorial**: [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/celestia%20light%20node%20setup%20tutorial.md)
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
 
