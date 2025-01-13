@@ -39,3 +39,24 @@
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1865805021700345960)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1877283347438735471)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1857398154771185930)
+
+# Cryptobase YouTube Channel  
+[Cryptobase](https://www.youtube.com/@CRYPTOBASED) – 11.4k subscribers  
+
+## Videos
+- **How to Stake ATOM One** (4.9k views)  
+  [Watch here](https://www.youtube.com/watch?v=VB3aJ24zbJg)
+
+- **Cosmos Airdrops + ATOM One Airdrop Breakdown** (7.5k views)  
+  [Watch here](https://www.youtube.com/watch?v=1gAhVJEZG-8)
+
+- **Cosmos Updates Mentioning ATOM One** (8.5k views)  
+  [Watch here](https://www.youtube.com/watch?v=MCsFOisC8IA&feature=youtu.be)
+
+- **Govgen Launch Discussion on Cosmos Voice** (2.7k views)  
+  [Watch here](https://www.youtube.com/watch?v=ItIM8xra7Gg)
+
+- **ATOM One + Govgen Discussion** (4k views)  
+  [Watch here](https://www.youtube.com/watch?v=V-FfmYr3m4Y&feature=youtu.be)
+ 
+  
