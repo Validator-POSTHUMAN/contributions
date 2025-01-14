@@ -4,6 +4,24 @@
 Support for governance proposal creation has been added for **ATOM One** in our tool.  
 You can explore it here: [Governance Proposals Tool](https://proposals.posthuman.digital/?bc=govgen-1)
 
+### AtomOne Services:
+- **Type:** Mainnet  
+- **Chain ID:** `atomone-1`  
+- **RPC:** [https://rpc.atomone.posthuman.digital:443](https://rpc.atomone.posthuman.digital:443)  
+- **REST:** [https://rest.atomone.posthuman.digital:443](https://rest.atomone.posthuman.digital:443)  
+- **gRPC:** [https://grpc.atomone.posthuman.digital:443](https://grpc.atomone.posthuman.digital:443)  
+- **Seed Node:** `16bd427bd598e25c9d78e60e6b9c12d7cc8eeb84@8.52.247.236:56656`
+
+### Upcoming Deliverables
+We’re about to deliver the following **ASAP**:
+- **Installation Guide**  
+- **State Sync**  
+- **Peers**  
+- **IBC Relayers**  
+- **Genesis and Addrbook**  
+- **Snapshot Service**  
+- **One-liner Setup**  
+
 
 # Community and marketing contributions:
 
