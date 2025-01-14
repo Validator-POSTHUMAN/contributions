@@ -1,5 +1,15 @@
 # Technical Contributions
 
+## Validator Operations
+**We Validate Govgen and AtomOne**
+
+### AtomOne
+- Validator Address: [atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
+
+### Govgen
+- Validator Address: [govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
+
+
 ## Governance Proposal Creation Support
 Support for governance proposal creation has been added for **ATOM One** in our tool.  
 You can explore it here: [Governance Proposals Tool](https://proposals.posthuman.digital/?bc=govgen-1)
