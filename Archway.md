@@ -2,7 +2,7 @@
 # List of POSTHUMAN contributions for [Archway](https://archway.io/)
 
 ## Videos 
-- https://www.youtube.com/watch?v=ee2UW7DjI5M&t=84s
-- https://www.youtube.com/watch?v=8j18IWQ4puc
-- https://www.youtube.com/watch?v=Az_12EXubSQ&t=22s
-- https://www.youtube.com/watch?v=_77vapzZUMg
+- [Archway Drop Camp](https://www.youtube.com/watch?v=ee2UW7DjI5M&t=84s)
+- [Complete tutorial on Archway airdrop, staking, IBC transfers and governance](https://www.youtube.com/watch?v=8j18IWQ4puc)
+- [Cosmos Voice ft. Archway on the community call](https://www.youtube.com/watch?v=Az_12EXubSQ&t=22s)
+- [Archway airdrop announcement](https://www.youtube.com/watch?v=_77vapzZUMg)
