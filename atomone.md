@@ -21,6 +21,7 @@ You can explore it here: [Governance Proposals Tool](https://proposals.posthuman
 - **REST:** [https://rest.atomone.posthuman.digital:443](https://rest.atomone.posthuman.digital:443)  
 - **gRPC:** [https://grpc.atomone.posthuman.digital:443](https://grpc.atomone.posthuman.digital:443)  
 - **Seed Node:** `16bd427bd598e25c9d78e60e6b9c12d7cc8eeb84@8.52.247.236:56656`
+- **Snapshot service:** [https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service](https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service)
 
 ### Upcoming Deliverables
 We’re about to deliver the following **ASAP**:
@@ -29,7 +30,6 @@ We’re about to deliver the following **ASAP**:
 - **Peers**  
 - **IBC Relayers**  
 - **Genesis and Addrbook**  
-- **Snapshot Service**  
 - **One-liner Setup**  
 
 
