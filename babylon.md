@@ -19,6 +19,8 @@ We provide ongoing technical support and contributions for the Babylon project.
 - **X (Twitter)**  
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+- **YouTube**
+  - **CryptoBase**: [YouTube Channel](https://www.youtube.com/@CRYPTOBASED) (11.5k subscribers)
 
 ### Cosmos Weekly News Mentioning Babylon
 - [Post 1](https://x.com/CosmosEcosystem/status/1791883938606014696)  
