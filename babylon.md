@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/2ac58d3e-97c7-4a7b-89a4-2c606c97d25d)
+![Banner](https://github.com/user-attachments/assets/ad720fd1-7bd2-4af5-9a4c-2575b266fa58)
+
 # POSTHUMAN Contributions for [Babylon](https://babylonlabs.io/)
 
 ## Technical contributions
