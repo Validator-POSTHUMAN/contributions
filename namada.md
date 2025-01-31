@@ -4,7 +4,14 @@
 
 ## Technical Contributions
 - **POSTHUMAN validates Namada** | [Validator link](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)  
-- **POSTHUMAN provides essential infrastructure**  |  [RPC, Snapshots, Address Book](https://nodes.posthuman.digital/chains/namada)  
+- **POSTHUMAN provides essential infrastructure**  
+  - **RPC:** [https://rpc.namada.posthuman.digital:443](https://rpc.namada.posthuman.digital:443)  
+  - **Peer:** `67cdb666f68cfefcd799ac589b2a9b005c067ef3@peer.namada.posthuman.digital:26656`  
+  - **Snapshots:** [https://snapshots.namada.posthuman.digital/](https://snapshots.namada.posthuman.digital/)  
+  - **[Installation Guide](https://nodes.posthuman.digital/chains/namada?tab=installation-guide)**  
+  - **[Genesis File](https://nodes.posthuman.digital/chains/namada?tab=genesis-file)**  
+  - **[Addr Book](https://nodes.posthuman.digital/chains/namada?tab=addr-book)**  
+  - **[Snapshot Service](https://nodes.posthuman.digital/chains/namada?tab=snapshot-service)**  
 - **POSTHUMAN developed [Namada dApp](https://namadapp.xyz/)**  
 
 ## Ecosystem Engagement (Community, marketing and media contributions)
