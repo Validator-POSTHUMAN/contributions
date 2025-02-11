@@ -1,4 +1,4 @@
-![1v](https://github.com/user-attachments/assets/d62c3d1d-8e0d-4449-9968-31bb29228c73)
+![Banner](https://github.com/user-attachments/assets/351f57f2-1229-4e58-a043-67a5bbbb6845)
 <div align="center">
 
 # [Celestia](https://celestia.org/) contributions list. 
