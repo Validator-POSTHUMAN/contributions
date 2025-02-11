@@ -90,7 +90,7 @@
 - Community Engagement: Active discussions about Celestia across our Telegram channels: Cosmos Russian-speaking community (7k+ members) and CryptoBase (4k+ members).
 - Daily Updates: Published daily news infographics on Twitter, covering updates across the Cosmos ecosystem, including Celestia.
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
-- 
+
 ## 2024 
 
 ### Celestia Weekly
