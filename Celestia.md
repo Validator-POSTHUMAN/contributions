@@ -167,7 +167,9 @@
 ### 2022
 - **05.06** - [Link](https://www.youtube.com/watch?v=OVRG40sO0gY)
 - **04.05** - [Link](https://www.youtube.com/watch?v=9Hz0SbnykvM)
-
+## Videos on X
+### 2025 
+- **How to liquid stake TIA** -[Link](https://x.com/POSTHUMAN_DVS/status/1889303235195977835)
 ---
 
 ## Workshops 
