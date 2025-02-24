@@ -91,6 +91,30 @@
 - Daily Updates: Published daily news infographics on Twitter, covering updates across the Cosmos ecosystem, including Celestia.
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
 
+## 2025
+
+### Cosmos Daily  
+> Cosmos Ecosystem Daily digital newspaper:  
+- **18.02** – [Link](https://x.com/CosmosEcosystem/status/1891797567056286157)  
+- **13.02** – [Link](https://x.com/CosmosEcosystem/status/1890028116674068595)  
+- **07.02** – [Link](https://x.com/CosmosEcosystem/status/1887790282747310306)  
+- **29.01** – [Link](https://x.com/CosmosEcosystem/status/1884314132884906004)  
+- **10.01** – [Link](https://x.com/CosmosEcosystem/status/1877609488682795505)  
+- **08.01** – [Link](https://x.com/CosmosEcosystem/status/1876965696279605692)  
+
+### Celestia Weekly  
+> Celestia-dedicated digital newspaper:  
+- **12.01** – [Link](https://x.com/CosmosEcosystem/status/1878130576856670211)  
+- **04.01** – [Link](https://x.com/CosmosEcosystem/status/1875574582691967243)  
+
+### Others  
+- **13.02** – [Link](https://x.com/CosmosEcosystem/status/1890028139025514809)  
+- **07.02** – [Link](https://x.com/CosmosEcosystem/status/1887790295049273769)  
+- **14.01** – [Link](https://x.com/CosmosEcosystem/status/1879079170384544156)  
+- **10.01** – [Link](https://x.com/CosmosEcosystem/status/1877609498526834757)  
+- **08.01** – [Link](https://x.com/CosmosEcosystem/status/1876965736175792383)  
+- **04.01** – [Link](https://x.com/CosmosEcosystem/status/1875235791938675006)  
+
 ## 2024 
 
 ### Celestia Weekly
