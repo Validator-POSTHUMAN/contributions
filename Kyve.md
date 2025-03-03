@@ -5,7 +5,7 @@
 
 ## Media Presence  
 
-### Cosmos Weekly Updates Featuring Kyve  
+### X - Cosmos Weekly Updates Featuring Kyve  
 - [Post 1](https://x.com/CosmosEcosystem/status/1860323731039518840)  
 - [Post 2](https://x.com/CosmosEcosystem/status/1748371801359458566)  
 - [Post 3](https://x.com/CosmosEcosystem/status/1703427555900993960)  
@@ -15,7 +15,7 @@
 - [Post 7](https://x.com/CosmosEcosystem/status/1636784598976991232)  
 - [Post 8](https://x.com/CosmosEcosystem/status/1636784594371620864)  
 
-### Cosmos Daily Updates Featuring Kyve  
+### X - Cosmos Daily Updates Featuring Kyve  
 - [Post 1](https://x.com/CosmosEcosystem/status/1878485479697310058)  
 - [Post 2](https://x.com/CosmosEcosystem/status/1859488097311903959)  
 - [Post 3](https://x.com/CosmosEcosystem/status/1858758752343666811)  
@@ -24,7 +24,7 @@
 - [Post 6](https://x.com/CosmosEcosystem/status/1820797045134758359)  
 - [Post 7](https://x.com/CosmosEcosystem/status/1635954204727562243)  
 
-## Other Mentions, Retweets, and Amplifications  
+## X - Other Mentions, Retweets, and Amplifications  
 - [Kyve Validator Announcement](https://x.com/POSTHUMAN_DVS/status/1635959170024480769)  
 - [Additional Mention](https://x.com/CosmosEcosystem/status/1874483881401082202)  
 - [POSTHUMAN Mention](https://x.com/POSTHUMAN_DVS/status/1877050295609438525)  
