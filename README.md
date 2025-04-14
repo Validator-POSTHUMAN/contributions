@@ -22,7 +22,7 @@ Here is not the full list of our contributions:
 - [Umee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
 - [Teritori](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Teritori.md)
-- [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
+- [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decentr.md)
 - [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
 - [Velas](https://github.com/Validator-POSTHUMAN/contributions/blob/main/velas.md)
