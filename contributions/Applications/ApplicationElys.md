@@ -1,3 +1,6 @@
+Additional information to application:
+
+![banner](https://github.com/user-attachments/assets/fc12d49f-28fa-496f-8389-6eb2a18aa433) <br/>
 # 🌀 POSTHUMAN Contributions to Elys Network
 
 --- 
