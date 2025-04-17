@@ -34,6 +34,17 @@
 - **POSTHUMAN Infra Service:**  
   https://nodes.posthuman.digital/chains/elys-testnet  
   > Includes RPC, REST, gRPC endpoints, and snapshots for quick sync and integration.
+
+---
+
+## 🎙️ Media & Podcasts
+
+- **Cosmos Voice with Elys (RU Translation, YouTube Cryptobase – 12K subscribers):**  
+  https://youtu.be/Q_qIo3vJi00
+
+- **Cosmos Voice with Hesham (English, posted on X):**  
+  https://x.com/POSTHUMAN_DVS/status/1871443539374350793
+
 ---
 
 > 📌 **Search all Elys mentions from `@POSTHUMAN_DVS` and `@CosmosEcosystem`:**  
