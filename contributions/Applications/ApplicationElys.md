@@ -45,6 +45,9 @@
 - **Cosmos Voice with Hesham (English, posted on X):**  
   https://x.com/POSTHUMAN_DVS/status/1871443539374350793
 
+- **Elys V2 Thesis Video on X:**  
+https://x.com/POSTHUMAN_DVS/status/1913877307825008985
+
 ---
 
 > 📌 **Search all Elys mentions from `@POSTHUMAN_DVS` and `@CosmosEcosystem`:**  
