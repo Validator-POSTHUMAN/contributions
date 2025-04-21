@@ -104,12 +104,12 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - [26 JAN 23](https://twitter.com/CosmosEcosystem/status/1618600070747938818?t=pNpe4nqjW9VFeoi658zEIw&s=35) 
 - [28 JAN 23](https://twitter.com/CosmosEcosystem/status/1619349322306572293?t=1D7Jskr2XmLIvRZ6e7t2Tw&s=35) 
 - [03 FEB 23](https://twitter.com/CosmosEcosystem/status/1621585636812529666?t=q2jCxy_xLJIeF8ZfQxtIVg&s=35) 
-- [17 FEB 23](https://twitter.com/CosmosEcosystem/status/1626605802378383360?t=goJWqYPtnri1El51Ows1tw&s=09) 
-- [18 FEB 23](https://twitter.com/CosmosEcosystem/status/1626933506294046721?t=Jbi2-udDKOJ2vx4N0Yz6Tw&s=35)
+- [17 FEB 23](https://twitter.com/CosmosEcosystem/status/1626605802378383360) 
+- [18 FEB 23](https://twitter.com/CosmosEcosystem/status/1626933506294046721)
 - [22 FEB 23](https://twitter.com/CosmosEcosystem/status/1628383717344391169)
 - [25 FEB 23](https://twitter.com/CosmosEcosystem/status/1629196610705006592)
 - [26 FEB 23](https://twitter.com/CosmosEcosystem/status/1629849126237003776)
-- [2 MAR 23](https://twitter.com/CosmosEcosystem/status/1631299152234553345
+- [2 MAR 23](https://twitter.com/CosmosEcosystem/status/1631299152234553345)
 - [4 MAR 23](https://twitter.com/CosmosEcosystem/status/1631704604839641089)
 
 
