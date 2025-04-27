@@ -130,6 +130,172 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - [02 MAR 23](https://twitter.com/CosmosEcosystem/status/1631239595319779328)
 </details>
 
+### Recent Contributions for Injective
+---
+
+### Injective Ecosystem News - September, 2024
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1830605687539552728)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1831682850061742585)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1832048533702115682)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1833192700096413799)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1833534286127108152)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1833766104319086785)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1834993886705729621)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1837821732972810395)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1838547189783544108)
+- [Daily News 10](https://x.com/CosmosEcosystem/status/1839292895674904582)
+- [Daily News 11](https://x.com/CosmosEcosystem/status/1840433664779260184)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1837109644977680757)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1839606725634060682)
+
+---
+
+### Injective Ecosystem News - October, 2024
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1841777923482693937)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1842969916116517050)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1843987297341227415)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1846885524151165112)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1847585928186892463)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1850230663343149361)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1851200225970454557)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1851894835235688702)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1851899394611646807)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1842233928310304800)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1844772672145633534)
+- [Weekly News 3](https://x.com/CosmosEcosystem/status/1847257084036841811)
+- [Weekly News 4](https://x.com/CosmosEcosystem/status/1849776309213295102)
+
+---
+
+### Injective Ecosystem News - November, 2024
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1852683681317404916)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1852993262404988944)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1853387797266051167)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1854888503038951727)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1856045962814230826)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1856374442449830388)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1857398154771185930)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1858178711071199241)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1859196432844022130)
+- [Daily News 10](https://x.com/CosmosEcosystem/status/1860023000487375048)
+- [Daily News 11](https://x.com/CosmosEcosystem/status/1860936143702782236)
+- [Daily News 12](https://x.com/CosmosEcosystem/status/1860646113046315485)
+- [Daily News 13](https://x.com/CosmosEcosystem/status/1862120382871830760)
+- [Daily News 14](https://x.com/CosmosEcosystem/status/1862384523201159497)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1852347500134388075)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1855218992962793756)
+- [Weekly News 3](https://x.com/CosmosEcosystem/status/1857817790763159999)
+- [Weekly News 4](https://x.com/CosmosEcosystem/status/1860323731039518840)
+- [Weekly News 5](https://x.com/CosmosEcosystem/status/1862903794347962581)
+
+---
+
+### Injective Ecosystem News - December, 2024
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1863204171974860980)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1864193593377771965)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1866730189884887246)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1867132905006280899)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1867515615071941089)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1869277641989312644)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1869790605502755324)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1870050990424052130)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1871200088300904527)
+- [Daily News 10](https://x.com/CosmosEcosystem/status/1871594216553431381)
+- [Daily News 11](https://x.com/CosmosEcosystem/status/1871988727033344185)
+- [Daily News 12](https://x.com/CosmosEcosystem/status/1873069290808869372)
+- [Daily News 13](https://x.com/CosmosEcosystem/status/1873403235299668380)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1865438810407829998)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1867966251685052676)
+- [Weekly News 3](https://x.com/CosmosEcosystem/status/1870504338889777441)
+- [Weekly News 4](https://x.com/CosmosEcosystem/status/1873069290808869372)
+
+---
+
+### Injective Ecosystem News - January, 2025
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1875880737423106256)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1876278575630004364)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1876624618993471827)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1878863258612047907)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1879448551069192271)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1879936821934891320)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1880160985266397194)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1881724807408198059)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1882089464757211348)
+- [Daily News 10](https://x.com/CosmosEcosystem/status/1882730031782494251)
+- [Daily News 11](https://x.com/CosmosEcosystem/status/1883884675124646234)
+- [Daily News 12](https://x.com/CosmosEcosystem/status/1884588760282615858)
+- [Daily News 13](https://x.com/CosmosEcosystem/status/1884960881190031766)
+- [Daily News 14](https://x.com/CosmosEcosystem/status/1885230573515690434)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1878130576856670211)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1880681364720423197)
+- [Weekly News 3](https://x.com/CosmosEcosystem/status/1883135378095493370)
+
+---
+
+### Injective Ecosystem News - February, 2025
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1886702574121754973)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1887064407072522539)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1889326089912361470)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1891171094586876010)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1891450667593535711)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1891797567056286157)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1894655678360555572)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1894661283955589371)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1895160985221988394)
+- [Daily News 10](https://x.com/CosmosEcosystem/status/1895484738976329828)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1885737671848235270)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1888288378338398483)
+- [Weekly News 3](https://x.com/CosmosEcosystem/status/1890740999862809017)
+
+---
+
+### Injective Ecosystem News - March, 2025
+
+#### Daily News
+- [Daily News 1](https://x.com/CosmosEcosystem/status/1896197224499184042)
+- [Daily News 2](https://x.com/CosmosEcosystem/status/1896921745707380936)
+- [Daily News 3](https://x.com/CosmosEcosystem/status/1897178536257184110)
+- [Daily News 4](https://x.com/CosmosEcosystem/status/1897706143461658788)
+- [Daily News 5](https://x.com/CosmosEcosystem/status/1897945205430796345)
+- [Daily News 6](https://x.com/CosmosEcosystem/status/1898784904147873958)
+- [Daily News 7](https://x.com/CosmosEcosystem/status/1899403569737961893)
+- [Daily News 8](https://x.com/CosmosEcosystem/status/1899789186724491455)
+- [Daily News 9](https://x.com/CosmosEcosystem/status/1900069456984105352)
+- [Daily News 10](https://x.com/CosmosEcosystem/status/1904024659945001303)
+- [Daily News 11](https://x.com/CosmosEcosystem/status/1904956242381992357)
+- [Daily News 12](https://x.com/CosmosEcosystem/status/1905633205459259558)
+
+#### Weekly News
+- [Weekly News 1](https://x.com/CosmosEcosystem/status/1895877591510499733)
+- [Weekly News 2](https://x.com/CosmosEcosystem/status/1898415559399620835)
+- [Weekly News 3](https://x.com/CosmosEcosystem/status/1900962948585238788)
+- [Weekly News 4](https://x.com/CosmosEcosystem/status/1906042880717672919)
+
+
 <details>
   <summary>YouTube Activity</summary>
 
