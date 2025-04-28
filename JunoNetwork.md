@@ -263,6 +263,11 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [2 MAR 2023](https://twitter.com/CosmosEcosystem/status/1631336658724589568)
 
 </details>
+
+### 📌 All Juno-related tweets from @POSTHUMAN_DVS and @CosmosEcosystem (arranged from newest to oldest)
+- [Link](https://x.com/search?q=(from%3APOSTHUMAN_DVS%20OR%20from%3ACosmosEcosystem)%20(Juno%20OR%20JunoNetwork)%20filter%3Amedia&src=typed_query&f=live)
+
+
 </details>
 
 
