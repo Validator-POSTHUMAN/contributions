@@ -264,8 +264,12 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 </details>
 
-### 📌 All Juno-related tweets from @POSTHUMAN_DVS and @CosmosEcosystem (arranged from newest to oldest)
-- [Link](https://x.com/search?q=(from%3APOSTHUMAN_DVS%20OR%20from%3ACosmosEcosystem)%20(Juno%20OR%20JunoNetwork)%20filter%3Amedia&src=typed_query&f=live)
+### Our contributions for the growth of the Juno community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Juno and its updates since genesis. | [Query CosmosEcosystem tweets about Juno](https://x.com/search?q=from%3ACosmosEcosystem%20(Juno%20OR%20JunoNetwork)&src=typed_query&f=live) | We spread the word about Juno and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Juno updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Juno](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Juno%20OR%20JunoNetwork)&src=typed_query&f=live) | We spread the word about Juno and its updates since genesis. |
 
 
 </details>
