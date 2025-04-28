@@ -194,6 +194,15 @@
 ## Videos on X
 ### 2025 
 - **How to liquid stake TIA** -[Link](https://x.com/POSTHUMAN_DVS/status/1889303235195977835)
+
+### Our contributions for the growth of the Celestia community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Celestia and its updates since genesis. | [Query CosmosEcosystem tweets about Celestia](https://x.com/search?q=from%3ACosmosEcosystem%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Celestia updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Celestia](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
+
+
 ---
 
 ## Workshops 
