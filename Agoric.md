@@ -61,3 +61,11 @@
 - [Post 22](https://x.com/CosmosEcosystem/status/1844332760913281093)  
 - [Post 23](https://x.com/CosmosEcosystem/status/1836029172445257795)  
 - [Post 24](https://x.com/CosmosEcosystem/status/1846885559102316695)
+
+### Our contributions for the growth of the Agoric community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Agoric and its updates since genesis. | [Query CosmosEcosystem tweets about Agoric](https://x.com/search?q=from%3ACosmosEcosystem%20(Agoric%20OR%20agoric)&src=typed_query&f=live) | We spread the word about Agoric and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Agoric updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Agoric](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Agoric%20OR%20agoric)&src=typed_query&f=live) | We spread the word about Agoric and its updates since genesis. |
+
