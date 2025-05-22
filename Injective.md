@@ -295,6 +295,27 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - [Weekly News 3](https://x.com/CosmosEcosystem/status/1900962948585238788)
 - [Weekly News 4](https://x.com/CosmosEcosystem/status/1906042880717672919)
 
+### Injective Ecosystem News – April, 2025
+
+#### Daily News
+- **Daily News 1** – [https://x.com/CosmosEcosystem/status/1907414215368814931](https://x.com/CosmosEcosystem/status/1907414215368814931)  
+- **Daily News 2** – [https://x.com/CosmosEcosystem/status/1907837856095035777](https://x.com/CosmosEcosystem/status/1907837856095035777)  
+- **Daily News 3** – [https://x.com/CosmosEcosystem/status/1909961450942062882](https://x.com/CosmosEcosystem/status/1909961450942062882)  
+- **Daily News 4** – [https://x.com/CosmosEcosystem/status/1910631558794666036](https://x.com/CosmosEcosystem/status/1910631558794666036)  
+- **Daily News 5** – [https://x.com/CosmosEcosystem/status/1911758960870256895](https://x.com/CosmosEcosystem/status/1911758960870256895)  
+- **Daily News 6** – [https://x.com/CosmosEcosystem/status/1912066991189536871](https://x.com/CosmosEcosystem/status/1912066991189536871)  
+- **Daily News 7** – [https://x.com/CosmosEcosystem/status/1912864686229315764](https://x.com/CosmosEcosystem/status/1912864686229315764)  
+- **Daily News 8** – [https://x.com/CosmosEcosystem/status/1913276282189787599](https://x.com/CosmosEcosystem/status/1913276282189787599)  
+- **Daily News 9** – [https://x.com/CosmosEcosystem/status/1913947019095282051](https://x.com/CosmosEcosystem/status/1913947019095282051)  
+- **Daily News 10** – [https://x.com/CosmosEcosystem/status/1914203379557154930](https://x.com/CosmosEcosystem/status/1914203379557154930)  
+- **Daily News 11** – [https://x.com/CosmosEcosystem/status/1914568766677246143](https://x.com/CosmosEcosystem/status/1914568766677246143)  
+- **Daily News 12** – [https://x.com/CosmosEcosystem/status/1915103696892854598](https://x.com/CosmosEcosystem/status/1915103696892854598)  
+
+#### Weekly News
+- **Weekly News 1** – [https://x.com/CosmosEcosystem/status/1908551957326770668](https://x.com/CosmosEcosystem/status/1908551957326770668)  
+- **Weekly News 2** – [https://x.com/CosmosEcosystem/status/1916185432611528997](https://x.com/CosmosEcosystem/status/1916185432611528997)  
+
+
 
 ### Our contributions for the growth of the Injective community.
 
