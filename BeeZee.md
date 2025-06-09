@@ -40,4 +40,12 @@
 - **Trading Updates**  
   [Details](https://x.com/CosmosEcosystem/status/1876951786667364713)  
 - **Flix and Bze Partnership**  
-  [Details](https://x.com/CosmosEcosystem/status/1881478375845576952)  
+  [Details](https://x.com/CosmosEcosystem/status/1881478375845576952)
+
+  ### Our contributions for the growth of the BeeZee community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting BeeZee and its updates actively. | [Query CosmosEcosystem tweets about BeeZee](https://x.com/search?q=from%3ACosmosEcosystem%20(BeeZee%20OR%20%40BZEdgeCoin%20OR%20%24BZE)&src=typed_query&f=live) | Continuously supported BeeZee through consistent updates and coverage. |
+| POSTHUMAN X        | 7.5k followers. We highlight BeeZee news and ecosystem efforts regularly. | [Query POSTHUMAN_DVS tweets about BeeZee](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(BeeZee%20OR%20%40BZEdgeCoin%20OR%20%24BZE)&src=typed_query&f=live) | Long-standing advocate for BeeZee’s development and adoption. |
+
