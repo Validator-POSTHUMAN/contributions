@@ -6,7 +6,7 @@
   [Agoric Validator Details](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 
   ### Services
-  - **Snapshot service:** [https://nodes.posthuman.digital/chains/agoric?tab=snapshot-service](https://nodes.posthuman.digital/chains/agoric?tab=snapshot-service)
+  - **RPC/Snapshots/IBC-relayers and more:** [For Agoric](https://nodes.posthuman.digital/chains/agoric)
 
 ## Marketing and Community Contributions
 
