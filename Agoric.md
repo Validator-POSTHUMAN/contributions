@@ -66,6 +66,6 @@
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Agoric and its updates since genesis. | [Query CosmosEcosystem tweets about Agoric](https://x.com/search?q=from%3ACosmosEcosystem%20(Agoric%20OR%20agoric)&src=typed_query&f=live) | We spread the word about Agoric and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Agoric updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Agoric](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Agoric%20OR%20agoric)&src=typed_query&f=live) | We spread the word about Agoric and its updates since genesis. |
+| Cosmos Ecosystem X | 34.8k followers. We have been promoting Agoric and its updates since genesis. | [Query CosmosEcosystem tweets about Agoric](https://x.com/search?q=from%3ACosmosEcosystem%20(Agoric%20OR%20agoric)&src=typed_query&f=live) | We spread the word about Agoric and its updates since genesis. |
+| POSTHUMAN X        | 7.6k followers. We actively cover Agoric updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Agoric](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Agoric%20OR%20agoric)&src=typed_query&f=live) | We spread the word about Agoric and its updates since genesis. |
 
