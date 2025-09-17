@@ -93,6 +93,27 @@
 
 ## 2025
 
+### Videos about Celestia
+- [How to stake TIA and for what we need it?](https://youtu.be/rgxf114MlQ4?si=LwAJAhQ66NXuZvnD)
+- [WHAT IS CELESTIA AND HOW DOES IT SOLVE THE ECONOMIC PROBLEM](https://youtu.be/6US-6QYSJ48?si=QlGmK_Czftku0UzA)
+- [Cosmos Voice #15 - meet with Josh Stein from Celestia](https://youtu.be/5GMcuT5b_pA?si=WPe9q6fdu4RW7JWv)
+- [Voice of the Ecosystem #187 - Meet with Viet from Celestia](https://youtu.be/FrhAUSHMPvg?si=ZiUA-jQRqe-K_xLK)
+- [Voice of the Ecosystem #178 - Meet with Hlib Kanunnikov from Celestia](https://youtu.be/MHXRSu40NTA?si=Q3pe2oAH9eA89cW7)
+- [Voice of the Ecosystem #160 - Meet with Theo.Jeans from Celestine Sloth Society](https://youtu.be/WgpLeWj98-E?si=BJ1Kd_PswYMXAhnA)
+- [Workshops Setting up Celestia LightNode](https://www.youtube.com/watch?v=nadajBxYlgY&t=4s) - [Announcement](https://x.com/synctems/status/1848311413309137153)
+
+### We invited Celestia to the [InterChain Summit](https://interchain.digital/#speaker) 2025 in Berlin, [Hlib Kanunnikov was a speaker](https://youtu.be/gFarkQ7SEto?si=eLu_laVqzaOXWVNE&t=1658)
+<img width="1624" height="1012" alt="Screenshot 2025-09-17 at 17 36 49" src="https://github.com/user-attachments/assets/d209f3d7-f300-4113-b836-330fc5a91e64" />
+
+### We launched [Quest and Task program about Celestia on Centrifuge Platform](https://centrifuge.digital/celestia)
+
+### Our contributions for the growth of the Celestia community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Celestia and its updates since genesis. | [Query CosmosEcosystem tweets about Celestia](https://x.com/search?q=from%3ACosmosEcosystem%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Celestia updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Celestia](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
+
 ### Cosmos Daily  
 > Cosmos Ecosystem Daily digital newspaper:  
 - **18.02** – [Link](https://x.com/CosmosEcosystem/status/1891797567056286157)  
@@ -195,20 +216,9 @@
 ### 2025 
 - **How to liquid stake TIA** -[Link](https://x.com/POSTHUMAN_DVS/status/1889303235195977835)
 
-### Our contributions for the growth of the Celestia community.
-
-| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
-|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Celestia and its updates since genesis. | [Query CosmosEcosystem tweets about Celestia](https://x.com/search?q=from%3ACosmosEcosystem%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Celestia updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Celestia](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
-
-
 ---
 
-## Workshops 
- **21.10 Announcement** - [Setting up Celestia LightNode](https://x.com/synctems/status/1848311413309137153)
-<br/>
-[Recording](https://www.youtube.com/watch?v=nadajBxYlgY&t=4s)
+
 
 
 
