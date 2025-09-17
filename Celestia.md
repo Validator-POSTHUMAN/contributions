@@ -75,23 +75,11 @@
 
 # Community and Marketing Contributions
 
-<details>
-
-  <summary>Community and Marketing Contributions:</summary>
-<br/>  
-
-<div align="center">
-
 ### Services we've been providing since early 2022:
-
-</div>
-
 - Early Advocates: Mentioned Celestia on our YouTube channel as early as 2022, even before the mainnet launch.
 - Community Engagement: Active discussions about Celestia across our Telegram channels: Cosmos Russian-speaking community (7k+ members) and CryptoBase (4k+ members).
 - Daily Updates: Published daily news infographics on Twitter, covering updates across the Cosmos ecosystem, including Celestia.
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
-
-## 2025
 
 ### Videos about Celestia
 - [How to stake TIA and for what we need it?](https://youtu.be/rgxf114MlQ4?si=LwAJAhQ66NXuZvnD)
@@ -114,6 +102,8 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Celestia and its updates since genesis. | [Query CosmosEcosystem tweets about Celestia](https://x.com/search?q=from%3ACosmosEcosystem%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Celestia updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Celestia](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Celestia%20OR%20celestia)&src=typed_query&f=live) | We spread the word about Celestia and its updates since genesis. |
 
+## 2025
+
 ### Cosmos Daily  
 > Cosmos Ecosystem Daily digital newspaper:  
 - **18.02** – [Link](https://x.com/CosmosEcosystem/status/1891797567056286157)  
@@ -135,6 +125,8 @@
 - **10.01** – [Link](https://x.com/CosmosEcosystem/status/1877609498526834757)  
 - **08.01** – [Link](https://x.com/CosmosEcosystem/status/1876965736175792383)  
 - **04.01** – [Link](https://x.com/CosmosEcosystem/status/1875235791938675006)  
+
+---
 
 ## 2024 
 
@@ -217,9 +209,3 @@
 - **How to liquid stake TIA** -[Link](https://x.com/POSTHUMAN_DVS/status/1889303235195977835)
 
 ---
-
-
-
-
-
-</details>
