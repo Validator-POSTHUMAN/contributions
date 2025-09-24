@@ -18,11 +18,6 @@
 
 # Technical Contributions
 
-<details>
-
-  <summary>List of Technical Contributions:</summary>
-<br/>  
-
 ### We validate **Injective** in [Mainnet](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 [**Twitter Announcement**](https://twitter.com/POSTHUMAN_DVS/status/1626298038791675906)
 <br/>
@@ -51,24 +46,26 @@
 
 We'll add $INJ to Sputnik Exchange and to Sputnik Network. And users would be able to send tips with $INJ in Twitter and Telegram, and also p2p-exchange $INJ directly in Telegram!
 
-</details>
 
  # Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
  
- <details>
-  <summary>List of Humanitarian Contributions:</summary>
   
 ## Twitter <br/>
 
-<details>
-  <summary>Twitter Activity</summary>
 
 ## We started support Injective since 2021 and keep doing!<br/>
 We manage **[Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)** with ~36k followers! <br/>
 ![image](https://user-images.githubusercontent.com/92199696/220564230-c9da9b2b-ae0f-494a-9bf7-2a6987648324.png) <br/>
 
 We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/status/1621585636812529666?t=q2jCxy_xLJIeF8ZfQxtIVg&&s=35) and [Daily](https://twitter.com/CosmosEcosystem/status/1626933506294046721?t=Jbi2-udDKOJ2vx4N0Yz6Tw&&s=35) News inforgraphics! <br/>
+
+### Our contributions for the growth of the Injective community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Injective for a long time. | [Query CosmosEcosystem tweets about Injective](https://x.com/search?q=from%3ACosmosEcosystem%20Injective&src=typed_query&f=live) | We spread the word about Injective for a long time. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Injective updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Injective](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Injective&src=typed_query&f=live) | We spread the word about Injective for a long time. |
 
 ### News
 
@@ -316,23 +313,9 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - **Weekly News 2** – [https://x.com/CosmosEcosystem/status/1916185432611528997](https://x.com/CosmosEcosystem/status/1916185432611528997)  
 
 
-
-### Our contributions for the growth of the Injective community.
-
-| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
-|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Injective for a long time. | [Query CosmosEcosystem tweets about Injective](https://x.com/search?q=from%3ACosmosEcosystem%20Injective&src=typed_query&f=live) | We spread the word about Injective for a long time. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Injective updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Injective](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Injective&src=typed_query&f=live) | We spread the word about Injective for a long time. |
-
-
-
-<details>
-  <summary>YouTube Activity</summary>
-
 ### We have more than 10k subsctibers our YouTube channel [CryptoBase](https://youtube.com/cryptobased)
 ![image](https://user-images.githubusercontent.com/92199696/220563685-1cfa3933-b615-484d-ad4c-045e6f32eb70.png) <br/>
 - We even met in reality! Live interview with Jenna from Injective on Staking Summit. [Link](https://youtu.be/CJpWwtUXu1Y?t=3121)
 - New episode of CryptoBase with the better quality and Injective was warmly discussed! [Link](https://youtu.be/ntKJxcjAOF4?t=1578)
 - Overview of Injective Ecosystem on 61th Voice Chat of Cosmos Ecosystem Russian speaking community! [Link](https://www.youtube.com/watch?v=dA5d1t_wG4s)
 - [**Playlist**](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) of 58+videos of our Weekly Community Calls where we speak about Cosmos Ecosystem projects and also about Injective! 
-</details>
