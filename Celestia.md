@@ -75,6 +75,8 @@
 
 # Community and Marketing Contributions
 
+### We launched quest and task campaign about [Celestia on Centrifuge Platform](https://centrifuge.digital/celestia)
+
 ### Services we've been providing since early 2022:
 - Early Advocates: Mentioned Celestia on our YouTube channel as early as 2022, even before the mainnet launch.
 - Community Engagement: Active discussions about Celestia across our Telegram channels: Cosmos Russian-speaking community (7k+ members) and CryptoBase (4k+ members).
