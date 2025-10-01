@@ -218,6 +218,8 @@
 - **04.05** - [Link](https://www.youtube.com/watch?v=9Hz0SbnykvM)
 ## Videos on X
 ### 2025 
+- **Native TIA is live for bridging everywhere with Hyperlane** -[Link](https://x.com/POSTHUMAN_DVS/status/1970812495045476698)
+- **Go Bigger with Celestia** [Link](https://x.com/POSTHUMAN_DVS/status/1966042677088285012)
 - **How to liquid stake TIA** -[Link](https://x.com/POSTHUMAN_DVS/status/1889303235195977835)
 
 ## POSTHUMAN (YouTube Channel)
