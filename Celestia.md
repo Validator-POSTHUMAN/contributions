@@ -103,6 +103,11 @@
 
 ### Cosmos Daily  
 > Cosmos Ecosystem Daily digital newspaper:  
+- **27.06** – [Link](https://x.com/CosmosEcosystem/status/1938638273867300954)  
+- **08.05** – [Link](https://x.com/CosmosEcosystem/status/1920419377649738030) 
+- **04.05** – [Link](https://x.com/CosmosEcosystem/status/1919060529869443202)  
+- **15.04** – [Link](https://x.com/CosmosEcosystem/status/1912066991189536871)
+- **27.02** – [Link](https://x.com/CosmosEcosystem/status/1895160985221988394)  
 - **18.02** – [Link](https://x.com/CosmosEcosystem/status/1891797567056286157)  
 - **13.02** – [Link](https://x.com/CosmosEcosystem/status/1890028116674068595)  
 - **07.02** – [Link](https://x.com/CosmosEcosystem/status/1887790282747310306)  
@@ -112,6 +117,9 @@
 
 ### Celestia Weekly  
 > Celestia-dedicated digital newspaper:  
+- **28.06** – [Link](https://x.com/CosmosEcosystem/status/1939002899826364902) 
+- **19.04** – [Link](https://x.com/CosmosEcosystem/status/1913602096206581928)
+- **29.03** – [Link](https://x.com/CosmosEcosystem/status/1906042880717672919)
 - **12.01** – [Link](https://x.com/CosmosEcosystem/status/1878130576856670211)  
 - **04.01** – [Link](https://x.com/CosmosEcosystem/status/1875574582691967243)  
 
