@@ -1,4 +1,4 @@
-![Banner](<img width="1500" height="500" alt="404846145-a66b897b-67e3-4323-8e11-773f44ef2141" src="https://github.com/user-attachments/assets/3730b334-a443-47cd-ae46-a3f8e27a2a27" />)
+![Banner](https://github.com/user-attachments/assets/a66b897b-67e3-4323-8e11-773f44ef2141)
 # POSTHUMAN Contributions for [ATOM One](https://discord.com/invite/atomone)
 
 
