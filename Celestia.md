@@ -102,20 +102,22 @@
 ## 2025
 
 ### Cosmos Daily  
-> Cosmos Ecosystem Daily digital newspaper:  
+> Cosmos Ecosystem Daily digital newspaper:
+
 <ul>
   <li><strong>27.06</strong> – <a href="https://x.com/CosmosEcosystem/status/1938638273867300954" target="_blank" rel="noopener noreferrer">Link</a></li>
   <li><strong>08.05</strong> – <a href="https://x.com/CosmosEcosystem/status/1920419377649738030" target="_blank" rel="noopener noreferrer">Link</a></li>
   <li><strong>04.05</strong> – <a href="https://x.com/CosmosEcosystem/status/1919060529869443202" target="_blank" rel="noopener noreferrer">Link</a></li>
   <li><strong>15.04</strong> – <a href="https://x.com/CosmosEcosystem/status/1912066991189536871" target="_blank" rel="noopener noreferrer">Link</a></li>
   <li><strong>27.02</strong> – <a href="https://x.com/CosmosEcosystem/status/1895160985221988394" target="_blank" rel="noopener noreferrer">Link</a></li>
-</ul>  
-- **18.02** – [Link](https://x.com/CosmosEcosystem/status/1891797567056286157)  
-- **13.02** – [Link](https://x.com/CosmosEcosystem/status/1890028116674068595)  
-- **07.02** – [Link](https://x.com/CosmosEcosystem/status/1887790282747310306)  
-- **29.01** – [Link](https://x.com/CosmosEcosystem/status/1884314132884906004)  
-- **10.01** – [Link](https://x.com/CosmosEcosystem/status/1877609488682795505)  
-- **08.01** – [Link](https://x.com/CosmosEcosystem/status/1876965696279605692)  
+  <li><strong>18.02</strong> – <a href="https://x.com/CosmosEcosystem/status/1891797567056286157" target="_blank" rel="noopener noreferrer">Link</a></li>
+  <li><strong>13.02</strong> – <a href="https://x.com/CosmosEcosystem/status/1890028116674068595" target="_blank" rel="noopener noreferrer">Link</a></li>
+  <li><strong>07.02</strong> – <a href="https://x.com/CosmosEcosystem/status/1887790282747310306" target="_blank" rel="noopener noreferrer">Link</a></li>
+  <li><strong>29.01</strong> – <a href="https://x.com/CosmosEcosystem/status/1884314132884906004" target="_blank" rel="noopener noreferrer">Link</a></li>
+  <li><strong>10.01</strong> – <a href="https://x.com/CosmosEcosystem/status/1877609488682795505" target="_blank" rel="noopener noreferrer">Link</a></li>
+  <li><strong>08.01</strong> – <a href="https://x.com/CosmosEcosystem/status/1876965696279605692" target="_blank" rel="noopener noreferrer">Link</a></li>
+</ul>
+ 
 
 ### Celestia Weekly  
 > Celestia-dedicated digital newspaper:  
