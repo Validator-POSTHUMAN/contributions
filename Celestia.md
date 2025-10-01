@@ -79,7 +79,7 @@
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
 
 ### Videos about Celestia
-- [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak)
+- [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak){:target="_blank"}
 - [How to stake TIA and for what we need it?](https://youtu.be/rgxf114MlQ4?si=LwAJAhQ66NXuZvnD)
 - [WHAT IS CELESTIA AND HOW DOES IT SOLVE THE ECONOMIC PROBLEM](https://youtu.be/6US-6QYSJ48?si=QlGmK_Czftku0UzA)
 - [Cosmos Voice #15 - meet with Josh Stein from Celestia](https://youtu.be/5GMcuT5b_pA?si=WPe9q6fdu4RW7JWv)
