@@ -39,8 +39,8 @@ We’re about to deliver the following **ASAP**:
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Atone for a long time. | [Query CosmosEcosystem tweets about Atone](https://x.com/search?q=from%3AAtone%20Atone&src=typed_query&f=live) | We spread the word about Atone for a long time. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Atone updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Atone](https://x.com/search?q=from%3AAtone%20Atone&src=typed_query&f=live) | We spread the word about Atone for a long time. |
+| Cosmos Ecosystem X | 35k followers. We have been promoting Atone for a long time. | [Query CosmosEcosystem tweets about Atone](https://x.com/search?q=from%3ACosmosEcosystem%20Atone&src=typed_query&f=live) | We spread the word about Atone for a long time. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Atone updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Atone](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Atone&src=typed_query&f=live) | We spread the word about Atone for a long time. |
 
 # Community and marketing contributions:
 
