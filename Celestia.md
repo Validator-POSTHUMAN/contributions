@@ -117,19 +117,7 @@
   <li><strong>10.01</strong> – <a href="https://x.com/CosmosEcosystem/status/1877609488682795505">Link</a></li>
   <li><strong>08.01</strong> – <a href="https://x.com/CosmosEcosystem/status/1876965696279605692">Link</a></li>
 </ul>
-
-<!-- Скрипт для открытия всех внешних ссылок в новой вкладке -->
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  document.querySelectorAll('a[href^="http"]').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
-});
-</script>
-
  
-
 ### Celestia Weekly  
 > Celestia-dedicated digital newspaper:  
 - **28.06** – [Link](https://x.com/CosmosEcosystem/status/1939002899826364902) 
