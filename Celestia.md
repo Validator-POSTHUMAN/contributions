@@ -103,11 +103,11 @@
 
 ### Cosmos Daily  
 > Cosmos Ecosystem Daily digital newspaper:  
-- **27.06** – <a href="https://x.com/CosmosEcosystem/status/1938638273867300954" target="_blank">Link</a>  
-- **08.05** – [Link](https://x.com/CosmosEcosystem/status/1920419377649738030) 
-- **04.05** – [Link](https://x.com/CosmosEcosystem/status/1919060529869443202)  
-- **15.04** – [Link](https://x.com/CosmosEcosystem/status/1912066991189536871)
-- **27.02** – [Link](https://x.com/CosmosEcosystem/status/1895160985221988394)  
+- **27.06** – <a href="https://x.com/CosmosEcosystem/status/1938638273867300954" target="_blank" rel="noopener noreferrer">Link</a>  
+- **08.05** – <a href="https://x.com/CosmosEcosystem/status/1920419377649738030" target="_blank" rel="noopener noreferrer">Link</a>  
+- **04.05** – <a href="https://x.com/CosmosEcosystem/status/1919060529869443202" target="_blank" rel="noopener noreferrer">Link</a>  
+- **15.04** – <a href="https://x.com/CosmosEcosystem/status/1912066991189536871" target="_blank" rel="noopener noreferrer">Link</a>  
+- **27.02** – <a href="https://x.com/CosmosEcosystem/status/1895160985221988394" target="_blank" rel="noopener noreferrer">Link</a>   
 - **18.02** – [Link](https://x.com/CosmosEcosystem/status/1891797567056286157)  
 - **13.02** – [Link](https://x.com/CosmosEcosystem/status/1890028116674068595)  
 - **07.02** – [Link](https://x.com/CosmosEcosystem/status/1887790282747310306)  
