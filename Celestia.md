@@ -43,11 +43,6 @@
 
 # Technical Contributions
 
-<details>
-
-  <summary>List of Technical Contributions:</summary>
-<br/>  
-
 ## Celestia Technical Contributions
 
 <div align="center">
