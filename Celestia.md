@@ -75,7 +75,7 @@
 
 # Community and Marketing Contributions
 
-### We launched quest and task campaign about [Celestia on Centrifuge Platform](https://centrifuge.digital/celestia) Also within the [Posthuman company](https://centrifuge.digital/posthuman), Celestia quests, 300 participants.
+### We launched quest and task campaign about [Celestia on Centrifuge Platform](https://centrifuge.digital/celestia). Also within [Posthuman company](https://centrifuge.digital/posthuman), Celestia quests, 300 participants.
 
 ### Services we've been providing since early 2022:
 - Early Advocates: Mentioned Celestia on our YouTube channel as early as 2022, even before the mainnet launch.
@@ -96,7 +96,6 @@
 ### We invited Celestia to the [InterChain Summit](https://interchain.digital/#speaker) 2025 in Berlin, [Hlib Kanunnikov was a speaker](https://youtu.be/gFarkQ7SEto?si=eLu_laVqzaOXWVNE&t=1658)
 <img width="1624" height="1012" alt="Screenshot 2025-09-17 at 17 36 49" src="https://github.com/user-attachments/assets/d209f3d7-f300-4113-b836-330fc5a91e64" />
 
-### We launched [Quest and Task program about Celestia on Centrifuge Platform](https://centrifuge.digital/celestia)
 
 ### Our contributions for the growth of the Celestia community.
 
