@@ -79,7 +79,7 @@
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
 
 ### Videos about Celestia
-- [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak){:target="_blank"}
+- [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak)
 - [How to stake TIA and for what we need it?](https://youtu.be/rgxf114MlQ4?si=LwAJAhQ66NXuZvnD)
 - [WHAT IS CELESTIA AND HOW DOES IT SOLVE THE ECONOMIC PROBLEM](https://youtu.be/6US-6QYSJ48?si=QlGmK_Czftku0UzA)
 - [Cosmos Voice #15 - meet with Josh Stein from Celestia](https://youtu.be/5GMcuT5b_pA?si=WPe9q6fdu4RW7JWv)
@@ -103,7 +103,7 @@
 
 ### Cosmos Daily  
 > Cosmos Ecosystem Daily digital newspaper:  
-- **27.06** – [Link](https://x.com/CosmosEcosystem/status/1938638273867300954)  
+- **27.06** – <a href="https://x.com/CosmosEcosystem/status/1938638273867300954" target="_blank">Link</a>  
 - **08.05** – [Link](https://x.com/CosmosEcosystem/status/1920419377649738030) 
 - **04.05** – [Link](https://x.com/CosmosEcosystem/status/1919060529869443202)  
 - **15.04** – [Link](https://x.com/CosmosEcosystem/status/1912066991189536871)
