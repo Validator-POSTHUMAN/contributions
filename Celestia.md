@@ -201,7 +201,8 @@
 - **28.08** - [Link](https://www.youtube.com/watch?v=6US-6QYSJ48&t=2s)
 - **04.08** - [Link](https://www.youtube.com/watch?v=FrhAUSHMPvg&t=10s)
 - **02.06** - [Link](https://www.youtube.com/watch?v=MHXRSu40NTA&t=199s)
-
+- **27.01** - [Link](https://www.youtube.com/watch?v=WgpLeWj98-E)
+  
 ### 2024
 - **11.09** - [Link](https://www.youtube.com/watch?v=d4sbJeM63E4&t=420s)
 - **11.06** - [Link](https://www.youtube.com/watch?v=SSTmuUoSRzA) - Featuring Wondertan on the weekly community call (Longest podcast in Cosmos - 145 weeks)
@@ -221,5 +222,6 @@
 
 ### 2025
 - **27.09** - [Link](https://www.youtube.com/watch?v=Blk_0updEak)
+- **06.09** - [Link](https://www.youtube.com/watch?v=5GMcuT5b_pA)
 
 ---
