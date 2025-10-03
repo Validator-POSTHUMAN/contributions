@@ -38,7 +38,7 @@ We’re about to deliver the following **ASAP**:
 - **One-liner Setup**  
 
 # Community and marketing contributions:
-
+# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/atomone)
   ### Our contributions for the growth of the Atone community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
