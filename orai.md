@@ -10,7 +10,8 @@
 
 
 ## Marketing contributions:
-#We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain)
+
+We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain)
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
