@@ -13,9 +13,11 @@
 
 We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain)
 
+  ### Our contributions for the growth of the ORAIchain community.
+
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Atone for a long time. | [Query CosmosEcosystem tweets about ORAIchain](https://x.com/search?q=from%3ACosmosEcosystem%20(oraichain%20OR%20orai%20OR%20ORAI)&src=typed_query&f=live) | We spread the word about ORAIchain for a long time. |
+| Cosmos Ecosystem X | 35k followers. We have been promoting ORAIchain for a long time. | [Query CosmosEcosystem tweets about ORAIchain](https://x.com/search?q=from%3ACosmosEcosystem%20(oraichain%20OR%20orai%20OR%20ORAI)&src=typed_query&f=live) | We spread the word about ORAIchain for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover ORAIchain updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about ORAIchain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(oraichain%20OR%20orai%20OR%20ORAI)&src=typed_query&f=live) | We spread the word about ORAIchain for a long time. |
 
 - [Long thread about ORAIchain 2](https://x.com/POSTHUMAN_DVS/status/1963875758885278102)
