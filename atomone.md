@@ -77,11 +77,22 @@ We’re about to deliver the following **ASAP**:
 
 ## Cosmos News
 - **Weekly News**
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1928803912372613152)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1873403235299668380)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1878130576856670211)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1852683681317404916)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1849776309213295102)
 - **Daily News**
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1930685493743649208)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1928107066280808639)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1926282763025387730)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1923428137041297803)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1915698792986284163)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1911422141007823201)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1907414215368814931)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1906394500689199324)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1898784904147873958)
+  - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1892647414600720689)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1865805021700345960)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1877283347438735471)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1857398154771185930)
