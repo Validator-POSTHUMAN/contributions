@@ -5,7 +5,7 @@
 - [Cosmos Voice 16](https://youtu.be/6EeWafRlm-I) 
 - [Cosmos Voice 73](https://youtu.be/Z6EyoK5vJcg)
 - [Cosmos Voice 84](https://www.youtube.com/watch?v=yNJDsyL4yU0)
-- Cosmos Voice 123](https://www.youtube.com/watch?v=68Ijtt_wXkw)
+- [Cosmos Voice 123](https://www.youtube.com/watch?v=68Ijtt_wXkw)
 - [Akash Network](https://www.youtube.com/watch?v=Zi3NBSPf8fU)
 
 - We develop [Sputnik Network](https://sputnik.exchange/), and we added $AKT into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
