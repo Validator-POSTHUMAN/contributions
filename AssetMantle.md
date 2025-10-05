@@ -35,7 +35,12 @@ Including Validation, Free tools for Community etc.
 - [Russian-Speaking AssetMantle Community Chat](https://t.me/Asset_Mantle_ru) 
 - [We are in the process of adding Asset Mantle to the Cosmos Ecosystem Crew3](https://crew3.xyz/c/cosmosecosystem/questboard) 
  
-## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+### Our contributions for the growth of the AssetMantle community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting AssetMantle and its updates since genesis. | [Query CosmosEcosystem tweets about AssetMantle](https://x.com/search?q=from%3ACosmosEcosystem%20(AssetMantle%20OR%20MNTL)&src=typed_query&f=live) | We spread the word about AssetMantle and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover AssetMantle updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about AssetMantle](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(AssetMantle%20OR%20MNTL)&src=typed_query&f=live) | We spread the word about AssetMantle and its updates since genesis. |
 
 # Full List Here:
 
