@@ -24,8 +24,9 @@
   - [News About Archway](https://x.com/CosmosEcosystem/status/1750932858661650455)
   - [News About Archway](https://x.com/CosmosEcosystem/status/1677355379187937280)
   - [News About Archway](https://x.com/CosmosEcosystem/status/1677355367381057537)
-
-  - **Daily News**
+    
+ - **Daily News**
+    
   - [News About Archway](https://x.com/CosmosEcosystem/status/1920012439644512421)
   - [News About Archway](https://x.com/CosmosEcosystem/status/1909575064460177474)
   - [News About Archway](https://x.com/CosmosEcosystem/status/1838547189783544108)
