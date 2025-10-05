@@ -11,8 +11,9 @@
 ## Marketing and Community Contributions
 
 ### Videos
-- **YouTube** (11.5k subscribers)  
+- **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+  
   - [Cosmos Voice - Includes talk about Agoric](https://www.youtube.com/watch?v=idGK8Surv20&t=3853s)
   - [Cosmos Voice - Agoric updates from validator-contributor](https://www.youtube.com/watch?v=jwvv3Obu41U)
 - **What is Agoric?**  
