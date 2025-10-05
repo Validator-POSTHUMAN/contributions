@@ -42,7 +42,7 @@ Including Validation, Free tools for Community etc.
 | Cosmos Ecosystem X | 35k followers. We have been promoting AssetMantle and its updates since genesis. | [Query CosmosEcosystem tweets about AssetMantle](https://x.com/search?q=from%3ACosmosEcosystem%20(AssetMantle%20OR%20MNTL)&src=typed_query&f=live) | We spread the word about AssetMantle and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover AssetMantle updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about AssetMantle](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(AssetMantle%20OR%20MNTL)&src=typed_query&f=live) | We spread the word about AssetMantle and its updates since genesis. |
 
-# Full List Here:
+# List Here:
 
 - [16 MAR 2022](https://twitter.com/CosmosEcosystem/status/1504108010305695760)
 - [19 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505277951968956418)
@@ -78,4 +78,34 @@ Including Validation, Free tools for Community etc.
 - [29 JAN 2023](https://twitter.com/CosmosEcosystem/status/1618600070747938818)
 - [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619334484020822016)
 - [28 JAN 2023](https://twitter.com/CosmosEcosystem/status/1619349322306572293)
-- [And there's way more in our Cosmos Ecosystem X! Check it out!](https://x.com/cosmosecosystem) 
+
+## Cosmos News
+- **Weekly News**
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1773692834840744081)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1768967266333245814)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1766153318122856855)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1763557885269721219)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1761376668772381083)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1758841498588655918)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1604165494025891840)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1601609883937558530)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1598729419765342209)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1596206565169954816)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1593650869735759879)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1588563220091977728)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1586351868414132225)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1583556576073289728)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1580959673716310025)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1578427122296578053)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1545811915779235841)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1543282596876099593)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1538182138813718528)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1535327674285056004)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1530258481353306115)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1525170815385452544)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1522652655990063106)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1515350581963018251)
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1474450760473657345)
+
+- **Daily News**
+  - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1885230573515690434)
