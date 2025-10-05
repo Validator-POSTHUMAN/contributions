@@ -22,12 +22,14 @@
   - [Watch on YouTube](https://www.youtube.com/watch?v=0vtvbua0tNU)
 
 ### Cosmos Ecosystem News
-- **Daily News**  
-  - [Post 1](https://x.com/CosmosEcosystem/status/1881334025060859978)  
-  - [Post 2](https://x.com/CosmosEcosystem/status/1881724807408198059)  
-  - [Post 3](https://x.com/CosmosEcosystem/status/1877283347438735471)  
+- **Daily News**
+  - [News About BeeZee](https://x.com/CosmosEcosystem/status/1927398792304755179)
+  - [News About BeeZee](https://x.com/CosmosEcosystem/status/1904218136502558876)
+  - [News About BeeZee](https://x.com/CosmosEcosystem/status/1881724807408198059)
+  - [News About BeeZee](https://x.com/CosmosEcosystem/status/1877283347438735471)
+
 - **Weekly News**  
-  - [Post 1](https://x.com/CosmosEcosystem/status/1878130576856670211)
+  - [News About BeeZee](https://x.com/CosmosEcosystem/status/1878130576856670211)
 
 ### Other Tweets, Mentions, and Amplifications
 - **Details for news**  
