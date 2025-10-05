@@ -1,11 +1,10 @@
 ![1v (5)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/ab385f5e-bfa1-41f5-8a9d-4c7d928bc7c2)
 # POSTHUMAN contributions for [Akash Network](https://akash.network/)
 
-### Videos
+- We spread the information about Akash Network among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
-
-- We spread the information about Akash Network among russian-speaking community of Cosmos Ecosystem: 
+  
 - [Cosmos Voice 16](https://youtu.be/6EeWafRlm-I) 
 - [Cosmos Voice 73](https://youtu.be/Z6EyoK5vJcg)
 - [Cosmos Voice 84](https://www.youtube.com/watch?v=yNJDsyL4yU0)
