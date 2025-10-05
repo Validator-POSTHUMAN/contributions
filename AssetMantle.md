@@ -21,9 +21,11 @@ Including Validation, Free tools for Community etc.
   ## Videos, where AssetMantle is mentioned
  - [NFT: How not to become a victim of digital transformation?](https://www.youtube.com/watch?v=UUo_rBuNdlw)
   
-  ### Also we have a weekly community audio/video chats with 54+videos where we speak about Cosmos Ecosystem Projects and also spread the word about AssetMantle and Asset Mantle related projects! 
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about AssetMantle and Asset Mantle related projects! 
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+ - [AMA with AssetMantle](https://www.youtube.com/watch?v=bEpCrxvmj0E)
 
 ### Cosmos Academy in Russian 10 lessons for new users! 
 
