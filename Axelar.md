@@ -33,17 +33,22 @@ Covering news from the Axelar Ecosystem:
 - [Infographic 3](https://x.com/CosmosEcosystem/status/1860887292467970239)  
 
 ### Daily News  
-- [Daily Update 1](https://x.com/CosmosEcosystem/status/1845444433497440292)  
-- [Daily Update 2](https://x.com/CosmosEcosystem/status/1848026611007848843)  
-- [Daily Update 3](https://x.com/CosmosEcosystem/status/1850919048638280031)  
-- [Daily Update 4](https://x.com/CosmosEcosystem/status/1861284600963539315)  
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1937505218490695955)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1932730497983029437)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1919060529869443202)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1907067916505272328)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1882354699497886153)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1872357225039303130)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1850919048638280031)
+- [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1848026611007848843)
+
 
 ### Weekly News (Statistics)  
-- [Weekly Update 1](https://x.com/CosmosEcosystem/status/1842233928310304800)  
-- [Weekly Update 2](https://x.com/CosmosEcosystem/status/1847257084036841811)  
-- [Weekly Update 3](https://x.com/CosmosEcosystem/status/1849776309213295102)  
-- [Weekly Update 4](https://x.com/CosmosEcosystem/status/1852347500134388075)  
-- [Weekly Update 5](https://x.com/CosmosEcosystem/status/1857817790763159999)  
+- [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1842233928310304800)  
+- [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1847257084036841811)  
+- [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1849776309213295102)  
+- [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1852347500134388075)  
+- [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1857817790763159999)  
 
 
 </details>
