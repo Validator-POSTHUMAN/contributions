@@ -47,3 +47,4 @@ Here is not the full list of our contributions:
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
 - [Union](https://github.com/Validator-POSTHUMAN/contributions/blob/main/union.md)
+- [0g](https://github.com/Validator-POSTHUMAN/contributions/blob/main/0g.md)
