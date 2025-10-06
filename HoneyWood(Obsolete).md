@@ -1,4 +1,4 @@
-# POSTHUMAN contributions for HoneyWood
+# POSTHUMAN contributions for [HoneyWood](https://honeywood.io/)
 
 ## Technical Contributions
 - **POSTHUMAN validates HoneyWood**  
