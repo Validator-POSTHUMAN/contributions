@@ -45,4 +45,4 @@
   - [News About Cyber](https://x.com/CosmosEcosystem/status/1740798178373652638)
   - [News About Cyber](https://x.com/CosmosEcosystem/status/1739933026191065409)
   - [News About Cyber](https://x.com/CosmosEcosystem/status/1734144210562105848)
-  https://x.com/CosmosEcosystem/status/1733839069795479839
+  - [News About Cyber](https://x.com/CosmosEcosystem/status/1733839069795479839)
