@@ -1,23 +1,9 @@
 ![photo_2022-08-01_14-07-46](https://user-images.githubusercontent.com/92199696/182135214-27d5558b-1be3-4cc9-b6e2-16a5f298a516.jpg)
 <br/>
 # The list of contributions for the [Evmos](https://evmos.org/)
-<details>
-  <summary>Our Team:</summary>
-
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Albert Andrejev Competencies](https://github.com/albertandrejev)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-</details>
 
 # Technical Contributions
 Including Validation, RPC nodes, Free tools for Community etc. 
-
-<details>
-  <summary>List of Technical Contributions:</summary>
-  
 
 - We validating Evmos Chain in Mainnet | [Validator's link](https://www.mintscan.io/evmos/validators/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
 
@@ -33,13 +19,9 @@ Including Validation, RPC nodes, Free tools for Community etc.
   # Humanitarian Contributions
  Including Community Growth (X, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
  
- <details>
-  <summary>List of Humanitarian Contributions:</summary>
+ # List of Humanitarian Contributions:
   
-## X <br/>
-
-<details>
-  <summary>X Activity</summary>
+## X 
   
   ![X JULY](https://user-images.githubusercontent.com/92199696/182177504-341e08bb-31ae-4712-a1b4-3b29ea731e36.jpg) <br/>
   
@@ -48,8 +30,7 @@ Including Validation, RPC nodes, Free tools for Community etc.
   ![image](https://user-images.githubusercontent.com/92199696/182175046-d010b7af-88d8-420b-8533-d9a699d599d2.png) <br/>
 
 
-<details>
-  <summary>Cosmos News</summary>
+# Cosmos News
   
 -	[22 JANUARY 22](https://X.com/CosmosEcosystem/status/1484649432050249735)
 -	[29 JANUARY 22](https://X.com/CosmosEcosystem/status/1487170430997876737)
@@ -83,10 +64,7 @@ Including Validation, RPC nodes, Free tools for Community etc.
 
 And more could be discovered from 2023-2024 in our [X(Twitter)](x.com/cosmosecosystem)
 
-  </details>
-  
-  <details>
-  <summary>Evmos Stats and Mentions</summary>
+# Evmos Stats and Mentions
     
 -	[22 JANUARY 22](https://X.com/CosmosEcosystem/status/1484920494377902090)
 -	[20 MARCH 22](https://X.com/CosmosEcosystem/status/1505277951968956418)    
@@ -98,13 +76,8 @@ And more could be discovered from 2023-2024 in our [X(Twitter)](x.com/cosmosecos
 - [18 SEPT 22](https://X.com/CosmosEcosystem/status/1571547329551028225)
 - [30 OCT 22](https://X.com/CosmosEcosystem/status/1586710255957786624)
 
-  </details>
-  </details>
-  
-## Telegram <br/>
 
-<details>
-  <summary>Telegram Activity</summary> <br/>
+## Telegram 
   
 We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:<br>
 <br/> ![image](https://user-images.githubusercontent.com/92199696/182184346-75fa351c-03df-42a0-bff0-7ffe820be5e2.png)
@@ -117,10 +90,7 @@ Also we have news channel where we posting Evmos Updates and Links and other new
 <br/> Example about Evmos [Staking Guide](https://t.me/CosmosEcosystemNews_ru/972)<br/>
   </details>
   
-  ## YouTube<br/>
-
-<details>
-  <summary>YouTube Activity</summary>
+  ## YouTube
 
 This is our big part of humanitarian side of our contibutions for Evmos: <br/>
 We have several YouTube channels: <br/>
@@ -134,9 +104,6 @@ Videos (We mentioned Evmos in our videos)
    </details>
    
    ## Evangelism
-
-<details>
-  <summary>Evangelism Activity:</summary>
 
 - We always write about Evmos in our Socials! | [X](https://X.com/ponimajushij),[X 2](https://X.com/ZametkiHodlera)
 - We creating content on https://X.com/CosmosEcosystem and always make reposts of Evmos news
@@ -162,7 +129,7 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
 - [Cosmos Talks 10](https://youtu.be/sLqmZqONxcY?t=2493)
 
-  We had more than 130 meetings already! 
+  We had more than 200 meetings already! 
 - Whole playlist of Cosmos Voice Talks [here](https://youtube.com/playlist?list=PLHJPonHxjyvrdVgK8YvFfqAN0hiwns5P4)
  </details>
  </details>
