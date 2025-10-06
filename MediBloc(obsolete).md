@@ -1,6 +1,9 @@
-# List of contributions for the development of the MediBloc (This is not full list, it's in the process of updating)
+# POSTHUMAN contributions for [MediBloc](https://medibloc.com/)
 
-POSTHUMAN validate MediBloc: https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z
+## Technical Contributions
+- **POSTHUMAN validates MediBloc**  
+  [MediBloc Validator Details](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z)
+  
 
 ## Informational Contributions
 
@@ -33,6 +36,10 @@ POSTHUMAN moderate russian-speaking community of MediBloc: https://t.me/MediBloc
 
 ## Content Contributions 
 
+## We spread the information about Medibloc among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
 POSTHUMAN creates video content about MediBloc. You can see logo of MediBloc in video, and links on MediBloc in the description:
 
 - Video about MediBloc "Medicine of the future": https://youtu.be/7WyoynTMhIE
@@ -48,3 +55,9 @@ POSTHUMAN creates video content about MediBloc. You can see logo of MediBloc in 
 ## Support in other networks
 
 POSTHUMAN supports MediBloc in other networks by voting on proposals in the interest of the development of MediBloc. For example: https://www.mintscan.io/osmosis/proposals/477
+
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting MediBloc and its updates since genesis. | [Query CosmosEcosystem tweets about MediBloc](https://x.com/search?q=from%3ACosmosEcosystem%20(MediBloc%20)&src=typed_query&f=live) | We spread the word about MediBloc and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover MediBloc updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about MediBloc](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(MediBloc%20)&src=typed_query&f=live) | We spread the word about MediBloc and its updates since genesis. |
