@@ -8,6 +8,8 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
+  ## Videos about Crescent Network
+
   - [What is Crescent Network?](https://www.youtube.com/watch?v=cJGlm0o6pgE)
   - [Cosmos Voice #15](https://www.youtube.com/watch?v=I-FX9o4LgIQ)
 
