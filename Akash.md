@@ -5,7 +5,7 @@
 - **POSTHUMAN validates Akash mainnet**  
   [Akash Validator Details](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
   
-## We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Akash among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   
