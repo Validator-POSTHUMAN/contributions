@@ -6,7 +6,7 @@
 
 
 - We validate [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
-- [Vladimir Understanding](https://github.com/Antropocosmist) is the Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $XPRT to https://t.me/SputnikPriceBot
+- We are the Navigators of [Sputnik Network](https://sputnik.exchange/), and we added $XPRT to https://t.me/SputnikPriceBot
 - We added $XPRT to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $XPRT in Twitter and Telegram, and also p2p-exchange $XPRT directly in Telegram! News about it in [Twitter](https://twitter.com/SputnikNetwork/status/1417799239598592000)
 - We attract people to delegate and hold $XPRT tokens with our Distributed Validator Model with $PHMN token incentives for the real delegators. [Details](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6)
 
