@@ -4,7 +4,7 @@
 - **POSTHUMAN validates Cyber mainnet**  
   [Cyber Validator Details](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
   
-- We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
