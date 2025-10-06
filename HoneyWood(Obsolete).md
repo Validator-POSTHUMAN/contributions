@@ -4,10 +4,11 @@
 - **POSTHUMAN validates HoneyWood**  
   [HoneyWood Network Validator Details]()
   
-## We spread the information about Chihuahua among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about HoneyWood among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
-
+  
+## Videos about Cyber
   - [Cosmos Voice #27](https://www.youtube.com/watch?v=LVopimoM8Jk)
   - [Cosmos Voice #31](https://www.youtube.com/watch?v=CNDfMpArQ34)
   - [Cosmos Voice #57](https://www.youtube.com/watch?v=rR0fP6CgOEw)
