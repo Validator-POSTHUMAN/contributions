@@ -6,17 +6,16 @@
   
 
 ## Informational Contributions
+1. POSTHUMAN translated MediBloc whitepaper into russian language: https://antropocosmist.medium.com/medibloc-white-paper-rus-4217a8e4febf
 
+
+2. POSTHUMAN provide informational support with [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) to MediBloc
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting MediBloc and its updates since genesis. | [Query CosmosEcosystem tweets about MediBloc](https://x.com/search?q=from%3ACosmosEcosystem%20(MediBloc%20)&src=typed_query&f=live) | We spread the word about MediBloc and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover MediBloc updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about MediBloc](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(MediBloc%20)&src=typed_query&f=live) | We spread the word about MediBloc and its updates since genesis. |
 
-
-1. POSTHUMAN translated MediBloc whitepaper into russian language: https://antropocosmist.medium.com/medibloc-white-paper-rus-4217a8e4febf
-
-2. POSTHUMAN provide informational support with [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) to MediBloc
 
 Examples:
 
