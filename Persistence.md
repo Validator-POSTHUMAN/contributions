@@ -92,6 +92,10 @@ We help to Persistence with community development: <br />
 - [02 DEC 22](https://twitter.com/CosmosEcosystem/status/1598502576789815296?t=yGRlMFBEpq4QeU-mhYFstw&s=35)
 - [10 DEC 22](https://twitter.com/CosmosEcosystem/status/1601609883937558530?t=LMazd-J5XhKZnYDEWfArZQ&s=09)
 
+## Twitter Activity 2023 (News, Graphics etc.)
+<img width="2504" height="1386" alt="image" src="https://github.com/user-attachments/assets/82b95b25-61c0-458b-a298-8799541c7bd3" />
+
+
 ## Twitter Activity 2024 (News, Graphics etc.)
 - [30 DEC 24](https://x.com/CosmosEcosystem/status/1873644004870672535)
 - [24 DEC 24](https://x.com/CosmosEcosystem/status/1871594216553431381)
