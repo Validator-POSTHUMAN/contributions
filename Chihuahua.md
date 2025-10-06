@@ -2,7 +2,7 @@
 
 ## Technical Contributions
 - **POSTHUMAN validates Chihuahua**  
-  [CerberusZone Validator Details]()
+  [Chihuahua Validator Details]()
   
 ## We spread the information about Chihuahua among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
