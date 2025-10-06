@@ -1,3 +1,7 @@
+# POSTHUMAN contributions for DECENTR
+
+## We spread the information about Decentr among russian-speaking community of Cosmos Ecosystem:
+
 # Humanitarian Part
 
 - We've created a video about Decentr and Solar DVPN | [Video Link](https://youtu.be/GReIa0bnH9I) </br>
