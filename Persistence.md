@@ -95,8 +95,41 @@ We help to Persistence with community development: <br />
 ## Twitter Activity 2023 (News, Graphics etc.)
 <img width="2504" height="1386" alt="image" src="https://github.com/user-attachments/assets/82b95b25-61c0-458b-a298-8799541c7bd3" />
 
+- [29 DEC 23](https://x.com/CosmosEcosystem/status/1740798178373652638)
+- [24 DEC 23](https://x.com/CosmosEcosystem/status/1738891803414458438)
+- [22 DEC 23](https://x.com/CosmosEcosystem/status/1738231048939712934)
+- [12 DEC 23](https://x.com/CosmosEcosystem/status/1734548496852865410)
+- [11 DEC 23](https://x.com/CosmosEcosystem/status/1734144210562105848)
+- [7 DEC 23](https://x.com/CosmosEcosystem/status/1732673337921556660)
+- [5 DEC 23](https://x.com/CosmosEcosystem/status/1732028986895519888)
+- [2 DEC 23](https://x.com/CosmosEcosystem/status/1730947122802176306)
+- [1 DEC 23](https://x.com/CosmosEcosystem/status/1730552687148581325)
+- [10 NOV 23](https://x.com/CosmosEcosystem/status/1723058481731609076)
+- [5 NOV 23](https://x.com/CosmosEcosystem/status/1721128379036901609)
+- [25 OCT 23](https://x.com/CosmosEcosystem/status/1717126858138063270)
+- [23 SEP 23](https://x.com/CosmosEcosystem/status/1705595297848823913)
+- [22 SEP 23](https://x.com/CosmosEcosystem/status/1705219934806999516)
+- [11 SEP 23](https://x.com/CosmosEcosystem/status/1701304838997389726)
+- [1 SEP 23](https://x.com/CosmosEcosystem/status/1697626194798154010)
+- [29 JUl 23](https://x.com/CosmosEcosystem/status/1685278195191275520)
+- [9 JUl 23](https://x.com/CosmosEcosystem/status/1667147563101814786)
+- [7 JUN 23](https://x.com/CosmosEcosystem/status/1666446135668424706)
+- [31 MAY 23](https://x.com/CosmosEcosystem/status/1663899679921254404)
+- [30 MAY 23](https://x.com/CosmosEcosystem/status/1663533235391930371)
+- [26 MAY 23](https://x.com/CosmosEcosystem/status/1662109387358339073)
+- [3 MAY 23](https://x.com/CosmosEcosystem/status/1653720301748776961)
+- [2 MAY 23](https://x.com/CosmosEcosystem/status/1653366956819398656)
+- [1 MAY 23](https://x.com/CosmosEcosystem/status/1653034012359921667)
+- [24 APR 23](https://x.com/CosmosEcosystem/status/1650486067068542976)
+- [18 APR 23](https://x.com/CosmosEcosystem/status/1648377776800514052)
+- [15 MAR 23](https://x.com/CosmosEcosystem/status/1635985793230725120)
+- [7 FEB 23](https://x.com/CosmosEcosystem/status/1622951510567944192)
+- [19 JAN 23](https://x.com/CosmosEcosystem/status/1616060265711407104)
+- [13 JAN 23](https://x.com/CosmosEcosystem/status/1613948884673523712)
 
 ## Twitter Activity 2024 (News, Graphics etc.)
+<img width="2503" height="1314" alt="image" src="https://github.com/user-attachments/assets/78382224-5009-4a02-96ca-6264e913d22c" />
+
 - [30 DEC 24](https://x.com/CosmosEcosystem/status/1873644004870672535)
 - [24 DEC 24](https://x.com/CosmosEcosystem/status/1871594216553431381)
 - [16 DEC 24](https://x.com/CosmosEcosystem/status/1868589135780618581)
@@ -160,6 +193,8 @@ We help to Persistence with community development: <br />
 - [3 JAN 24](https://x.com/CosmosEcosystem/status/1742490724724347212)
 
 ## Twitter Activity 2025 (News, Graphics etc.)
+<img width="1854" height="1593" alt="image" src="https://github.com/user-attachments/assets/434ca83f-2f5c-43db-b396-3dde683a2f2c" />
+
 - [26 JUN 25](https://x.com/CosmosEcosystem/status/1938285829316825390)
 - [24 JUN 25](https://x.com/CosmosEcosystem/status/1937505218490695955)
 - [21 JUN 25](https://x.com/CosmosEcosystem/status/1936451977673937357)
