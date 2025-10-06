@@ -1,18 +1,6 @@
 ![Injective](https://user-images.githubusercontent.com/92199696/220547305-1c7614ae-ed07-4e68-8db8-dcc657f32ca6.png)
 # The list of contributions for the [Injective](https://injective.com/)
 
-<details>
-  <summary>Our Team:</summary>
-
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- Secret Member😎
-- Testnet Guru 🥷
-- This character is unexplored👽
-
 ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
   </details>
 
