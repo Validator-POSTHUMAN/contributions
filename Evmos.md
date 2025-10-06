@@ -29,6 +29,10 @@ Including Validation, RPC nodes, Free tools for Community etc.
   
   ![image](https://user-images.githubusercontent.com/92199696/182175046-d010b7af-88d8-420b-8533-d9a699d599d2.png) <br/>
 
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Cyber Network and its updates since genesis. | [Query CosmosEcosystem tweets about Evmos](https://x.com/search?q=from%3ACosmosEcosystem%20(evmos%20)&src=typed_query&f=live) | We spread the word about Evmos and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Evmos updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Evmos](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Evmos%20)&src=typed_query&f=live) | We spread the word about Evmos and its updates since genesis. |
 
 # Cosmos News
   
@@ -61,6 +65,16 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - [14 OCT 22](https://X.com/CosmosEcosystem/status/1580959673716310025)
 - [21 OCT 22](https://X.com/CosmosEcosystem/status/1583556576073289728)
 - [04 NOV 22](https://X.com/CosmosEcosystem/status/1588563231861526528)
+- [16 NOV 22](https://x.com/CosmosEcosystem/status/1592929309337219073)
+- [25 NOV 22](https://x.com/CosmosEcosystem/status/1596206565169954816)
+- [2 DEC 22](https://x.com/CosmosEcosystem/status/1598729419765342209)
+- [10 DEC 22](https://x.com/CosmosEcosystem/status/1601609883937558530)
+- [17 DEC 22](https://x.com/CosmosEcosystem/status/1604856657699225600)
+- [13 AUG 24](https://x.com/CosmosEcosystem/status/1823395521882636407)
+- [16 AUG 24](https://x.com/CosmosEcosystem/status/1824430048536912073)
+- [4 SEP 24](https://x.com/CosmosEcosystem/status/1831351498003149281)
+- [15 SEP 24](https://x.com/CosmosEcosystem/status/1835278909144719427)
+- [09 JAN 25](https://x.com/CosmosEcosystem/status/1877283347438735471)
 
 And more could be discovered from 2023-2024 in our [X(Twitter)](x.com/cosmosecosystem)
 
