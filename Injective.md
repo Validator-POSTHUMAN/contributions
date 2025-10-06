@@ -300,6 +300,24 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - **Weekly News 1** – [https://x.com/CosmosEcosystem/status/1908551957326770668](https://x.com/CosmosEcosystem/status/1908551957326770668)  
 - **Weekly News 2** – [https://x.com/CosmosEcosystem/status/1916185432611528997](https://x.com/CosmosEcosystem/status/1916185432611528997)  
 
+### Injective Ecosystem News – May, 2025
+
+#### Daily News
+- **Daily News 1** – [https://x.com/CosmosEcosystem/status/1918325902921916577](https://x.com/CosmosEcosystem/status/1918325902921916577)
+- **Daily News 2** – [https://x.com/CosmosEcosystem/status/1919296555657646102](https://x.com/CosmosEcosystem/status/1919296555657646102)
+- **Daily News 3** – [https://x.com/CosmosEcosystem/status/1920017109779947835](https://x.com/CosmosEcosystem/status/1920017109779947835)
+- **Daily News 4** – [https://x.com/CosmosEcosystem/status/1922253862733337035](https://x.com/CosmosEcosystem/status/1922253862733337035)
+- **Daily News 5** – [https://x.com/CosmosEcosystem/status/1922629324563218499](https://x.com/CosmosEcosystem/status/1922629324563218499)
+- **Daily News 6** – [https://x.com/CosmosEcosystem/status/1923038102806798358](https://x.com/CosmosEcosystem/status/1923038102806798358)
+- **Daily News 7** – [https://x.com/CosmosEcosystem/status/1926691699411026135](https://x.com/CosmosEcosystem/status/1926691699411026135)
+- **Daily News 8** – [https://x.com/CosmosEcosystem/status/1927398792304755179](https://x.com/CosmosEcosystem/status/1927398792304755179)
+- **Daily News 9** – [https://x.com/CosmosEcosystem/status/1925434031472353631](https://x.com/CosmosEcosystem/status/1925434031472353631)
+
+#### Weekly News
+- **Weekly News 1** – [https://x.com/CosmosEcosystem/status/1921207974933991916](https://x.com/CosmosEcosystem/status/1921207974933991916)
+- **Weekly News 2** – [https://x.com/CosmosEcosystem/status/1923754298682618200](https://x.com/CosmosEcosystem/status/1923754298682618200)
+- **Weekly News 3** – [https://x.com/CosmosEcosystem/status/1926290992564453786](https://x.com/CosmosEcosystem/status/1926290992564453786)
+
 
 ### We have more than 10k subsctibers our YouTube channel [CryptoBase](https://youtube.com/cryptobased)
 ![image](https://user-images.githubusercontent.com/92199696/220563685-1cfa3933-b615-484d-ad4c-045e6f32eb70.png) <br/>
