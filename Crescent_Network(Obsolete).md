@@ -4,7 +4,7 @@
 - **POSTHUMAN validates Crescent Network**  
   [Crescent Network Validator Details]()
   
-## We spread the information about Chihuahua among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Crescent Network among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
