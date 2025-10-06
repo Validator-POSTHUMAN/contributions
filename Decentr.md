@@ -1,6 +1,6 @@
 # POSTHUMAN contributions for DECENTR
 
-## We spread the information about Decentr among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Decentr among our russian-speaking community:
 
 # Humanitarian Part
 
