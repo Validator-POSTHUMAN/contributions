@@ -1,7 +1,23 @@
+
+# POSTHUMAN contributions for [Kyve](https://www.kyve.network/)
+
+## Technical Contributions
+- **POSTHUMAN validates Kyve**  
+  [Kyve Validator Details](https://wallet.keplr.app/chains/kyve?modal=validator&chain=kyve-1&validator_address=kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+  
+## We spread the information about Kyve among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
 ## Videos  
 - [Cosmos Voice with Kyve co-founder Fabian](https://youtu.be/oyKvR9tE5k4)  
 - [Cosmos Voice with Kyve's co-founder Fabian (English extract)](https://www.youtube.com/watch?v=ssRCSVV3Ts4&ab_channel=POSTHUMAN)  
 - [POSTHUMAN Video on Kyve](https://x.com/POSTHUMAN_DVS/status/1783195443100323883)  
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
 ### Our contributions for the growth of the Kyve community.
 
