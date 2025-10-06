@@ -1,7 +1,11 @@
 ![1v (5)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/ab385f5e-bfa1-41f5-8a9d-4c7d928bc7c2)
 # POSTHUMAN contributions for [Akash Network](https://akash.network/)
 
-- We spread the information about Akash Network among russian-speaking community of Cosmos Ecosystem:
+## Technical Contributions
+- **POSTHUMAN validates Akash mainnet**  
+  [Akash Validator Details](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
+  
+## We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   
