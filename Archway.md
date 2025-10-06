@@ -5,7 +5,7 @@
 - **POSTHUMAN validates Archway mainnet**  
   [Archway Validator Details]()
   
-## We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Archway among russian-speaking community of Cosmos Ecosystem:
 
 ## Videos 
 - [Archway Drop Camp](https://www.youtube.com/watch?v=ee2UW7DjI5M&t=84s)
