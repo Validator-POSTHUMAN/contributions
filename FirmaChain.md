@@ -8,7 +8,7 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-## Videos about Cyber
+## Videos about Firmachain
 - [The best blockchain projects on the Cosmos network](https://www.youtube.com/watch?v=3YFKDHx-is4&t=140s)
 - [How to stake FirmaChain?](https://www.youtube.com/watch?v=9r_3UfVWTlI)
 
