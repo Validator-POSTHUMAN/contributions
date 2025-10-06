@@ -8,7 +8,7 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-## Videos about 
+## Videos about Cyber
 - [CYBER. FULL INSTRUCTIONS](https://www.youtube.com/watch?v=FSZLhTuIjGY&t=79s)
 - [Green balls](https://www.youtube.com/watch?v=mtIeR66q830)
 - [CYB.AI platform analysis](https://www.youtube.com/watch?v=D8YR0SkZIKo&t=371s)
