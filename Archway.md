@@ -1,6 +1,12 @@
 ![1v (8)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/0884e6e0-9953-447a-aa91-0b006f974855)
 # List of POSTHUMAN contributions for [Archway](https://archway.io/)
 
+## Technical Contributions
+- **POSTHUMAN validates Archway mainnet**  
+  [Archway Validator Details]()
+  
+## We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
+
 ## Videos 
 - [Archway Drop Camp](https://www.youtube.com/watch?v=ee2UW7DjI5M&t=84s)
 - [Complete tutorial on Archway airdrop, staking, IBC transfers and governance](https://www.youtube.com/watch?v=8j18IWQ4puc)
