@@ -10,7 +10,7 @@
 
 - We are Navigators of [Sputnik Network](https://sputnik.exchange/), and we added $LIKE to https://t.me/SputnikPriceBot
 - We added $LIKE to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $LIKE in Twitter and Telegram, and also p2p-exchange $LIKE directly in Telegram! News in [Twitter](https://twitter.com/SputnikNetwork/status/1417665774785794048) and news in [Telegram](https://t.me/SputnikDish/98)
-- We always write about LikeCoin at [my Twitter](https://twitter.com/ponimajushij) and my [Medium](https://antropocosmist.medium.com/glad-to-join-likecoin-as-a-validator-2b1637700fcd)
+- We always write about LikeCoin at [Twitter](https://twitter.com/ponimajushij) and [Medium](https://antropocosmist.medium.com/glad-to-join-likecoin-as-a-validator-2b1637700fcd)
 - We are creators of [russian-speaking community of LikeCoin in Telegram](https://t.me/LikeCoinRU)
 - Our article about [joining to LikeCoin as a validator](https://antropocosmist.medium.com/glad-to-join-likecoin-as-a-validator-2b1637700fcd)
 - Our video-guide [how to add LikeCoin into Keplr, and how to delegate $LIKE in russian language](https://youtu.be/bZ4wVG3FkwM)
