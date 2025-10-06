@@ -20,4 +20,8 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting KiChain and its updates since genesis. | [Query CosmosEcosystem tweets about KiChain](https://x.com/search?q=from%3ACosmosEcosystem%20(Ki_Foundation%20)&src=typed_query&f=live) | We spread the word about KiChain and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover KiChain updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about KiChain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Ki_Foundation%20)&src=typed_query&f=live) | We spread the word about KiChain and its updates since genesis. |
 
+## Cosmos News
+  - [News About KiChain](https://x.com/CosmosEcosystem/status/1703427555900993960)
+  - [News About KiChain](https://x.com/CosmosEcosystem/status/1700208659597258869)
+  - [News About KiChain](https://x.com/CosmosEcosystem/status/1462797648902168578)
 
