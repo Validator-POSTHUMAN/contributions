@@ -12,4 +12,4 @@
 - We added a short [graphics](https://twitter.com/CosmosEcosystem/status/1552942390859776001) about how to fix a little issue
 ![image](https://user-images.githubusercontent.com/92199696/181785958-59302d53-c336-477c-a597-475f02967101.png)
 
-- [How to top up subscription with DVPN tokens](https://www.youtube.com/watch?v=l2DTeY3H6AU&t=10s)
+-  Guide 👉 [How to top up subscription with DVPN tokens](https://www.youtube.com/watch?v=l2DTeY3H6AU&t=10s)
