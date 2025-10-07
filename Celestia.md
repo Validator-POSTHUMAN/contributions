@@ -235,3 +235,6 @@
 - **06.09** - [Link](https://www.youtube.com/watch?v=5GMcuT5b_pA)
 
 ---
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
