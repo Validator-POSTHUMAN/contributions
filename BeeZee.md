@@ -13,7 +13,7 @@
 - **X (Twitter)**  
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
-- **YouTube** (11.5k subscribers)  
+- **YouTube** (12k subscribers)  
   - [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ### Videos
