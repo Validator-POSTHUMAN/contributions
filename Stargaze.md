@@ -14,10 +14,10 @@
 
 ### Videos
 <img width="2541" height="1421" alt="image" src="https://github.com/user-attachments/assets/2d4153d8-823c-423c-be48-7e61e52420ec" />
+
 - [Review of the NFT STARGAZE Marketplace](https://www.youtube.com/watch?v=bMroVUz_pe8)
 - [Cosmos Ecosystem Insider Chat #34: Kujira, Stargaze, Ark, Juno Dashboards, and Bali Announcement](https://www.youtube.com/watch?v=dqYdnV2zE5M)
 
-https://www.youtube.com/watch?v=dqYdnV2zE5M
  ### Our contributions for the growth of the Stargaze community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
