@@ -62,3 +62,6 @@ POSTHUMAN creates video content about MediBloc. You can see logo of MediBloc in 
 
 POSTHUMAN supports MediBloc in other networks by voting on proposals in the interest of the development of MediBloc. For example: https://www.mintscan.io/osmosis/proposals/477
 
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
