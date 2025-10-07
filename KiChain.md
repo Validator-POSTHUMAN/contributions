@@ -21,6 +21,8 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover KiChain updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about KiChain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Ki_Foundation%20)&src=typed_query&f=live) | We spread the word about KiChain and its updates since genesis. |
 
 ## Cosmos News
+<img width="2516" height="1417" alt="image" src="https://github.com/user-attachments/assets/9ce3799c-066e-47d9-9e5d-f63c92cbc797" />
+
   - [News About KiChain](https://x.com/CosmosEcosystem/status/1703427555900993960)
   - [News About KiChain](https://x.com/CosmosEcosystem/status/1700208659597258869)
   - [News About KiChain](https://x.com/CosmosEcosystem/status/1462797648902168578)
