@@ -16,6 +16,7 @@
 ### Additional Resources:
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/zetachain?tab=state-sync)  
 - **Zetachain on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/zetachain)
+- **Block Explorer** [for ZetaChain](https://explorer.posthuman.digital/zetachain)
   </details>
   
 ## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
