@@ -34,3 +34,6 @@
 - [News About HoneyWood](https://x.com/CosmosEcosystem/status/1642919947595833345)
 - [News About HoneyWood](https://x.com/CosmosEcosystem/status/1685979063738134528)
 - [News About HoneyWood](https://x.com/CosmosEcosystem/status/1689359004072288256)
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
