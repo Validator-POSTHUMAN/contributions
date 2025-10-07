@@ -7,6 +7,8 @@
 ## We spread the information about Likecoin among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+  <img width="2551" height="1392" alt="image" src="https://github.com/user-attachments/assets/7e64d8d1-7814-4f41-ba44-5876d709b71a" />
+
     - [The best blockchain projects in the Cosmos Ecosystem](https://www.youtube.com/watch?v=kOCAyx-oILw)
     - [Cosmos Voice #17](https://www.youtube.com/watch?v=9Hz0SbnykvM)
 
