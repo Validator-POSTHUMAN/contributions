@@ -9,6 +9,8 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos about Firmachain
+<img width="2551" height="1392" alt="image" src="https://github.com/user-attachments/assets/c085871e-447d-4dbb-b248-d7c8d828b4fc" />
+
 - [The best blockchain projects on the Cosmos network](https://www.youtube.com/watch?v=3YFKDHx-is4&t=140s)
 - [How to stake FirmaChain?](https://www.youtube.com/watch?v=9r_3UfVWTlI)
 
