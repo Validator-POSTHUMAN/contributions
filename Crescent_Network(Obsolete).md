@@ -47,3 +47,6 @@
 - [News About Crescent](https://x.com/CosmosEcosystem/status/1604165503513395200)
 - [News About Crescent](https://x.com/CosmosEcosystem/status/1593650884034043904)
 - [News About Crescent](https://x.com/CosmosEcosystem/status/1583556585682395137)
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
