@@ -1,4 +1,4 @@
-<img width="2541" height="1421" alt="image" src="https://github.com/user-attachments/assets/d171a8de-888c-460f-8560-e95b6d3621dd" /># POSTHUMAN Contributions for Stargaze
+# POSTHUMAN Contributions for Stargaze
 ## Technical Contributions
 - **We validate Stargaze chain**  
   [Stargaze Validator Details](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)  
