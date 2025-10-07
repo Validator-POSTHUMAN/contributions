@@ -1,23 +1,7 @@
 ![Secret](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/3b73ee7d-c5af-4e29-a15a-351383f81b5d)
 # The list of POSTHUMAN contributions for the [Secret Network](https://scrt.network/)
 
-<details>
-  <summary>Our Team:</summary>
-
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Albert Andrejev Competencies](https://github.com/albertandrejev)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- All the team could be found here: https://posthuman.digital/team
-
-</details>
-
 # Technical Contributions
-
-<details>
-  <summary>Our Technical Contributions List:</summary>
 
 ### We're validating [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 
@@ -28,12 +12,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 We launched Osmosis <-> Secret IBC Relayer
 `secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k`
 
-</details>
-
 # Humanitarian Contributions
-
-<details>
-  <summary>Our Humanitarian Contributions List:</summary>
 
 ## Community Development
 
