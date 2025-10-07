@@ -11,11 +11,13 @@
 
 ## Other services:
 - Services: https://nodes.posthuman.digital/chains/oraichain
-- Block explorer: https://explorer.posthuman.digital/oraichain
 - [Instalation Guide](https://nodes.posthuman.digital/chains/oraichain?tab=installation-guide)
 - [State Sync](https://nodes.posthuman.digital/chains/oraichain?tab=state-sync)
 - [Snapshots](https://nodes.posthuman.digital/chains/oraichain?tab=snapshots)
 - Govenance tool is coming soon
+
+## Alpha of Block Explorer for RAIchain
+- Block explorer: https://explorer.posthuman.digital/oraichain (if you don't see stats imediatly - you need to wait until data is uploaded, we are on fixing it)
 
 
 ## Marketing contributions:
