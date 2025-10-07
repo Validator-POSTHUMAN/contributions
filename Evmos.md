@@ -147,3 +147,6 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - Whole playlist of Cosmos Voice Talks [here](https://youtube.com/playlist?list=PLHJPonHxjyvrdVgK8YvFfqAN0hiwns5P4)
  </details>
  </details>
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
