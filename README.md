@@ -7,10 +7,12 @@ Here is not the full list of our contributions:
 # 0-9
 - [0g](https://github.com/Validator-POSTHUMAN/contributions/blob/main/0g.md)
 # A
-- [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
-- [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
+- [Agotic](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Agoric.md)
 - [Akash Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Akash.md)
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
+- [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
+- [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
+- [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
 # B
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
@@ -41,6 +43,7 @@ Here is not the full list of our contributions:
 - [Juno Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/JunoNetwork.md)
 # K
 - [KiChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/KiChain.md)
+- [KYVE](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Kyve.md)
 # L
 - [LikeCoin](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LikeCoin.md)
 - [LUM Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LUM_Network.md)
@@ -56,7 +59,7 @@ Here is not the full list of our contributions:
 # P
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
 # Q
-
+- [QuickSilver](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Quicksilver.md)
 # R
 
 # S
@@ -78,7 +81,7 @@ Here is not the full list of our contributions:
 # W
 
 # X
-
+- [XRPL](https://github.com/Validator-POSTHUMAN/contributions/blob/main/XRPL.md)
 # Y
 
 # Z
