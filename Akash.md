@@ -211,3 +211,6 @@
   - [News About Akash](https://x.com/CosmosEcosystem/status/1622951510567944192)
   - [News About Akash](https://x.com/CosmosEcosystem/status/1622222974165057537)
   - [News About Akash](https://x.com/CosmosEcosystem/status/1617534103221567492)
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
