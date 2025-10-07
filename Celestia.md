@@ -45,6 +45,7 @@
 
 ## Celestia Technical Contributions
 
+<div align="center">
 
 ![image](https://github.com/user-attachments/assets/d1ad92be-565b-422e-a532-219fb0c54f2b)
 
