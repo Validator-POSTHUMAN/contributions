@@ -276,7 +276,6 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 
 # Economical Contributions
 
-## Economical Contributions
 - We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 - [POSTHUMAN add 20% of income to LP JUNO PHMN](https://youtu.be/1AU-qurmsoU) <br/>
 
