@@ -1,6 +1,15 @@
-# The list of contributions for ORAI
+# The list of contributions for ORAIchain
 
-## Tech contributions:
+# Technical Contributions
+
+## At the moment, we provide the following services for the ORAIchain:
+
+- rpc: https://rpc.oraichain.posthuman.digital
+- rest: https://rest.oraichain.posthuman.digital
+- grpc: https://grpc.oraichain.posthuman.digital
+- peer: 07dde93a5ea10fc4623ef421d0de0e2b5b556e80@157.180.4.156:36657
+
+## Other services:
 - Services: https://nodes.posthuman.digital/chains/oraichain
 - Block explorer: https://explorer.posthuman.digital/oraichain
 - [Instalation Guide](https://nodes.posthuman.digital/chains/oraichain?tab=installation-guide)
