@@ -38,8 +38,7 @@
 |                  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | POSTHUMAN Explorer                       | -                      | -                                                     |
 
-
-
+</details>
 
 # Technical Contributions
 
@@ -50,6 +49,7 @@
 ![image](https://github.com/user-attachments/assets/d1ad92be-565b-422e-a532-219fb0c54f2b)
 
 ### At the moment, we provide the following services for the Celestia:
+</div>
 
 - **Type**: mainnet  
 - **Chain ID**: celestia  
@@ -63,7 +63,7 @@
 - **Celestia Lightnode Setup Tutorial**: [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/celestia%20light%20node%20setup%20tutorial.md)
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
-
+  </details>
 
 # Community and Marketing Contributions
 
