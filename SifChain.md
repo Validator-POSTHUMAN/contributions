@@ -4,21 +4,7 @@
 
 # The list of contributions for the [SifChain](https://sifchain.finance/)
 
-<details>
-  <summary>Our Team:</summary>
-
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Albert Andrejev Competencies](https://github.com/albertandrejev)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-</details>
-
 # Technical Contributions
-
-<details>
-  <summary>Our Technical Contributions List:</summary>
 
 - We're validating [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $ROWAN to https://t.me/SputnikPriceBot without any support
@@ -37,22 +23,22 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 - https://lcd.sifchain.posthuman.digital/
 
 - We've added Restake Support for $ROWAN on [EcoStake](https://twitter.com/POSTHUMAN_DVS/status/1563433230631866370)
-  </details>
 
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
-## Twitter <br/>
+## Twitter
 
-<details>
-  <summary>Twitter Activity</summary>
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting SifChain and its updates since genesis. | [Query CosmosEcosystem tweets about SifChain](https://x.com/search?q=from%3ACosmosEcosystem%20(SifChain%20)&src=typed_query&f=live) | We spread the word about SifChain and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover SifChain updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about SifChain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(SifChain%20)&src=typed_query&f=live) | We spread the word about SifChain and its updates since genesis. |
   
 ![223](https://user-images.githubusercontent.com/92199696/166885936-4603128a-0ba0-4090-9e41-a20c3d82a140.jpg)<br/>
 
 - We've created a brand new SifChain Weekly Infographics! <br/>
 ![image](https://user-images.githubusercontent.com/92199696/171229504-f8d3c591-785f-4a76-b6c2-ce74a8f06ed4.png)<br/>
 
-<details>
-  <summary>2022 SifChain Weekly Episodes:</summary>
+- 2022 SifChain Weekly Episodes:
 
 - [31 MAY 22](https://twitter.com/CosmosEcosystem/status/1531677784103391234)
 - [7 JUNE 22](https://twitter.com/CosmosEcosystem/status/1534248844988489730)
@@ -76,12 +62,10 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 - [04 OCT 22](https://twitter.com/CosmosEcosystem/status/1577330853411057664)
   </details>
 
-We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem). <br/>
+We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem).
 We have Cosmos News with SifChain mention:
-- Cosmos News <br/>
-
-<details>
-  <summary>2022 Twitter Graphics News with SifChain Mentioned:</summary>
+# Cosmos News
+- 2022 Twitter Graphics News with SifChain Mentioned:
   
 - [14 JAN 22](https://twitter.com/CosmosEcosystem/status/1482022761023381514)
 - [22 JAN 22](https://twitter.com/CosmosEcosystem/status/1484649435208507395)
@@ -105,7 +89,7 @@ We have Cosmos News with SifChain mention:
 - [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142277622804481)
 - [02 SEP 22](https://twitter.com/CosmosEcosystem/status/1565723782022676482)
 - [17 SEP 22](https://twitter.com/CosmosEcosystem/status/1571152607351287809)
-  </details>
+
 
 ![Sifc](https://user-images.githubusercontent.com/92199696/171862762-32024354-8b6b-4086-ba78-2583ff8c8d8a.jpg)<br/>
 [26 JUNE 22 SIFCHAIN RECAP MID JUNE GRAPHICS](https://twitter.com/CosmosEcosystem/status/1541055688016797697) <br/>
@@ -121,24 +105,17 @@ Some stats:<br/>
 ![Twitter Stats Views etc](https://user-images.githubusercontent.com/92199696/170971060-b34fb21a-af62-4929-bd29-943673267073.jpg)
 </details>
 
-## Telegram <br/>
-
-<details>
-  <summary>Telegram Activity</summary>
-  
+## Telegram 
 We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:<br>
 <br/>![333](https://user-images.githubusercontent.com/92199696/166893977-525aa9fe-3ca4-41ac-ae29-418def7e69bd.jpg)
 - https://t.me/Osmosis_ru
 - https://t.me/CosmosEcosystem_ru
 - https://t.me/Crypto_Base_Chat <br/>
 Also we have news channel where we posting Rowan Updates and Links and other news from Cosmos Ecosystem:
-<br/>[Example about Sifchain Hiring](https://t.me/CosmosEcosystemNews_ru/620)<br/>
-  </details>
+-[Example about Sifchain Hiring](https://t.me/CosmosEcosystemNews_ru/620)<br/>
+ 
 
-## YouTube<br/>
-
-<details>
-  <summary>YouTube Activity</summary>
+## YouTube
 
 This is our big part of humanitarian side of our contibutions for SifChain: <br/>
 We have several YouTube channels: <br/>
@@ -157,21 +134,17 @@ Videos (We mentioned SifChain in our videos)
 - [AMA with POSTHUMAN Team in SifChain Russian](https://youtu.be/OuggeFYiNgA)
 - [Watching Cosmoverse with POSTHUMAN. We've talked about Sifchain and others](https://t.me/Crypto_Base_Chat/34601)
 - [Jazear's speech on Cosmoverse with short recap and machine translation on Russian](https://youtu.be/jrkIdsk0phQ)
-   </details>
 
 
 ## Evangelism
-
-<details>
-  <summary>Evangelism Activity:</summary>
 
 - We always write about SifChain at [Twitter](https://twitter.com/ponimajushij),[Twitter 2](https://twitter.com/ZametkiHodlera)
 - We creating content on https://twitter.com/CosmosEcosystem and always make reposts of SifChain news
 - We write about SifChain at [blog on Medium](https://medium.com/@antropocosmist)
 - We have [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) where we explaining for non-tech and tech people how to validate networks with humanitarian and technical lessons. <br/>
 
-<details>
-  <summary>Our graduates now validating SifChain:</summary>
+
+# Our graduates now validating SifChain:</summary>
   
 1. https://www.mintscan.io/sifchain/validators/sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg <br/>
 
@@ -187,7 +160,7 @@ Videos (We mentioned SifChain in our videos)
      </details>
   
 
-And there will be more! <br/>
+# More!
 
 - Vladimir Ponimajushij participating in different crypto-conferences as a speaker. For example, He was a speaker at [CoInvest Conference](https://coinvest.events/), that have been organized by [CoinPost](https://t.me/Coin_Post) - the biggest Crypto Channel in Telegram. It was a paid conference, so only people who bought ticket could see online, and here is a [video from his speech](https://youtu.be/Z_crcY4NGA4), and he spoke about SifChain and Cosmos Ecosystem a lot!
 Here is the translation of my [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
@@ -205,4 +178,6 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [Cosmos Talks 8](https://www.youtube.com/watch?v=OkcToiATIDk)
 - [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
 - [Cosmos Talks 10](https://youtu.be/sLqmZqONxcY?t=2493) 
- </details>
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
