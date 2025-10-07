@@ -62,3 +62,6 @@
   - [News About Archway](https://x.com/CosmosEcosystem/status/1675837294853357570)
   - [News About Archway](https://x.com/CosmosEcosystem/status/1669324687598313472)
   - [News About Archway](https://x.com/CosmosEcosystem/status/1666780377300574208)
+
+  # Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
