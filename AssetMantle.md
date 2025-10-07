@@ -44,6 +44,8 @@ Including Validation, Free tools for Community etc.
 
 
 ## Cosmos News
+<img width="1621" height="925" alt="image" src="https://github.com/user-attachments/assets/1c954f9e-41c7-4350-9e3b-2ee286206251" />
+
 - **Weekly News**
   - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1773692834840744081)
   - [News About AssetMantle](https://x.com/CosmosEcosystem/status/1768967266333245814)
