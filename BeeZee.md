@@ -22,6 +22,8 @@
   - [Watch on YouTube](https://www.youtube.com/watch?v=0vtvbua0tNU)
 
 ### Cosmos Ecosystem News
+<img width="1894" height="1587" alt="image" src="https://github.com/user-attachments/assets/db1d0d97-b80d-4c54-b879-9819216782c5" />
+
 - **Daily News**
   - [News About BeeZee](https://x.com/CosmosEcosystem/status/1927398792304755179)
   - [News About BeeZee](https://x.com/CosmosEcosystem/status/1904218136502558876)
