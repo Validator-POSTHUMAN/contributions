@@ -82,4 +82,7 @@
 - [Coverage Mention](https://x.com/CosmosEcosystem/status/1650541163626082316)  
 - [Community Engagement](https://x.com/POSTHUMAN_DVS/status/1641091388115947521)  
 
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
 
