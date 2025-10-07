@@ -266,3 +266,6 @@ We help to Persistence with community development: <br />
 
 ## About us
 - [Our webpage](https://posthuman.digital/)
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
