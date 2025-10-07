@@ -325,3 +325,6 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - New episode of CryptoBase with the better quality and Injective was warmly discussed! [Link](https://youtu.be/ntKJxcjAOF4?t=1578)
 - Overview of Injective Ecosystem on 61th Voice Chat of Cosmos Ecosystem Russian speaking community! [Link](https://www.youtube.com/watch?v=dA5d1t_wG4s)
 - [**Playlist**](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) of 58+videos of our Weekly Community Calls where we speak about Cosmos Ecosystem projects and also about Injective! 
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
