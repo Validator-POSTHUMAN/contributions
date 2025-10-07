@@ -26,6 +26,8 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Crescent Network updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Crescent Network](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(CrescentHub%20)&src=typed_query&f=live) | We spread the word about Crescent Network and its updates since genesis. |
 
 ## Cosmos News
+<img width="2506" height="1402" alt="image" src="https://github.com/user-attachments/assets/6a154a03-6caa-47d0-a01a-ac1603320886" />
+
 - [News About Crescent](https://x.com/CosmosEcosystem/status/1715410792349155823)
 - [News About Crescent](https://x.com/CosmosEcosystem/status/1692146966803968152)
 - [News About Crescent](https://x.com/CosmosEcosystem/status/1681262796447813632)
