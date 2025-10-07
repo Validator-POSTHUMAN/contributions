@@ -88,6 +88,7 @@ We have Cosmos News with SifChain mention:
 - [26 AUG 22](https://twitter.com/CosmosEcosystem/status/1563142277622804481)
 - [02 SEP 22](https://twitter.com/CosmosEcosystem/status/1565723782022676482)
 - [17 SEP 22](https://twitter.com/CosmosEcosystem/status/1571152607351287809)
+- [21 OCT 22](https://x.com/CosmosEcosystem/status/1583556576073289728)
 
 
 ![Sifc](https://user-images.githubusercontent.com/92199696/171862762-32024354-8b6b-4086-ba78-2583ff8c8d8a.jpg)<br/>
