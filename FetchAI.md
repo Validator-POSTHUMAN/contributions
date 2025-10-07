@@ -36,6 +36,8 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Fetch updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Fetch](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Fetch%20)&src=typed_query&f=live) | We spread the word about Fetch and its updates since genesis. |
 
 ## Cosmos News
+<img width="1598" height="897" alt="image" src="https://github.com/user-attachments/assets/bc9b9d3a-898e-41a9-a314-31546ff530d8" />
+
 - **Weekly News**
   - [News About Fetch](https://x.com/CosmosEcosystem/status/1928803912372613152)
   - [News About Fetch](https://x.com/CosmosEcosystem/status/1842233928310304800)
