@@ -8,8 +8,6 @@
   ### At the moment, we provide the following services for the Zetachain:
 </div>
 
-- **Type**: mainnet  
-- **Chain ID**: zetachain_7000-1 
 - **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.zetachain.posthuman.digital) 
 - **REST**: [https://rest.zetachain.posthuman.digital](https://rest.zetachain.posthuman.digital)  
 - **gRPC**: [https://grpc.zetachain.posthuman.digital](https://grpc.zetachain.posthuman.digital)  
