@@ -38,7 +38,6 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 - We've created a brand new SifChain Weekly Infographics! <br/>
 ![image](https://user-images.githubusercontent.com/92199696/171229504-f8d3c591-785f-4a76-b6c2-ce74a8f06ed4.png)<br/>
 
-- 2022 SifChain Weekly Episodes:
 
 - [31 MAY 22](https://twitter.com/CosmosEcosystem/status/1531677784103391234)
 - [7 JUNE 22](https://twitter.com/CosmosEcosystem/status/1534248844988489730)
@@ -101,9 +100,9 @@ We have Cosmos News with SifChain mention:
 
 ![image](https://user-images.githubusercontent.com/92199696/170959014-129ccfa4-70ac-4a0b-b0cc-5f3cee7bf399.png)<br/>
 
-Some stats:<br/>
+Some stats:
 ![Twitter Stats Views etc](https://user-images.githubusercontent.com/92199696/170971060-b34fb21a-af62-4929-bd29-943673267073.jpg)
-</details>
+
 
 ## Telegram 
 We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:<br>
