@@ -35,7 +35,7 @@
 <img width="1664" height="1667" alt="image" src="https://github.com/user-attachments/assets/5b4a31cb-4b8e-4e75-9f74-724a7466914f" />
 
 
-- **Weekly News**  
+# **Weekly News**  
  - [14.06.2025](https://x.com/CosmosEcosystem/status/1933878245939933521)
  - [24.05.2025](https://x.com/CosmosEcosystem/status/1926290992564453786)
  - [26.04.2025](https://x.com/CosmosEcosystem/status/1916185432611528997)
@@ -52,8 +52,8 @@
  - [14.07.2023](https://x.com/CosmosEcosystem/status/1679914437673615372)
  - [03.03.2023](https://x.com/CosmosEcosystem/status/1631704604839641089)
  - [13.10.2022](https://x.com/CosmosEcosystem/status/1580498223407370241)
- 
-- **Daily News**
+
+# **Daily News**
  - [29.06.2025](https://x.com/CosmosEcosystem/status/1939345154424607038)
  - [20.06.2025](https://x.com/CosmosEcosystem/status/1936101362531803213)
  - [10.06.2025](https://x.com/CosmosEcosystem/status/1932347239361290711)
