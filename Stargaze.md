@@ -1,4 +1,4 @@
-# POSTHUMAN Contributions for Stargaze
+<img width="2541" height="1421" alt="image" src="https://github.com/user-attachments/assets/d171a8de-888c-460f-8560-e95b6d3621dd" /># POSTHUMAN Contributions for Stargaze
 ## Technical Contributions
 - **We validate Stargaze chain**  
   [Stargaze Validator Details](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)  
@@ -13,7 +13,11 @@
   - [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ### Videos
+<img width="2541" height="1421" alt="image" src="https://github.com/user-attachments/assets/2d4153d8-823c-423c-be48-7e61e52420ec" />
+- [Review of the NFT STARGAZE Marketplace](https://www.youtube.com/watch?v=bMroVUz_pe8)
+- [Cosmos Ecosystem Insider Chat #34: Kujira, Stargaze, Ark, Juno Dashboards, and Bali Announcement](https://www.youtube.com/watch?v=dqYdnV2zE5M)
 
+https://www.youtube.com/watch?v=dqYdnV2zE5M
  ### Our contributions for the growth of the Stargaze community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
