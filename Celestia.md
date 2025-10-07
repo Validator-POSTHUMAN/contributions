@@ -101,7 +101,10 @@
 
 ## 2025
 
-### Cosmos Daily  
+### Cosmos Daily
+
+<img width="1547" height="1277" alt="image" src="https://github.com/user-attachments/assets/b963e0a5-3f6b-4057-a3f3-ee8852fd76d3" />
+
 > Cosmos Ecosystem Daily digital newspaper:
 
 <ul>
