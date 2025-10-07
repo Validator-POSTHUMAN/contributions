@@ -64,7 +64,7 @@ We launched a community quest program on the [Centrifuge platform.](https://cent
  - [15.05.2025](https://x.com/CosmosEcosystem/status/1922629324563218499)
  - [12.05.2025](https://x.com/CosmosEcosystem/status/1921846406144217253)
  - [05.05.2025](https://x.com/CosmosEcosystem/status/1919296555657646102)
- - [24.04.2025](hhttps://x.com/CosmosEcosystem/status/1915329286451716382)
+ - [24.04.2025](https://x.com/CosmosEcosystem/status/1915329286451716382)
  - [21.04.2025](https://x.com/CosmosEcosystem/status/1914203379557154930)
  - [10.04.2025](https://x.com/CosmosEcosystem/status/1910266463535177843)
  - [03.04.2025](https://x.com/CosmosEcosystem/status/1907837856095035777)
