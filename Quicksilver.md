@@ -9,7 +9,7 @@
 ## We spread the information about Quicksilver among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
-  ![Uploading image.png…]()
+<img width="2513" height="1379" alt="image" src="https://github.com/user-attachments/assets/ff427b71-c6a5-4d19-9bbd-435f9b2c1130" />
 
    - [CURRENT ANALYSIS OF COSMOS PROJECTS 2024](https://www.youtube.com/watch?v=MCsFOisC8IA&t=766s)
 
