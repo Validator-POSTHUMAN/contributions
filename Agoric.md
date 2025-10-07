@@ -26,6 +26,8 @@
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
 ### News Mentions
+<img width="1531" height="1625" alt="image" src="https://github.com/user-attachments/assets/755e88f6-89e1-4dd7-b251-d111879503e2" />
+
 - **Cosmos News Weekly mentioning Agoric**
   - [Post 1](https://x.com/CosmosEcosystem/status/1844772672145633534/photo/1)  
   - [Post 2](https://x.com/CosmosEcosystem/status/1578065846919839746)  
