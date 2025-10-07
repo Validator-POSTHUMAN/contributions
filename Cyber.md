@@ -52,3 +52,6 @@
   - [News About Cyber](https://x.com/CosmosEcosystem/status/1739933026191065409)
   - [News About Cyber](https://x.com/CosmosEcosystem/status/1734144210562105848)
   - [News About Cyber](https://x.com/CosmosEcosystem/status/1733839069795479839)
+
+  # Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
