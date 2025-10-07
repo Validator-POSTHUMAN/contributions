@@ -23,3 +23,6 @@
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Odin Protocol for a long time. | [Query CosmosEcosystem tweets about Odin Protocol](https://x.com/search?q=from%3ACosmosEcosystem%20Odinprotocol&src=typed_query&f=live) | We spread the word about Odin Protocol for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Odin Protocol updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Odin Protocol](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Odinprotocol&src=typed_query&f=live) | We spread the word about Odin Protocol for a long time. | 
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
