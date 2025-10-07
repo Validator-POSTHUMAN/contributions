@@ -17,13 +17,13 @@ Here is not the full list of our contributions:
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
 # C
-- [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cosmos%20New.md)
-- [Chihuahua Chain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Chihuahua.md)
+- [Celestia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md)
 - [Cerberus Zone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CerberusZone.md)
+- [Chihuahua Chain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Chihuahua.md)
+- [Comdex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/comdex.md)
+- [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cosmos%20New.md)
 - [Crescent Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crescent_Network.md)
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
-- [Celestia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md)
-- [Comdex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/comdex.md)
 # D
 - [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
 - [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/dymension.md)
@@ -52,10 +52,10 @@ Here is not the full list of our contributions:
 # N
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
 # O
+- [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
+- [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
 - [ORAIchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/orai.md)
 - [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
-- [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
-- [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
 # P
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
 # Q
@@ -63,16 +63,16 @@ Here is not the full list of our contributions:
 # R
 
 # S
+- [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
+- [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
-- [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
 - [Stargaze](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stargaze.md)
-- [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
-- [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
+- [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
 # T
-- [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
 - [Teritori](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Teritori.md)
+- [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
 # U
 - [Union](https://github.com/Validator-POSTHUMAN/contributions/blob/main/union.md)
 - [UX (ex-Umee)](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
@@ -86,6 +86,3 @@ Here is not the full list of our contributions:
 
 # Z
 - [ZetaChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/zetachain.md)
-
-
-
