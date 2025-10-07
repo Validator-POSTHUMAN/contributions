@@ -33,7 +33,7 @@ We launched Osmosis <-> Secret IBC Relayer
 
 - [We always talk about Secret on the Cosmos Ecosystem voice chats in this group](https://t.me/CosmosEcosystem_ru)
 
-### Also we have a weekly community audio/video chats with 80+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Secret and other Cosmos Ecosystem projects! 
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Secret and other Cosmos Ecosystem projects! 
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
