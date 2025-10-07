@@ -10,6 +10,8 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos  
+<img width="2551" height="1392" alt="image" src="https://github.com/user-attachments/assets/ba6381fb-477d-4762-b19e-06cd02f865ff" />
+
 - [The best blockchain projects in the Cosmos Ecosystem](https://www.youtube.com/watch?v=kOCAyx-oILw)  
 
 ### Social Media
