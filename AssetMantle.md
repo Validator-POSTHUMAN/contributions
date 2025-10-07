@@ -120,3 +120,6 @@ Including Validation, Free tools for Community etc.
 - [29 MAR 2024](https://x.com/CosmosEcosystem/status/1773692834840744081)
 - [31 JAN 2025](https://x.com/CosmosEcosystem/status/1885230573515690434)
 
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
