@@ -14,6 +14,9 @@
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
+  <img width="2480" height="1409" alt="image" src="https://github.com/user-attachments/assets/294a8e7f-686b-4c9b-81f6-1deeb88c67a6" />
+
+
   ### Our contributions for the growth of the Sentinel community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
