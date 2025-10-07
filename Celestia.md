@@ -51,8 +51,6 @@
 
 ### At the moment, we provide the following services for the Celestia:
 
-</div>
-
 - **Type**: mainnet  
 - **Chain ID**: celestia  
 - **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.celestia-mainnet.posthuman.digital)  
@@ -66,7 +64,6 @@
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
 
-</details>
 
 # Community and Marketing Contributions
 
