@@ -42,6 +42,8 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Akash Network updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Akash Network](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Akash%20OR%20akashnet_)&src=typed_query&f=live) | We spread the word about Akash Network and its updates since genesis. |
 
 ## Cosmos News
+<img width="2485" height="1433" alt="image" src="https://github.com/user-attachments/assets/7dcfb6b7-d86e-4e24-990f-601f18d8f924" />
+
 - **Weekly News**
   - [News About Akash](https://x.com/CosmosEcosystem/status/1928803912372613152)
   - [News About Akash](https://x.com/CosmosEcosystem/status/1895877591510499733)
