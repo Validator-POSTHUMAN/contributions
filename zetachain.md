@@ -3,7 +3,7 @@
 ## Technical Contributions
 - **POSTHUMAN validates Zetachain**  
   [Zetachain Validator Details](https://hub.zetachain.com/staking)
-<img width="2218" height="876" alt="image" src="https://github.com/user-attachments/assets/618a4cf5-4038-47ad-8510-51bc93aa1fa8" />
+<img width="2138" height="1026" alt="image" src="https://github.com/user-attachments/assets/55108dbd-9103-430f-9d62-a488b3e846e8" />
 
   ### At the moment, we provide the following services for the Zetachain:
 </div>
