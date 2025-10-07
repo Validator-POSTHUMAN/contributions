@@ -24,6 +24,13 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
+## Videos 
+<img width="2517" height="1415" alt="image" src="https://github.com/user-attachments/assets/970194dc-4be7-4d25-8edd-9c5aa697e0f3" />
+
+- [Voice of the Ecosystem #112 - Part 1 - Denis Fadeev - ZetaChain](https://www.youtube.com/watch?v=7YmanD3yfjs)
+- [People in Cosmos #10 - Denis Fadeev, ZetaChain](https://www.youtube.com/watch?v=0ZNNb7yo90E)|
+- [ZetaChain (ZETA) Quick Guide](https://www.youtube.com/watch?v=__TgQSB0OPU)
+
 ### Social Media
 - **X (Twitter)**  
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
@@ -59,3 +66,5 @@
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
