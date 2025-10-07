@@ -26,6 +26,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Kyve for a long time. | [Query CosmosEcosystem tweets about Kyve](https://x.com/search?q=from%3ACosmosEcosystem%20KYVENetwork&src=typed_query&f=live) | We spread the word about Kyve for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Kyve updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Kyve](https://x.com/search?q=from%3APOSTHUMAN_DVS%20KYVENetwork&src=typed_query&f=live) | We spread the word about Kyve for a long time. | 
 ## Media Presence  
+<img width="2489" height="1413" alt="image" src="https://github.com/user-attachments/assets/219e6d25-18d9-494b-8619-bf4e3d7fb275" />
 
 ### X - Cosmos Weekly Updates Featuring Kyve  
 - [Post 1](https://x.com/CosmosEcosystem/status/1860323731039518840)  
