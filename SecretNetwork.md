@@ -28,8 +28,11 @@ We launched Osmosis <-> Secret IBC Relayer
 - [RU. Cosmos Ecosystem community call #27 Secret Network from A to Z](https://youtu.be/LVopimoM8Jk)
 - [RU. How to make sSCRT using SCRT?](https://www.youtube.com/watch?v=SPGGbNGXZjg)
 - [RU. Stassh NFT collection creation full walktrough](https://youtu.be/dA5d1t_wG4s)
-- Soon... <br> ![photo_2023-08-05_22-26-06](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/07554a7e-61bc-451b-afa5-1f89e0aa3a4a)
-<br/>
+- [RU. Cosmos Ecosystem community call #109 The Future and Present of Secret](https://www.youtube.com/watch?v=bzOg474zKEw)
+- [A look at events in the Secret Network](https://www.youtube.com/watch?v=vWUbyy-2uow)
+
+![photo_2023-08-05_22-26-06](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/07554a7e-61bc-451b-afa5-1f89e0aa3a4a)
+
 
 - [We always talk about Secret on the Cosmos Ecosystem voice chats in this group](https://t.me/CosmosEcosystem_ru)
 
@@ -38,6 +41,14 @@ We launched Osmosis <-> Secret IBC Relayer
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+
+### Our contributions for the growth of the Secret community.
+
+| Name               | Description                                                                      | Relevant URLs                                                                                                                                                    | Additional Details                                              |
+|--------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Secret and its updates for a long time.   | [Query CosmosEcosystem tweets about Secret](https://x.com/search?q=%28from%3ACosmosEcosystem%29%20%28%40SecretNetwork%20%29&src=typed_query&f=live)       | We spread the word about Secret across the Cosmos ecosystem.  |
+| POSTHUMAN X        | 7.5k followers. We actively cover Secret updates and ecosystem highlights.       | [Query POSTHUMAN_DVS tweets about Secret](https://x.com/search?q=%28from%3APOSTHUMAN_DVS%29%20%28%40SecretNetwork%20%29&src=typed_query&f=live)            | We consistently support and promote Secret developments.      |
+
 
 ### SECRET NETWORK WEEKLY <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/9c878abc-9afa-4565-93d2-a54e2fa1b751) <br/>
