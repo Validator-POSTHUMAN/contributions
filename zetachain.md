@@ -28,7 +28,7 @@
 <img width="2517" height="1415" alt="image" src="https://github.com/user-attachments/assets/970194dc-4be7-4d25-8edd-9c5aa697e0f3" />
 
 - [Voice of the Ecosystem #112 - Part 1 - Denis Fadeev - ZetaChain](https://www.youtube.com/watch?v=7YmanD3yfjs)
-- [People in Cosmos #10 - Denis Fadeev, ZetaChain](https://www.youtube.com/watch?v=0ZNNb7yo90E)|
+- [People in Cosmos #10 - Denis Fadeev, ZetaChain](https://www.youtube.com/watch?v=0ZNNb7yo90E)
 - [ZetaChain (ZETA) Quick Guide](https://www.youtube.com/watch?v=__TgQSB0OPU)
 
 # We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:
