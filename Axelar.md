@@ -25,6 +25,7 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 There's a plenty of updates about Axelar in our Cosmos Ecosystem [Twitter](https://x.com/CosmosEcosystem)
 
 ## Recent Contributions for Axelar Network
+<img width="1684" height="1664" alt="image" src="https://github.com/user-attachments/assets/55e90ffa-a532-4fe4-8164-3902d99a5f24" />
 
 ### Special Infographics  
 Covering news from the Axelar Ecosystem:  
