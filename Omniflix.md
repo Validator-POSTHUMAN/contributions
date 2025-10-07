@@ -47,6 +47,8 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Omniflix updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Omniflix](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(OmniFlixNetwork%20)&src=typed_query&f=live) | We spread the word about Omniflix and its updates since genesis. |
 
 ## Cosmos News
+<img width="1607" height="1026" alt="image" src="https://github.com/user-attachments/assets/a0695fba-2906-4b10-b1cf-bc05e880b4df" />
+
 - [19 MAR 2022](https://twitter.com/CosmosEcosystem/status/1505277951968956418/photo/1)
 - [26 AUG 2022](https://twitter.com/CosmosEcosystem/status/1563142268445687809/photo/1)
 - [2 SEP 2022](https://twitter.com/CosmosEcosystem/status/1565723772421799938/photo/1)
