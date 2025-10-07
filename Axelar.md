@@ -61,3 +61,6 @@ Covering news from the Axelar Ecosystem:
 | Cosmos Ecosystem X | 35k followers. We have been promoting Axelar Network and its updates since genesis. | [Query CosmosEcosystem tweets about Axelar Network](https://x.com/search?q=from%3ACosmosEcosystem%20(Axelar%20OR%20%40axelar)&src=typed_query&f=live) | We spread the word about Axelar Network and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Axelar Network updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Axelar Network](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Axelar%20OR%20%40axelar)&src=typed_query&f=live) | We spread the word about Axelar Network and its updates since genesis. |
 
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
