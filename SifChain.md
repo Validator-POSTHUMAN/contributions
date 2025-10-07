@@ -64,9 +64,9 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 
 We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem).
 We have Cosmos News with SifChain mention:
+
 # Cosmos News
-- 2022 Twitter Graphics News with SifChain Mentioned:
-  
+ 
 - [14 JAN 22](https://twitter.com/CosmosEcosystem/status/1482022761023381514)
 - [22 JAN 22](https://twitter.com/CosmosEcosystem/status/1484649435208507395)
 - [29 JAN 22](https://twitter.com/CosmosEcosystem/status/1487170440577667073)
