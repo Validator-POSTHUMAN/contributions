@@ -149,3 +149,6 @@
   - [News About Fetch](https://x.com/CosmosEcosystem/status/1744037985316942202)
   - [News About Fetch](https://x.com/CosmosEcosystem/status/1738891803414458438)
 
+  # Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
