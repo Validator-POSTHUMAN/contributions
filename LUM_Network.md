@@ -34,3 +34,5 @@
   - [News About LUM Network](https://x.com/CosmosEcosystem/status/1474450760473657345)
   - [News About LUM Network](https://x.com/CosmosEcosystem/status/1471902633216589824)
 
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
