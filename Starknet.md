@@ -6,7 +6,7 @@
 
 ### Our contributions for the growth of the Starknet community.
 
-## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Starknet among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   - [HOW TO STACK STARKNET IN 2025 DUMPS? A STEP-BY-STEP GUIDE FOR EVERYONE!](https://www.youtube.com/watch?v=XBcku5TTYj4)
@@ -14,7 +14,7 @@
   <img width="2406" height="1332" alt="image" src="https://github.com/user-attachments/assets/0d7bf32f-eeb5-4af1-af27-0b50f568e1a9" />
 
 
-# We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
 - https://t.me/Crypto_Base_Chat |  ~4000 members
