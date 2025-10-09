@@ -9,7 +9,7 @@
 
 # Humanitarian Contributions
   
-## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about BeeZee among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
