@@ -34,6 +34,7 @@
 ## We spread the information about Omniflix among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+<img width="2542" height="1421" alt="image" src="https://github.com/user-attachments/assets/eee22d82-4ef6-4381-8f83-28acf741d394" />
 
 ## Videos, where Omniflix is mentioned
 - [What's the Value of OmniFlix? - The CEO Explains!](https://www.youtube.com/watch?v=H0wG0AVTBK8)
