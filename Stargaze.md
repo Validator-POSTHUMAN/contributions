@@ -21,6 +21,8 @@
 - **Block Explorer** [for Stargaze](https://explorer.posthuman.digital/stargaze)
   </details>
 
+# Humanitarian Contributions
+
 ## Social, Community, and Marketing Contributions
 
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
