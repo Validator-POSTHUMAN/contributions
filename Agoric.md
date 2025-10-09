@@ -4,6 +4,28 @@
 ## Technical Contributions
 - **POSTHUMAN validates Agoric mainnet**  
   [Agoric Validator Details](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
+<img width="2204" height="899" alt="image" src="https://github.com/user-attachments/assets/c6d81df1-5b52-4abe-8f45-a2faeb92ec99" />
+
+ ### At the moment, we provide the following services for the Zetachain:
+</div>
+
+- **RPC**: [https://rpc.agoric.posthuman.digital](https://rpc.agoric.posthuman.digital) 
+- **REST**: [https://rest.agoric.posthuman.digital](https://rest.agoric.posthuman.digital)  
+- **gRPC**: [https://grpc.agoric.posthuman.digital](https://grpc.agoric.posthuman.digital)  
+- **Peer**: a31df340e2a186a0541cdb5099a1cca6eab67c75@135.181.61.154:12756
+
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=peers)  
+- **Agoric on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/agoric)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=installation-guide)
+- **IBC Relayers**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=IBC-Relayers)
+- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=snapshot-service)
+
+## Alpha of Block Explorer for Agoric
+- **Block Explorer** [for Agoric](https://explorer.posthuman.digital/agoric)
+  </details>
+
+# Humanitarian Contributions
 
   ### Services
   - **RPC/Snapshots/IBC-relayers and more:** [For Agoric](https://nodes.posthuman.digital/chains/agoric)
@@ -19,6 +41,17 @@
 - **What is Agoric?**  
   - [Omniflix Video](https://omniflix.tv/iv/678d2bdce74656280bb538c2)  
   - [YouTube Video](https://youtu.be/LR13OtkFaTI)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Celestia and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
@@ -89,3 +122,4 @@
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
