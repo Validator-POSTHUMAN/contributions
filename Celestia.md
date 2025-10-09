@@ -88,6 +88,7 @@
 - [Workshops Setting up Celestia LightNode](https://www.youtube.com/watch?v=nadajBxYlgY&t=4s) - [Announcement](https://x.com/synctems/status/1848311413309137153)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Celestia and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
