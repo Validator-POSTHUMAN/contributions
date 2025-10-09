@@ -11,9 +11,9 @@
  **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   
-## Videos 
 <img width="2507" height="1427" alt="image" src="https://github.com/user-attachments/assets/04a19df5-0f18-4374-a954-63561f7f6d81" />
 
+## Videos 
 - [Archway Drop Camp](https://www.youtube.com/watch?v=ee2UW7DjI5M&t=84s)
 - [Complete tutorial on Archway airdrop, staking, IBC transfers and governance](https://www.youtube.com/watch?v=8j18IWQ4puc)
 - [Cosmos Voice ft. Archway on the community call](https://www.youtube.com/watch?v=Az_12EXubSQ&t=22s)
