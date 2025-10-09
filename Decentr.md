@@ -1,4 +1,4 @@
-# POSTHUMAN contributions for DECENTR
+# POSTHUMAN contributions for [DECENTR](https://decentr.net)
 
 # Humanitarian Part
 ## We spread the information about Decentr among our russian-speaking community:
