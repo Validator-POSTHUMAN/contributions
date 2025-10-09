@@ -1,18 +1,33 @@
 ![1v (8)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/0884e6e0-9953-447a-aa91-0b006f974855)
 # List of POSTHUMAN contributions for [Archway](https://archway.io/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Archway mainnet**  
   [Archway Validator Details]()
+
+# Humanitarian Contributions
   
 ## We spread the information about Archway among russian-speaking community of Cosmos Ecosystem:
-
+ **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+  
 ## Videos 
+<img width="2507" height="1427" alt="image" src="https://github.com/user-attachments/assets/04a19df5-0f18-4374-a954-63561f7f6d81" />
+
 - [Archway Drop Camp](https://www.youtube.com/watch?v=ee2UW7DjI5M&t=84s)
 - [Complete tutorial on Archway airdrop, staking, IBC transfers and governance](https://www.youtube.com/watch?v=8j18IWQ4puc)
 - [Cosmos Voice ft. Archway on the community call](https://www.youtube.com/watch?v=Az_12EXubSQ&t=22s)
 - [Archway airdrop announcement](https://www.youtube.com/watch?v=_77vapzZUMg)
 
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Archway and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Our contributions for the growth of the Archway community.
 
@@ -65,3 +80,5 @@
 
   # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+ 
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
