@@ -16,14 +16,22 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 
 - We run Cosmos Ecosystem community and CryptoBase (related to our YouTube channel) with 10k+ users in total where we're always answering on questions related with Stride <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/c22742ac-80bf-41b8-891b-6ce06ff5159f) <br/>
-- [Cosmos Ecosystem RU](https://t.me/CosmosEcosystem_ru)
-- [СryptoBase](https://t.me/Crypto_Base_Chat)
+- [Cosmos Ecosystem RU](https://t.me/CosmosEcosystem_ru) | ~6000 members
+- [СryptoBase](https://t.me/Crypto_Base_Chat) |  ~4000 members
+- [СosmosEcosystem News](https://t.me/CosmosEcosystemNews_ru) |  ~2000 members
+
+## **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
+<img width="2540" height="1416" alt="image" src="https://github.com/user-attachments/assets/f9626469-b131-4fc1-8aca-0bd60f1c8d5e" />
 
-- [We always talk about Stride on the Cosmos Ecosystem voice chats in this group](https://t.me/CosmosEcosystem_ru)
+- [WILL STRIDE BEAT OSMOSIS? A NEW DEX ON COSMOS IS LAUNCHING SOON. WHO WILL WIN?](https://www.youtube.com/watch?v=k7lmA-MVp_0)
+- [We withdraw ATOM via STRIDE without waiting for the unstake period](https://www.youtube.com/watch?v=KJ_N_08ANis&t=2s)
+- [Cosmos Ecosystem Insider Chat #39: Cosmoverse Recap, How to Apply for Grants, Stride, and News](https://www.youtube.com/watch?v=TIhVjd9ac0U)
 
-### Also we have a weekly community audio/video chats with 80+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Stride and other Cosmos Ecosystem projects! 
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Stride and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
@@ -90,3 +98,6 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 
 # Economical Contributions
  We distribute part of 20% of our validator's income to our Stride delegators [Details](https://posthuman.digital/phmn)
+
+ 
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
