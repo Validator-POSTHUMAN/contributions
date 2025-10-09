@@ -48,6 +48,9 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [Interview with Keyne from CAC OTC on Juno](https://youtu.be/ElZ-OBekWPE?t=363)
 - [**Here's one the latest of our video from Juno Network's community call:**](https://www.youtube.com/watch?v=L_L-5QcZ2kE&t=368s)
 
+## DAODAO
+- [What is a DAO? How to use DAODAO to create and manage a DAO. All on the Juno Network!](https://www.youtube.com/watch?v=4zyJuGFn-mQ)
+
 ### Also we have a weekly community audio/video chats with 200+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
