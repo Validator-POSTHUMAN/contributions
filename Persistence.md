@@ -244,8 +244,6 @@ We help to Persistence with community development: <br />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
-### Weekly Cosmos Community Call 50+videos
-- [Playlist of 50+videos on Youtube](https://www.youtube.com/watch?v=EMrGBTMMa5U&list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 ### Weekly Cosmos Community Call 50+recordings on top platforms 
 - [Playlist of 50+audios on Apple Podcasts](https://podcasts.apple.com/us/podcast/id1632949208) 
 - [Playlist of 50+audios on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvMzk0Mjg=)
