@@ -223,7 +223,11 @@ We help to Persistence with community development: <br />
 - [10 JAN 25](https://x.com/CosmosEcosystem/status/1877609488682795505)
 - [3 JAN 25](https://x.com/CosmosEcosystem/status/1875235762515669341)
 
-## YouTube Activity 2021-2022 (Explainers, Guides etc.)
+## YouTube Activity (Explainers, Guides etc.)
+## We spread the information about Persistencen among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+  
 - [Video about StakeDrop from Persistence](https://youtu.be/YcpUKRBHvp0)
 - [PoS in a new way: pSTAKE solves the problem of stakers](https://youtu.be/0JDAcUF1iUo)
 - [Difference between Coin and Token on example of Persistence | Fork The System](https://youtu.be/6wobl104wqc)
@@ -234,6 +238,11 @@ We help to Persistence with community development: <br />
 - [How to get StakeDrop from Persistence](https://youtu.be/hJM_xPknx5g)
 - [24 MAY 22](https://www.youtube.com/watch?v=N4h-a4GDWkM)
 ![image](https://user-images.githubusercontent.com/92199696/208438631-525e7808-a678-4e2a-a8b4-6d6253bfa5d8.png) <br/>
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Persistence and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ### Weekly Cosmos Community Call 50+videos
 - [Playlist of 50+videos on Youtube](https://www.youtube.com/watch?v=EMrGBTMMa5U&list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
@@ -264,8 +273,9 @@ We help to Persistence with community development: <br />
 - [On 19th of December, Persistence launches StakeDrop for Terra ($LUNA) holders. $25000 in $XPRT will be distributed](https://antropocosmist.medium.com/19-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F-persistence-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-stakedrop-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-terra-luna-926cf987290c)
 - [How to get an airdrop from Persistence and send a magic transaction](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B0%D0%B9%D1%80%D0%B4%D1%80%D0%BE%D0%BF-%D0%BE%D1%82-persistence-%D0%B8-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-magic-transaction-bd8e2f680589)
 
-## About us
-- [Our webpage](https://posthuman.digital/)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+
