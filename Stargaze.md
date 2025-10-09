@@ -43,9 +43,11 @@
 - [Review of the NFT STARGAZE Marketplace](https://www.youtube.com/watch?v=bMroVUz_pe8)
 - [Cosmos Ecosystem Insider Chat #34: Kujira, Stargaze, Ark, Juno Dashboards, and Bali Announcement](https://www.youtube.com/watch?v=dqYdnV2zE5M)
 
+### [We launched our own collection on Stargaze about News in the Cosmos Ecosystem and engaged our entire community on the Stargaze platform](https://www.stargaze.zone/m/stars16sf8v70wau3j5qvjqm8apfuvsv9xhxz2x7w3r6a56euvtakaj79qhgmk5e/tokens)
+
 <img width="2977" height="1567" alt="image" src="https://github.com/user-attachments/assets/7c71385f-5689-4683-a0f8-38309f11cf18" />
 
-- [We launched our own collection on Stargaze about News in the Cosmos Ecosystem and engaged our entire community on the Stargaze platform](https://www.stargaze.zone/m/stars16sf8v70wau3j5qvjqm8apfuvsv9xhxz2x7w3r6a56euvtakaj79qhgmk5e/tokens)
+
 
 
  ### Our contributions for the growth of the Stargaze community.
