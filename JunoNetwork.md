@@ -4,7 +4,6 @@
 
 > Currently, POSTHUMAN is in the process of decentralization. For now - it's operated by the POSTHUMAN SubDAOs, under the POSTHUMAN DAS - decentralized autonomous synchronization. And this one is honorably mentioned in DAODAO's Featured DAO's list. POSTHUMAN DAS and $PHMN token are based on Juno Network. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
 
-### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
 # The list of contributions for the [Juno Network](https://www.junonetwork.io)
 
@@ -34,6 +33,8 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 # Humanitarian Contributions
 
 ## Videos, where Juno Network is mentioned
+<img width="2425" height="1413" alt="image" src="https://github.com/user-attachments/assets/7dd52448-19e6-4db7-b906-c9d902bf31dc" />
+
 - [Smart contracts and bureaucracy: how to save time and nerves?](https://youtu.be/ucCIx_AsbRs) <br/>
 - [How to get cryptocurrency for free](https://youtu.be/4q6GpcctvcU) <br/>
 - [How to create your own tokens?](https://youtu.be/whXfUYytE34) <br/>  
@@ -48,7 +49,8 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [Interview with Keyne from CAC OTC on Juno](https://youtu.be/ElZ-OBekWPE?t=363)
 - [**Here's one the latest of our video from Juno Network's community call:**](https://www.youtube.com/watch?v=L_L-5QcZ2kE&t=368s)
 
-### Also we have a weekly community audio/video chats with 127+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
+### Also we have a weekly community audio/video chats with 200+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
@@ -273,6 +275,11 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 | Cosmos Ecosystem X | 35k followers. We have been promoting Juno and its updates since genesis. | [Query CosmosEcosystem tweets about Juno](https://x.com/search?q=from%3ACosmosEcosystem%20(Juno%20OR%20JunoNetwork)&src=typed_query&f=live) | We spread the word about Juno and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Juno updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Juno](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Juno%20OR%20JunoNetwork)&src=typed_query&f=live) | We spread the word about Juno and its updates since genesis. |
 
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 # Economical Contributions
 
@@ -283,3 +290,4 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [POSTHUMAN lock LP tokens on 42 days](https://twitter.com/POSTHUMAN_DVS/status/1631038131699871745)
 - [POSTHUMAN lock WYND tokens on 730 days](https://twitter.com/POSTHUMAN_DVS/status/1630189985751085056)
 
+### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
