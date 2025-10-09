@@ -3,6 +3,11 @@
 ## Technical Contributions
 - **POSTHUMAN validates Starknet**  
   [Starknet Validator Details](https://dashboard.endur.fi/stake?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9&tab=stake)
+  
+  <img width="1447" height="936" alt="image" src="https://github.com/user-attachments/assets/fda67670-3824-45af-9754-66c798c235b2" />
+
+  - [Installation guide](https://nodes.posthuman.digital/chains/starknet?tab=installation-guide)
+
 
 ### Our contributions for the growth of the Starknet community.
 
