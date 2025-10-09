@@ -61,11 +61,18 @@
 ### Additional Resources:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
 - **Celestia Lightnode Setup Tutorial**: [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/celestia%20light%20node%20setup%20tutorial.md)
+- **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
+- **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=snapshots)
+
+# Alpha of Block Explorer for Celestia:
+- **Block Explorer** [for Celestia:](https://celestia-explorer.posthuman.digital/)
+
   </details>
 
-# Community and Marketing Contributions
+# Humanitarian Contributions
 
 ### We launched quest and task campaign about [Celestia on Centrifuge Platform](https://centrifuge.digital/celestia). Also within [Posthuman company](https://centrifuge.digital/posthuman), Celestia quests, 300 participants.
 
@@ -95,6 +102,11 @@
 ### We invited Celestia to the [InterChain Summit](https://interchain.digital/#speaker) 2025 in Berlin, [Hlib Kanunnikov was a speaker](https://youtu.be/gFarkQ7SEto?si=eLu_laVqzaOXWVNE&t=1658)
 <img width="1624" height="1012" alt="Screenshot 2025-09-17 at 17 36 49" src="https://github.com/user-attachments/assets/d209f3d7-f300-4113-b836-330fc5a91e64" />
 
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Our contributions for the growth of the Celestia community.
 
