@@ -1,6 +1,6 @@
 # POSTHUMAN contributions for [Chihuahua](https://www.chihuahua.wtf/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Chihuahua**  
   [Chihuahua Validator Details]()
   
