@@ -54,10 +54,11 @@
 
 ### Starname Daily
 <img width="2440" height="1335" alt="image" src="https://github.com/user-attachments/assets/e8fa3d40-304f-4006-9307-951379c8c2e6" />
-> Cosmos Ecosystem Daily digital newspaper
+ 
+ Cosmos Ecosystem Daily digital newspaper
 
--[12.08.2023](https://x.com/CosmosEcosystem/status/1733090615527620694)
--[18.03.2023](https://x.com/CosmosEcosystem/status/1637074148747800577)
+ - [12.08.2023](https://x.com/CosmosEcosystem/status/1733090615527620694)
+ - [18.03.2023](https://x.com/CosmosEcosystem/status/1637074148747800577)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
