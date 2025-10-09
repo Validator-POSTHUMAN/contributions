@@ -27,11 +27,10 @@
 
 # Humanitarian Contributions
 
-## Marketing and Community Contributions
+## We spread the information about Agoric among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers) 
 
 ### Videos
-- **YouTube** (12k subscribers)  
-  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   
   - [Cosmos Voice - Includes talk about Agoric](https://www.youtube.com/watch?v=idGK8Surv20&t=3853s)
   - [Cosmos Voice - Agoric updates from validator-contributor](https://www.youtube.com/watch?v=jwvv3Obu41U)
