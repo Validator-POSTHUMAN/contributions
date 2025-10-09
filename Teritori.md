@@ -1,23 +1,7 @@
 ![Teritori](https://user-images.githubusercontent.com/92199696/205446382-9fa70e8a-0c9b-455c-a048-b52d147b25bb.png)
-# The list of contributions for the [Teritori](https://teritori.com/)
-
-<details>
-  <summary>Our Team:</summary>
-
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- Secret Member😎
-- This character is unexplored👽
-  </details>
+# The list of contributions for [Teritori](https://teritori.com/)
 
 # Technical Contributions
-
-<details>
-
-  <summary>List of Technical Contributions:</summary>
 
 We working on Sputnik Network, and we added $TORI to https://t.me/SputnikNetworkBot without any support
 
@@ -26,24 +10,50 @@ We working on Sputnik Network, and we added $TORI to https://t.me/SputnikNetwork
 We've added $TORI to Sputnik Exchange and to Sputnik Network. Now users can send tips with $TORI in Twitter and Telegram, and also p2p-exchange $TORI directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
 
 
-</details>
-
- # Humanitarian Contributions
+# Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
- 
- <details>
-  <summary>List of Humanitarian Contributions:</summary>
-  
-## Twitter <br/>
 
-<details>
-  <summary>Twitter Activity</summary>
+## We spread the information about Teritori among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+  
+### Videos
+![image](https://user-images.githubusercontent.com/92199696/205450935-4a0e1149-91f0-4f1b-93c1-45ac229b7b19.png)
+- Voice Chat #40 [link](https://www.youtube.com/watch?v=ygGzD2V5b4k&ab_channel=CRYPTOBASE)
+- Voice Chat #45 [link](https://www.youtube.com/watch?v=gi-pF-yD5kc&ab_channel=CRYPTOBASE)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Teritori and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+ ### Our contributions for the growth of the Teritori community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Teritori and its updates since genesis. | [Query CosmosEcosystem tweets about Teritori](https://x.com/search?q=from%3ACosmosEcosystem%20(TeritoriNetwork%20)&src=typed_query&f=live) | We spread the word about Teritori and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Teritori updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Teritori](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(TeritoriNetwork%20)&src=typed_query&f=live) | We spread the word about Teritori and its updates since genesis. |
+
 
 ### Teritori Weekly
 ![image](https://user-images.githubusercontent.com/92199696/205450646-402e216e-d66a-45be-a2a8-6d6391b02d1e.png)
 - [13 NOV 22](https://twitter.com/CosmosEcosystem/status/1591824858140528641)
+- [25 NOV 22](https://x.com/CosmosEcosystem/status/1596206565169954816)
+- [10 DEC 22](https://x.com/CosmosEcosystem/status/1601609883937558530)
 
-### Weekly News with Teritori mentioned 
+### Daily News with Teritori mentioned 
 ![image](https://user-images.githubusercontent.com/92199696/205450718-ad7a9bea-393b-4ae7-a656-dac2b71aa54f.png)
 
 - [07 OCT 22](https://twitter.com/CosmosEcosystem/status/1578427122296578053?t=s-dIeemsEfaCbOROTw7ieA&s=19)
@@ -51,24 +61,25 @@ We've added $TORI to Sputnik Exchange and to Sputnik Network. Now users can send
 - [29 OCT 22](https://twitter.com/CosmosEcosystem/status/1586351868414132225?t=oMkAbJVRZM4k4_ECMakFBQ&s=19)
 - [19 NOV 22](https://twitter.com/CosmosEcosystem/status/1593650869735759879)
 - [03 DEC 22](https://twitter.com/CosmosEcosystem/status/1598729419765342209)
+- [5 JUL 23](https://x.com/CosmosEcosystem/status/1665731349238480897)
+- [24 JUL 23](https://x.com/CosmosEcosystem/status/1683517661391753217)
+- [26 NOV 23](https://x.com/CosmosEcosystem/status/1728681562127098295)
+- [19 MAY 24](https://x.com/CosmosEcosystem/status/1792219030667092115)
 
 
-### Other graphics with Teritori mentioned 
+
+### Other graphics with Teritori mentioned (examples)
 
 ![image](https://user-images.githubusercontent.com/92199696/205450634-c6b51fde-306b-48af-81c5-73c16c189ef2.png)
 - [05 NOV 22](https://twitter.com/CosmosEcosystem/status/1588967980121329664?t=HOkwLlKhLRY7mTgfkGOnJg&s=19)
 - [09 NOV 22](https://twitter.com/CosmosEcosystem/status/1590416012377493505?t=yDHsp3iWVV8cAj-iSQe6bg&s=19)
 - [16 NOV 22](https://twitter.com/CosmosEcosystem/status/1592760298435645440)
 
-</details>
 
-<details>
-  <summary>YouTube Activity</summary>
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
-### We have more than 3.7k subsctibers our YouTube channel [CryptoBase](https://youtube.com/cryptobased)
-![image](https://user-images.githubusercontent.com/92199696/205450935-4a0e1149-91f0-4f1b-93c1-45ac229b7b19.png)
-- Voice Chat #40 [link](https://www.youtube.com/watch?v=ygGzD2V5b4k&ab_channel=CRYPTOBASE)
-- Voice Chat #45 [link](https://www.youtube.com/watch?v=gi-pF-yD5kc&ab_channel=CRYPTOBASE)
-</details>
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
-We update community on the recent updates of Teritori in our Telegram communities! 
+
+
