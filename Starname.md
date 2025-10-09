@@ -57,7 +57,7 @@
 > Cosmos Ecosystem Daily digital newspaper
 
 -[12.08.2023](https://x.com/CosmosEcosystem/status/1733090615527620694)
--[18.03.2023](hhttps://x.com/CosmosEcosystem/status/1637074148747800577)
+-[18.03.2023](https://x.com/CosmosEcosystem/status/1637074148747800577)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
