@@ -15,6 +15,10 @@ Including Validation, Free tools for Community etc.
 [Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
 
 # Humanitarian Contributions
+
+## We spread the information about AssetMantle among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   
   ## Videos, where AssetMantle is mentioned
  - [NFT: How not to become a victim of digital transformation?](https://www.youtube.com/watch?v=UUo_rBuNdlw)
