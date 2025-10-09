@@ -1,4 +1,4 @@
-# POSTHUMAN contributions for Cyber and Space Pussy
+# POSTHUMAN contributions for [Cyber and Space Pussy](Cyb.ai)
 
 # Technical Contributions
 - **POSTHUMAN validates Cyber mainnet**  
