@@ -3,6 +3,8 @@
 ## Technical Contributions
 - **POSTHUMAN validates LUM Network**  
   [LUM Network Validator Details]()
+
+# Humanitarian Contributions
   
 ## We spread the information about LUM Network among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
