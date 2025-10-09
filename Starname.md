@@ -1,6 +1,6 @@
 # The list of my contributions for the [Starname](https://www.starname.me/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Starname**  
   [Starname Validator Details](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
 
