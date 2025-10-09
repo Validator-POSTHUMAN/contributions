@@ -1,17 +1,31 @@
 # POSTHUMAN contributions for [Crescent Network](https://crescent.network/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Crescent Network**  
   [Crescent Network Validator Details]()
+
+# Humanitarian Contributions
   
 ## We spread the information about Crescent Network among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
   ## Videos about Crescent Network
+<img width="1735" height="968" alt="image" src="https://github.com/user-attachments/assets/41cb502a-3b6b-41b0-8961-f6ccdf4169e5" />
 
   - [What is Crescent Network?](https://www.youtube.com/watch?v=cJGlm0o6pgE)
   - [Cosmos Voice #15](https://www.youtube.com/watch?v=I-FX9o4LgIQ)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Crescent and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) 
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
