@@ -34,6 +34,8 @@
 - **X (Twitter)**  
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+  ## We spread the information about Stargaze among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   - [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
