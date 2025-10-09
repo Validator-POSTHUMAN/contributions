@@ -17,6 +17,7 @@
 
 ## Videos about Starname
 <img width="1729" height="797" alt="image" src="https://github.com/user-attachments/assets/20a649d4-abd2-4a2e-9d9c-f4ef1522601d" />
+
 - [About role of Starname in the Cosmos Ecosystem](https://youtu.be/1JgNFkFMT7I)
 - [About Starname and Secret Network](https://youtu.be/CArcKRzxd78)
 - [About NFTs with starnames](https://youtu.be/P37yQK2aKhw)
