@@ -7,7 +7,21 @@
 - **BeeZee support added to our explorer**  
   [Explore BeeZee](https://explorer.posthuman.digital/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 
-## Social, Community, and Marketing Contributions
+# Humanitarian Contributions
+  
+## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
+### Videos
+- **Interview with Stefan, co-founder**  
+  - [Watch on X](https://x.com/CosmosEcosystem/status/1881762838877990958)
+  - [Watch on YouTube](https://www.youtube.com/watch?v=0vtvbua0tNU)
+
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about BeeZee and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ### Social Media
 - **X (Twitter)**  
@@ -16,10 +30,7 @@
 - **YouTube** (12k subscribers)  
   - [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-### Videos
-- **Interview with Stefan, co-founder**  
-  - [Watch on X](https://x.com/CosmosEcosystem/status/1881762838877990958)
-  - [Watch on YouTube](https://www.youtube.com/watch?v=0vtvbua0tNU)
+
 
 ### Cosmos Ecosystem News
 <img width="1894" height="1587" alt="image" src="https://github.com/user-attachments/assets/db1d0d97-b80d-4c54-b879-9819216782c5" />
@@ -56,3 +67,4 @@
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
