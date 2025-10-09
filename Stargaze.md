@@ -15,7 +15,7 @@
 ### Additional Resources:
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/stargaze?tab=state-sync)  
 - **Stargaze on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/stargaze)
-- **Installation guide**:[Link](https://nodes.posthuman.digital/chains/stargaze?tab=installation-guide)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/stargaze?tab=installation-guide)
 
 ## Alpha of Block Explorer for Stargaze
 - **Block Explorer** [for Stargaze](https://explorer.posthuman.digital/stargaze)
