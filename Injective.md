@@ -1,8 +1,5 @@
 ![Injective](https://user-images.githubusercontent.com/92199696/220547305-1c7614ae-ed07-4e68-8db8-dcc657f32ca6.png)
-# The list of contributions for the [Injective](https://injective.com/)
-
-### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-  </details>
+# POSTHUMAN contributions for [Injective](https://injective.com/)
 
 # Technical Contributions
 
@@ -10,7 +7,6 @@
 [**Twitter Announcement**](https://twitter.com/POSTHUMAN_DVS/status/1626298038791675906)
 <br/>
 ![injective](https://user-images.githubusercontent.com/92199696/220565948-8ecde3cf-edcc-41e6-8db6-bbd568eb49e0.jpg)
-
 
 ### **Relayers**. Now we have several relayers which working in two directions (to **Injective** and out) <br/>
 1. osmosis
@@ -35,12 +31,11 @@
 We'll add $INJ to Sputnik Exchange and to Sputnik Network. And users would be able to send tips with $INJ in Twitter and Telegram, and also p2p-exchange $INJ directly in Telegram!
 
 
- # Humanitarian Contributions
+# Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
  
   
 ## Twitter <br/>
-
 
 ## We started support Injective since 2021 and keep doing!<br/>
 We manage **[Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)** with ~36k followers! <br/>
@@ -324,7 +319,17 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 - We even met in reality! Live interview with Jenna from Injective on Staking Summit. [Link](https://youtu.be/CJpWwtUXu1Y?t=3121)
 - New episode of CryptoBase with the better quality and Injective was warmly discussed! [Link](https://youtu.be/ntKJxcjAOF4?t=1578)
 - Overview of Injective Ecosystem on 61th Voice Chat of Cosmos Ecosystem Russian speaking community! [Link](https://www.youtube.com/watch?v=dA5d1t_wG4s)
-- [**Playlist**](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) of 58+videos of our Weekly Community Calls where we speak about Cosmos Ecosystem projects and also about Injective! 
+- [**Playlist**](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) of 200+videos of our Weekly Community Calls where we speak about Cosmos Ecosystem projects and also about Injective! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
