@@ -2,6 +2,8 @@
 ## Technical Contributions
 - **POSTHUMAN validates Sentinel**  
   [Sentinel Validator Details]()
+
+# Humanitarian Contributions
   
 ## We spread the information about Sentinel among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
