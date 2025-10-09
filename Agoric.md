@@ -6,7 +6,7 @@
   [Agoric Validator Details](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 <img width="2204" height="899" alt="image" src="https://github.com/user-attachments/assets/c6d81df1-5b52-4abe-8f45-a2faeb92ec99" />
 
- ### At the moment, we provide the following services for the Zetachain:
+ ### At the moment, we provide the following services for Agoric:
 </div>
 
 - **RPC**: [https://rpc.agoric.posthuman.digital](https://rpc.agoric.posthuman.digital) 
