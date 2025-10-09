@@ -21,6 +21,8 @@
 ## Alpha of Block Explorer for Zetachain
 - **Block Explorer** [for ZetaChain](https://explorer.posthuman.digital/zetachain)
   </details>
+
+# Humanitarian Contributions
   
 ## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
