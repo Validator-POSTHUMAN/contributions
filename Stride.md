@@ -1,36 +1,16 @@
 ![Stride](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/9d846742-3815-4bc4-98c4-93798e572c66)
-# The list of contributions for the [Stride](https://www.stride.zone/)
-
-<details>
-  <summary>Our Team:</summary>
-
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Albert Andrejev Competencies](https://github.com/albertandrejev)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- All the team could be found here: https://posthuman.digital/team
-
-</details>
+# POSTHUMAN contributions for [Stride](https://www.stride.zone/)
 
 # Technical Contributions
-
-<details>
-  <summary>Our Technical Contributions List:</summary>
 
 ### We're validating [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
 
 ### We added $STRD token into Sputnik Network Bot! 
-
 We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
-</details>
 
 # Humanitarian Contributions
 
-<details>
-  <summary>Our Humanitarian Contributions List:</summary>
 
 ## Community Development
 
