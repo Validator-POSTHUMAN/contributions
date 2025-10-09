@@ -271,6 +271,11 @@ We help to Persistence with community development: <br />
 - [On 19th of December, Persistence launches StakeDrop for Terra ($LUNA) holders. $25000 in $XPRT will be distributed](https://antropocosmist.medium.com/19-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F-persistence-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-stakedrop-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-terra-luna-926cf987290c)
 - [How to get an airdrop from Persistence and send a magic transaction](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B0%D0%B9%D1%80%D0%B4%D1%80%D0%BE%D0%BF-%D0%BE%D1%82-persistence-%D0%B8-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-magic-transaction-bd8e2f680589)
 
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
