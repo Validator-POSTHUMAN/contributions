@@ -35,7 +35,75 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
-## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+  ### Our contributions for the growth of the Stride community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Stride and its updates since genesis. | [Query CosmosEcosystem tweets about Stride](https://x.com/search?q=from%3ACosmosEcosystem%20(stride_zone%20)&src=typed_query&f=live) | We spread the word about Stride and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Stride updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Stride](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(stride_zone%20)&src=typed_query&f=live) | We spread the word about Stride and its updates since genesis. |
+
+## Cosmos News
+<img width="2453" height="1443" alt="image" src="https://github.com/user-attachments/assets/4692f735-d9d2-4c83-ab5a-bce92f469282" />
+
+### NEWS 2025
+- [23.06.2025](https://x.com/CosmosEcosystem/status/1937138072237600893)
+- [11.05.2025](https://x.com/CosmosEcosystem/status/1921835811403628814)
+- [07.05.2025](https://x.com/CosmosEcosystem/status/1920017109779947835)
+- [03.05.2025](https://x.com/CosmosEcosystem/status/1918679413631435137)
+- [30.04.2025](https://x.com/CosmosEcosystem/status/1917490066081079548)
+- [26.03.2025](https://x.com/CosmosEcosystem/status/1904956242381992357)
+- [21.03.2025](https://x.com/CosmosEcosystem/status/1903091298535424118)
+- [07.03.2025](https://x.com/CosmosEcosystem/status/1897945205430796345)
+- [19.02.2025](https://x.com/CosmosEcosystem/status/1892282561402999126)
+- [15.02.2025](https://x.com/CosmosEcosystem/status/1890740999862809017)
+- [14.02.2025](https://x.com/CosmosEcosystem/status/1890386145273434605)
+- [09.02.2025](https://x.com/CosmosEcosystem/status/1888615152289026392)
+- [29.01.2025](https://x.com/CosmosEcosystem/status/1884588760282615858)
+
+### NEWS 2024
+- [24.12.2024](https://x.com/CosmosEcosystem/status/1871594216553431381)
+- [18.12.2024](https://x.com/CosmosEcosystem/status/1869277641989312644)
+- [17.11.2024](https://x.com/CosmosEcosystem/status/1858178711071199241)
+- [09.11.2024](https://x.com/CosmosEcosystem/status/1855218992962793756)
+- [05.11.2024](https://x.com/CosmosEcosystem/status/1853686299628065267)
+- [02.11.2024](https://x.com/CosmosEcosystem/status/1852683681317404916)
+- [25.10.2024](https://x.com/CosmosEcosystem/status/1849776309213295102)
+- [18.10.2024](https://x.com/CosmosEcosystem/status/1847257084036841811)
+- [14.10.2024](https://x.com/CosmosEcosystem/status/1845840658566697017)
+- [27.09.2024](https://x.com/CosmosEcosystem/status/1839606725634060682)
+- [26.09.2024](https://x.com/CosmosEcosystem/status/1839292895674904582)
+- [28.08.2024](https://x.com/CosmosEcosystem/status/1826607080758980712)
+- [21.08.2024](https://x.com/CosmosEcosystem/status/1826214647432651065)
+- [20.08.2024](https://x.com/CosmosEcosystem/status/1825893623952715842)
+- [18.08.2024](https://x.com/CosmosEcosystem/status/1825175684949610637)
+- [13.08.2024](https://x.com/CosmosEcosystem/status/1823395521882636407)
+- [27.07.2024](https://x.com/CosmosEcosystem/status/1817222679436616159)
+- [20.07.2024](https://x.com/CosmosEcosystem/status/1814647120764547215)
+- [09.07.2024](https://x.com/CosmosEcosystem/status/1810606270212448604)
+- [26.06.2024](https://x.com/CosmosEcosystem/status/1805917842459812135)
+- [08.06.2024](https://x.com/CosmosEcosystem/status/1799433686754185469)
+- [04.06.2024](https://x.com/CosmosEcosystem/status/1798031143977250840)
+- [31.05.2024](https://x.com/CosmosEcosystem/status/1796518135585034602)
+- [28.05.2024](https://x.com/CosmosEcosystem/status/1795450483399705063)
+- [21.05.2024](https://x.com/CosmosEcosystem/status/1792822564240372141)
+- [01.05.2024](https://x.com/CosmosEcosystem/status/1785715458630619335)
+- [27.04.2024](https://x.com/CosmosEcosystem/status/1784187665534902523)
+- [21.04.2024](https://x.com/CosmosEcosystem/status/1782057927404315086)
+- [18.04.2024](https://x.com/CosmosEcosystem/status/1780933735195570491)
+- [08.04.2024](https://x.com/CosmosEcosystem/status/1777291660432703604)
+- [05.04.2024](https://x.com/CosmosEcosystem/status/1776311665874624844)
+- [29.03.2024](https://x.com/CosmosEcosystem/status/1773692834840744081)
+- [23.03.2024](https://x.com/CosmosEcosystem/status/1771548170352312707)
+- [16.03.2024](https://x.com/CosmosEcosystem/status/1768967266333245814)
+- [02.03.2024](https://x.com/CosmosEcosystem/status/1763944920111538467)
+- [29.02.2024](https://x.com/CosmosEcosystem/status/1763086813777031481)
+- [02.02.2024](https://x.com/CosmosEcosystem/status/1753762443443253582)
+- [30.01.2024](https://x.com/CosmosEcosystem/status/1752278377468416212)
 
 ### NEWS 2023 
 
