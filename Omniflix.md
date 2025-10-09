@@ -1,9 +1,6 @@
 ![1v (5)](https://user-images.githubusercontent.com/92199696/188923913-10214c46-1aa6-4caa-93da-87bca4aa30e2.png)
 
 # The list of contributions for the [OmniFlix](https://omniflix.co/home)
-![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/27c05257-857b-4218-ab7b-74b9e8692766)
-
-## We're top 1 channel by the amount of videos on [Omniflix TV](https://omniflix.tv/cryptobase)! 
 
 # Technical Contributions
 
@@ -19,6 +16,10 @@
 ### We validate [Omniflix Testnet](https://www.skynetexplorers.com/flixnet-4)
 
 # Humanitarian Contributions
+
+![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/27c05257-857b-4218-ab7b-74b9e8692766)
+
+## We're top 1 channel by the amount of videos on [Omniflix TV](https://omniflix.tv/cryptobase)! 
 
 ## Community Development
 
