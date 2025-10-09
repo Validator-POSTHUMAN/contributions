@@ -2,9 +2,12 @@
 
 # POSTHUMAN contributions for [Quicksilver](https://quicksilver.zone/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Quicksilver mainnet**  
   [Quicksilver Validator Details]()
+
+
+# Humanitarian Contributions  
   
 ## We spread the information about Quicksilver among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
