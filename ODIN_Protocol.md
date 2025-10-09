@@ -1,7 +1,7 @@
 
 # POSTHUMAN contributions for [Odin Protocol](https://www.odinprotocol.io/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Odin Protocol**  
   [Odin Protocol Validator Details]()
   
