@@ -9,6 +9,11 @@
      - [Decentralized VPN. Works on both phones and computers. Sentinel, Decentr, dVPN.](https://www.youtube.com/watch?v=GReIa0bnH9I)
      - [SOLAR dVPN](https://www.youtube.com/watch?v=l2DTeY3H6AU)
 
+# We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- t.me/CosmosEcosystemNews_ru |  ~2000 members
+
 ### Social Media
 - **X (Twitter)**  
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
