@@ -1,10 +1,5 @@
 ![1v (5)](https://user-images.githubusercontent.com/92199696/222923113-c6747d9f-e41e-47ed-ad5f-b8314b45243a.png)
 # The list of contributions for the [Juno Network](https://www.junonetwork.io)
-<br/>
-# Posthuman-Validator-Contributions-for-Juno Network
-
-> Currently, POSTHUMAN is in the process of decentralization. For now - it's operated by the POSTHUMAN SubDAOs, under the POSTHUMAN DAS - decentralized autonomous synchronization. And this one is honorably mentioned in DAODAO's Featured DAO's list. POSTHUMAN DAS and $PHMN token are based on Juno Network. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
-
 
 # Technical Contributions
 
@@ -49,6 +44,10 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [**Here's one the latest of our video from Juno Network's community call:**](https://www.youtube.com/watch?v=L_L-5QcZ2kE&t=368s)
 
 ## DAODAO
+<br/>
+
+> Currently, POSTHUMAN is in the process of decentralization. For now - it's operated by the POSTHUMAN SubDAOs, under the POSTHUMAN DAS - decentralized autonomous synchronization. And this one is honorably mentioned in DAODAO's Featured DAO's list. POSTHUMAN DAS and $PHMN token are based on Juno Network. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
+
 - [What is a DAO? How to use DAODAO to create and manage a DAO. All on the Juno Network!](https://www.youtube.com/watch?v=4zyJuGFn-mQ)
 
 ### Also we have a weekly community audio/video chats with 200+ videos where we speak about Cosmos Ecosystem Projects and also spread the word about Juno and Juno related projects! 
