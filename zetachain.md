@@ -1,11 +1,11 @@
-# POSTHUMAN contributions for Zetachain
+# POSTHUMAN contributions for [Zetachain](https://www.zetachain.com/)
 
 ## Technical Contributions
 - **POSTHUMAN validates Zetachain**  
   [Zetachain Validator Details](https://hub.zetachain.com/staking)
 <img width="2138" height="1026" alt="image" src="https://github.com/user-attachments/assets/55108dbd-9103-430f-9d62-a488b3e846e8" />
 
-  ### At the moment, we provide the following services for the Zetachain:
+  ### At the moment, we provide the following services for Zetachain:
 </div>
 
 - **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.zetachain.posthuman.digital) 
@@ -32,6 +32,12 @@
 - [Voice of the Ecosystem #112 - Part 1 - Denis Fadeev - ZetaChain](https://www.youtube.com/watch?v=7YmanD3yfjs)
 - [People in Cosmos #10 - Denis Fadeev, ZetaChain](https://www.youtube.com/watch?v=0ZNNb7yo90E)
 - [ZetaChain (ZETA) Quick Guide](https://www.youtube.com/watch?v=__TgQSB0OPU)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Zetachain and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
 
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
