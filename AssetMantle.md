@@ -1,5 +1,5 @@
 ![1v (3)](https://user-images.githubusercontent.com/92199696/185402488-a4909304-5efa-4a09-bd81-bb960dc020b9.png)
-
+# POSTHUMAN contributions for [AssetMantle](https://x.com/AssetMantle)
 # Technical Contributions
 Including Validation, Free tools for Community etc. 
 
@@ -20,20 +20,25 @@ Including Validation, Free tools for Community etc.
   
   ## Videos, where AssetMantle is mentioned
  - [NFT: How not to become a victim of digital transformation?](https://www.youtube.com/watch?v=UUo_rBuNdlw)
+ - [AMA with AssetMantle](https://www.youtube.com/watch?v=bEpCrxvmj0E)
   
-  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about AssetMantle and Asset Mantle related projects! 
+ ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about AssetMantle and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
-
- - [AMA with AssetMantle](https://www.youtube.com/watch?v=bEpCrxvmj0E)
 
 ### Cosmos Academy in Russian 10 lessons for new users! 
 
 [==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d)
                                                            
-## Community Development
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 - [Russian-Speaking AssetMantle Community Chat](https://t.me/Asset_Mantle_ru) 
-- [We are in the process of adding Asset Mantle to the Cosmos Ecosystem Crew3](https://crew3.xyz/c/cosmosecosystem/questboard) 
+
+## [We are in the process of adding Asset Mantle to the Cosmos Ecosystem Crew3](https://crew3.xyz/c/cosmosecosystem/questboard) 
  
 ### Our contributions for the growth of the AssetMantle community.
 
@@ -122,4 +127,6 @@ Including Validation, Free tools for Community etc.
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
