@@ -151,7 +151,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 - [02.12.2022](https://twitter.com/CosmosEcosystem/status/1598729428573786112?t=GK8oB-EiCL39_lc9fa0ccQ&s=19)
 - [04.11.2022](https://twitter.com/CosmosEcosystem/status/1588563231861526528?t=0xx10G8TA_KjOrSc8EwRnA&s=19)
 
-### MENTIONS 22-23 
+### MENTIONS (examples)
 
 - [08.04.2023](https://twitter.com/CosmosEcosystem/status/1644679039523725312?t=mJxjDK8zJmPy1DNx7Az4lQ&s=19)
 - [08.02.2023](https://twitter.com/CosmosEcosystem/status/1623327571214757888?t=D6Ve3CH49wyYdihxt56IpA&s=19)
