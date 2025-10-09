@@ -11,7 +11,7 @@
 # Humanitarian Contributions
 ![1_yapM45B9o4rZPgL-GeywjQ](https://user-images.githubusercontent.com/38581319/128280244-763685f8-ef60-4d57-a9df-b6c675bfadab.jpeg)
  
-## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Starname among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
