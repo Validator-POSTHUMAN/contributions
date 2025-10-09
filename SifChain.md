@@ -26,6 +26,12 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
+
+# We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
 ## Twitter
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
