@@ -1,8 +1,10 @@
 # POSTHUMAN contributions for [HoneyWood](https://honeywood.io/)
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates HoneyWood**  
   [HoneyWood Network Validator Details]()
+
+# Humanitarian Contributions 
   
 ## We spread the information about HoneyWood among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
@@ -13,6 +15,17 @@
   - [Cosmos Voice #31](https://www.youtube.com/watch?v=CNDfMpArQ34)
   - [Cosmos Voice #57](https://www.youtube.com/watch?v=rR0fP6CgOEw)
   - [Cosmos Voice #70](https://www.youtube.com/watch?v=rOIOWJXam3o)
+
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about HoneyWood and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
