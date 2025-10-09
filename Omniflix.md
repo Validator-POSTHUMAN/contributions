@@ -41,6 +41,23 @@
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
+## We launched our own collection of [NFT Avatars](https://omniflix.market/c/collectNow/onftdenomf3c4a963c49747039217eba1dc10282e) and 6 collections of NFT Spheres on Omniflix and attracted our community to the platform! 
+<img width="1899" height="1052" alt="image" src="https://github.com/user-attachments/assets/e921d7dc-2182-4c19-91d9-628d8952340a" />
+Mint your NFT Avatars:
+👉 https://mint-posthuman-avatar.omniflix.market/
+
+Check the Road Map of NFT-Avatars to know how your avatars will became Digital Twins powered with AI:
+👉 https://nft.posthuman.digital/road-map
+
+More information:
+👉 https://runft.posthuman.digital/terminy-i-oglavlenie/regenerator-sfer
+
+All information about new minted NFT-avatars in this chat:
+👉 https://t.me/posthuman_avatars
+
+Website:
+👉 https://avatars.posthuman.digital/
+
 ## Spreading of Information
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
