@@ -83,6 +83,8 @@
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
 
 ### Videos about Celestia
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 <img width="2549" height="1408" alt="image" src="https://github.com/user-attachments/assets/e809f380-918e-495f-8850-44a5ea306a50" />
 
 - [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak)
