@@ -1,4 +1,4 @@
-# The list of my contributions for the [Starname](https://www.starname.me/)
+# POSTHUMAN contributions for [Starname](https://www.starname.me/)
 
 # Technical Contributions
 - **POSTHUMAN validates Starname**  
