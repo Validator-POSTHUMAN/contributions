@@ -27,9 +27,6 @@
 
 # Humanitarian Contributions
 
-  ### Services
-  - **RPC/Snapshots/IBC-relayers and more:** [For Agoric](https://nodes.posthuman.digital/chains/agoric)
-
 ## Marketing and Community Contributions
 
 ### Videos
