@@ -15,7 +15,7 @@ We launched Osmosis <-> Secret IBC Relayer
 # Humanitarian Contributions
 
 ## Community Development
-
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 - [We help to develop russian-speaking community of Secret Network](https://t.me/scrt_russia)
 - We run Cosmos Ecosystem community and CryptoBase (related to our YouTube channel) with 6k+ users in total where we're always answering on questions related with Secret <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/34720236-70db-45dc-b2c1-95530770e001) <br/>
