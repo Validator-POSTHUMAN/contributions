@@ -16,6 +16,7 @@
 ### Additional Resources:
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/zetachain?tab=state-sync)  
 - **Zetachain on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/zetachain)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/zetachain?tab=installation-guide)
 
 ## Alpha of Block Explorer for Zetachain
 - **Block Explorer** [for ZetaChain](https://explorer.posthuman.digital/zetachain)
