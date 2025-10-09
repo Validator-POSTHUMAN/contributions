@@ -21,6 +21,7 @@
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Archway and other Cosmos Ecosystem projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
