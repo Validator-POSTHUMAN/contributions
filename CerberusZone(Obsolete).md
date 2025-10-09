@@ -35,6 +35,11 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting CerberusZone and its updates since genesis. | [Query CosmosEcosystem tweets about CerberusZone](https://x.com/search?q=from%3ACosmosEcosystem%20(CerberusZone%20)&src=typed_query&f=live) | We spread the word about CerberusZone and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover CerberusZone updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CerberusZone](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(CerberusZone%20)&src=typed_query&f=live) | We spread the word about CerberusZone and its updates since genesis. |
 
+#Cosmos News
+<img width="2503" height="1422" alt="image" src="https://github.com/user-attachments/assets/ff713429-45c3-46c8-9207-62ac44131d3f" />
+
+- [06.05.2022](https://x.com/CosmosEcosystem/status/1522652655990063106)
+
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
