@@ -194,3 +194,6 @@ We launched Osmosis <-> Secret IBC Relayer
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our Secret delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+
