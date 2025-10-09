@@ -19,7 +19,7 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
  # Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
  
- ## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+ ## We spread the information about Axelar among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
