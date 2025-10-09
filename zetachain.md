@@ -36,6 +36,7 @@
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
 - https://t.me/Crypto_Base_Chat |  ~4000 members
+- t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
