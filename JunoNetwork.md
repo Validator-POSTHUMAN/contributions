@@ -1,11 +1,10 @@
 ![1v (5)](https://user-images.githubusercontent.com/92199696/222923113-c6747d9f-e41e-47ed-ad5f-b8314b45243a.png)
+# The list of contributions for the [Juno Network](https://www.junonetwork.io)
 <br/>
 # Posthuman-Validator-Contributions-for-Juno Network
 
 > Currently, POSTHUMAN is in the process of decentralization. For now - it's operated by the POSTHUMAN SubDAOs, under the POSTHUMAN DAS - decentralized autonomous synchronization. And this one is honorably mentioned in DAODAO's Featured DAO's list. POSTHUMAN DAS and $PHMN token are based on Juno Network. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
 
-
-# The list of contributions for the [Juno Network](https://www.junonetwork.io)
 
 # Technical Contributions
 
