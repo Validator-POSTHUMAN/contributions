@@ -1,12 +1,14 @@
 # POSTHUMAN contributions for  [Fetch.ai](https://fetch.ai/)
 
-## Technical Contributions
+# Technical Contributions
 
 - We validate [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - We moderate [russian-speaking community of Fetch.ai in Telegram](https://t.me/fetch_ai_russian)
 - We are Navigators of [Sputnik Network](https://sputnik.exchange/), and we added $FET to https://t.me/SputnikPriceBot
 - We added $FET to [Sputnik Exchange](https://sputnik.exchange/), now users can send tips with $FET in X
 - We added $FET to [Sputnik Network Bot](https://t.me/SputnikNetworkBot), now users can send, receive and p2p-exchange $FET directly [in Telegram](https://X.com/SputnikNetwork/status/1420848326304583690)
+
+# Humanitarian Contributions
 
 ## Docs
 
@@ -23,12 +25,30 @@
 ## We spread the information about Fetch among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+<img width="2541" height="1426" alt="image" src="https://github.com/user-attachments/assets/e6ca047a-aee3-4e92-8500-abb99413c3f7" />
 
   - [Merger of three giants: FET, OCEAN, AGIX](https://www.youtube.com/watch?v=HqusJ5YLsqE)
   - [The best blockchain projects on the Cosmos network](https://www.youtube.com/watch?v=3YFKDHx-is4)
   - [The AI ​​trend in crypto has begun](https://www.youtube.com/watch?v=EYY5-Z8FBws)
 
-### Our contributions for the growth of the Fetch community.
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Fetch and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+### Our contributions for the growth of the Fetch community
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -151,4 +171,6 @@
 
   # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
