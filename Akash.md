@@ -4,7 +4,10 @@
 ## Technical Contributions
 - **POSTHUMAN validates Akash mainnet**  
   [Akash Validator Details](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
-  
+- We develop [Sputnik Network](https://sputnik.exchange/), and we added $AKT into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
+
+# Humanitarian Contributions
+
 ## We spread the information about Akash among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
@@ -15,8 +18,16 @@
 - [Cosmos Voice 123](https://www.youtube.com/watch?v=68Ijtt_wXkw)
 - [Akash Network](https://www.youtube.com/watch?v=Zi3NBSPf8fU)
 
-- We develop [Sputnik Network](https://sputnik.exchange/), and we added $AKT into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
-- We develop https://twitter.com/CosmosEcosystem and spread the information about Akash Network in Twitter
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Agoric and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
@@ -214,3 +225,6 @@
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ 
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
