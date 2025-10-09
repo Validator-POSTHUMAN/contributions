@@ -4,6 +4,8 @@
 ## Technical Contributions
 - **POSTHUMAN validates Kyve**  
   [Kyve Validator Details](https://wallet.keplr.app/chains/kyve?modal=validator&chain=kyve-1&validator_address=kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+
+# Humanitarian Contributions
   
 ## We spread the information about Kyve among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
@@ -13,6 +15,18 @@
 - [Cosmos Voice with Kyve co-founder Fabian](https://youtu.be/oyKvR9tE5k4)  
 - [Cosmos Voice with Kyve's co-founder Fabian (English extract)](https://www.youtube.com/watch?v=ssRCSVV3Ts4&ab_channel=POSTHUMAN)  
 - [POSTHUMAN Video on Kyve](https://x.com/POSTHUMAN_DVS/status/1783195443100323883)  
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Kyve and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
@@ -85,4 +99,5 @@
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
