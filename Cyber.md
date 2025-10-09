@@ -1,14 +1,18 @@
 # POSTHUMAN contributions for Cyber and Space Pussy
 
-## Technical Contributions
+# Technical Contributions
 - **POSTHUMAN validates Cyber mainnet**  
   [Cyber Validator Details](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
   
-## We spread the information about Cyber among russian-speaking community of Cosmos Ecosystem:
+# Humanitarian Contributions
+  
+## We spread the information about CerberusZone among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos about Cyber
+<img width="2264" height="1284" alt="image" src="https://github.com/user-attachments/assets/30e0aff8-3ad5-4402-af49-f36863383f92" />
+
 - [CYBER. FULL INSTRUCTIONS](https://www.youtube.com/watch?v=FSZLhTuIjGY&t=79s)
 - [Green balls](https://www.youtube.com/watch?v=mtIeR66q830)
 - [CYB.AI platform analysis](https://www.youtube.com/watch?v=D8YR0SkZIKo&t=371s)
@@ -17,6 +21,17 @@
 - [The Future of Bostrom, States and Humanity](https://www.youtube.com/watch?v=7nwUPtKG_BE)
 - [Space Pussy](https://www.youtube.com/watch?v=JZ5Flip26ao&t=77s)
 - [ANALYSIS OF COSMOS PROJECTS](https://www.youtube.com/watch?v=MCsFOisC8IA)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Cyber and Space Pussy and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) 
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
@@ -55,3 +70,5 @@
 
   # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
