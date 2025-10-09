@@ -16,10 +16,8 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - We've added $EVMOS to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $EVMOS in X and Telegram, and also p2p-exchange $EVMOS directly in Telegram!| News in [X](https://X.com/SputnikNetwork/status/1535044628902182920)
   </details>
   
-  # Humanitarian Contributions
+# Humanitarian Contributions
  Including Community Growth (X, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
- 
- # List of Humanitarian Contributions:
   
 ## X 
   
@@ -35,7 +33,8 @@ Including Validation, RPC nodes, Free tools for Community etc.
 | POSTHUMAN X        | 7.5k followers. We actively cover Evmos updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Evmos](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Evmos%20)&src=typed_query&f=live) | We spread the word about Evmos and its updates since genesis. |
 
 # Cosmos News
-  
+  <img width="2489" height="1369" alt="image" src="https://github.com/user-attachments/assets/33d0b4a8-50ba-479a-b862-4b3fbb6be888" />
+
 -	[22 JANUARY 22](https://X.com/CosmosEcosystem/status/1484649432050249735)
 -	[29 JANUARY 22](https://X.com/CosmosEcosystem/status/1487170430997876737)
 -	[18 FEBRUARY 22](https://X.com/CosmosEcosystem/status/1494745556207423498)
@@ -145,8 +144,11 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 
   We had more than 200 meetings already! 
 - Whole playlist of Cosmos Voice Talks [here](https://youtube.com/playlist?list=PLHJPonHxjyvrdVgK8YvFfqAN0hiwns5P4)
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
  </details>
  </details>
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
