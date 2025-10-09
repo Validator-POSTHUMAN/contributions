@@ -5,7 +5,7 @@
 Including Validation, Free tools for Community etc. 
   
 
-- We validate Axelar Chain in Mainnet but still in inactive set | [Validator's link](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
+- We validate Axelar Chain in Mainnet [Validator's link](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 
 - Also we've implemented support for Ethereum external chain.
 
@@ -19,12 +19,30 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
  # Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
  
-  
-## Twitter Activity
+ ## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-There's a plenty of updates about Axelar in our Cosmos Ecosystem [Twitter](https://x.com/CosmosEcosystem)
+## Videos
+  - [Cosmos Ecosystem Insider Chat #37. New Bot. Rebus Drop, Where Did the Evmos Interest Go?, Axelar](https://www.youtube.com/watch?v=OOYZ0XnS3t4)
 
-## Recent Contributions for Axelar Network
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Axelar and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+## Contributions for Axelar Network
 <img width="1684" height="1664" alt="image" src="https://github.com/user-attachments/assets/55e90ffa-a532-4fe4-8164-3902d99a5f24" />
 
 ### Special Infographics  
@@ -63,4 +81,6 @@ Covering news from the Axelar Ecosystem:
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
