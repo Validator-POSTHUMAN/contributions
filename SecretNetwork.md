@@ -19,8 +19,12 @@ We launched Osmosis <-> Secret IBC Relayer
 - [We help to develop russian-speaking community of Secret Network](https://t.me/scrt_russia)
 - We run Cosmos Ecosystem community and CryptoBase (related to our YouTube channel) with 6k+ users in total where we're always answering on questions related with Secret <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/34720236-70db-45dc-b2c1-95530770e001) <br/>
-- [Cosmos Ecosystem RU](https://t.me/CosmosEcosystem_ru)
-- [СryptoBase](https://t.me/Crypto_Base_Chat)
+- [Cosmos Ecosystem RU | ~6000 members](https://t.me/CosmosEcosystem_ru)
+- [СryptoBase |  ~4000 members](https://t.me/Crypto_Base_Chat)
+
+## We spread the information about Secret Network among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
 - [How to keep privacy and not lose reputation?](https://youtu.be/CArcKRzxd78)
