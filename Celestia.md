@@ -76,6 +76,8 @@
 - Educational Outreach: Open to spreading awareness and educating communities about Celestia through diverse formats and platforms.
 
 ### Videos about Celestia
+<img width="2549" height="1408" alt="image" src="https://github.com/user-attachments/assets/e809f380-918e-495f-8850-44a5ea306a50" />
+
 - [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak)
 - [How to stake TIA and for what we need it?](https://youtu.be/rgxf114MlQ4?si=LwAJAhQ66NXuZvnD)
 - [WHAT IS CELESTIA AND HOW DOES IT SOLVE THE ECONOMIC PROBLEM](https://youtu.be/6US-6QYSJ48?si=QlGmK_Czftku0UzA)
@@ -84,6 +86,10 @@
 - [Voice of the Ecosystem #178 - Meet with Hlib Kanunnikov from Celestia](https://youtu.be/MHXRSu40NTA?si=Q3pe2oAH9eA89cW7)
 - [Voice of the Ecosystem #160 - Meet with Theo.Jeans from Celestine Sloth Society](https://youtu.be/WgpLeWj98-E?si=BJ1Kd_PswYMXAhnA)
 - [Workshops Setting up Celestia LightNode](https://www.youtube.com/watch?v=nadajBxYlgY&t=4s) - [Announcement](https://x.com/synctems/status/1848311413309137153)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Celestia and other Cosmos Ecosystem projects! 
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ### We invited Celestia to the [InterChain Summit](https://interchain.digital/#speaker) 2025 in Berlin, [Hlib Kanunnikov was a speaker](https://youtu.be/gFarkQ7SEto?si=eLu_laVqzaOXWVNE&t=1658)
 <img width="1624" height="1012" alt="Screenshot 2025-09-17 at 17 36 49" src="https://github.com/user-attachments/assets/d209f3d7-f300-4113-b836-330fc5a91e64" />
