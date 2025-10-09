@@ -38,7 +38,7 @@ Including Validation, Free tools for Community etc.
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 - [Russian-Speaking AssetMantle Community Chat](https://t.me/Asset_Mantle_ru) 
 
-## [We are in the process of adding Asset Mantle to the Cosmos Ecosystem Crew3](https://crew3.xyz/c/cosmosecosystem/questboard) 
+## [We added Asset Mantle to the Cosmos Ecosystem Crew3](https://crew3.xyz/c/cosmosecosystem/questboard) 
  
 ### Our contributions for the growth of the AssetMantle community.
 
