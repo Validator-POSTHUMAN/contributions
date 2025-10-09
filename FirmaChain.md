@@ -3,6 +3,8 @@
 ## Technical Contributions
 - **POSTHUMAN validates Firmachain**  
   [Firmachain Validator Details](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
+
+# Humanitarian Contributions
   
 ## We spread the information about Firmachain among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
@@ -13,6 +15,17 @@
 
 - [The best blockchain projects on the Cosmos network](https://www.youtube.com/watch?v=3YFKDHx-is4&t=140s)
 - [How to stake FirmaChain?](https://www.youtube.com/watch?v=9r_3UfVWTlI)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Firmachain and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
@@ -28,3 +41,5 @@
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
