@@ -32,7 +32,7 @@
 - [People in Cosmos #10 - Denis Fadeev, ZetaChain](https://www.youtube.com/watch?v=0ZNNb7yo90E)
 - [ZetaChain (ZETA) Quick Guide](https://www.youtube.com/watch?v=__TgQSB0OPU)
 
-# We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
 - https://t.me/Crypto_Base_Chat |  ~4000 members
