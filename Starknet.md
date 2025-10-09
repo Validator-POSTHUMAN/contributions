@@ -8,6 +8,7 @@
 
   - [Installation guide](https://nodes.posthuman.digital/chains/starknet?tab=installation-guide)
 
+# Humanitarian Contributions
 
 ### Our contributions for the growth of the Starknet community.
 
