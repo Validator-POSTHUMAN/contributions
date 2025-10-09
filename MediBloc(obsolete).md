@@ -6,16 +6,6 @@
   
 # Humanitarian Contributions
 
-## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
-- **YouTube** (12k subscribers)  
-  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
-
-  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about MediBloc and other Cosmos Ecosystem projects! 
-<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
-
-[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
-
-
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
@@ -72,6 +62,12 @@ POSTHUMAN creates video content about MediBloc. You can see logo of MediBloc in 
 
 - Video "Best blockchain projects on Cosmos Network. Part 2": https://youtu.be/kOCAyx-oILw?si=sUJmhVJcf5CFt5dr&t=380
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/2d1005c6-996f-429e-a2e4-d4ccdceac3ed)
+
+
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about MediBloc and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 
 ## Support in other networks
