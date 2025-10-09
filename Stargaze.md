@@ -5,6 +5,11 @@
 
 ## Social, Community, and Marketing Contributions
 
+# We're creating and working with Russian Language Communities in Telegram. Also we're administrators of these groups:
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
 ### Social Media
 - **X (Twitter)**  
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
@@ -147,4 +152,6 @@
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
