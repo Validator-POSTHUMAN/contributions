@@ -4,9 +4,8 @@
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates XRPL**  
-  [XRPL Validator Details](https://hub.zetachain.com/staking)
+  [XRPL Validator Details]()
 <img width="1960" height="956" alt="image" src="https://github.com/user-attachments/assets/9889c5e7-4a4b-4cc0-9b6e-6d7c12ea1c47" />
-
 
   ### At the moment, we provide the following services for XRPL
 </div>
