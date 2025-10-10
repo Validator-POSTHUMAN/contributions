@@ -1,27 +1,75 @@
 ![xrpl](https://github.com/user-attachments/assets/54638530-3871-474c-b5e4-0d6113d7ffd8)
 
-# POSTHUMAN contributions to XRPL
+# POSTHUMAN contributions for [XRPL](https://xrpl.org/)
 
-## 🛠 Technical Contributions
+# 🛠 Technical Contributions
+- **POSTHUMAN validates XRPL**  
+  [XRPL Validator Details](https://hub.zetachain.com/staking)
+<img width="1960" height="956" alt="image" src="https://github.com/user-attachments/assets/9889c5e7-4a4b-4cc0-9b6e-6d7c12ea1c47" />
 
-- Added XRPL to POSTHUMAN's infrastructure services:  
-  https://nodes.posthuman.digital/chains/exrp
 
-- Made XRPL snapshots publicly available:  
-  https://nodes.posthuman.digital/chains/exrp?tab=snapshots
+  ### At the moment, we provide the following services for XRPL
+</div>
 
-## 🌐 Community & Marketing Contributions
+- **RPC**: [https://rpc.exrp.posthuman.digital](https://rpc.exrp.posthuman.digital) 
+- **REST**: [https://rest.exrp.posthuman.digital](https://rest.exrp.posthuman.digital)  
+- **gRPC**: [https://grpc.exrp.posthuman.digital](https://grpc.exrp.posthuman.digital)  
+- **Peer**: 522e624a77123c67762b5c1ff70ac20d377b0179@135.181.227.236:61656
+
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/exrp?tab=state-sync)  
+- **Zetachain on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/exrp)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/exrp?tab=installation-guide)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/exrp?tab=snapshots)
+
+## Alpha of Block Explorer for XRPL
+- **Block Explorer** [for XRPL](https://explorer.posthuman.digital/)
+  </details>
+
+# Humanitarian Contributions
+  
+## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
+## Videos 
+<img width="2529" height="1402" alt="image" src="https://github.com/user-attachments/assets/ae09db3c-ff62-4572-8098-06cbd0dee410" />
+
+- [Facts about RIPPLE you didn't know](https://www.youtube.com/watch?v=iYzZaAG4NoM)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about XRPL and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+  ### Our contributions for the growth of the XRPL community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting XRPL and its updates since genesis. | [Query CosmosEcosystem tweets about XRPL](https://x.com/search?q=from%3ACosmosEcosystem%20(Ripple%20)&src=typed_query&f=live) | We spread the word about XRPL and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover XRPL updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about XRPL](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Ripple%20)&src=typed_query&f=live) | We spread the word about XRPL and its updates since genesis. |
+
+<img width="1613" height="1582" alt="image" src="https://github.com/user-attachments/assets/ba8c84fa-ca0d-483a-a971-fe9c17cbda76" />
 
 - XRPL highlighted in our Digital Newspaper:  
   https://x.com/CosmosEcosystem/status/1939002899826364902/photo/1  
   https://x.com/CosmosEcosystem/status/1938638288354492538  
   https://x.com/CosmosEcosystem/status/1860887319827403037
+  https://x.com/CosmosEcosystem/status/1938638273867300954
 
 - XRPL discussed in strategic dialogue with Cosmoverse founders and Stakecito:  
   https://x.com/POSTHUMAN_DVS/status/1924964451964326048
-
-- Created a dedicated Russian-language XRPL explainer video:  
-  https://youtu.be/iYzZaAG4NoM
 
 ## 🗳 Interchain Governance Advocacy
 
@@ -38,5 +86,10 @@ POSTHUMAN actively supports the development and adoption of XRPL assets in inter
 |---------------|----------------|
 | <img width="100%" src="https://github.com/user-attachments/assets/19501f65-2aad-4d0b-ab88-80d729593da1" /> | <img width="100%" src="https://github.com/user-attachments/assets/f1f20b70-4dbb-49c7-9295-8acdf0e02f39" /> |
 
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
-These actions reflect our commitment to defending and promoting XRP interests both within and beyond its native network.
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+
+
+### *These actions reflect our commitment to defending and promoting XRP interests both within and beyond its native network.*
