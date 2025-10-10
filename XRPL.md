@@ -61,14 +61,14 @@
 
 <img width="1613" height="1582" alt="image" src="https://github.com/user-attachments/assets/ba8c84fa-ca0d-483a-a971-fe9c17cbda76" />
 
-- XRPL highlighted in our Digital Newspaper:  
-  https://x.com/CosmosEcosystem/status/1939002899826364902/photo/1  
-  https://x.com/CosmosEcosystem/status/1938638288354492538  
-  https://x.com/CosmosEcosystem/status/1860887319827403037
-  https://x.com/CosmosEcosystem/status/1938638273867300954
+### XRPL highlighted in our Digital Newspaper:  
+  - https://x.com/CosmosEcosystem/status/1939002899826364902/photo/1  
+  - https://x.com/CosmosEcosystem/status/1938638288354492538  
+  - https://x.com/CosmosEcosystem/status/1860887319827403037
+  - https://x.com/CosmosEcosystem/status/1938638273867300954
 
-- XRPL discussed in strategic dialogue with Cosmoverse founders and Stakecito:  
-  https://x.com/POSTHUMAN_DVS/status/1924964451964326048
+### XRPL discussed in strategic dialogue with Cosmoverse founders and Stakecito:  
+  - https://x.com/POSTHUMAN_DVS/status/1924964451964326048
 
 ## 🗳 Interchain Governance Advocacy
 
