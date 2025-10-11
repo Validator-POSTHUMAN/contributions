@@ -13,18 +13,19 @@
 - Validator Address: [govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
 
 </div>
+
 ### AtomOne Services:
 - **Type:** Mainnet  
 - **Chain ID:** `atomone-1`  
 - **RPC:** [https://rpc.atomone.posthuman.digital:443](https://rpc.atomone.posthuman.digital:443)  
 - **REST:** [https://rest.atomone.posthuman.digital:443](https://rest.atomone.posthuman.digital:443)  
 - **gRPC:** [https://grpc.atomone.posthuman.digital:443](https://grpc.atomone.posthuman.digital:443)  
+- **Seed Node:** `16bd427bd598e25c9d78e60e6b9c12d7cc8eeb84@8.52.247.236:56656`
 
 ### Additional Resources:
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/atomone?tab=state-sync)  
 - **ATOM One on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/atomone)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/atomone?tab=installation-guide)
-- **Seed Node:** `16bd427bd598e25c9d78e60e6b9c12d7cc8eeb84@8.52.247.236:56656`
 - **Snapshot service:** [https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service](https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service)
 
 ## Alpha of Block Explorer for ATOM One
