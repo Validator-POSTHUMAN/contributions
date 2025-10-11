@@ -1,11 +1,24 @@
-# POSTHUMAN contrbutions for [COMDEX](https://comdex.one/)
+# POSTHUMAN contributions for  [COMDEX](https://comdex.one/)
 
-## Videos in Russian
-- [Как запросить стэйк дроп от Comdex для стэйкеров ATOM, LUNA, OSMO, XPRT](https://youtu.be/HJi2-akieQk)
+# 🛠 Technical Contributions
+- **POSTHUMAN validates COMDEX**  
+  [COMDEX Validator Details](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 
-## Support of the Network
+# Humanitarian Contributions
+  
+## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-- We validate COMDEX with [DVS Validator](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) - 2 more validators are behind DVS Validator together with me: [web34ever](https://web34ever.network/) and [cyberG](https://cyberg.digital/)
+## Videos 
+<img width="2527" height="1398" alt="image" src="https://github.com/user-attachments/assets/7e05916f-fd20-4387-b3f6-febb2c50b106" />
+
+
+- [The best blockchain projects in the Cosmos Ecosystem](https://www.youtube.com/watch?v=kOCAyx-oILw&t=1s)
+- [How to request a stake drop from Comdex for ATOM, LUNA, OSMO, XPRT stakers](https://youtu.be/HJi2-akieQk)
+- [The 15th Cosmos Ecosystem Insider Chat. Comdex, Juno, Crescent, and the latest news!](https://www.youtube.com/watch?v=I-FX9o4LgIQ&t=1190s)
+- [The 16th Cosmos Ecosystem Insider Chat. Lots of Akash, Umee, Comdex, and a few secrets!](https://www.youtube.com/watch?v=6EeWafRlm-I&t=7s)
+- [The 36th Cosmos Ecosystem Insider Chat. Agoric, Comdex, Juno, and three testnets, plus news!](https://www.youtube.com/watch?v=idGK8Surv20&t=3854s)
 
 ## Community Development
 
