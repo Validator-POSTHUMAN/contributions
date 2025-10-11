@@ -2,43 +2,82 @@
 
 # POSTHUMAN Contributions for [ATOM One](https://discord.com/invite/atomone)
 
-
 # Technical Contributions
+<img width="2038" height="921" alt="image" src="https://github.com/user-attachments/assets/5ed02c35-16bf-490c-b089-9ba2b53a7eaf" />
 
 ## Validator Operations
 **We Validate Govgen and AtomOne**
-
 ### AtomOne
 - Validator Address: [atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
-
 ### Govgen
 - Validator Address: [govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
 
-
-## Governance Proposal Creation Support
-Support for governance proposal creation has been added for **ATOM One** in our tool.  
-You can explore it here: [Governance Proposals Tool](https://proposals.posthuman.digital/?bc=govgen-1)
-
+</div>
 ### AtomOne Services:
 - **Type:** Mainnet  
 - **Chain ID:** `atomone-1`  
 - **RPC:** [https://rpc.atomone.posthuman.digital:443](https://rpc.atomone.posthuman.digital:443)  
 - **REST:** [https://rest.atomone.posthuman.digital:443](https://rest.atomone.posthuman.digital:443)  
 - **gRPC:** [https://grpc.atomone.posthuman.digital:443](https://grpc.atomone.posthuman.digital:443)  
+
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/atomone?tab=state-sync)  
+- **ATOM One on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/atomone)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/atomone?tab=installation-guide)
 - **Seed Node:** `16bd427bd598e25c9d78e60e6b9c12d7cc8eeb84@8.52.247.236:56656`
 - **Snapshot service:** [https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service](https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service)
 
+## Alpha of Block Explorer for ATOM One
+- **Block Explorer** [for ATOM One](https://explorer.posthuman.digital/atomone)
+
+## Governance Proposal Creation Support
+Support for governance proposal creation has been added for **ATOM One** in our tool.  
+You can explore it here: [Governance Proposals Tool](https://proposals.posthuman.digital/?bc=govgen-1)
+
 ### Upcoming Deliverables
 We’re about to deliver the following **ASAP**:
-- **Installation Guide**  
-- **State Sync**  
 - **Peers**  
 - **IBC Relayers**  
 - **Genesis and Addrbook**  
 - **One-liner Setup**  
 
-# Community and marketing contributions:
-# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/atomone)
+  </details>
+
+# Humanitarian Contributions
+
+# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/atomone). more than 300 participants.
+
+## We spread the information about ATOM One among russian-speaking community of Cosmos Ecosystem:
+- **YouTube** (12k subscribers)  
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
+## Videos
+- **How to Stake ATOM One** (4.9k views)  
+  [Watch here](https://www.youtube.com/watch?v=VB3aJ24zbJg)
+
+- **Cosmos Airdrops + ATOM One Airdrop Breakdown** (7.5k views)  
+  [Watch here](https://www.youtube.com/watch?v=1gAhVJEZG-8)
+
+- **Cosmos Updates Mentioning ATOM One** (8.5k views)  
+  [Watch here](https://www.youtube.com/watch?v=MCsFOisC8IA&feature=youtu.be)
+
+- **Govgen Launch Discussion on Cosmos Voice** (2.7k views)  
+  [Watch here](https://www.youtube.com/watch?v=ItIM8xra7Gg)
+
+- **ATOM One + Govgen Discussion** (4k views)  
+  [Watch here](https://www.youtube.com/watch?v=V-FfmYr3m4Y&feature=youtu.be)
+ 
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
   ### Our contributions for the growth of the Atone community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
@@ -76,6 +115,8 @@ We’re about to deliver the following **ASAP**:
   - [Trading updates](https://x.com/CosmosEcosystem/status/1876951786667364713)
 
 ## Cosmos News
+<img width="1595" height="1619" alt="image" src="https://github.com/user-attachments/assets/35b8233a-6cf9-4272-89bf-f9874ae5df8d" />
+
 - **Weekly News**
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1928803912372613152)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1873403235299668380)
@@ -97,23 +138,8 @@ We’re about to deliver the following **ASAP**:
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1877283347438735471)
   - [Issue including ATOM One](https://x.com/CosmosEcosystem/status/1857398154771185930)
 
-# Cryptobase YouTube Channel  
-[Cryptobase](https://www.youtube.com/@CRYPTOBASED) – 11.4k subscribers  
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
-## Videos
-- **How to Stake ATOM One** (4.9k views)  
-  [Watch here](https://www.youtube.com/watch?v=VB3aJ24zbJg)
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
-- **Cosmos Airdrops + ATOM One Airdrop Breakdown** (7.5k views)  
-  [Watch here](https://www.youtube.com/watch?v=1gAhVJEZG-8)
-
-- **Cosmos Updates Mentioning ATOM One** (8.5k views)  
-  [Watch here](https://www.youtube.com/watch?v=MCsFOisC8IA&feature=youtu.be)
-
-- **Govgen Launch Discussion on Cosmos Voice** (2.7k views)  
-  [Watch here](https://www.youtube.com/watch?v=ItIM8xra7Gg)
-
-- **ATOM One + Govgen Discussion** (4k views)  
-  [Watch here](https://www.youtube.com/watch?v=V-FfmYr3m4Y&feature=youtu.be)
- 
-  
