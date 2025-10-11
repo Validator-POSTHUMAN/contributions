@@ -53,6 +53,8 @@ We’re about to deliver the following **ASAP**:
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
+<img width="2414" height="1390" alt="image" src="https://github.com/user-attachments/assets/d7971112-cf51-4067-9dea-4fb2b4c65fc2" />
+
 - **How to Stake ATOM One** (4.9k views)  
   [Watch here](https://www.youtube.com/watch?v=VB3aJ24zbJg)
 
