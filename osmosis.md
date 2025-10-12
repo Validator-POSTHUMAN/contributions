@@ -60,6 +60,52 @@ Now we have several relayers which working in two directions (to osmosis and out
 - Cosmos [Stats infographics](https://twitter.com/CosmosEcosystem/status/1660634547040526337/) (issued from time-to-time)
 - Retweets, Quotes 
 
+### [Cosmos Ecosystem Twitter 2025](https://twitter.com/CosmosEcosystem) 
+- https://x.com/CosmosEcosystem/status/1939665974736933224
+- https://x.com/CosmosEcosystem/status/1939002899826364902
+- https://x.com/CosmosEcosystem/status/1937505218490695955
+- https://x.com/CosmosEcosystem/status/1936817393617276964
+- https://x.com/CosmosEcosystem/status/1936817393617276964
+- https://x.com/CosmosEcosystem/status/1936101362531803213
+- https://x.com/CosmosEcosystem/status/1928464440594252267
+- https://x.com/CosmosEcosystem/status/1928107066280808639
+- https://x.com/CosmosEcosystem/status/1926282763025387730
+- https://x.com/CosmosEcosystem/status/1923038102806798358
+- https://x.com/CosmosEcosystem/status/1922253862733337035
+- https://x.com/CosmosEcosystem/status/1920419377649738030
+- https://x.com/CosmosEcosystem/status/1919296555657646102
+- https://x.com/CosmosEcosystem/status/1919060529869443202
+- https://x.com/CosmosEcosystem/status/1918325902921916577
+- https://x.com/CosmosEcosystem/status/1911422141007823201
+- https://x.com/CosmosEcosystem/status/1911038656389009697
+- https://x.com/CosmosEcosystem/status/1910266463535177843
+- https://x.com/CosmosEcosystem/status/1908219806274253116
+- https://x.com/CosmosEcosystem/status/1906727086808510773
+- https://x.com/CosmosEcosystem/status/1905322247826317766
+- https://x.com/CosmosEcosystem/status/1903461799883596226
+- https://x.com/CosmosEcosystem/status/1903091298535424118
+- https://x.com/CosmosEcosystem/status/1901698176819900550
+- https://x.com/CosmosEcosystem/status/1901449206327644596
+- https://x.com/CosmosEcosystem/status/1899403569737961893
+- https://x.com/CosmosEcosystem/status/1898415559399620835
+- https://x.com/CosmosEcosystem/status/1896921745707380936
+- https://x.com/CosmosEcosystem/status/1896197224499184042
+- https://x.com/CosmosEcosystem/status/1895877591510499733
+- https://x.com/CosmosEcosystem/status/1894016883642548527
+- https://x.com/CosmosEcosystem/status/1892647414600720689
+- https://x.com/CosmosEcosystem/status/1891450667593535711
+- https://x.com/CosmosEcosystem/status/1890386145273434605
+- https://x.com/CosmosEcosystem/status/1890028116674068595
+- https://x.com/CosmosEcosystem/status/1887790282747310306
+- https://x.com/CosmosEcosystem/status/1887064407072522539
+- https://x.com/CosmosEcosystem/status/1886478976178078180
+- https://x.com/CosmosEcosystem/status/1883558712499138728
+- https://x.com/CosmosEcosystem/status/1880160985266397194
+- https://x.com/CosmosEcosystem/status/1879079130698031372
+- https://x.com/CosmosEcosystem/status/1878485479697310058
+- https://x.com/CosmosEcosystem/status/1875574582691967243
+- https://x.com/CosmosEcosystem/status/1875235762515669341
+
 ### [Cosmos Ecosystem Twitter 2024](https://twitter.com/CosmosEcosystem) 
 - https://twitter.com/CosmosEcosystem/status/1786736395953865114/
 - https://twitter.com/CosmosEcosystem/status/1784187665534902523/
