@@ -99,8 +99,3 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
-
-### Economical contribution
-
-> We allocate a portion of PHMN tokens who delegate on POSTHUMAN validator in Humans chain. Detailed description and tokenomics is [here](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6).
