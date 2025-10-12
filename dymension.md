@@ -63,12 +63,13 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   
 ## Videos
-[Cryptobase YouTube Channel](https://www.youtube.com/@CRYPTOBASED)
-- [03.01.2024](https://www.youtube.com/watch?v=dmiT6STlM-E)
-- [06.02.2024](https://www.youtube.com/watch?v=Cqx7r8e3cxc)
-- [07.03.2024](https://www.youtube.com/watch?v=Cqx7r8e3cxc)
-- [22.03.2024](https://www.youtube.com/watch?v=o_6zcIYic3Y)
-- [01.04.2024](https://www.youtube.com/watch?v=DXRrAtcs1rA&t=66s) <br/>
+<img width="2445" height="1393" alt="image" src="https://github.com/user-attachments/assets/96856c69-f823-47fe-9e09-16f882c80e4f" />
+
+- [NEW DROP IN COSMOS. BRAND DYMENSION IN TWO MINUTES](https://www.youtube.com/watch?v=dmiT6STlM-E)
+- [HOW TO SELL DYMENSION? OR STEAK AT 500%? THE COMPLETE GUIDE!](https://www.youtube.com/watch?v=Cqx7r8e3cxc)
+- [DYM DROPS SEASON IS OPEN! COLLECTING NIM – THE FIRST AI ROLLUP FOR GAME-FI!](https://www.youtube.com/watch?v=o_6zcIYic3Y)
+- [Voice of the Ecosystem #116 - ALPHA ANSWERS TO CURRENT ISSUES!](https://www.youtube.com/watch?v=DXRrAtcs1rA&t=66s)
+- [WE GET STEAKDROPS 24/7. WE'RE ASSEMBLING SAGA AND GETTING PREPARED FOR DYMENSION'S DROPS. A DETAILED ANALYSIS.](https://www.youtube.com/watch?v=CgI1hmufb94) <br/>
 All these videos are also exists on the [Omniflix TV](https://omniflix.tv/cryptobase)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Dymension and other Cosmos Ecosystem projects! 
