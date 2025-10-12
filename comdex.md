@@ -20,26 +20,67 @@
 - [The 16th Cosmos Ecosystem Insider Chat. Lots of Akash, Umee, Comdex, and a few secrets!](https://www.youtube.com/watch?v=6EeWafRlm-I&t=7s)
 - [The 36th Cosmos Ecosystem Insider Chat. Agoric, Comdex, Juno, and three testnets, plus news!](https://www.youtube.com/watch?v=idGK8Surv20&t=3854s)
 
-## Community Development
 
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about COMDEX and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+
+# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 - We are creators of [Unofficial Russian-speaking Community of COMDEX](https://t.me/comdex_ru)
-- We are admins in official [channel](https://t.me/PersistenceNewsRussia) and [group](https://t.me/PersistenceRussia) of Persistence in russian language, and before we use channel and group for popularisation of COMDEX
-> for example: https://t.me/PersistenceRussia/6120 </br>
-> for example: https://t.me/PersistenceNewsRussia/159 </br>
-
-## Evangelism (spreading information about COMDEX)
-
-- We are creator of [channel](https://t.me/CosmosEcosystemNews_ru) and [group](https://t.me/CosmosEcosystem_ru) about Cosmos Ecosystem in russian language, and I always write news about COMDEX there
-> for example: https://t.me/CosmosEcosystemNews_ru/266 </br>
-> for example: https://t.me/CosmosEcosystem_ru/4548 </br>
-
 - We are creators of [russian-speaking group about trading at Osmosis, Emeris and SifChain DEXes](https://t.me/Osmosis_ru), where we help to people with questions about $CMDX
-> for example: https://t.me/Osmosis_ru/35047 </br>
 
-- We are creators of [Cosmos Ecosystem Twitter account](https://twitter.com/CosmosEcosystem), and I always published information about COMDEX and creating infographics about COMDEX and Persistence
-> for example: https://twitter.com/CosmosEcosystem/status/1454073077051035648 </br>
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
-- We always retweet important news about COMDEX with [my own Twitter](https://twitter.com/ponimajushij)
-> for example: https://twitter.com/ponimajushij/status/1466507936684023817 </br>
+  ### Our contributions for the growth of the Zetachain community.
 
-More information will be soon...
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting COMDEX and its updates since genesis. | [Query CosmosEcosystem tweets about COMDEX](https://x.com/search?q=from%3ACosmosEcosystem%20(ComdexOfficial%20)&src=typed_query&f=live) | We spread the word about COMDEX and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover COMDEX updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about COMDEX](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(ComdexOfficial%20)&src=typed_query&f=live) | We spread the word about COMDEX and its updates since genesis. |
+
+# Cosmos News
+<img width="1664" height="1078" alt="image" src="https://github.com/user-attachments/assets/4e2b9850-1dc7-47fe-a038-9068768d9d90" />
+
+- [29.05.2025](https://x.com/CosmosEcosystem/status/1928107066280808639)
+- [09.07.2024](https://x.com/CosmosEcosystem/status/1810606270212448604)
+- [29.06.2024](https://x.com/CosmosEcosystem/status/1807076439826596302)
+- [10.06.2024](https://x.com/CosmosEcosystem/status/1745030466657501311)
+- [23.12.2023](https://x.com/CosmosEcosystem/status/1738546524873789855)
+- [19.12.2023](https://x.com/CosmosEcosystem/status/1737156526346023187)
+- [10.12.2023](https://x.com/CosmosEcosystem/status/1733839069795479839)
+- [18.09.2023](https://x.com/CosmosEcosystem/status/1703662899791614431)
+- [06.08.2023](https://x.com/CosmosEcosystem/status/1688164873824301056)
+- [01.08.2023](https://x.com/CosmosEcosystem/status/1686371095354724353)
+- [29.07.2023](https://x.com/CosmosEcosystem/status/1685278195191275520)
+- [03.07.2023](https://x.com/CosmosEcosystem/status/1675837294853357570)
+- [25.06.2023](https://x.com/CosmosEcosystem/status/1672919017130975232)
+- [23.06.2023](https://x.com/CosmosEcosystem/status/1672258310634983426)
+- [18.06.2023](https://x.com/CosmosEcosystem/status/1670477838774935552)
+- [10.06.2023](https://x.com/CosmosEcosystem/status/1667439202743595009)
+- [26.05.2023](https://x.com/CosmosEcosystem/status/1662109387358339073)
+- [17.05.2023](https://x.com/CosmosEcosystem/status/1658784900210888705)
+- [05.05.2023](https://x.com/CosmosEcosystem/status/1654473126263107586)
+- [26.04.2023](https://x.com/CosmosEcosystem/status/1651202923354017792)
+- [19.04.2023](https://x.com/CosmosEcosystem/status/1648686744068575232)
+- [16.04.2023](https://x.com/CosmosEcosystem/status/1647524720408162304)
+- [13.03.2023](https://x.com/CosmosEcosystem/status/1635270520760586242)
+- [14.01.2023](https://x.com/CosmosEcosystem/status/1614306323113598984)
+- [04.11.2022](https://x.com/CosmosEcosystem/status/1588563231861526528)
+- [14.10.2022](https://x.com/CosmosEcosystem/status/1580959673716310025)
+
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+
+
