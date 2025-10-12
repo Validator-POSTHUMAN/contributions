@@ -92,7 +92,7 @@ Now we have several relayers which working in two directions (to osmosis and out
 - https://twitter.com/CosmosEcosystem/status/1743620798735172030/
 - https://twitter.com/CosmosEcosystem/status/1742183179992121674/
 
-### 2024 [POSTHUMAN DVS TWITTER 2024](https://twitter.com/posthuman_dvs)
+### [POSTHUMAN DVS TWITTER 2024](https://twitter.com/posthuman_dvs)
 - https://x.com/posthuman_dvs/status/1744039189912428812?s=52
 - https://x.com/posthuman_dvs/status/1743336630620999908?s=52
 - https://x.com/posthuman_dvs/status/1743335658217992594?s=52
