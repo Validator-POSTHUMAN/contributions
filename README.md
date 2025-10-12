@@ -7,7 +7,7 @@ Here is not the full list of our contributions:
 # 0-9
 - [0g](https://github.com/Validator-POSTHUMAN/contributions/blob/main/0g.md)
 # A
-- [Agotic](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Agoric.md)
+- [Agoric](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Agoric.md)
 - [Akash Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Akash.md)
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
 - [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
