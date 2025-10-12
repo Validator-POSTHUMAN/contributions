@@ -97,8 +97,6 @@ Now we have several relayers which working in two directions (to osmosis and out
 - https://x.com/posthuman_dvs/status/1743336630620999908?s=52
 - https://x.com/posthuman_dvs/status/1743335658217992594?s=52
 
-
-
 ### [Cosmos Ecosystem Twitter 2023](https://twitter.com/CosmosEcosystem) 
 - https://twitter.com/CosmosEcosystem/status/1738230990831780284/ 
 - https://twitter.com/CosmosEcosystem/status/1735682220176609453/ 
@@ -208,10 +206,8 @@ Now we have several relayers which working in two directions (to osmosis and out
 - https://twitter.com/POSTHUMAN_DVS/status/1787265903215755421/ 
 - https://x.com/posthuman_dvs/status/1655595402098270210?s=52 
 
-<details>
-<summary>2022-2021</summary>
+## 2022-2021
 
-Twitter <br/>
 ![223](https://user-images.githubusercontent.com/92199696/166885936-4603128a-0ba0-4090-9e41-a20c3d82a140.jpg)<br/>
 
 We're creating a lot of content related with Osmosis to improve community knowledge about Osmosis functionality and features. <br/>
