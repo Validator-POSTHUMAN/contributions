@@ -43,8 +43,8 @@
 |                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
 |                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
 |                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
-| **Coming Soon**  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
-|                  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
