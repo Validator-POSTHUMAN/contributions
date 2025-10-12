@@ -75,6 +75,8 @@
 # Humanitarian Contributions
 
 ### We launched quest and task campaign about [Celestia on Centrifuge Platform](https://centrifuge.digital/celestia). Also within [Posthuman company](https://centrifuge.digital/posthuman), Celestia quests, 300 participants.
+<img width="1659" height="459" alt="image" src="https://github.com/user-attachments/assets/1778456a-2139-4bb4-9d3d-d752ea4314ae" />
+
 
 ### Services we've been providing since early 2022:
 - Early Advocates: Mentioned Celestia on our YouTube channel as early as 2022, even before the mainnet launch.
