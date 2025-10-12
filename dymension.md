@@ -117,7 +117,7 @@ All these videos are also exists on the [Omniflix TV](https://omniflix.tv/crypto
 - [19.09.2024](https://x.com/CosmosEcosystem/status/1836676080343879941)
 - [15.08.2024](https://x.com/CosmosEcosystem/status/1824070838666334506)
 - [30.07.2024](https://x.com/CosmosEcosystem/status/1818250533687419042)
-- [16.07.2024](https://x.com/CosmosEcosystem/status/1813193988989722908)
+- [16.07.2024](https://x.com/CosmosEcosystem/status/1813193988989722908) 
 - [30.05.2024](https://x.com/CosmosEcosystem/status/1796203291111780728/photo/1)
 - [10.05.2024](https://x.com/CosmosEcosystem/status/1788842366796959832/photo/1)
 - [30.04.2024](https://x.com/CosmosEcosystem/status/1785300798748213272/photo/1)
