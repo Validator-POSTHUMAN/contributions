@@ -1,17 +1,7 @@
 ![Secret (1)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/0d14542c-692b-4466-aed6-25f17d72d373)
 # The list of contributions for the [Dymension](https://dymension.xyz/)
 
-<details>
-  <summary>OUR TEAM</summary>
-
-- [List of POSTHUMAN core-team members](https://github.com/Validator-POSTHUMAN/core-team)
-
-</details>
-
-<details>
-  <summary>TECHNICAL CONTRIBUTIONS</summary>
-
-## Technical Contributions
+# Technical Contributions
 ![Скриншот 17-06-2024 201646](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/f98fcf99-8cf5-44fd-abc5-535deaaafc3e)
 
 - We validate [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
