@@ -69,6 +69,9 @@ We’re about to deliver the following **ASAP**:
 
 - **ATOM One + Govgen Discussion** (4k views)  
   [Watch here](https://www.youtube.com/watch?v=V-FfmYr3m4Y&feature=youtu.be)
+
+ - **Who pumped up AtomOne?**
+   [Watch here](https://youtu.be/bWDdJWFpMwE)
  
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
