@@ -24,6 +24,9 @@
 ## Alpha of Block Explorer for XRPL
 - **Block Explorer** [for XRPL](https://explorer.posthuman.digital/)
   </details>
+  
+## Also we supported XPRL testnet
+<img width="1955" height="702" alt="image" src="https://github.com/user-attachments/assets/4b1d9dde-3a38-4940-bd1c-6fb7cfd90a9d" />
 
 # Humanitarian Contributions
   
