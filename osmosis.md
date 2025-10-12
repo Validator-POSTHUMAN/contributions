@@ -1,8 +1,5 @@
 ![1v (3)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/73591292-0124-4fe6-a7d4-c3f9b2ce417c) <br/>
-# The list of contributions for the [Osmosis](https://app.osmosis.zone/)
-
-<details>
-  <summary>Our Team:</summary>
+# POSTHUMAN contributions for [Osmosis](https://app.osmosis.zone/)
 
 [POSTHUMAN](https://posthuman.digital/) stands as the pioneer distributed validator, 
 committed to providing dedicated, highly experienced, 
@@ -13,13 +10,8 @@ individuals across diverse fields including development,
 design, marketing, and content creation, we ensure the 
 security and reliability of various Cosmos SDK chains, 
 including flagship networks like Cosmos and Osmosis.
-  
-</details>
 
-## Technical Contributions
-
-<details>
-  <summary>List of techical contributions:</summary>
+# Technical Contributions
 
 - We validate [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) since genesis.
 - We develop [Sputnik Network](https://sputnik.exchange/), and we added $OSMO to https://t.me/SputnikPriceBot.
@@ -43,16 +35,23 @@ Now we have several relayers which working in two directions (to osmosis and out
 - Persistence
 
 [Relayer Address](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
-</details>
 
-# Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
+# Humanitarian Contributions
 
-<details>
-<summary>2024-2023</summary>
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
-## Twitter (X)
+  ### Our contributions for the growth of the Osmosis community.
 
-We utilize our Twitter(X) medias to support informational awareness about the Cosmos Ecosystem and beyond. Osmosis, as the premiere Cosmos Ecosystem DEX and the Liquidity Hub of Cosmos is always in our news, retweets and infographic materials. <br/>
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Osmosis and its updates since genesis. | [Query CosmosEcosystem tweets about Osmosis](https://x.com/search?q=from%3ACosmosEcosystem%20(osmosiszone%20)&src=typed_query&f=live) | We spread the word about Osmosis and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Osmosis updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Osmosis](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(osmosiszone%20)&src=typed_query&f=live) | We spread the word about Osmosis and its updates since genesis. |
+
+## We utilize our Twitter(X) medias to support informational awareness about the Cosmos Ecosystem and beyond. Osmosis, as the premiere Cosmos Ecosystem DEX and the Liquidity Hub of Cosmos is always in our news, retweets and infographic materials.
+
+<img width="1664" height="1668" alt="image" src="https://github.com/user-attachments/assets/1380a22c-5a9f-4b17-a062-9b4529bc6656" />
 
 > There are several categories of infographics:
 - Cosmos Ecosystem [Weekly News](https://twitter.com/CosmosEcosystem/status/1766153318122856855) (issued weekly)
@@ -61,10 +60,7 @@ We utilize our Twitter(X) medias to support informational awareness about the Co
 - Cosmos [Stats infographics](https://twitter.com/CosmosEcosystem/status/1660634547040526337/) (issued from time-to-time)
 - Retweets, Quotes 
 
-<details>
-  <summary>2024:</summary> 
-
-### [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) 
+### [Cosmos Ecosystem Twitter 2024](https://twitter.com/CosmosEcosystem) 
 - https://twitter.com/CosmosEcosystem/status/1786736395953865114/
 - https://twitter.com/CosmosEcosystem/status/1784187665534902523/
 - https://twitter.com/CosmosEcosystem/status/1783520089565790239/
@@ -96,17 +92,14 @@ We utilize our Twitter(X) medias to support informational awareness about the Co
 - https://twitter.com/CosmosEcosystem/status/1743620798735172030/
 - https://twitter.com/CosmosEcosystem/status/1742183179992121674/
 
-### 2024 [POSTHUMAN DVS TWITTER](https://twitter.com/posthuman_dvs)
+### 2024 [POSTHUMAN DVS TWITTER 2024](https://twitter.com/posthuman_dvs)
 - https://x.com/posthuman_dvs/status/1744039189912428812?s=52
 - https://x.com/posthuman_dvs/status/1743336630620999908?s=52
 - https://x.com/posthuman_dvs/status/1743335658217992594?s=52
-</details>
 
 
-<details>
-  <summary>2023:</summary> 
 
-### [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) 
+### [Cosmos Ecosystem Twitter 2023](https://twitter.com/CosmosEcosystem) 
 - https://twitter.com/CosmosEcosystem/status/1738230990831780284/ 
 - https://twitter.com/CosmosEcosystem/status/1735682220176609453/ 
 - https://twitter.com/CosmosEcosystem/status/1733443387628634561/ 
@@ -209,53 +202,11 @@ We utilize our Twitter(X) medias to support informational awareness about the Co
 - https://twitter.com/CosmosEcosystem/status/1613948878499491840/ 
 - https://twitter.com/CosmosEcosystem/status/1611772150721175552/ 
 
-### [POSTHUMAN DVS TWITTER](https://twitter.com/posthuman_dvs)
+### [POSTHUMAN DVS TWITTER 2023](https://twitter.com/posthuman_dvs)
 - https://x.com/posthuman_dvs/status/1728142408666206334?s=52 
 - https://twitter.com/POSTHUMAN_DVS/status/1787257418314887378/ 
 - https://twitter.com/POSTHUMAN_DVS/status/1787265903215755421/ 
 - https://x.com/posthuman_dvs/status/1655595402098270210?s=52 
-</details>
-
-## YouTube
-
-Content creation is what we are truly passionate about, as well as validation. Our goal is to provide informational and educational support not only via text but also through videos! Here are a couple of examples of what we do: we have two YouTube channels. 
-
-> One is Russian-speaking - [CRYPTOBASE](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) with approximately 10k subscribers. Our videos are educational and informational, featuring guests who are founders, creators, developers, and enthusiasts. We cater not only to Russian speakers but also to English speakers, always providing timely translations for them. We've hosted guests such as Omniflix, Persistence, Archway, Asset Mantle, Injective, Warden Protocol, Massa, Sei, CryptoDungeons, Odin, Quasar, and many more founders and community developers of Cosmos Ecosystem projects on our special, Cosmos Ecosystem dedicated community calls. We have been doing this weekly for over 121 weeks in a row!
-
-> Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
-
-### 2024+late 2023 Videos:
-- [Osmocon Paris 2023](https://www.youtube.com/watch?v=FmTdUpjI3OE&t=55s)
-- [Nebular Summit 2023 Interview with ARC](https://youtu.be/qPJQ2q8RF6A)
-- [Osmosis 2024 Overview](https://www.youtube.com/watch?v=AYbHUSrjKWw)
-- [Mad Scientists NFT collection update and Osmosis check](https://www.youtube.com/watch?v=CIttj6R0FIA&t=1s)
-- [Mad Scientists NFT Streaswap live educational discussion](https://www.youtube.com/watch?v=xa7XFpsM_to)
-- [Cosmos Projects 2024 overview and news](https://www.youtube.com/watch?v=MCsFOisC8IA&t=270s)
-- [Cosmos News + Osmosis 2.0. overview](https://www.youtube.com/watch?v=zlEGbxIbaTU)
-- [Cosmos Voice #80 - Osmosis Updates](https://www.youtube.com/watch?v=E_HTJkkGrmI&t=45s)
-- [PHMN/ATOM Pool creation, live tutorial on pools on Osmosis](https://www.youtube.com/watch?v=KF_HW8YQqe0)
-- [PHMN Liquidity providing on Osmosis](https://youtu.be/BQ0Oyx0LfYo)
-
-Feel free to discover more videos on our channels, or overthere in 2022-2021 contributions list.
-
-## Community
-
-We develop Cosmos Ecosystem Russian-speaking community since 2019. From that point, we created and contributed to multiple Telegram channels. It's pretty much tough to count all the replies and things we answered about Osmosis and related to it topics. But, feel free to inpect it! 
-
-Few of our largest Russian-speaking communities, where we're always happy to support every Osmosis user, have encountered some difficulties:
-
-- Cosmos Ecosystem Russian Speaking Group 6000+members [link](https://t.me/CosmosEcosystem_ru)
-- CryptoBase 3600+members [link](https://t.me/Crypto_Base_Chat)  
-- Osmosis Russian Speaking channel 1300+members [Link](https://t.me/Osmosis_ru)
-
-> "How to inspect if I don't know Russian language?"-you may ask. So feel free to use search engine in following communities and paste related with Osmosis words, such as:
-- Осмо
-- Осмосис
-- Осмозис
-- Osmosis
-- Osmo
-
-</details>
 
 <details>
 <summary>2022-2021</summary>
@@ -345,25 +296,38 @@ May 2022<br/>
 Some stats:<br/>
 ![777](https://user-images.githubusercontent.com/92199696/166916424-9811180a-e382-4723-a2d3-cfdb9b07448e.jpg)
 
+## Videos 
+<img width="2526" height="1411" alt="image" src="https://github.com/user-attachments/assets/815fb9aa-e7c9-44c3-a8f3-8d29fa224e23" />
 
-## Telegram <br/>
-We've been developing Russian-language speaking communities about Cosmos Ecosystem in Telegram. 
-Also we're administrators of these groups:<br>
-<br/>![333](https://user-images.githubusercontent.com/92199696/166893977-525aa9fe-3ca4-41ac-ae29-418def7e69bd.jpg)
-- https://t.me/Osmosis_ru
-- https://t.me/Osmosis_School
-- https://t.me/Crypto_Base_Chat <br/>
-Also we have news channel where we publish Osmosis Updates and Links and other news from Cosmos Ecosystem:
-<br/>[Example](https://t.me/CosmosEcosystemNews_ru/790)<br/>
+Content creation is what we are truly passionate about, as well as validation. Our goal is to provide informational and educational support not only via text but also through videos! Here are a couple of examples of what we do: we have two YouTube channels. 
 
-## YouTube<br/>
-This is our big part of humanitarian side of our contibutions for Osmosis: <br/>
-We have several YouTube channels: <br/>
+> One is Russian-speaking - [CRYPTOBASE](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) with approximately 10k subscribers. Our videos are educational and informational, featuring guests who are founders, creators, developers, and enthusiasts. We cater not only to Russian speakers but also to English speakers, always providing timely translations for them. We've hosted guests such as Omniflix, Persistence, Archway, Asset Mantle, Injective, Warden Protocol, Massa, Sei, CryptoDungeons, Odin, Quasar, and many more founders and community developers of Cosmos Ecosystem projects on our special, Cosmos Ecosystem dedicated community calls. We have been doing this weekly for over 121 weeks in a row!
+
+> Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
+
+## YouTube
+This is our big part of humanitarian side of our contibutions for Osmosis:
+We have several YouTube channels: 
 1. [CryptoBase](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A)
 2. [PostHuman](https://www.youtube.com/c/POSTHUMAN)
-3. [CryptoSlovo](https://www.youtube.com/c/CryptoSlovo/videos) <br/>
+3. [CryptoSlovo](https://www.youtube.com/c/CryptoSlovo/videos) 
 
-CRYPTOBASE VIDEOS WITH OSMO: <br/>
+
+### 2025, 2024+late 2023 Videos:
+- [OSMOSIS - A TRUE COSMIC HUB. FROM DEX TO GIANT](https://www.youtube.com/watch?v=AYbHUSrjKWw)
+- [Osmocon Paris 2023](https://www.youtube.com/watch?v=FmTdUpjI3OE&t=55s)
+- [Nebular Summit 2023 Interview with ARC](https://youtu.be/qPJQ2q8RF6A)
+- [Osmosis 2024 Overview](https://www.youtube.com/watch?v=AYbHUSrjKWw)
+- [Mad Scientists NFT collection update and Osmosis check](https://www.youtube.com/watch?v=CIttj6R0FIA&t=1s)
+- [Mad Scientists NFT Streaswap live educational discussion](https://www.youtube.com/watch?v=xa7XFpsM_to)
+- [Cosmos Projects 2024 overview and news](https://www.youtube.com/watch?v=MCsFOisC8IA&t=270s)
+- [Cosmos News + Osmosis 2.0. overview](https://www.youtube.com/watch?v=zlEGbxIbaTU)
+- [Cosmos Voice #80 - Osmosis Updates](https://www.youtube.com/watch?v=E_HTJkkGrmI&t=45s)
+- [PHMN/ATOM Pool creation, live tutorial on pools on Osmosis](https://www.youtube.com/watch?v=KF_HW8YQqe0)
+- [PHMN Liquidity providing on Osmosis](https://youtu.be/BQ0Oyx0LfYo)
+
+
+CRYPTOBASE VIDEOS WITH OSMO:
 ![bababa](https://user-images.githubusercontent.com/92199696/166919902-b7084584-2758-47e5-9aee-16a2e6ae7721.jpg)<br/>
 - [Best project on Cosmos](https://www.youtube.com/watch?v=3YFKDHx-is4&t=1611s)
 - [Liquidy Pools depositing on Osmosis](https://www.youtube.com/watch?v=Re1oAUxJIFM)
@@ -376,7 +340,7 @@ CRYPTOBASE VIDEOS WITH OSMO: <br/>
 
 - Other videos where we talking about Osmosis you can find [here](https://youtube.com/playlist?list=PLgQFzABJoJYxw4DByZJsJ89mloVQFOkTP) <br/>
 
-POSTHUMAN CHANNEL VIDEOS: <br/>
+POSTHUMAN CHANNEL VIDEOS: 
 This is Vladimir's Ponimajushij own channel where he sharing most valuable updates and other cool stuff
 - [Как торговать на Osmosis DEX - сделал из 200$ - 289$ за 30 минут без спешки и нервов](https://youtu.be/W5tPeAfdo9A)
 - [Osmosis - обзор функционала и арбитраж](https://youtu.be/bD05_17yRc)<br/>
@@ -386,7 +350,7 @@ CRYPTOSLOVO VIDEOS:<br/>
 Here Valentin Medniyy record explaining videos for CryptoCommunity:
 -[How to participate in Governance with any devices RU](https://youtu.be/zL1D58I6gBQ?t=851)
 
-Also we participate and discuss about Osmosis on other channels:<br/>
+Also we participate and discuss about Osmosis on other channels:
 
 [FORKLOG](https://www.youtube.com/c/forklog/videos) VIDEOS: In this videos PostHuman validator represented by Vladimir Ponimajushij and Vladimir Synthetic explaining crypto in simple way on fridays for a big ForkLog Channel with 54k subscribers! 
 - CryptoAidrops and Regulations [in Russia](https://youtu.be/7Fr_H1Ew9bo?t=4167)<br/>
@@ -410,7 +374,42 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
 ![3333333](https://user-images.githubusercontent.com/92199696/166915211-779fcbd5-4bf3-432e-8e0d-6f8d278b7412.jpg)
 
-## Medium <br/>
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Osmosis and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+## Community
+
+We develop Cosmos Ecosystem Russian-speaking community since 2019. From that point, we created and contributed to multiple Telegram channels. It's pretty much tough to count all the replies and things we answered about Osmosis and related to it topics. But, feel free to inpect it! 
+
+Few of our largest Russian-speaking communities, where we're always happy to support every Osmosis user, have encountered some difficulties:
+
+- Cosmos Ecosystem Russian Speaking Group 6000+members [link](https://t.me/CosmosEcosystem_ru)
+- CryptoBase 3600+members [link](https://t.me/Crypto_Base_Chat)  
+- Osmosis Russian Speaking channel 1300+members [Link](https://t.me/Osmosis_ru)
+
+> "How to inspect if I don't know Russian language?"-you may ask. So feel free to use search engine in following communities and paste related with Osmosis words, such as:
+- Осмо
+- Осмосис
+- Осмозис
+- Osmosis
+- Osmo
+
+</details>
+
+## Telegram <br/>
+We've been developing Russian-language speaking communities about Cosmos Ecosystem in Telegram. 
+Also we're administrators of these groups:<br>
+<br/>![333](https://user-images.githubusercontent.com/92199696/166893977-525aa9fe-3ca4-41ac-ae29-418def7e69bd.jpg)
+- https://t.me/Osmosis_ru
+- https://t.me/Osmosis_School
+- https://t.me/Crypto_Base_Chat <br/>
+Also we have news channel where we publish Osmosis Updates and Links and other news from Cosmos Ecosystem:
+<br/>[Example](https://t.me/CosmosEcosystemNews_ru/790)<br/>
+
+## Medium 
 We're translating most valuable and informative articles of Osmosis Updates!
 ![image](https://user-images.githubusercontent.com/92199696/166896886-f9774ff9-56ee-4ed2-b0ad-2edc0fe5dc59.png)<br/>
 - 14.03.22 Superfluid Staking FAQ and About Big [Translation](https://link.medium.com/cYzQYTdlMpb )
@@ -419,7 +418,6 @@ Our Medium links:<br/>
 Vladimir Ponimajushij [Medium](https://antropocosmist.medium.com)<br/>
 Valentin Medniyy [Medium](https://medium.com/@Medniyy)
 
-</details>
 
 ## Economical Contributions
 
@@ -445,3 +443,5 @@ https://twitter.com/POSTHUMAN_DVS/status/1787257418314887378
 Here is the translation of Vladi's [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
 And here is a [presentation in Russian](https://docs.google.com/presentation/d/1Hlh5lPUhM1EK-dV5vmkjQi4PYUbJc9bidaDEtG22M7A/edit?usp=sharing)
 - We sponsored [Airdrop Tracker Cosmosdrops.io](https://cosmosdrops.io/en/), where people can check their addresses for airdrops eligibility where a lot of projects distributing tokens between $OSMO holders/stakers. Webpage is working on 2 languages RU and ENG right now.
+
+### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
