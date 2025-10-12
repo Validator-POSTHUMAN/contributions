@@ -25,6 +25,7 @@
 # Humanitarian Contributions
 ### Community Superpowers: 
 
+
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
 | **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
@@ -42,11 +43,11 @@
 |                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
 |                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
 |                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
-| **Coming Soon**  | Sputnik Network Version 2.0              | -                      | -                                                     |
-|                  | Metarchy Web3 Game                       | -                      | -                                                     |
-|                  | POSTHUMAN Explorer                       | -                      | -                                                     |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
-
+  
 
 # We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain)
 <img width="2681" height="779" alt="image" src="https://github.com/user-attachments/assets/f91c5dcd-c00b-4d38-a3c0-ff159fc3bab7" />
