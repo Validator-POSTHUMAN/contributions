@@ -63,7 +63,7 @@
 
 ### Social Media
 - **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers), even though this is a Twitter account for the Cosmos Ecosystem, we often mentioned Solana too.  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers), even though this is a Twitter account for the Cosmos Ecosystem, we often mentioned thegraph too.  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
     ### Our contributions for the growth of the TheGraph community.
