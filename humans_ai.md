@@ -10,6 +10,7 @@
   <img width="2180" height="952" alt="image" src="https://github.com/user-attachments/assets/6c8efa82-42ef-4a92-901c-313ab5a33c64" />
 
 </div>
+
 - **RPC**: [https://rpc.humans.posthuman.digital](https://rpc.humans.posthuman.digital) 
 - **REST**: [https://rest.humans.posthuman.digital](https://rest.humans.posthuman.digital)  
 - **wss**: [wss://rpc.humans.posthuman.digital](wss://rpc.humans.posthuman.digital)
@@ -80,8 +81,6 @@
 ## Spreading of Information - more information at [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
 
 ### HumansAi Updates, Mentions, Retweets (examples)
-
-![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/e21ade22-f0c7-42d3-bbaf-df937c6bfcec) <br/>
 
 - https://twitter.com/CosmosEcosystem/status/1662350781868130305
 - https://twitter.com/CosmosEcosystem/status/1600932675719569408
