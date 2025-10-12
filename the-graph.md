@@ -45,11 +45,11 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
-## We spread the information about TheGraph among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about TheGraph among russian-speaking community:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-### We have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about TheGraph and other Cosmos Ecosystem projects! 
+### We have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about TheGraph and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
