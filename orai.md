@@ -1,6 +1,6 @@
 # The list of contributions for ORAIchain
 
-# Technical Contributions
+# 🛠Technical Contributions
 
 <img width="2141" height="930" alt="image" src="https://github.com/user-attachments/assets/c6297106-aaef-4378-aa56-00cb10c93cf2" />
 
@@ -22,7 +22,7 @@
 - Block explorer: https://explorer.posthuman.digital/oraichain (if you don't see stats imediatly - you need to wait until data is uploaded, we are on fixing it)
 
 
-## Marketing contributions:
+# Humanitarian Contributions
 
 We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain)
 
@@ -53,6 +53,13 @@ We launched a community quest program on the [Centrifuge platform.](https://cent
   - [Long thread about ORAIchain 2](https://x.com/POSTHUMAN_DVS/status/1963875758885278102)
   - [Interview with ORAIchain on Cosmoverse](https://x.com/POSTHUMAN_DVS/status/1853477104694014199)
   - [Long thread about ORAIchain 1](https://x.com/POSTHUMAN_DVS/status/1915030554782957646)
+
+  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about ORAIchain and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+
 
 ### ORAIchain Daily
 <img width="1618" height="1601" alt="image" src="https://github.com/user-attachments/assets/c620ecaa-138f-4783-b4a8-c092f95e8817" />
