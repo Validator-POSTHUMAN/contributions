@@ -11,7 +11,7 @@ design, marketing, and content creation, we ensure the
 security and reliability of various Cosmos SDK chains, 
 including flagship networks like Cosmos and Osmosis.
 
-# Technical Contributions
+# 🛠 Technical Contributions
 
 - We validate [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) since genesis.
 - We develop [Sputnik Network](https://sputnik.exchange/), and we added $OSMO to https://t.me/SputnikPriceBot.
