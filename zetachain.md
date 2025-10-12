@@ -43,9 +43,9 @@
 |                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
 |                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
 |                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
-| **Coming Soon**  | Sputnik Network Version 2.0              | -                      | -                                                     |
+| **Coming Soon**  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
 |                  | Metarchy Web3 Game                       | -                      | -                                                     |
-|                  | POSTHUMAN Explorer                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
 ## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
