@@ -12,7 +12,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 We launched Osmosis <-> Secret IBC Relayer
 `secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k`
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
