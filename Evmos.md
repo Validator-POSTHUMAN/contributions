@@ -16,7 +16,7 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - We've added $EVMOS to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $EVMOS in X and Telegram, and also p2p-exchange $EVMOS directly in Telegram!| News in [X](https://X.com/SputnikNetwork/status/1535044628902182920)
   </details>
   
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
  Including Community Growth (X, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
  ### Community Superpowers: 
