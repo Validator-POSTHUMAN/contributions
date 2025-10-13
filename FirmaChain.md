@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Firmachain**  
   [Firmachain Validator Details](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
