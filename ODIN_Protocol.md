@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Odin Protocol**  
   [Odin Protocol Validator Details]()
   
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
