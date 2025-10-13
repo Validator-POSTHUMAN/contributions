@@ -7,7 +7,7 @@
   [Quicksilver Validator Details]()
 
 
-# Humanitarian Contributions  
+# 🧠Humanitarian Contributions  
 
 ### Community Superpowers: 
 
