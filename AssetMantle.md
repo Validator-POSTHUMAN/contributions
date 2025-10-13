@@ -14,7 +14,7 @@ Including Validation, Free tools for Community etc.
 - *We also support few relayers with Asset Mantle*. At this moment there are two for **Osmosis** and **Juno** chains:
 [Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
