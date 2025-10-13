@@ -1,11 +1,35 @@
+<img width="1500" height="500" alt="GitHub (15)" src="https://github.com/user-attachments/assets/a949d2d3-6a5c-425c-bdf3-a91eceab257d" />
 
 # POSTHUMAN contributions for [Odin Protocol](https://www.odinprotocol.io/)
 
-# Technical Contributions
+# 🛠Technical Contributions
 - **POSTHUMAN validates Odin Protocol**  
   [Odin Protocol Validator Details]()
   
 # Humanitarian Contributions
+
+### Community Superpowers: 
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
   
 ## We spread the information about Odin Protocol among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
@@ -38,6 +62,11 @@
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Odin Protocol for a long time. | [Query CosmosEcosystem tweets about Odin Protocol](https://x.com/search?q=from%3ACosmosEcosystem%20Odinprotocol&src=typed_query&f=live) | We spread the word about Odin Protocol for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Odin Protocol updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Odin Protocol](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Odinprotocol&src=typed_query&f=live) | We spread the word about Odin Protocol for a long time. | 
+
+# Cosmocs News
+<img width="2028" height="1587" alt="image" src="https://github.com/user-attachments/assets/d4756e41-223a-4edb-8764-f24a1560a1e2" />
+
+- [16.10.2024](https://x.com/CosmosEcosystem/status/1846540126723121615)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
