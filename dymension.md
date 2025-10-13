@@ -1,5 +1,5 @@
 ![Secret (1)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/0d14542c-692b-4466-aed6-25f17d72d373)
-# The list of contributions for [Dymension](https://dymension.xyz/)
+# POSTHUMAN contributions for [Dymension](https://dymension.xyz/)
 
 # 🛠Technical Contributions
 ![Скриншот 17-06-2024 201646](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/f98fcf99-8cf5-44fd-abc5-535deaaafc3e)
@@ -38,8 +38,32 @@
 ## We supported Dymension [testnet validator](https://explorer.nodestake.org/dymension-testnet/staking/dymvaloper1d98hrl5dnsksjqzvr0wede686peng8gjqtswvv)
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 ![Скриншот 17-06-2024 201214](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/287e168c-e733-4a37-be4c-52da5cdbaea6)
+
+### Community Superpowers: 
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
 
 
 ## Our media resources:
