@@ -1,4 +1,6 @@
-# POSTHUMAN contributions for [Initia](https://www.zetachain.com/)
+<img width="1500" height="500" alt="GitHub (24)" src="https://github.com/user-attachments/assets/959fac29-aad6-4901-ac61-9641b2e6eea1" />
+
+# POSTHUMAN contributions for [Initia](https://initia.xyz/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Initia**  
@@ -27,8 +29,9 @@
 
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
+### Community Superpowers: 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
