@@ -10,7 +10,7 @@
 - We added $FET to [Sputnik Exchange](https://sputnik.exchange/), now users can send tips with $FET in X
 - We added $FET to [Sputnik Network Bot](https://t.me/SputnikNetworkBot), now users can send, receive and p2p-exchange $FET directly [in Telegram](https://X.com/SputnikNetwork/status/1420848326304583690)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
