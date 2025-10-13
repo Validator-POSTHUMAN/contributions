@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Sentinel**  
   [Sentinel Validator Details]()
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
