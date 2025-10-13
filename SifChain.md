@@ -23,7 +23,7 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 
 - We've added Restake Support for $ROWAN on [EcoStake](https://twitter.com/POSTHUMAN_DVS/status/1563433230631866370)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
