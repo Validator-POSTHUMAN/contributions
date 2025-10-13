@@ -1,7 +1,7 @@
 ![1v (5)](https://user-images.githubusercontent.com/92199696/222923113-c6747d9f-e41e-47ed-ad5f-b8314b45243a.png)
-# 🛠POSTHUMAN contributions for [Juno Network](https://www.junonetwork.io)
+# POSTHUMAN contributions for [Juno Network](https://www.junonetwork.io)
 
-# Technical Contributions
+# 🛠Technical Contributions
 
 ### We're validating [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 ### IBC-Relayers with Juno Network
