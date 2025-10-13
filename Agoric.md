@@ -25,7 +25,7 @@
 - **Block Explorer** [for Agoric](https://explorer.posthuman.digital/agoric)
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
