@@ -1,4 +1,6 @@
-# The list of contributions for ORAIchain
+<img width="1500" height="500" alt="GitHub (25)" src="https://github.com/user-attachments/assets/52a5a37a-ffc1-4f11-8bdb-69a0c88f7761" />
+
+# POSTHUMAN contributions for [ORAIchain](https://orai.io/)
 
 # 🛠Technical Contributions
 
@@ -22,9 +24,9 @@
 - Block explorer: https://explorer.posthuman.digital/oraichain (if you don't see stats imediatly - you need to wait until data is uploaded, we are on fixing it)
 
 
-# Humanitarian Contributions
-### Community Superpowers: 
+# 🧠Humanitarian Contributions
 
+### Community Superpowers: 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
