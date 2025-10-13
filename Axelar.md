@@ -16,7 +16,7 @@ We working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkB
 We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send tips with $AXL in Twitter and Telegram, and also p2p-exchange $AXL directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
   </details>
 
- # Humanitarian Contributions
+ # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
  ### Community Superpowers: 
