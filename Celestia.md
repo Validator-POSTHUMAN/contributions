@@ -1,8 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/351f57f2-1229-4e58-a043-67a5bbbb6845)
 <div align="center">
 
-# [Celestia](https://celestia.org/) contributions list. 
-
+# # POSTHUMAN contributions for [Celestia](https://celestia.org/)
 
 # 🛠Technical Contributions
 
