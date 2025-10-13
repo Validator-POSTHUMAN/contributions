@@ -6,7 +6,7 @@
   [Akash Validator Details](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 - We develop [Sputnik Network](https://sputnik.exchange/), and we added $AKT into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 ### Community Superpowers: 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
