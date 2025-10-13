@@ -6,7 +6,7 @@
 - **POSTHUMAN validates MediBloc**  
   [MediBloc Validator Details](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z)
   
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
