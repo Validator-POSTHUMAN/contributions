@@ -1,4 +1,3 @@
-<img width="1500" height="500" alt="GitHub (20)" src="https://github.com/user-attachments/assets/e66d02c9-e616-4e4d-83be-5a85b06f6e67" />
 
 # POSTHUMAN contributions for [Tgrade](https://x.com/TgradeFinance)
 ![Tgrade](https://user-images.githubusercontent.com/92199696/176698728-dd930e7d-ffbd-4000-870d-b230b33e2f00.png)
