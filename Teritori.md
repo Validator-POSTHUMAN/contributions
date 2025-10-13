@@ -1,7 +1,8 @@
 ![Teritori](https://user-images.githubusercontent.com/92199696/205446382-9fa70e8a-0c9b-455c-a048-b52d147b25bb.png)
-# The list of contributions for [Teritori](https://teritori.com/)
 
-# Technical Contributions
+# TPOSTHUMAN contributions for [Teritori](https://teritori.com/)
+
+# 🛠Technical Contributions
 
 We working on Sputnik Network, and we added $TORI to https://t.me/SputnikNetworkBot without any support
 
@@ -10,8 +11,32 @@ We working on Sputnik Network, and we added $TORI to https://t.me/SputnikNetwork
 We've added $TORI to Sputnik Exchange and to Sputnik Network. Now users can send tips with $TORI in Twitter and Telegram, and also p2p-exchange $TORI directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
 
 
-# Humanitarian Contributions
- Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
+# 🧠Humanitarian Contributions
+ Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc.
+
+ ### Community Superpowers: 
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
 
 ## We spread the information about Teritori among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
