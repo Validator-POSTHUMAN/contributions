@@ -1,6 +1,6 @@
 ![Teritori](https://user-images.githubusercontent.com/92199696/205446382-9fa70e8a-0c9b-455c-a048-b52d147b25bb.png)
 
-# TPOSTHUMAN contributions for [Teritori](https://teritori.com/)
+# POSTHUMAN contributions for [Teritori](https://teritori.com/)
 
 # 🛠Technical Contributions
 
