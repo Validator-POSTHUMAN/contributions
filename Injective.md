@@ -31,7 +31,7 @@
 We'll add $INJ to Sputnik Exchange and to Sputnik Network. And users would be able to send tips with $INJ in Twitter and Telegram, and also p2p-exchange $INJ directly in Telegram!
 
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
  ### Community Superpowers: 
