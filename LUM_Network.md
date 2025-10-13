@@ -6,7 +6,7 @@
 - **POSTHUMAN validates LUM Network**  
   [LUM Network Validator Details]()
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
