@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="GitHub (27)" src="https://github.com/user-attachments/assets/85f29c22-b5b0-4923-bf69-b1a046ad0518" />
+
 # POSTHUMAN contributions for [Story](https://www.story.foundation/)
 
 # 🛠 Technical Contributions
@@ -23,7 +25,7 @@
 - **One Liner**: [Link](https://nodes.posthuman.digital/chains/story-testnet?tab=one-liner)
 
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
