@@ -10,7 +10,7 @@
 - We added $XPRT to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $XPRT in Twitter and Telegram, and also p2p-exchange $XPRT directly in Telegram! News about it in [Twitter](https://twitter.com/SputnikNetwork/status/1417799239598592000)
 - We attract people to delegate and hold $XPRT tokens with our Distributed Validator Model with $PHMN token incentives for the real delegators. [Details](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6)
 
-# Humanitarian contributions
+# 🧠Humanitarian contributions
 
 ### Community Superpowers: 
 
