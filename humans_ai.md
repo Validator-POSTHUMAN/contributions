@@ -28,8 +28,9 @@
 - **Block Explorer** [for HumansAi](https://explorer.posthuman.digital/humans)
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
+### Community Superpowers: 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
