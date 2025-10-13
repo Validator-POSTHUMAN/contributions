@@ -1,7 +1,9 @@
+<img width="1500" height="500" alt="GitHub (20)" src="https://github.com/user-attachments/assets/e66d02c9-e616-4e4d-83be-5a85b06f6e67" />
+
 # POSTHUMAN contributions for [Tgrade](https://x.com/TgradeFinance)
 ![Tgrade](https://user-images.githubusercontent.com/92199696/176698728-dd930e7d-ffbd-4000-870d-b230b33e2f00.png)
 
-# Technical Contributions 
+# 🛠Technical Contributions 
 
 - We validating Tgrade Chain in Mainnet [Validator's link](https://tgrade.provable.dev/tgrade/staking/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q)
 - We running relayer between Osmosis and Tgrade | [Relayer Link](https://tgrade.aneka.io/accounts/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
@@ -11,7 +13,31 @@
 3) https://lcd.tgrade.posthuman.digital/
 - We added $TGD to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $TGD in Twitter and Telegram, and also p2p-exchange $TGD directly in Telegram! |  [Twitter Announcement](https://twitter.com/SputnikNetwork/status/1557743007516209155)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
+
+### Community Superpowers: 
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
 
 ## Docs
 - We've translated Securing a blockchain with Proof of Engagement article into Russian [Medium link](https://medium.com/@Medniyy/защита-блокчейна-с-помощью-доказательства-вовлечённости-80226e29d784)
