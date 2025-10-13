@@ -6,7 +6,7 @@
 - **POSTHUMAN validates HoneyWood**  
   [HoneyWood Network Validator Details]()
 
-# Humanitarian Contributions 
+# 🧠Humanitarian Contributions 
 
 ### Community Superpowers: 
 
