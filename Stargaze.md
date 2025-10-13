@@ -24,7 +24,7 @@
 - **Block Explorer** [for Stargaze](https://explorer.posthuman.digital/stargaze)
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
