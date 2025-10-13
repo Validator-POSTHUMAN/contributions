@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Crescent Network**  
   [Crescent Network Validator Details]()
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
