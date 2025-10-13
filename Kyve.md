@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Kyve**  
   [Kyve Validator Details](https://wallet.keplr.app/chains/kyve?modal=validator&chain=kyve-1&validator_address=kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
