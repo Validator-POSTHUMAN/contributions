@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="GitHub (31)" src="https://github.com/user-attachments/assets/e978ced9-ab6b-4848-8059-da5a92312f76" />
+
 # POSTHUMAN contributions for [Zetachain](https://www.zetachain.com/)
 
 # 🛠Technical Contributions
@@ -48,6 +50,7 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
+
 ## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
