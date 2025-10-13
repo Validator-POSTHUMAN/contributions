@@ -10,7 +10,7 @@
 
   - [Installation guide](https://nodes.posthuman.digital/chains/starknet?tab=installation-guide)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
