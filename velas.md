@@ -1,10 +1,12 @@
+<img width="1500" height="500" alt="GitHub (30)" src="https://github.com/user-attachments/assets/7fe3ebdb-9708-4bcc-9dee-a69770e533fb" />
+
 # POSTHUMAN contributions for [Velas](https://velas.com/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Velas**  
   [Velas Validator Details]()
 
-  # Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
