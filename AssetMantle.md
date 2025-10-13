@@ -1,10 +1,11 @@
 ![1v (3)](https://user-images.githubusercontent.com/92199696/185402488-a4909304-5efa-4a09-bd81-bb960dc020b9.png)
 # POSTHUMAN contributions for [AssetMantle](https://x.com/AssetMantle)
-# Technical Contributions
+
+# 🛠Technical Contributions
 Including Validation, Free tools for Community etc. 
 
-# 🛠 List of Technical Contributions:
-  
+##  List of Technical Contributions:
+
 - We validating AssetMantle Chain in Mainnet | [Validator's link](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $MNTL to https://t.me/SputnikPriceBot without any support
