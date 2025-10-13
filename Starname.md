@@ -1,6 +1,8 @@
+<img width="1500" height="500" alt="GitHub (19)" src="https://github.com/user-attachments/assets/7ecd9021-ca16-4145-831f-d4acb8d3e220" />
+
 # POSTHUMAN contributions for [Starname](https://www.starname.me/)
 
-# Technical Contributions
+# 🛠Technical Contributions
 - **POSTHUMAN validates Starname**  
   [Starname Validator Details](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
 
@@ -9,6 +11,31 @@
 
 
 # Humanitarian Contributions
+
+### Community Superpowers: 
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
+
 ![1_yapM45B9o4rZPgL-GeywjQ](https://user-images.githubusercontent.com/38581319/128280244-763685f8-ef60-4d57-a9df-b6c675bfadab.jpeg)
  
 ## We spread the information about Starname among russian-speaking community of Cosmos Ecosystem:
