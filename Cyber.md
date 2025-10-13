@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Cyber mainnet**  
   [Cyber Validator Details](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
   
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
