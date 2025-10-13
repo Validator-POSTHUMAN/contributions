@@ -2,7 +2,7 @@
 
 # POSTHUMAN contributions for  [Namada](https://namada.net/)
 
-# 🛠 Technical Contributions
+# 🛠Technical Contributions
 - **POSTHUMAN validates Namada** | [Validator link](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)  
 <img width="2284" height="833" alt="image" src="https://github.com/user-attachments/assets/20a22ffb-aae8-406e-bae7-80707505b28c" />
 
@@ -16,7 +16,7 @@
   - **[Snapshot Service](https://nodes.posthuman.digital/chains/namada?tab=snapshot-service)**  
 - **POSTHUMAN developed [Namada dApp](https://namadapp.xyz/)**  
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
