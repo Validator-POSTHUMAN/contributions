@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="GitHub (4)" src="https://github.com/user-attachments/assets/4994a8b1-3bf0-42a9-b8a8-b32a1bf53b29" />
+<img width="1500" height="500" alt="GitHub (5)" src="https://github.com/user-attachments/assets/13a2c573-5cef-45a1-93c7-8e696f2f71e8" />
 
 # POSTHUMAN contributions for [Cyber and Space Pussy](Cyb.ai)
 
