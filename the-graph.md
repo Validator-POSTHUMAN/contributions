@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="GitHub (28)" src="https://github.com/user-attachments/assets/a94bb0fe-a33c-4ec4-a4ed-57a0231753f3" />
+
 # POSTHUMAN contributions for [TheGraph](https://thegraph.com/)
 
 # 🛠 Technical Contributions
@@ -19,7 +21,7 @@
 - **TheGraph on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/the-graph)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/the-graph)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
