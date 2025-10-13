@@ -6,7 +6,7 @@
 - **POSTHUMAN validates KiChain**  
   [KiChain Validator Details]()
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
