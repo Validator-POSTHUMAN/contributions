@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Chihuahua**  
   [Chihuahua Validator Details]()
   
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
