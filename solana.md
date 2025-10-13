@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="GitHub (26)" src="https://github.com/user-attachments/assets/4c6d9295-4889-4e2f-a1f2-c1dad82870cb" />
+
 # POSTHUMAN contributions for [Solana](https://solana.com)
 
 # 🛠 Technical Contributions
@@ -8,7 +10,7 @@
 
 - We add SOL to https://t.me/SputnikPriceBot, that users can easily get actual prices for pairs like a SOL/BTC, SOL/ETH, SOL/AKT, SOL/LUNA and 25 more different coins. It's really helpful for DEX-trading, to see the difference between market prices, and prices at DEXs
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
