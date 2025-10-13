@@ -1,7 +1,7 @@
 ![1v (6)](https://user-images.githubusercontent.com/92199696/195659349-109c51b4-1af4-419f-927e-0c629e1acce6.png)
 # The list of contributions for the [Axelar](https://axelar.network)
 
-# Technical Contributions
+# 🛠Technical Contributions
 Including Validation, Free tools for Community etc. 
   
 
@@ -18,6 +18,31 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 
  # Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
+
+ ### Community Superpowers: 
+
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
+  
  
  ## We spread the information about Axelar among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
