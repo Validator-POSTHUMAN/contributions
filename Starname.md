@@ -10,7 +10,7 @@
 - We added $IOV to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $IOV in Twitter and Telegram, and also p2p-exchange $IOV directly in Telegram! More over! Users can send $IOV not only to addresses, but to *starnames
 
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
