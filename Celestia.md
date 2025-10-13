@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/351f57f2-1229-4e58-a043-67a5bbbb6845)
 
 
-# # POSTHUMAN contributions for [Celestia](https://celestia.org/)
+# POSTHUMAN contributions for [Celestia](https://celestia.org/)
 
 # 🛠Technical Contributions
 
@@ -34,7 +34,7 @@
 
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
