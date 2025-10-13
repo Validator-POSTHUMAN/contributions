@@ -24,7 +24,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 - [Twitter Announcement 1](https://twitter.com/SputnikNetwork/status/1445420421172678657)
 - [Twitter Announcement 2](https://twitter.com/SputnikNetwork/status/1451330370801213441)  
   
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
