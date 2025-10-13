@@ -1,6 +1,6 @@
 # POSTHUMAN contributions for [Zetachain](https://www.zetachain.com/)
 
-# 🛠 Technical Contributions
+# 🛠Technical Contributions
 - **POSTHUMAN validates Zetachain**  
   [Zetachain Validator Details](https://hub.zetachain.com/staking)
 <img width="2138" height="1026" alt="image" src="https://github.com/user-attachments/assets/55108dbd-9103-430f-9d62-a488b3e846e8" />
@@ -22,7 +22,7 @@
 - **Block Explorer** [for ZetaChain](https://explorer.posthuman.digital/zetachain)
   </details>
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
