@@ -1,10 +1,12 @@
- POSTHUMAN contributions for [Union](https://union.build/)
+<img width="1500" height="500" alt="GitHub (29)" src="https://github.com/user-attachments/assets/73d63af4-d859-4f82-9298-ead461e7548b" />
+
+# POSTHUMAN contributions for [Union](https://union.build/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Union**  
   [Union Validator Details](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
