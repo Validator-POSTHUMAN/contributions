@@ -1,6 +1,6 @@
+![Tgrade](https://user-images.githubusercontent.com/92199696/176698728-dd930e7d-ffbd-4000-870d-b230b33e2f00.png)
 
 # POSTHUMAN contributions for [Tgrade](https://x.com/TgradeFinance)
-![Tgrade](https://user-images.githubusercontent.com/92199696/176698728-dd930e7d-ffbd-4000-870d-b230b33e2f00.png)
 
 # 🛠Technical Contributions 
 
