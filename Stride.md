@@ -9,7 +9,7 @@
 We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
