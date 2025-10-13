@@ -2,7 +2,7 @@
 
 # POSTHUMAN contributions for [DECENTR](https://decentr.net)
 
-# Humanitarian Part
+# 🧠Humanitarian Part
 
 ### Community Superpowers: 
 
