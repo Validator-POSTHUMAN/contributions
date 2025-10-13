@@ -15,7 +15,7 @@
 
 ### We validate [Omniflix Testnet](https://www.skynetexplorers.com/flixnet-4)
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
