@@ -5,7 +5,7 @@
 - **POSTHUMAN validates Archway mainnet**  
   [Archway Validator Details]()
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
