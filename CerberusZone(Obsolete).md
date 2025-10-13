@@ -6,7 +6,7 @@
 - **POSTHUMAN validates CerberusZone**  
   [CerberusZone Validator Details]()
 
-# Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community Superpowers: 
 
