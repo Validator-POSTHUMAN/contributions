@@ -25,6 +25,14 @@
 - **Block Explorer** [for Agoric](https://explorer.posthuman.digital/agoric)
   </details>
 
+### Relayers 
+Now we have several relayers which working in two directions
+[Relayer link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3)
+- Osmosis
+- Cosmos
+- Omniflix
+- Persistence
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
