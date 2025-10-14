@@ -5,7 +5,7 @@
 - **POSTHUMAN validates Archway mainnet**  
   [Archway Validator Details]()
 
-*- [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p) - we stop to validate Archway after [Proposal #51](https://www.mintscan.io/archway/proposals/51)*
+*[Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p) - we stop to validate Archway after [Proposal #51](https://www.mintscan.io/archway/proposals/51)*
 
 # 🧠Humanitarian Contributions
 
