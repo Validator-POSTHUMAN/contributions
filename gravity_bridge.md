@@ -18,6 +18,8 @@ We provide next IBC-relayers with G-Bridge:
 - injective
 - crescent
 
+*We stoped to validate Gravity Bridge on 20th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A44)*
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
