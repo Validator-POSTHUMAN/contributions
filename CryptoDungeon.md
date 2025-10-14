@@ -40,7 +40,7 @@ Now we have several relayers which working in two directions
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
-## We spread the information about Agoric among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about CryptoDungeon among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers) 
 
 ### Videos
