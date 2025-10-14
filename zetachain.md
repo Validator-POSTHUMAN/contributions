@@ -90,6 +90,8 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Zetachain and its updates since genesis. | [Query CosmosEcosystem tweets about Zetachain](https://x.com/search?q=from%3ACosmosEcosystem%20(zetablockchain%20)&src=typed_query&f=live) | We spread the word about Zetachain and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Zetachain updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Zetachain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(zetablockchain%20)&src=typed_query&f=live) | We spread the word about Zetachain and its updates since genesis. |
 
+# 📰Cosmos News
+
 ### Zetachain Daily
 <img width="1657" height="1152" alt="image" src="https://github.com/user-attachments/assets/d25b55ed-0399-4f48-921d-e80c610733aa" />
 > Cosmos Ecosystem Daily digital newspaper:
