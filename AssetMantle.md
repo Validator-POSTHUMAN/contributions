@@ -11,7 +11,7 @@ Including Validation, Free tools for Community etc.
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $MNTL to https://t.me/SputnikPriceBot without any support
 - We've added $MNTL to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $MNTL in Twitter and Telegram, and also p2p-exchange $MNTL directly in Telegram!| News in [Twitter](https://twitter.com/SputnikNetwork/status/1520050423457009664)
 
-- *We also support few relayers with Asset Mantle*. At this moment there are two for **Osmosis** and **Juno** chains:
+- *We also support few relayers with Asset Mantle*. At this moment there are three for **Osmosis**, **Chihuahua**and **Juno** chains:
 [Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
 
 # 🧠Humanitarian Contributions
