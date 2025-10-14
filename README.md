@@ -13,6 +13,7 @@ Here is not the full list of our contributions:
 - [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
 - [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
+- [Aura Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aura_Network.md)
 # B
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
