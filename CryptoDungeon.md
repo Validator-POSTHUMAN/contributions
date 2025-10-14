@@ -65,7 +65,23 @@ Now we have several relayers which working in two directions
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 34.8k followers. We have been promoting CryptoDungeon and its updates since genesis. | [Query CosmosEcosystem tweets about CryptoDungeon](https://x.com/search?q=from%3ACosmosEcosystem%20(CryptoDungeon%20)&src=typed_query&f=live) | We spread the word about CryptoDungeon and its updates since genesis. |
-| POSTHUMAN X        | 7.6k followers. We actively cover CryptoDungeon updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CryptoDungeon](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(CryptoDungeon%20)&src=typed_query&f=live) | We spread the word about CryptoDungeon and its updates since genesis. |
+| Cosmos Ecosystem X | 34.8k followers. We have been promoting CryptoDungeon and its updates since genesis. | [Query CosmosEcosystem tweets about CryptoDungeon](https://x.com/search?q=from%3ACosmosEcosystem%20(cryptodungeonma%20)&src=typed_query&f=live) | We spread the word about CryptoDungeon and its updates since genesis. |
+| POSTHUMAN X        | 7.6k followers. We actively cover CryptoDungeon updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CryptoDungeon](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(cryptodungeonma%20)&src=typed_query&f=live) | We spread the word about CryptoDungeon and its updates since genesis. |
+
+# Cosmos News
+<img width="1588" height="1601" alt="image" src="https://github.com/user-attachments/assets/4d39f2d1-1656-4ac5-ad29-9c6ff67e395f" />
+
+ - [02.06.2025](https://x.com/CosmosEcosystem/status/1929574299561873629)
+ - [31.05.2025](https://x.com/CosmosEcosystem/status/1928803912372613152)
+ - [30.05.2025](https://x.com/CosmosEcosystem/status/1928464440594252267)
+ - [28.05.2025](https://x.com/CosmosEcosystem/status/1927749610858057819)
+ - [25.05.2025](https://x.com/CosmosEcosystem/status/1926691699411026135)
+
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+
 
 
