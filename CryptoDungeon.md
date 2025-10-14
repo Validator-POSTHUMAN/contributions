@@ -44,6 +44,8 @@ Now we have several relayers which working in two directions
 - **YouTube** (12k subscribers) 
 
 ### Videos
+<img width="2526" height="1399" alt="image" src="https://github.com/user-attachments/assets/931033e5-e5db-4ede-90e6-cd9b34ed1ad2" />
+
 - [Voice of the Ecosystem #114 - Mega Gaming Meeting. GameFi at Cosmos](https://www.youtube.com/watch?v=--mP3GhPWCQ)
 - [Voice of the Ecosystem #133 - Communicating with Crypto Dungeon](https://www.youtube.com/watch?v=XSOlvT1V5uA)
 
