@@ -19,8 +19,8 @@ Including Validation, RPC nodes, Free tools for Community etc.
 # 🧠Humanitarian Contributions
  Including Community Growth (X, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
- ### Community Superpowers: 
-
+ ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
+ 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
 | **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
