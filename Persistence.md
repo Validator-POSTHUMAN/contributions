@@ -10,6 +10,15 @@
 - We added $XPRT to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $XPRT in Twitter and Telegram, and also p2p-exchange $XPRT directly in Telegram! News about it in [Twitter](https://twitter.com/SputnikNetwork/status/1417799239598592000)
 - We attract people to delegate and hold $XPRT tokens with our Distributed Validator Model with $PHMN token incentives for the real delegators. [Details](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6)
 
+### Relayers 
+Now we have several relayers which working in two directions
+[Relayer link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w)
+- Osmosis channel-6 
+- Cosmos Hub channel-24
+- Secret Network channel-82
+- Injective channel-41
+- Juno channel-37
+
 # 🧠Humanitarian contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
