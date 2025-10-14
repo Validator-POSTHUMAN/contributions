@@ -38,7 +38,7 @@ Now we have several relayers which working in two directions (to osmosis and out
 
 # 🧠Humanitarian Contributions
 
-### Community Superpowers: 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
