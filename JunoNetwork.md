@@ -26,7 +26,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
   
 # 🧠Humanitarian Contributions
 
-### Community Superpowers: 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md):  
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
