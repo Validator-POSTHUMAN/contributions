@@ -5,6 +5,11 @@
 # 🛠Technical Contributions
 - **POSTHUMAN validates Odin Protocol**  
   [Odin Protocol Validator Details]()
+
+### Relayer
+Now we have relayer which working in two directions
+[Relayer link](https://ping.pub/odin/account/odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t)
+- Osmosis
   
 # 🧠Humanitarian Contributions
 
