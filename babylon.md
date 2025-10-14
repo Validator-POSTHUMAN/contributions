@@ -26,7 +26,7 @@ We provide ongoing technical support and contributions for the Babylon project.
 
 # 🧠Humanitarian Contributions
 
-### Community Superpowers: 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
