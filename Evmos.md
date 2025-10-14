@@ -15,6 +15,9 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $EVMOS to https://t.me/SputnikPriceBot without any support
 - We've added $EVMOS to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $EVMOS in X and Telegram, and also p2p-exchange $EVMOS directly in Telegram!| News in [X](https://X.com/SputnikNetwork/status/1535044628902182920)
   </details>
+
+*We stoped to validate Evmos on 24th of September 2025, by the [wish of the community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A68)*
+
   
 # 🧠Humanitarian Contributions
  Including Community Growth (X, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
