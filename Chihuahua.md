@@ -4,7 +4,7 @@
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates Chihuahua**  
-  [Chihuahua Validator Details]()
+  [Chihuahua Validator Details](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 
 ### Relayers 
 Now we have several relayers which working in two directions 
@@ -13,6 +13,8 @@ Now we have several relayers which working in two directions
 - Osmosis
 - Juno Network
 - Injective
+
+*We stoped to validate Chihuahua on 15th of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A61)*
   
 # 🧠Humanitarian Contributions
 
