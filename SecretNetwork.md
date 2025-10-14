@@ -9,8 +9,13 @@
 
 We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot <br/>
 
-We launched Osmosis <-> Secret IBC Relayer
-`secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k`
+### We launched IBC Relayers:
+[Relayer link](https://www.mintscan.io/secret/address/secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k)
+- Cosmos Hub
+- Osmosis
+- Juno Network
+- Injective
+- Persistence
 
 # 🧠Humanitarian Contributions
 
