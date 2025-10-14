@@ -4,7 +4,9 @@
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates LUM Network**  
-  [LUM Network Validator Details]()
+  [LUM Network Validator Details](https://www.mintscan.io/lum/validators/lumvaloper1z7ss5slnpjfkceahl323ag9tkf3a6yrs88h4ng)
+
+*We stoped to validate LUM Network on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A47)*
 
 # 🧠Humanitarian Contributions
 
