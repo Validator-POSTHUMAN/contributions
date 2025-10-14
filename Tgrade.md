@@ -12,6 +12,8 @@
 3) https://lcd.tgrade.posthuman.digital/
 - We added $TGD to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $TGD in Twitter and Telegram, and also p2p-exchange $TGD directly in Telegram! |  [Twitter Announcement](https://twitter.com/SputnikNetwork/status/1557743007516209155)
 
+*We stoped to validate TGrade on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A49)*
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
