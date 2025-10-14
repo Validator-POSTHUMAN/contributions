@@ -4,7 +4,9 @@
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates KiChain**  
-  [KiChain Validator Details]()
+  [KiChain Validator Details](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
+
+*We stoped to validate KiChain on 6th of October 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A52)*
 
 # 🧠Humanitarian Contributions
 
