@@ -4,12 +4,14 @@
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates Odin Protocol**  
-  [Odin Protocol Validator Details]()
+  [Odin Protocol Validator Details](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 
 ### Relayer
 Now we have relayer which working in two directions
 [Relayer link](https://ping.pub/odin/account/odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t)
 - Osmosis
+
+*We stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)*
   
 # 🧠Humanitarian Contributions
 
