@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="GitHub (32)" src="https://github.com/user-attachments/assets/4f42946d-be93-421d-930e-9e490a9d334b" />
 
-# POSTHUMAN Contributions to [CryptoDungeon](https://agoric.com/)
+# POSTHUMAN Contributions to [CryptoDungeon](https://www.dungeongames.io/)
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates Dungeon mainnet**  
