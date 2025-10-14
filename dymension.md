@@ -41,7 +41,7 @@
 # 🧠Humanitarian Contributions
 ![Скриншот 17-06-2024 201214](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/287e168c-e733-4a37-be4c-52da5cdbaea6)
 
-### Community Superpowers: 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
