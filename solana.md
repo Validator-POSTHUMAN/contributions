@@ -10,6 +10,8 @@
 
 - We add SOL to https://t.me/SputnikPriceBot, that users can easily get actual prices for pairs like a SOL/BTC, SOL/ETH, SOL/AKT, SOL/LUNA and 25 more different coins. It's really helpful for DEX-trading, to see the difference between market prices, and prices at DEXs
 
+*We stoped to validate on 14th of February because validator reward does not cover the voting fee*
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
