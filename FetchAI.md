@@ -10,6 +10,12 @@
 - We added $FET to [Sputnik Exchange](https://sputnik.exchange/), now users can send tips with $FET in X
 - We added $FET to [Sputnik Network Bot](https://t.me/SputnikNetworkBot), now users can send, receive and p2p-exchange $FET directly [in Telegram](https://X.com/SputnikNetwork/status/1420848326304583690)
 
+### Relayers 
+Now we have several relayers which working in two directions (to osmosis and out) 
+[Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
+- Juno Network
+- Osmosis
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
