@@ -46,7 +46,7 @@ We’re about to deliver the following **ASAP**:
 
 # 🧠Humanitarian Contributions
 
-### Community Superpowers: 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
@@ -97,6 +97,8 @@ We’re about to deliver the following **ASAP**:
 
  - **Who pumped up AtomOne?**
    [Watch here](https://youtu.be/bWDdJWFpMwE)
+- **Voice of the Ecosystem #197 | AtomONE — a fixed Cosmos Hub?**
+   [Watch here](https://youtu.be/IGQ9ccIoYQY)
  
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
