@@ -7,6 +7,13 @@
 - **BeeZee support added to our explorer**  
   [Explore BeeZee](https://explorer.posthuman.digital/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 
+### Relayers 
+Now we have several relayers which working in two directions
+[Relayer link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg)
+- Osmosis
+- Cosmos
+- Crypto Dungeon
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
