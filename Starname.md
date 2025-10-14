@@ -9,6 +9,8 @@
 - We are Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $IOV to https://t.me/SputnikPriceBot
 - We added $IOV to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $IOV in Twitter and Telegram, and also p2p-exchange $IOV directly in Telegram! More over! Users can send $IOV not only to addresses, but to *starnames
 
+*We stoped to validate Starname on 3rd of March 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A54)*
+
 
 # 🧠Humanitarian Contributions
 
