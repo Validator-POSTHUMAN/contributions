@@ -8,6 +8,8 @@
 - We are Navigators of [Sputnik Network](https://sputnik.exchange/), and we added $LIKE to https://t.me/SputnikPriceBot
 - We added $LIKE to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $LIKE in Twitter and Telegram, and also p2p-exchange $LIKE directly in Telegram! News in [Twitter](https://twitter.com/SputnikNetwork/status/1417665774785794048) and news in [Telegram](https://t.me/SputnikDish/98)
 
+*We stoped to validate LikeCoin on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A48)*
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
