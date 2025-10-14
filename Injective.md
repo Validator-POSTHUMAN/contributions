@@ -30,6 +30,8 @@
 
 We'll add $INJ to Sputnik Exchange and to Sputnik Network. And users would be able to send tips with $INJ in Twitter and Telegram, and also p2p-exchange $INJ directly in Telegram!
 
+*We stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)*
+
 
 # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
