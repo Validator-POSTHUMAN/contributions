@@ -6,6 +6,8 @@
 - **POSTHUMAN validates COMDEX**  
   [COMDEX Validator Details](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 
+*We stoped to validate Comdex on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A50)*
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
