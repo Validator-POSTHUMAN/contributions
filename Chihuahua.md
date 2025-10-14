@@ -5,6 +5,14 @@
 # 🛠Technical Contributions
 - **POSTHUMAN validates Chihuahua**  
   [Chihuahua Validator Details]()
+
+### Relayers 
+Now we have several relayers which working in two directions 
+[Relayer link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq)
+- OmniFlix
+- Osmosis
+- Juno Network
+- Injective
   
 # 🧠Humanitarian Contributions
 
