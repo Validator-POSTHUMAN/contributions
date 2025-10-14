@@ -4,7 +4,9 @@
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates Crescent Network**  
-  [Crescent Network Validator Details]()
+  [Crescent Network Validator Details](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq)
+
+*Network was halt by the proposal in Crescent Network*
 
 # 🧠Humanitarian Contributions
 
