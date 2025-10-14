@@ -72,7 +72,7 @@ Now we have several relayers which working in two directions
 | Cosmos Ecosystem X | 34.8k followers. We have been promoting CryptoDungeon and its updates since genesis. | [Query CosmosEcosystem tweets about CryptoDungeon](https://x.com/search?q=from%3ACosmosEcosystem%20(cryptodungeonma%20)&src=typed_query&f=live) | We spread the word about CryptoDungeon and its updates since genesis. |
 | POSTHUMAN X        | 7.6k followers. We actively cover CryptoDungeon updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CryptoDungeon](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(cryptodungeonma%20)&src=typed_query&f=live) | We spread the word about CryptoDungeon and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1417" height="1632" alt="image" src="https://github.com/user-attachments/assets/413575a8-13a3-4063-a999-d4e69cc61791" />
 
 
