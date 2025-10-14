@@ -11,7 +11,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 
 # 🧠Humanitarian Contributions
 
-### Community Superpowers: 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
