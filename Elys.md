@@ -7,7 +7,7 @@
   [Elys Validator Details](https://ping.pub/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
   <img width="1665" height="718" alt="image" src="https://github.com/user-attachments/assets/bc8000c7-036d-4f7e-9658-84ee5b803969" />
 
-  ### At the moment, we provide the following services for Agoric:
+  ### At the moment, we provide the following services for Elys:
 </div>
 
 - **RPC**: [https://rpc.elys.posthuman.digital](https://rpc.elys.posthuman.digital) 
