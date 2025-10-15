@@ -34,6 +34,7 @@ Here is not the full list of our contributions:
 - [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/dymension.md)
 # E
 - [Elixir](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elixir.md)
+- [Elys](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elys.md)
 - [Evmos](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Evmos.md)
 # F
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
