@@ -12,6 +12,7 @@ Here is not the full list of our contributions:
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
 - [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
 - [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
+- [Avalanche](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Avalanche.md)
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
 - [Aura Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aura_Network.md)
 # B
