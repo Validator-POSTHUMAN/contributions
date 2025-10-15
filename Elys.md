@@ -89,7 +89,7 @@
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Elys and its updates since genesis. | [Query CosmosEcosystem tweets about Elys](https://x.com/search?q=from%3ACosmosEcosystem%20(elys_network%20)&src=typed_query&f=live) | We spread the word about Elys and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Elys updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Elys](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(elys_network%20)&src=typed_query&f=live) | We spread the word about Elysy and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Elys updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Elys](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(elys_network%20)&src=typed_query&f=live) | We spread the word about Elys and its updates since genesis. |
 
 # 📰Cosmos News
 <img width="1618" height="949" alt="image" src="https://github.com/user-attachments/assets/cc8b65a2-0922-4f3e-888a-3a7be61164e9" />
