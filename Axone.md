@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="GitHub (37)" src="https://github.com/user-attachments/assets/781b45b1-b463-4617-8a39-7c420b884aac" />
 
-# POSTHUMAN contributions for [Axone](https://thegraph.com/)
+# POSTHUMAN contributions for [Axone](https://www.axone.xyz/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Axone**  
