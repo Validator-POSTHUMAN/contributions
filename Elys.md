@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="GitHub (40)" src="https://github.com/user-attachments/assets/0f0966a8-2bf1-47ea-ae4a-0131b81c1b73" />
+
 # POSTHUMAN contributions for [Elys](https://elys.network/)
 
 # 🛠 Technical Contributions
@@ -80,6 +82,19 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Elys and its updates since genesis. | [Query CosmosEcosystem tweets about Elys](https://x.com/search?q=from%3ACosmosEcosystem%20(elys_network%20)&src=typed_query&f=live) | We spread the word about Elys and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Elys updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Elys](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(elys_network%20)&src=typed_query&f=live) | We spread the word about Elysy and its updates since genesis. |
 
+# 📰Cosmos News
+<img width="1618" height="949" alt="image" src="https://github.com/user-attachments/assets/cc8b65a2-0922-4f3e-888a-3a7be61164e9" />
+
+- [11.06.2025](https://x.com/CosmosEcosystem/status/1932730497983029437)
+- [07.06.2025](https://x.com/CosmosEcosystem/status/1931384285988372692)
+- [03.06.2025](https://x.com/CosmosEcosystem/status/1929935880669802729)
+- [01.06.2025](https://x.com/CosmosEcosystem/status/1929206737757999460)
+- [18.05.2025](https://x.com/CosmosEcosystem/status/1924371582841229520)
+- [27.04.2025](https://x.com/CosmosEcosystem/status/1916533751133151249)
+- [23.04.2025](https://x.com/CosmosEcosystem/status/1915103696892854598)
+- [16.04.2025](https://x.com/CosmosEcosystem/status/1912565319991988604)
+- [14.04.2025](https://x.com/CosmosEcosystem/status/1911758960870256895)
+- [04.04.2025](https://x.com/CosmosEcosystem/status/1908219806274253116)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
