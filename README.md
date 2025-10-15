@@ -33,6 +33,7 @@ Here is not the full list of our contributions:
 - [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
 - [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/dymension.md)
 # E
+- [Elixir](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elixir.md)
 - [Evmos](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Evmos.md)
 # F
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
