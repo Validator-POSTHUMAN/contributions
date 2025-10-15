@@ -6,7 +6,7 @@
 - **POSTHUMAN validates Avalanche**  
   [Avalanche Validator Details](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
-  # 🧠Humanitarian Contributions
+# 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
