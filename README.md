@@ -19,6 +19,7 @@ Here is not the full list of our contributions:
 # B
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
+- [Bitway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Bitway.md)
 # C
 - [Celestia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md)
 - [Cerberus Zone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CerberusZone.md)
