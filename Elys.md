@@ -59,7 +59,16 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-### We have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Elys and other projects! 
+## Videos
+<img width="2941" height="1637" alt="image" src="https://github.com/user-attachments/assets/28d56552-718f-42b4-8eef-6950d789143c" />
+
+- [A quick guide on how to participate in the Elys Network private sale through POSTHUMAN Investments](https://www.youtube.com/watch?v=Z9L7AWOcWOg)
+- [Weird News #2 New Year Special](https://www.youtube.com/watch?v=_XoauF2U8e0)
+- [Voice of the Ecosystem #155 - Elys Network, Gopland NFT Lending](https://www.youtube.com/watch?v=Q_qIo3vJi00)
+- [A SUMMARY OF THE MARKET, AWARDED TESTNETS, AND COSMOS PROJECTS. BONUS: MARKET THOUGHTS.](https://www.youtube.com/watch?v=0Ur9vtt2HtU&t=71s)
+
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Elys and other Cosmos Ecosystem projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
