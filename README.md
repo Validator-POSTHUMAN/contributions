@@ -48,6 +48,7 @@ Here is not the full list of our contributions:
 # I
 - [Injective](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Injective.md)
 - [Initia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/initia.md)
+- [Intento](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Intento.md)
 # J
 - [Juno Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/JunoNetwork.md)
 # K
