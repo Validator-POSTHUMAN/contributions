@@ -3,7 +3,7 @@
 # POSTHUMAN contributions for [Intento](https://intento.zone/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates Fuel**  
+- **POSTHUMAN validates Intento**  
   [Intento Validator Details](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn)
 
 # 🧠Humanitarian Contributions
