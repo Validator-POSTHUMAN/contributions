@@ -11,6 +11,8 @@ Now we have relayer which working in two directions
 [Relayer link](https://www.mintscan.io/neutron/address/neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd/)
 - Juno
 
+# We also supported Neutron on [testnet](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
