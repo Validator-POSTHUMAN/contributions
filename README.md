@@ -39,6 +39,7 @@ Here is not the full list of our contributions:
 # F
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
 - [FirmaChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FirmaChain.md)
+- [Fuel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Fuel.md)
 # G
 - [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/gravity_bridge.md)
 # H
