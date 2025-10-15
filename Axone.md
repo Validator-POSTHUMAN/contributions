@@ -57,7 +57,7 @@
 
 ### Social Media
 - **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers), even though this is a Twitter account for the Cosmos Ecosystem, we often mentioned Avalanche too.    
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
   ### Our contributions for the growth of the Axone community.
@@ -66,6 +66,13 @@
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Axone and its updates since genesis. | [Query CosmosEcosystem tweets about Axone](https://x.com/search?q=from%3ACosmosEcosystem%20(axonexyz%20)&src=typed_query&f=live) | We spread the word about Axone and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Axone updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Axone](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(axonexyz%20)&src=typed_query&f=live) | We spread the word about Axone and its updates since genesis. |
+
+# 📰Cosmos News
+
+- [20.05.2025](https://x.com/CosmosEcosystem/status/1924815928350670883)
+- [01.04.2025](https://x.com/CosmosEcosystem/status/1907067916505272328)
+- [11.03.2025](https://x.com/CosmosEcosystem/status/1899403569737961893)
+- [01.03.2025](https://x.com/CosmosEcosystem/status/1895877591510499733)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
