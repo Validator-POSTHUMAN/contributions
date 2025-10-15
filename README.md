@@ -14,6 +14,7 @@ Here is not the full list of our contributions:
 - [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
 - [Avalanche](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Avalanche.md)
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
+- [Axone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axone.md)
 - [Aura Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aura_Network.md)
 # B
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
