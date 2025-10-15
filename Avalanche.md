@@ -42,7 +42,7 @@
 
 - [Avalanche Staking Guide](https://www.youtube.com/watch?v=Do8NArnG2Oc&t=39s)
 
-### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Avalanche and other Cosmos Ecosystem projects! 
+### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Avalanche and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
