@@ -56,6 +56,7 @@ Here is not the full list of our contributions:
 - [KiChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/KiChain.md)
 - [KYVE](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Kyve.md)
 # L
+- [Lava](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Lava.md)
 - [LikeCoin](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LikeCoin.md)
 - [LUM Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LUM_Network.md)
 # M
