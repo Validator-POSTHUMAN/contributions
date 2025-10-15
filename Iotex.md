@@ -5,7 +5,6 @@
 # 🛠Technical Contributions
 - **POSTHUMAN validates Iotex mainnet**  
   [Iotex Validator Details](https://stake.iotex.io/delegate/posthuman)
-<img width="1678" height="743" alt="image" src="https://github.com/user-attachments/assets/c9a7b7c7-2e10-43c9-8d49-fa6793a92733" />
 
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/iotex?tab=installation-guide)
 
