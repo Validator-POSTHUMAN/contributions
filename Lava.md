@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="GitHub (35)" src="https://github.com/user-attachments/assets/3e146a10-c0b6-4b2a-8dab-2aeb3acf5ba7" />
+<img width="1500" height="500" alt="GitHub (44)" src="https://github.com/user-attachments/assets/9ead1c71-ddfd-4d0a-b430-fcb7b18d4c67" />
 
 # POSTHUMAN contributions for [Lava](https://www.lavanet.xyz/)
 
