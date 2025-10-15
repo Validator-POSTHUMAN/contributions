@@ -4,7 +4,7 @@
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Bitway**  
-  [Bitway Validator Details](https://ping.pub/side/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
+  [Bitway Validator Details](https://mainnet.itrocket.net/bitway/staking/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax)
 
     # 🧠Humanitarian Contributions
 
