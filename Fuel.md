@@ -21,6 +21,10 @@
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/fuel?tab=installation-guide)
 - **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/fuel?tab=snapshots)
 
+## Alpha of Block Explorer for Fuel
+- **Block Explorer** [for Fuel](https://explorer.posthuman.digital/fuel)
+  </details>
+
 
 # 🧠Humanitarian Contributions
 
