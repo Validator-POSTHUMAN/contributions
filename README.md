@@ -78,6 +78,7 @@ Here is not the full list of our contributions:
 # P
 - [Penumbra](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Penumbra.md)
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
+- [Planq](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Planq.md)
 # Q
 - [QuickSilver](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Quicksilver.md)
 # R
