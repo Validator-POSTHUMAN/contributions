@@ -1,5 +1,5 @@
 
-
+<img width="1500" height="500" alt="GitHub (2)" src="https://github.com/user-attachments/assets/bed6c40c-19fb-48a3-87e3-10c5967e9aca" />
 
 # POSTHUMAN contributions for [Nolus](https://nolus.io/)
 
@@ -43,6 +43,7 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
+<img width="2524" height="1416" alt="image" src="https://github.com/user-attachments/assets/7e8d8b5c-e45e-460d-8eaa-f90a3055541c" />
 
 - [Voice of the Ecosystem #156. Anniversary!](https://www.youtube.com/watch?v=F5jA4s9UgW4)
 - [Cosmos Ecosystem Insider Chat #74: Injective, Nolus, AS, and the Market!](https://www.youtube.com/watch?v=r4glXIRS9hA)
@@ -73,6 +74,7 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Nolus updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Nolus](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(NolusProtocol%20)&src=typed_query&f=live) | We spread the word about Nolus and its updates since genesis. |
 
 # 📰Cosmos News
+<img width="1706" height="1588" alt="image" src="https://github.com/user-attachments/assets/c70fd946-aee4-443f-8c32-49c6db08a98d" />
 
 - [26.06.2025](https://x.com/CosmosEcosystem/status/1938285829316825390)
 - [15.06.2025](https://x.com/CosmosEcosystem/status/1934263633628061908)
