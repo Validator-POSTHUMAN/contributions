@@ -32,7 +32,7 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
-## We organized and invited to the Interchain Summit 2025 Planq in Berlin
+## We organized and invited Planq to the Interchain Summit 2025 in Berlin
 <img width="2469" height="1370" alt="image" src="https://github.com/user-attachments/assets/d9d7a4a3-c5ee-4b50-9c4e-9dded865b600" />
 
 
