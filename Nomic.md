@@ -44,7 +44,7 @@
 
 ## Videos
 
-- [The 24th Cosmos Ecosystem Insider Chat. BTC on Cosmos, Osmosis Support,Nomic, the future of PHMN, and news!](https://www.youtube.com/watch?v=iTvagzU-Xqc)
+- [The 24th Cosmos Ecosystem Insider Chat. BTC on Cosmos, Osmosis Support, Nomic, the future of PHMN, and news!](https://www.youtube.com/watch?v=iTvagzU-Xqc)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Nomic and other Cosmos Ecosystem projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
