@@ -7,7 +7,7 @@
   [TheGraph Validator Details](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)
 <img width="2093" height="948" alt="image" src="https://github.com/user-attachments/assets/5a69c7c6-6fb1-4cfc-b018-1bb0cea63502" />
 
-  ### At the moment, we provide the following services for Zetachain:
+  ### At the moment, we provide the following services for TheGraph:
 </div>
 
 - **RPC**: [https://rpc.story.posthuman.digital](https://rpc.story.posthuman.digital) 
