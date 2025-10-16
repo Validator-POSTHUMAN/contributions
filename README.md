@@ -62,6 +62,7 @@ Here is not the full list of our contributions:
 - [LUM Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LUM_Network.md)
 # M
 - [MediBloc](https://github.com/Validator-POSTHUMAN/contributions/blob/main/MediBloc.md)
+- [Mina Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Mina.md)
 # N
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
 - [Neutron](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Neutron.md)
