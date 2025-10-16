@@ -67,6 +67,7 @@ Here is not the full list of our contributions:
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
 - [Neutron](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Neutron.md)
 - [Nibiru](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nibiru.md)
+- [Nillion](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nillion.md)
 # O
 - [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
 - [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
