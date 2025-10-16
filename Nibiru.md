@@ -1,5 +1,4 @@
-
-
+<img width="1500" height="500" alt="GitHub" src="https://github.com/user-attachments/assets/c5a24296-e1cd-4955-a020-497bef294af3" />
 
 # POSTHUMAN contributions for [Nibiru](https://nibiru.fi/)
 
