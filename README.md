@@ -76,6 +76,7 @@ Here is not the full list of our contributions:
 - [ORAIchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/orai.md)
 - [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
 # P
+- [Penumbra](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Penumbra.md)
 - [Persistence](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Persistence.md)
 # Q
 - [QuickSilver](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Quicksilver.md)
