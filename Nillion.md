@@ -61,7 +61,8 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
-![maxresdefault](https://github.com/user-attachments/assets/e81e42d5-df7e-40bf-be15-9230455ad22f)
+<img width="2521" height="1406" alt="image" src="https://github.com/user-attachments/assets/37a41d24-3be0-4170-894d-b0eebe741189" />
+
 
 - [NILLION STEAKING](https://www.youtube.com/watch?v=aLe_dUEDjGw)
 
