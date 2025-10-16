@@ -69,6 +69,7 @@ Here is not the full list of our contributions:
 - [Nibiru](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nibiru.md)
 - [Nillion](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nillion.md)
 - [Nolus Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nolus%20Protocol.md)
+- [Nomic](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nomic.md)
 # O
 - [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
 - [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
