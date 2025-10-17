@@ -11,7 +11,7 @@
 - Validator Address: [atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
 ### Govgen
 - Validator Address: [govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
-
+*We stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)*
 </div>
 
 ### AtomOne Services:
