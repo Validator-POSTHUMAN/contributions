@@ -46,6 +46,8 @@ We’re about to deliver the following **ASAP**:
 - **Genesis and Addrbook**  
 - **One-liner Setup**  
 
+### We also supported the project on [testnet](https://testnet.explorer.allinbits.services/atomone-testnet-1/staking/atonevaloper15az4z86h2er3twzgy64h6ys7nr5726lwhy7nrj)
+
   </details>
 
 # 🧠Humanitarian Contributions
