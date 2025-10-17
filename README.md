@@ -16,6 +16,7 @@ Here is not the full list of our contributions:
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
 - [Axone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axone.md)
 - [Aura Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aura_Network.md)
+- [Aztec](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aztec.md)
 # B
 - [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
