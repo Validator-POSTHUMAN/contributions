@@ -4,6 +4,10 @@
 
 # 🛠Technical Contributions
 <img width="1993" height="872" alt="image" src="https://github.com/user-attachments/assets/8fcad323-b298-4bb8-9636-77c4c64358d6" />
+
+- **POSTHUMAN validates Babylon**  
+  [Babylon Validator Details](https://www.mintscan.io/babylon/validators/bbnvaloper1q3m4m0zmrhkw7zdldehcu8raxsmdpxp0npp52s)
+  
 We provide ongoing technical support and contributions for the Babylon project.
 
 </div>
@@ -23,6 +27,7 @@ We provide ongoing technical support and contributions for the Babylon project.
 - **Block Explorer** [for Babylon](https://explorer.posthuman.digital/babylon-testnet)
   </details>
 
+### We also supported the project on [testnet](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 
 # 🧠Humanitarian Contributions
 
