@@ -41,6 +41,7 @@ Here is not the full list of our contributions:
 - [Evmos](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Evmos.md)
 # F
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
+- [Fiamma](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Fiamma.md)
 - [FirmaChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FirmaChain.md)
 - [Fuel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Fuel.md)
 - [Furya](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Furya.md)
