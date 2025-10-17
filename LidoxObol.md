@@ -37,7 +37,7 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-### We have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about LidoxObol and other Cosmos Ecosystem projects! 
+### We have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about LidoxObol and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
@@ -50,7 +50,7 @@
 
 ### Social Media
 - **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers),  even though this is a Twitter account for the Cosmos Ecosystem, we often mentioned LidoxObol too.
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
   ### Our contributions for the growth of the LidoxObol community.
