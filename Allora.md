@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="GitHub (3)" src="https://github.com/user-attachments/assets/918355bf-196a-4b24-8e8b-a324e7e6c331" />
+
 # POSTHUMAN contributions for [Allora](https://www.allora.network/)
 
 # 🛠 Technical Contributions
