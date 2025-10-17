@@ -37,7 +37,12 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-### We have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Aztec and other projects! 
+# Videos
+<img src="https://img.youtube.com/vi/SSTmuUoSRzA/maxresdefault.jpg" alt="" loading="lazy" />
+
+- [Voice of the Ecosystem #126 - Celestia, DAODISEO](https://www.youtube.com/watch?v=SSTmuUoSRzA)
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Odiseo and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
