@@ -68,8 +68,6 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Rizon and its updates since genesis. | [Query CosmosEcosystem tweets about Rizon](https://x.com/search?q=from%3ACosmosEcosystem%20(hdac_rizon)&src=typed_query&f=live) | We spread the word about Rizon and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Rizon updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Rizon](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(hdac_rizon)&src=typed_query&f=live) | We spread the word about Rizon and its updates since genesis. |
 
-# 📰Cosmos News
-
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
