@@ -3,7 +3,7 @@
 # POSTHUMAN contributions for [Fiamma](https://www.fiammalabs.io/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates Fiamma testnet**  
+- **POSTHUMAN supported Fiamma testnet**  
 
 
 # 🧠Humanitarian Contributions
