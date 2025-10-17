@@ -55,6 +55,7 @@ Here is not the full list of our contributions:
 - [Juno Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/JunoNetwork.md)
 # K
 - [KiChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/KiChain.md)
+- [Kopi](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Kopi.md)
 - [KYVE](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Kyve.md)
 # L
 - [Lambda](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Lambda.md)
