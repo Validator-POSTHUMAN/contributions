@@ -82,7 +82,7 @@ Here is not the full list of our contributions:
 # Q
 - [QuickSilver](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Quicksilver.md)
 # R
-
+- [Rizon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Rizon.md)
 # S
 - [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
 - [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
