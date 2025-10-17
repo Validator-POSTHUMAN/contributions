@@ -202,6 +202,7 @@ We work on, support and maintain:
 - [Sputnik Exchange](https://sputnik.exchange/) <br/>
 </details>
 
+# We also supported Cosmos on [testnet](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 
 
 # Humanitarian Contributions <br/>
