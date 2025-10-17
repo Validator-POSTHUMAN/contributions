@@ -66,6 +66,7 @@
 
 # Workshop 
 <img width="2378" height="1578" alt="image" src="https://github.com/user-attachments/assets/be32b79f-af7f-4315-bbee-d4ac135af1fc" />
+
 - [30.07.2025](https://x.com/CosmosEcosystem/status/1950303402019479952)
 
 # Economical Contributions
