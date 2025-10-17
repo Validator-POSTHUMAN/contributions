@@ -39,7 +39,9 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
+<img width="2025" height="1144" alt="image" src="https://github.com/user-attachments/assets/6e482dc8-d140-43ab-80cd-5b0c6c659598" />
 
+- [Voice of the Ecosystem #152 - Introduction to the Sunrise Layer and where and how did the tokens come from?](https://www.youtube.com/watch?v=obSdXxxOxWs)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Sunrise and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
