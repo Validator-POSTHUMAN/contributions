@@ -1,7 +1,6 @@
+<img width="1500" height="500" alt="GitHub (1)" src="https://github.com/user-attachments/assets/18d39121-947b-4fa5-aff8-20c4603a92f9" />
 
-
-
-# POSTHUMAN contributions for [Odiseo]()
+# POSTHUMAN contributions for [Odiseo](https://daodiseo.money/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Odiseo testnet**  
@@ -52,16 +51,18 @@
 
 ### Social Media
 - **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers), even though this is a Twitter account for the Cosmos Ecosystem, we often mentioned Odiseo too.  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
     ### Our contributions for the growth of the Odiseo community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Odiseo and its updates since genesis. | [Query CosmosEcosystem tweets about Odiseo](https://x.com/search?q=from%3ACosmosEcosystem%20(Odiseo)&src=typed_query&f=live) | We spread the word about Odiseo and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Odiseo updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Odiseo](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Odiseo)&src=typed_query&f=live) | We spread the word about Odiseo and its updates since genesis. |
+| Cosmos Ecosystem X | 35k followers. We have been promoting Odiseo and its updates since genesis. | [Query CosmosEcosystem tweets about Odiseo](https://x.com/search?q=from%3ACosmosEcosystem%20(DaoDiseoMoney)&src=typed_query&f=live) | We spread the word about Odiseo and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Odiseo updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Odiseo](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(DaoDiseoMoney)&src=typed_query&f=live) | We spread the word about Odiseo and its updates since genesis. |
 
+## We organized and invited Odiseo to the Interchain Summit 2025 in Berlin
+<img width="2404" height="1352" alt="image" src="https://github.com/user-attachments/assets/7ed0e0c0-0e12-4d44-af8c-dae75df76f28" />
 
 
 # Economical Contributions
