@@ -77,6 +77,7 @@ Here is not the full list of our contributions:
 - [Nomic](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nomic.md)
 # O
 - [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
+- [Odiseo](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Odiseo.md)
 - [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
 - [ORAIchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/orai.md)
 - [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
