@@ -6,6 +6,8 @@
 - **POSTHUMAN validates LidoxSSV**  
   [LidoxSSV Validator Details](https://explorer.ssv.network/operators/618)
 
+  ### We also supported project on [testnet](https://hoodi.explorer.ssv.network/operators/243)
+
   # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
