@@ -44,6 +44,7 @@
 
 ## Videos
 <img src="https://img.youtube.com/vi/LhVbuSVhovQ/maxresdefault.jpg" alt="" loading="lazy" />
+
 - [Voice of the Ecosystem #159 - Guests from the DeFi world! Migaloo DeFi](https://www.youtube.com/watch?v=LhVbuSVhovQ)
 
 
