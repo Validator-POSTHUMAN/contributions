@@ -9,6 +9,7 @@ Here is not the full list of our contributions:
 # A
 - [Agoric](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Agoric.md)
 - [Akash Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Akash.md)
+- [Allora](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Allora.md)
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
 - [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
 - [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
