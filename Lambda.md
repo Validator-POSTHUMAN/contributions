@@ -36,7 +36,7 @@
 
   
 
-## We spread the information about Lambda among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Lambda among russian-speaking community:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
@@ -48,7 +48,7 @@
 
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
-- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/CosmosEcosystem_ru | ~6000 members, even though this is a Twitter account for the Cosmos Ecosystem, we often mentioned Lambda too.  
 - https://t.me/Crypto_Base_Chat |  ~4000 members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
