@@ -24,7 +24,7 @@
 - **Block Explorer** [for ZetaChain](https://explorer.posthuman.digital/zetachain)
   </details>
 
-# We also supported Zetachain on [testnet](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
+## We also supported Zetachain on [testnet](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 <img width="2038" height="1169" alt="image" src="https://github.com/user-attachments/assets/084c2cb2-b9e0-4bcf-a5d9-2f5c223f193c" />
 
 
