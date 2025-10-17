@@ -34,6 +34,7 @@ Here is not the full list of our contributions:
 # D
 - [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
 - [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/dymension.md)
+- [Dill](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Dill.md)
 # E
 - [Elixir](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elixir.md)
 - [Elys](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elys.md)
