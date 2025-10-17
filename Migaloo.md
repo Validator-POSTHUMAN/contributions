@@ -8,6 +8,8 @@
 
 ## Alpha of Block Explorer for Migaloo
 - **Block Explorer** [for Migaloo](https://explorer.posthuman.digital/migaloo)
+<img width="2182" height="1299" alt="image" src="https://github.com/user-attachments/assets/9ecdff60-dbdd-42ca-866e-26e37cb1afdd" />
+
 
 *We stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)*
 
