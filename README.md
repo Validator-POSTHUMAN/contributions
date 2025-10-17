@@ -99,6 +99,7 @@ Here is not the full list of our contributions:
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
 - [Source Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Source%20Protocol.md)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
+- [Story](https://github.com/Validator-POSTHUMAN/contributions/blob/main/story-testnet.md)
 - [Stargaze](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stargaze.md)
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
