@@ -92,6 +92,7 @@ Here is not the full list of our contributions:
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
 - [Symphony](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Symphony.md)
+- [Sunrise](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sunrise.md)
 # T
 - [Teritori](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Teritori.md)
 - [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
