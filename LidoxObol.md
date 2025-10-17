@@ -1,4 +1,6 @@
-# POSTHUMAN contributions for [LidoxObol]()
+<img width="1500" height="500" alt="GitHub (1)" src="https://github.com/user-attachments/assets/65686af5-9ffb-477d-9442-aa067ea080ab" />
+
+# POSTHUMAN contributions for [LidoxObol](https://obol.org/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN supported LidoxObol testnet**  
@@ -35,9 +37,6 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-# Videos
-
-
 ### We have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about LidoxObol and other Cosmos Ecosystem projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
@@ -58,8 +57,8 @@
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting LidoxObol and its updates since genesis. | [Query CosmosEcosystem tweets about LidoxObol](https://x.com/search?q=from%3ACosmosEcosystem%20(LidoxObol)&src=typed_query&f=live) | We spread the word about LidoxObol and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover LidoxObol updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about LidoxObol](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(LidoxObol)&src=typed_query&f=live) | We spread the word about LidoxObol and its updates since genesis. |
+| Cosmos Ecosystem X | 35k followers. We have been promoting LidoxObol and its updates since genesis. | [Query CosmosEcosystem tweets about LidoxObol](https://x.com/search?q=from%3ACosmosEcosystem%20(obol_collective)&src=typed_query&f=live) | We spread the word about LidoxObol and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover LidoxObol updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about LidoxObol](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(obol_collective)&src=typed_query&f=live) | We spread the word about LidoxObol and its updates since genesis. |
 
 
 
