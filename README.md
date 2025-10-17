@@ -46,6 +46,7 @@ Here is not the full list of our contributions:
 - [Fuel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Fuel.md)
 - [Furya](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Furya.md)
 # G
+- [Galactica](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Galactica.md)
 - [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/gravity_bridge.md)
 # H
 - [HoneyWood](https://github.com/Validator-POSTHUMAN/contributions/blob/main/HoneyWood.md)
