@@ -30,6 +30,7 @@
 
 ## Alpha of Block Explorer for ATOM One
 - **Block Explorer** [for ATOM One](https://explorer.posthuman.digital/atomone)
+<img width="2179" height="1399" alt="image" src="https://github.com/user-attachments/assets/5f9b55b5-4d10-492a-917e-937d75464cf2" />
 
 ## Governance Proposal Creation Support
 Support for governance proposal creation has been added for **ATOM One** in our tool.  
