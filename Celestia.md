@@ -32,6 +32,8 @@
 # Alpha of Block Explorer for Celestia:
 - **Block Explorer** [for Celestia:](https://celestia-explorer.posthuman.digital/)
 
+### We also supported project on [testnet](https://testnet.celestia.explorers.guru/validator/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
+
   </details>
 
 # 🧠Humanitarian Contributions
