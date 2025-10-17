@@ -3,7 +3,7 @@
 # POSTHUMAN contributions for [Allora](https://www.allora.network/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates Allora testnet**  
+- **POSTHUMAN supported Allora testnet**  
   [Allora Validator Details](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
 
 # 🧠Humanitarian Contributions
