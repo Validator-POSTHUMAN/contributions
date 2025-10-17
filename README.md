@@ -67,6 +67,7 @@ Here is not the full list of our contributions:
 - [Lava](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Lava.md)
 - [LikeCoin](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LikeCoin.md)
 - [LidoxSSV](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LidoxSSV.md)
+- [LidoxObol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LidoxObol.md)
 - [LUM Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/LUM_Network.md)
 # M
 - [MediBloc](https://github.com/Validator-POSTHUMAN/contributions/blob/main/MediBloc.md)
