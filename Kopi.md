@@ -70,7 +70,7 @@
 - [26.05.2025](https://x.com/CosmosEcosystem/status/1927042131916443961)
 - [22.05.2025](https://x.com/CosmosEcosystem/status/1925434031472353631)
 - [17.05.2025](https://x.com/CosmosEcosystem/status/1923754298682618200)
-- [12.05.2025](https://x.com/CosmosEcosystem/status/1921846406144217253
+- [12.05.2025](https://x.com/CosmosEcosystem/status/1921846406144217253)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
