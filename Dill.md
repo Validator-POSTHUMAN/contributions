@@ -3,7 +3,7 @@
 # POSTHUMAN contributions for [Dill](https://www.dill.xyz/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates Dill testnet**  
+- **POSTHUMAN supported Dill testnet**  
   [Dill Validator Details](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 
 # 🧠Humanitarian Contributions
