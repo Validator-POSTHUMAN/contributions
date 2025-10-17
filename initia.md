@@ -24,7 +24,7 @@
 ## Alpha of Block Explorer for Initia
 - **Block Explorer** [for Initia](https://explorer.posthuman.digital/initia)
 
-## We also supported the project on the testnet
+## We also supported the project on the [testnet](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
 <img width="1718" height="504" alt="image" src="https://github.com/user-attachments/assets/9ee0e321-2be5-4019-a95c-0297892d0331" />
 
   </details>
