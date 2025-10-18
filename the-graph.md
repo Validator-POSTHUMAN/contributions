@@ -5,19 +5,11 @@
 # 🛠 Technical Contributions
 - **POSTHUMAN validates TheGraph**  
   [TheGraph Validator Details](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)
-<img width="2093" height="948" alt="image" src="https://github.com/user-attachments/assets/5a69c7c6-6fb1-4cfc-b018-1bb0cea63502" />
+<img width="1992" height="865" alt="image" src="https://github.com/user-attachments/assets/9ea1f9ef-9f9f-43af-b446-eda092d67d92" />
+
 
   ### At the moment, we provide the following services for TheGraph:
-</div>
-
-- **RPC**: [https://rpc.story.posthuman.digital](https://rpc.story.posthuman.digital) 
-- **REST**: [https://rest.story.posthuman.digital](https://rest.story.posthuman.digital)  
-- **RPC-ws**: [wss://rpc.story.posthuman.digital/websocket](wss://rpc.story.posthuman.digital/websocket)  
-- **Evm_json_rpc**: [https://evm.story.posthuman.digital](https://evm.story.posthuman.digital)  
-- **Evm_ws**: [wss://wss.story.posthuman.digital](wss://wss.story.posthuman.digital)  
-- **Peer**: 8a69935f34827dd81c721c63c69bfc54c849d028@46.4.52.158:26656
-
-### Additional Resources:
+  
 - **TheGraph on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/the-graph)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/the-graph)
 
