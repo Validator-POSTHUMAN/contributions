@@ -39,7 +39,7 @@
 
 ## Videos
 
-- [Nubit and Posthuman in InfraSamit](https://x.com/POSTHUMAN_DVS/status/1814642654078247131)
+- [Nubit and Posthuman in Infra Summer](https://x.com/POSTHUMAN_DVS/status/1814642654078247131)
 
 <img width="2965" height="1655" alt="image" src="https://github.com/user-attachments/assets/fbdf7174-c7f7-450d-b1fc-b2d5c9c2ff9c" />
 
