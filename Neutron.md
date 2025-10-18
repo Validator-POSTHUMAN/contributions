@@ -5,6 +5,26 @@
 # 🛠Technical Contributions
 - **POSTHUMAN validates Neutron mainnet**  
   [Neutron Validator Details](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
+  
+<img width="2170" height="904" alt="image" src="https://github.com/user-attachments/assets/490ac36e-2175-4ba2-b344-fb72999f3159" />
+
+### At the moment, we provide the following services for Neutron:
+</div>
+
+- **RPC**: [https://rpc.neutron.posthuman.digital](https://rpc.neutron.posthuman.digital) 
+- **REST**: [https://rest.neutron.posthuman.digital](https://rest.neutron.posthuman.digital)  
+- **gRPC**: [grpc.neutron.posthuman.digital](grpc.neutron.posthuman.digital)  
+- **Peer**: 61965e8e9a775f590726f14ab18bc7b7e6d3346a@135.181.227.236:10656
+
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/neutron?tab=state-sync)
+- **Neutron on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/neutron)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/neutron?tab=installation-guide)
+- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/neutron?tab=snapshots)
+
+## Alpha of Block Explorer for Neutron
+- **Block Explorer** [for Neutron](https://explorer.posthuman.digital/neutron)
+  </details>
 
 ### Relayer
 Now we have relayer which working in two directions
