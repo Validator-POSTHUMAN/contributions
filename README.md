@@ -119,6 +119,7 @@ Here is not the full list of our contributions:
 - [Union](https://github.com/Validator-POSTHUMAN/contributions/blob/main/union.md)
 - [UX (ex-Umee)](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
 # V
+- [Vana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Vana.md)
 - [Velas](https://github.com/Validator-POSTHUMAN/contributions/blob/main/velas.md)
 # W
 - [Warden](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Warden.md)
