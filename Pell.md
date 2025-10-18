@@ -7,8 +7,8 @@
   [Pell Validator Details](https://testnet.itrocket.net/pell/staking/pellvaloper1mcstdyw9hwvwwgtxcmpmke6hf8ufes0xkh3wm2)
 <img width="2193" height="873" alt="image" src="https://github.com/user-attachments/assets/65aa613a-6e8d-47d2-865a-4e133611fe84" />
 
+   
     ### At the moment, we provided the following services for Pell testnet:
-</div>
 
 - **RPC**: [https://rpc.pell-testnet.posthuman.digital](https://rpc.pell-testnet.posthuman.digital) 
 - **REST**: [https://rpc.pell-testnet.posthuman.digital](https://rpc.pell-testnet.posthuman.digital)  
@@ -23,7 +23,7 @@
 
 ## Alpha of Block Explorer for Pell
 - **Block Explorer** [for Pell](https://explorer.posthuman.digital/pell-testnet)
-  </details>
+
 
 # 🧠Humanitarian Contributions
 
