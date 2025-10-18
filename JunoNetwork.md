@@ -4,6 +4,26 @@
 # 🛠Technical Contributions
 
 ### We're validating [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
+<img width="2051" height="923" alt="image" src="https://github.com/user-attachments/assets/d1fad88b-2c93-4733-b36c-46678831b92f" />
+
+
+### At the moment, we provide the following services for Juno:
+</div>
+
+- **RPC**: [https://rpc.juno.posthuman.digital](https://rpc.juno.posthuman.digital) 
+- **REST**: [https://rest.juno.posthuman.digital](https://rest.juno.posthuman.digital)  
+- **gRPC**: [https://grpc.juno.posthuman.digital](https://grpc.juno.posthuman.digital)  
+- **Peer**: 113a11ad866cddddea40ddf9b56fde43f03d7499@135.181.227.236:12656
+
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/juno?tab=state-sync)
+- **Juno on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/juno)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/juno?tab=installation-guide)
+- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/juno?tab=snapshots)
+
+## Alpha of Block Explorer for Juno
+- **Block Explorer** [for Juno](https://explorer.posthuman.digital/juno/)
+  </details>
 
 ### IBC-Relayers with Juno Network
 [Relayer Link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
