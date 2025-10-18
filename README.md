@@ -12,14 +12,14 @@ Here is not the full list of our contributions:
 - [Allora](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Allora.md)
 - [Archway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Archway.md)
 - [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
-- [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/atomone.md)
+- [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Atomone.md)
 - [Avalanche](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Avalanche.md)
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
 - [Axone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axone.md)
 - [Aura Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aura_Network.md)
 - [Aztec](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aztec.md)
 # B
-- [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/babylon.md)
+- [Babylon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Babylon.md)
 - [BeeZee](https://github.com/Validator-POSTHUMAN/contributions/blob/main/BeeZee.md)
 - [Bitway](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Bitway.md)
 # C
