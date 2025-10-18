@@ -3,7 +3,7 @@
 # POSTHUMAN contributions for [Nesa](https://nesa.ai/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN supported Nesatestnet**  
+- **POSTHUMAN supported Nesa testnet**  
   [Nesa Validator Details](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
 
 # 🧠Humanitarian Contributions
