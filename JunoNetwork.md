@@ -38,6 +38,10 @@
 - Persistence
 - Neutron
 
+## We also supported Juno on testnet
+
+<img width="2004" height="913" alt="image" src="https://github.com/user-attachments/assets/07563204-7765-4ed2-bf08-0ddaffad8af8" />
+
 ### We've launched our $PHMN token on Juno Network <br/>
 | [Tokenomics ENG](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6) | [Tokenomics RU](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94) | [FAQ ENG](https://antropocosmist.medium.com/phmn-faq-ca65522b5c8d) | [FAQ RU](https://antropocosmist.medium.com/phmn-faq-rus-3512227b7443) | [Token Info Mintscan](https://www.mintscan.io/juno/wasm/contract/juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l) | [Liquidity Pool JunoSwap](https://junoswap.com/pools/JUNO-PHMN)| [PHMN RU AMA](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | [PHMN ENG AMA](https://www.youtube.com/watch?v=0lzDFbjK-ik&t=3s)| [Liquidity Adding Process Video](https://www.youtube.com/watch?v=1AU-qurmsoU)| 
 
