@@ -6,6 +6,26 @@
 - **POSTHUMAN validates Kyve**  
   [Kyve Validator Details](https://wallet.keplr.app/chains/kyve?modal=validator&chain=kyve-1&validator_address=kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 
+<img width="2187" height="917" alt="image" src="https://github.com/user-attachments/assets/cb4f7223-f875-4d22-80f7-4e7bc4cdb334" />
+
+  ### At the moment, we provide the following services for Kyve:
+</div>
+
+- **RPC**: [https://rpc.kyve.posthuman.digital](https://rpc.kyve.posthuman.digital) 
+- **REST**: [https://rest.kyve.posthuman.digital](https://rest.kyve.posthuman.digital)  
+- **gRPC**: [https://grpc.kyve.posthuman.digital](https://grpc.kyve.posthuman.digital)  
+- **Peer**: cdac5f97b512287daf89f928a89da9cf3344830b@8.52.247.252:35656
+
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/kyve?tab=state-sync)
+- **Kyve on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/kyve)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/kyve?tab=installation-guide)
+- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/kyve?tab=snapshots)
+
+## Alpha of Block Explorer for Kyve
+- **Block Explorer** [for Kyve](https://explorer.posthuman.digital/kyve)
+  </details>
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
