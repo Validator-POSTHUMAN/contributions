@@ -81,6 +81,7 @@ Here is not the full list of our contributions:
 - [Nillion](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nillion.md)
 - [Nolus Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nolus%20Protocol.md)
 - [Nomic](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nomic.md)
+- [Nubit](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nubit.md)
 # O
 - [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
 - [Odiseo](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Odiseo.md)
