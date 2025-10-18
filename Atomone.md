@@ -48,6 +48,9 @@ We’re about to deliver the following **ASAP**:
 
 ### We also supported the project on [testnet](https://testnet.explorer.allinbits.services/atomone-testnet-1/staking/atonevaloper15az4z86h2er3twzgy64h6ys7nr5726lwhy7nrj)
 
+<img width="2080" height="873" alt="image" src="https://github.com/user-attachments/assets/9f086eaa-539f-4215-8b17-1801d7a62f82" />
+
+
   </details>
 
 # 🧠Humanitarian Contributions
