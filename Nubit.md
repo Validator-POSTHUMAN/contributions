@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="GitHub (3)" src="https://github.com/user-attachments/assets/589087fb-2c01-4e7f-b689-76d6a2c534b6" />
 
-# POSTHUMAN contributions for [Nubit]()
+# POSTHUMAN contributions for [Nubit](https://www.nubit.org/)
 
 # 🛠 Technical Contributions
 - **POSTHUMAN supported Nubit testnet**  
