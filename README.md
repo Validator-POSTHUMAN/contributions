@@ -103,6 +103,7 @@ Here is not the full list of our contributions:
 - [Secret Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SecretNetwork.md)
 - [Sentinel](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Sentinel.md)
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
+- [Soarchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Soarchain.md)
 - [Source Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Source%20Protocol.md)
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
 - [Story](https://github.com/Validator-POSTHUMAN/contributions/blob/main/story-testnet.md)
