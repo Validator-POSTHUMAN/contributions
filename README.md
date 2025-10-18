@@ -26,14 +26,14 @@ Here is not the full list of our contributions:
 - [Celestia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md)
 - [Cerberus Zone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CerberusZone.md)
 - [Chihuahua Chain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Chihuahua.md)
-- [Comdex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/comdex.md)
+- [Comdex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Comdex.md)
 - [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cosmos%20New.md)
 - [Crescent Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crescent_Network.md)
 - [Cryptodungeon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CryptoDungeon.md)
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
 # D
 - [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
-- [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/dymension.md)
+- [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Dymension.md)
 - [Dill](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Dill.md)
 # E
 - [Elixir](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elixir.md)
@@ -47,13 +47,13 @@ Here is not the full list of our contributions:
 - [Furya](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Furya.md)
 # G
 - [Galactica](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Galactica.md)
-- [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/gravity_bridge.md)
+- [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Gravity_bridge.md)
 # H
 - [HoneyWood](https://github.com/Validator-POSTHUMAN/contributions/blob/main/HoneyWood.md)
-- [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/humans_ai.md)
+- [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Humans_ai.md)
 # I
 - [Injective](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Injective.md)
-- [Initia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/initia.md)
+- [Initia](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Initia.md)
 - [Intento](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Intento.md)
 - [Iotex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Iotex.md)
 # J
@@ -86,8 +86,8 @@ Here is not the full list of our contributions:
 - [ODIN Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/ODIN_Protocol.md)
 - [Odiseo](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Odiseo.md)
 - [OmniFlix](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Omniflix.md)
-- [ORAIchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/orai.md)
-- [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/osmosis.md)
+- [ORAIchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Orai.md)
+- [Osmosis](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Osmosis.md)
 # P
 - [Pell](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Pell.md)
 - [Penumbra](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Penumbra.md)
@@ -105,8 +105,8 @@ Here is not the full list of our contributions:
 - [SifChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/SifChain.md)
 - [Soarchain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Soarchain.md)
 - [Source Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Source%20Protocol.md)
-- [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/solana.md)
-- [Story](https://github.com/Validator-POSTHUMAN/contributions/blob/main/story-testnet.md)
+- [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Solana.md)
+- [Story](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Story.md)
 - [Stargaze](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stargaze.md)
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
@@ -115,12 +115,13 @@ Here is not the full list of our contributions:
 # T
 - [Teritori](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Teritori.md)
 - [Tgrade](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Tgrade.md)
+- [TheGraph](https://github.com/Validator-POSTHUMAN/contributions/blob/main/The-graph.md)
 # U
-- [Union](https://github.com/Validator-POSTHUMAN/contributions/blob/main/union.md)
+- [Union](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Union.md)
 - [UX (ex-Umee)](https://github.com/Validator-POSTHUMAN/contributions/blob/main/umee.md)
 # V
 - [Vana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Vana.md)
-- [Velas](https://github.com/Validator-POSTHUMAN/contributions/blob/main/velas.md)
+- [Velas](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Velas.md)
 # W
 - [Warden](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Warden.md)
 # X
@@ -128,4 +129,4 @@ Here is not the full list of our contributions:
 # Y
 
 # Z
-- [ZetaChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/zetachain.md)
+- [ZetaChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Zetachain.md)
