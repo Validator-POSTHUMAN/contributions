@@ -74,6 +74,7 @@ Here is not the full list of our contributions:
 - [Migaloo](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Migaloo.md)
 - [Mina Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Mina.md)
 # N
+- [Nesa](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nesa.md)
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
 - [Neutron](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Neutron.md)
 - [Nibiru](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nibiru.md)
