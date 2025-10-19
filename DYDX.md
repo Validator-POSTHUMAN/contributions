@@ -7,7 +7,7 @@
 
 ## Alpha of Block Explorer for DYDX
 - **Block Explorer** [for DYDX](https://explorer.posthuman.digital/dydx/)
-  </details>
+
 
 
 # 🧠Humanitarian Contributions
