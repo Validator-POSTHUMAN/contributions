@@ -126,6 +126,7 @@ Here is not the full list of our contributions:
 # W
 - [Warden](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Warden.md)
 # X
+- [XION](https://github.com/Validator-POSTHUMAN/contributions/blob/main/XION.md)
 - [XRPL](https://github.com/Validator-POSTHUMAN/contributions/blob/main/XRPL.md)
 # Y
 
