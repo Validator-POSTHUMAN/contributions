@@ -30,6 +30,7 @@ Here is not the full list of our contributions:
 - [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cosmos%20New.md)
 - [Crescent Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crescent_Network.md)
 - [Cryptodungeon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CryptoDungeon.md)
+- [CryptoComChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crypto_com.md)
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
 # D
 - [DYDX](https://github.com/Validator-POSTHUMAN/contributions/blob/main/DYDX.md)
