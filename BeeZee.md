@@ -14,6 +14,12 @@ Now we have several relayers which working in two directions
 - Cosmos
 - Crypto Dungeon
 
+## Alpha of Block Explorer for BeeZee
+- **Block Explorer** [for BeeZee](https://explorer.posthuman.digital/beezee)
+
+<img width="2225" height="1419" alt="image" src="https://github.com/user-attachments/assets/c9dd86d3-f38b-498e-a716-3072e2f1a2f4" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
