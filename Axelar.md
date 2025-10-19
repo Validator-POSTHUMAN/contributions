@@ -14,7 +14,13 @@ We working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkB
 ![image](https://user-images.githubusercontent.com/92199696/205491037-51fa4cfb-f604-4acc-9a43-66cad0fca7c2.png)
 
 We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send tips with $AXL in Twitter and Telegram, and also p2p-exchange $AXL directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
-  </details>
+
+## Alpha of Block Explorer for Axelar
+- **Block Explorer** [for Axelar](https://explorer.posthuman.digital/axelar)
+
+<img width="2200" height="1356" alt="image" src="https://github.com/user-attachments/assets/4c76ff86-0468-4d90-9167-16e33d72ebb0" />
+
+
 
  # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
