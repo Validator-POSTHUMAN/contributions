@@ -23,6 +23,8 @@
 
 ## Alpha of Block Explorer for Agoric
 - **Block Explorer** [for Agoric](https://explorer.posthuman.digital/agoric)
+<img width="2219" height="1413" alt="image" src="https://github.com/user-attachments/assets/b579a87c-0059-45f0-9e1e-11158eeabdfe" />
+
   </details>
 
 ### Relayers 
