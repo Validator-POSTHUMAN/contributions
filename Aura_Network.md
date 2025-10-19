@@ -9,6 +9,9 @@
 ## Alpha of Block Explorer for Aura
 - **Block Explorer** [for Aura](https://explorer.posthuman.digital/aura)
 
+<img width="2191" height="1404" alt="image" src="https://github.com/user-attachments/assets/33e15698-6302-44a5-8519-56a49b356cf5" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
