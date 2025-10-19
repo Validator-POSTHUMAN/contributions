@@ -6,6 +6,12 @@
   [Akash Validator Details](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 - We develop [Sputnik Network](https://sputnik.exchange/), and we added $AKT into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
+## Alpha of Block Explorer for Akash
+- **Block Explorer** [for Akash](https://explorer.posthuman.digital/akash)
+
+<img width="2198" height="1425" alt="image" src="https://github.com/user-attachments/assets/be7e79d3-a217-4ed8-95d0-20f6602fa887" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
