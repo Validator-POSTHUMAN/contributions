@@ -32,6 +32,7 @@ Here is not the full list of our contributions:
 - [Cryptodungeon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CryptoDungeon.md)
 - [Cyber](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cyber.md)
 # D
+- [DYDX](https://github.com/Validator-POSTHUMAN/contributions/blob/main/DYDX.md)
 - [Decentr](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Decent.md)
 - [Dymension](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Dymension.md)
 - [Dill](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Dill.md)
