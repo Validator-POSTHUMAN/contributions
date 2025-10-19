@@ -14,6 +14,9 @@ Including Validation, Free tools for Community etc.
 - *We also support few relayers with Asset Mantle*. At this moment there are three for **Osmosis**, **Chihuahua**and **Juno** chains:
 [Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
 
+## Alpha of Block Explorer for AssetMantle
+- **Block Explorer** [for AssetMantle](https://explorer.posthuman.digital/assetmantle)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
