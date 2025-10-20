@@ -20,6 +20,8 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 
 <img width="2200" height="1356" alt="image" src="https://github.com/user-attachments/assets/4c76ff86-0468-4d90-9167-16e33d72ebb0" />
 
+## We add Axelar to [restake](https://restake.app/axelar/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
+
 
  # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
