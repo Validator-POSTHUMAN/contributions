@@ -6,6 +6,8 @@
 - **POSTHUMAN validates Union**  
   [Union Validator Details](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 
+## We add Union to [restake](https://restake.app/union/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
