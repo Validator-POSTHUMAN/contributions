@@ -9,6 +9,7 @@
 ## Alpha of Block Explorer for Quicksilver
 - **Block Explorer** [for Quicksilver](https://explorer.posthuman.digital/quicksilver)
 
+## We add Quicksilver to [restake](https://restake.app/quicksilver/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 
 # 🧠Humanitarian Contributions  
 
