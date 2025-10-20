@@ -31,7 +31,12 @@
 | **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
-  
+
+
+## We launched quest and task campaign about [Symphony on Centrifuge Platform](https://centrifuge.digital/symphony), 300 participants.
+
+<img width="2909" height="1362" alt="image" src="https://github.com/user-attachments/assets/96b5e6cb-3dab-4f31-8cfa-743a507ae726" />
+
 
 ## We spread the information about Symphony among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
