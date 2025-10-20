@@ -6,7 +6,9 @@
 - **POSTHUMAN validates Bitway**  
   [Bitway Validator Details](https://mainnet.itrocket.net/bitway/staking/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax)
 
-    # 🧠Humanitarian Contributions
+## We add Bitway to [restake](https://restake.app/bitway/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax)
+
+# 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
