@@ -92,7 +92,7 @@
 
 
 
-### ORAIchain Daily
+### 📰ORAIchain Daily
 <img width="1618" height="1601" alt="image" src="https://github.com/user-attachments/assets/c620ecaa-138f-4783-b4a8-c092f95e8817" />
 
 > Cosmos Ecosystem Daily digital newspaper:
@@ -118,7 +118,7 @@
  - [30.06.2024](https://x.com/CosmosEcosystem/status/1685626762213130240)
  
 
-### ORAIchain Weekly  
+### 📰ORAIchain Weekly  
  - [17.05.2025](https://x.com/CosmosEcosystem/status/1923754298682618200)
  - [05.04.2025](https://x.com/CosmosEcosystem/status/1908551957326770668)
  - [18.01.2025](https://x.com/CosmosEcosystem/status/1880681364720423197)
