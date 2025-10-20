@@ -17,6 +17,12 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 - Injective
 - Persistence
 
+## Alpha of Block Explorer for Secret
+- **Block Explorer** [for Secret](https://explorer.posthuman.digital/secretnetwork)
+
+<img width="2210" height="1410" alt="image" src="https://github.com/user-attachments/assets/2dc14bfc-7868-4f0c-9d09-649439792fe5" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
