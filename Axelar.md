@@ -21,7 +21,6 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 <img width="2200" height="1356" alt="image" src="https://github.com/user-attachments/assets/4c76ff86-0468-4d90-9167-16e33d72ebb0" />
 
 
-
  # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
@@ -48,8 +47,10 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 | **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
-  
- 
+## We launched quest and task campaign about [Axelar on Centrifuge Platform](https://centrifuge.digital/axelar), 300 participants.
+
+ <img width="2875" height="719" alt="image" src="https://github.com/user-attachments/assets/6aab432d-288d-4820-b0c0-e32b2109dbc2" />
+
  ## We spread the information about Axelar among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
