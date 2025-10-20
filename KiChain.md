@@ -6,6 +6,12 @@
 - **POSTHUMAN validates KiChain**  
   [KiChain Validator Details](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 
+## Alpha of Block Explorer for KiChain
+- **Block Explorer** [for KiChain](https://explorer.posthuman.digital/kichain)
+
+<img width="2194" height="1404" alt="image" src="https://github.com/user-attachments/assets/d79bc9f5-c181-4bfc-8b74-e0c84500d1a9" />
+
+
 *We stoped to validate KiChain on 6th of October 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A52)*
 
 # 🧠Humanitarian Contributions
