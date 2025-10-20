@@ -19,6 +19,7 @@ Now we have several relayers which working in two directions
 
 <img width="2225" height="1419" alt="image" src="https://github.com/user-attachments/assets/c9dd86d3-f38b-498e-a716-3072e2f1a2f4" />
 
+## We add BeeZee to [restake](https://restake.app/beezee/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 
 # 🧠Humanitarian Contributions
 
