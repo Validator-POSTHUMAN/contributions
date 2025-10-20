@@ -26,6 +26,8 @@
 - **Block Explorer** [for Warden](https://explorer.posthuman.digital/warden-testnet)
   </details>
 
+## We add Warden to [restake](https://restake.app/wardenprotocol/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
