@@ -44,7 +44,12 @@ Now we have several relayers which working in two directions
 |                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
 | **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
-  
+
+
+## We launched quest and task campaign about [BeeZee on Centrifuge Platform](https://centrifuge.digital/beezee), 300 participants.
+
+<img width="2873" height="893" alt="image" src="https://github.com/user-attachments/assets/bd4679d4-ceb3-4d81-b001-99b583707a4e" />
+
 ## We spread the information about BeeZee among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
