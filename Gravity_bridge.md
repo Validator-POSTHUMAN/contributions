@@ -18,6 +18,12 @@ We provide next IBC-relayers with G-Bridge:
 - injective
 - crescent
 
+## Alpha of Block Explorer for Gravity Bridge
+- **Block Explorer** [for Gravity Bridge](https://explorer.posthuman.digital/gravitybridge)
+
+<img width="1648" height="1119" alt="image" src="https://github.com/user-attachments/assets/e4f9e9bc-b028-4129-9b61-d93bc9504432" />
+
+
 *We stoped to validate Gravity Bridge on 20th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A44)*
 
 # 🧠Humanitarian Contributions
