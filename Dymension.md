@@ -26,6 +26,9 @@
 ## Alpha of Block Explorer for Dymension
 - **Block Explorer** [for Dymension](https://explorer.posthuman.digital/dymension)
 
+<img width="2139" height="1334" alt="image" src="https://github.com/user-attachments/assets/13e1f81a-c1e5-4f92-ab3c-51bdd174e7bd" />
+
+
 ## We provide IBC relayers for Dymension with those chains:
 [Relayer link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy)
 - Osmosis 
