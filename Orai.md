@@ -21,7 +21,7 @@
 - Govenance tool is coming soon
 
 ## Alpha of Block Explorer for ORAIchain
-- Block explorer: https://explorer.posthuman.digital/oraichain (if you don't see stats imediatly - you need to wait until data is uploaded, we are on fixing it)
+- **Block Explorer** [for ORAIchain](https://explorer.posthuman.digital/oraichain)
 
 
 # 🧠Humanitarian Contributions
