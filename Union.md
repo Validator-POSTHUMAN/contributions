@@ -60,7 +60,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Union and its updates since genesis. | [Query CosmosEcosystem tweets about Union](https://x.com/search?q=from%3ACosmosEcosystem%20(Union%20OR%20%40union_build%20OR%20%24U)&src=typed_query&f=live) | We spread the word about Union and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Union updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Union](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Union%20OR%20%40union_build%20OR%20%24U)&src=typed_query&f=live) | We spread the word about Union and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1632" height="1609" alt="image" src="https://github.com/user-attachments/assets/610afcfb-219f-4b21-a390-26228bceb18b" />
 
 - [19.06.2025](https://x.com/CosmosEcosystem/status/1937138072237600893)
