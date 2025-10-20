@@ -57,6 +57,11 @@
 | **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
+
+## We launched quest and task campaign about [Nillion on Centrifuge Platform](https://centrifuge.digital/nillion), 300 participants.
+
+<img width="2866" height="608" alt="image" src="https://github.com/user-attachments/assets/dc731679-6567-4c36-a08b-269df7315543" />
+
   
 
 ## We spread the information about Nillion among russian-speaking community of Cosmos Ecosystem:
