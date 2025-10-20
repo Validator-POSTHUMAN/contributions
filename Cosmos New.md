@@ -23,6 +23,8 @@
 
 ### We're validating [Cosmos Hub](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 
+## We add Cosmos to [restake](https://restake.app/cosmoshub/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
+
 ### As a IBC-provider for Cosmos Ecosystem project we maintain IBC-relayers for these chains in Cosmos Ecosystem:
 
 <details>
