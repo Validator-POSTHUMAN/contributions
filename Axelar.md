@@ -82,7 +82,7 @@ Covering news from the Axelar Ecosystem:
 - [Infographic 2](https://x.com/CosmosEcosystem/status/1849041307953410516)  
 - [Infographic 3](https://x.com/CosmosEcosystem/status/1860887292467970239)  
 
-### Daily News  
+### 📰Daily News  
 - [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1937505218490695955)
 - [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1932730497983029437)
 - [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1919060529869443202)
@@ -93,7 +93,7 @@ Covering news from the Axelar Ecosystem:
 - [Daily News about Axelar](https://x.com/CosmosEcosystem/status/1848026611007848843)
 
 
-### Weekly News (Statistics)  
+### 📰Weekly News (Statistics)  
 - [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1842233928310304800)  
 - [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1847257084036841811)  
 - [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1849776309213295102)  
