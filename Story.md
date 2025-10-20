@@ -85,7 +85,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Story and its updates since genesis. | [Query CosmosEcosystem tweets about Story](https://x.com/search?q=from%3ACosmosEcosystem%20(StoryProtocol%20)&src=typed_query&f=live) | We spread the word about Story and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Story updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Story](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(StoryProtocol%20)&src=typed_query&f=live) | We spread the word about Story and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1731" height="1590" alt="image" src="https://github.com/user-attachments/assets/3ad5bfe0-5937-4cdb-87a0-956d2a07536b" />
 
 - [31.05.2025](https://x.com/CosmosEcosystem/status/1928803912372613152)
