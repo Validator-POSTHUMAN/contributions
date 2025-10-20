@@ -88,7 +88,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 | POSTHUMAN X        | 7.5k followers. We actively cover Secret updates and ecosystem highlights.       | [Query POSTHUMAN_DVS tweets about Secret](https://x.com/search?q=%28from%3APOSTHUMAN_DVS%29%20%28%40SecretNetwork%20%29&src=typed_query&f=live)            | We consistently support and promote Secret developments.      |
 
 
-### SECRET NETWORK WEEKLY <br/>
+## 📰SECRET NETWORK WEEKLY <br/>
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/9c878abc-9afa-4565-93d2-a54e2fa1b751) <br/>
 
 
@@ -117,7 +117,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 - [16.12.2022](https://twitter.com/CosmosEcosystem/status/1603725114842812416?t=9Vq62Y6W2HnHHUAcBLe-lg&s=19)
 
 
-### NEWS 2025
+### 📰NEWS 2025
 - [30.06.2025](https://x.com/CosmosEcosystem/status/1939665974736933224)
 - [31.05.2025](https://x.com/CosmosEcosystem/status/1928803912372613152)
 - [29.05.2025](https://x.com/CosmosEcosystem/status/1928107066280808639)
@@ -135,7 +135,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 - [15.01.2025](https://x.com/CosmosEcosystem/status/1879448551069192271)
 - [15.01.2025](https://x.com/CosmosEcosystem/status/1876278575630004364)
 
-### NEWS 2024
+### 📰NEWS 2024
 
 - [23.12.2024](https://x.com/CosmosEcosystem/status/1871200088300904527)
 - [17.12.2024](https://x.com/CosmosEcosystem/status/1868985161842667530)
@@ -161,7 +161,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 - [04.01.2024](https://x.com/CosmosEcosystem/status/1742932881876672718)
 
 
-### NEWS 2023 
+### 📰NEWS 2023 
 
 - [03.08.2023](https://twitter.com/CosmosEcosystem/status/1687079946257051648?t=2FyDN1-Pki1MQFkw2loieg&s=19)
 - [29.07.2023](https://twitter.com/CosmosEcosystem/status/1684580014313152513?t=KvxIJXq28OYvIshojgufaQ&s=19)
@@ -199,7 +199,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 - [22.01.2023](https://twitter.com/CosmosEcosystem/status/1617146767409119232?t=s1NGWb3wZrCBUMt8CA62ow&s=19)
 - [20.01.2023](https://twitter.com/CosmosEcosystem/status/1616482169064652800?t=2VmlFvVEWzKEv9RWQ-Vu-A&s=19)
 
-### NEWS 2022
+### 📰NEWS 2022
 
 - [09.07.2022](https://twitter.com/CosmosEcosystem/status/1545811915779235841?t=mdVaB523AMpxp5gpDEQ3bw&s=19)
 - [02.07.2022](https://twitter.com/CosmosEcosystem/status/1543282596876099593?t=yAxom1BGO453zRsuyNDE4Q&s=19)
@@ -217,7 +217,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $SCRT into
 - [22.01.2022](https://twitter.com/CosmosEcosystem/status/1484649435208507395?t=ZxcJGduo0vpEM4zH5iRGQQ&s=19)
 - [14.01.2022](https://twitter.com/CosmosEcosystem/status/1482022761023381514?t=xUyCy_di8s_EyQL5JIPmcw&s=19)
 
-### NEWS 2021
+### 📰NEWS 2021
 
 - [10.12.2021](https://twitter.com/CosmosEcosystem/status/1469367168806567939?t=2oyUU7rNG45cW_dJc8oUnA&s=19)
 - [23.01.2021](https://twitter.com/CosmosEcosystem/status/1463192220794822660?t=CVuihPzMF4awRDGKTnAbIA&s=19)
