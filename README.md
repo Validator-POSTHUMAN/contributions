@@ -14,6 +14,7 @@ Here is not the full list of our contributions:
 - [AssetMantle](https://github.com/Validator-POSTHUMAN/contributions/blob/main/AssetMantle.md)
 - [ATOM One](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Atomone.md)
 - [Avalanche](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Avalanche.md)
+- [Astroport](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Astroport.md)
 - [Axelar](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axelar.md)
 - [Axone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Axone.md)
 - [Aura Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Aura_Network.md)
