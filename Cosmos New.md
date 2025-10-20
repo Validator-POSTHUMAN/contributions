@@ -271,11 +271,12 @@ Content creation is what we are truly passionate about, as well as validation. O
 
 Also we participate and discuss about Cosmos Hub on other channels:
 
-[FORKLOG](https://www.youtube.com/c/forklog/videos) VIDEOS: In this videos PostHuman validator represented by Vladimir Ponimajushij and Vladimir Synthetic explaining crypto in simple way on fridays for a big ForkLog Channel with 54k subscribers! 
+[FORKLOG](https://www.youtube.com/c/forklog/videos) VIDEOS: In this videos PostHuman validator represented by Vladimir Ponimajushij and Vladimir Synthetic explaining crypto in simple way on fridays for a big ForkLog Channel with 54k subscribers!
+- How to Decentralize Any Service with Cosmos Network | [Fork The System with Understanding](https://www.youtube.com/watch?v=AsbAG_fcBBg)
 - CryptoAidrops and Regulations [in Russia](https://youtu.be/7Fr_H1Ew9bo?t=4167)<br/>
 - Video about responsibility of [Validators and Delegators](https://youtu.be/p5DFMneEEzY?t=833)<br/>
 - How to receive your first [crypto for free](https://youtu.be/4q6GpcctvcU?t=462)<br/>
-
+<img src="https://img.youtube.com/vi/AsbAG_fcBBg/maxresdefault.jpg" alt="" loading="lazy" />
 
 [CRYPTOLODES](https://www.youtube.com/c/CryptoLodes/videos) VIDEOS:
 In this videos PostHuman validator represented by Vladimir Ponimajushij and Valentin Medniyy as Cosmos Ecosystem experts and we talks a lot about Cosmos Ecosystem on this show with Cosmos Hub Mentioning: - 
@@ -290,7 +291,7 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 ![3333333](https://user-images.githubusercontent.com/92199696/166915211-779fcbd5-4bf3-432e-8e0d-6f8d278b7412.jpg)
 
 
-### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Cosmos Hub and other Cosmos Ecosystem projects! 
+## Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Cosmos Hub and other Cosmos Ecosystem projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
