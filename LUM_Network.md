@@ -68,7 +68,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting LUM Network and its updates since genesis. | [Query CosmosEcosystem tweets about LUM Network](https://x.com/search?q=from%3ACosmosEcosystem%20(lum_network%20)&src=typed_query&f=live) | We spread the word about LUM Network and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover LUM Network updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about LUM Network](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(lum_network%20)&src=typed_query&f=live) | We spread the word about LUM Network and its updates since genesis. |
 
-## Cosmos News
+## 📰Cosmos News
 <img width="2488" height="1383" alt="image" src="https://github.com/user-attachments/assets/57a1ec07-0d2e-4f65-86c5-ae6759bb128d" />
 
   - [News About LUM Network](https://x.com/CosmosEcosystem/status/1666065085410811904)
