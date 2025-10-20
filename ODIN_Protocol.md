@@ -73,7 +73,7 @@ Now we have relayer which working in two directions
 | Cosmos Ecosystem X | 35k followers. We have been promoting Odin Protocol for a long time. | [Query CosmosEcosystem tweets about Odin Protocol](https://x.com/search?q=from%3ACosmosEcosystem%20Odinprotocol&src=typed_query&f=live) | We spread the word about Odin Protocol for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Odin Protocol updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Odin Protocol](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Odinprotocol&src=typed_query&f=live) | We spread the word about Odin Protocol for a long time. | 
 
-# Cosmocs News
+# 📰Cosmos News
 <img width="2028" height="1587" alt="image" src="https://github.com/user-attachments/assets/d4756e41-223a-4edb-8764-f24a1560a1e2" />
 
 - [16.10.2024](https://x.com/CosmosEcosystem/status/1846540126723121615)
