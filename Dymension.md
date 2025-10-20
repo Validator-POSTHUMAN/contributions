@@ -120,7 +120,7 @@ All these videos are also exists on the [Omniflix TV](https://omniflix.tv/crypto
 | Cosmos Ecosystem X | 35k followers. We have been promoting Dymension and its updates since genesis. | [Query CosmosEcosystem tweets about Dymension](https://x.com/search?q=from%3ACosmosEcosystem%20(dymension%20)&src=typed_query&f=live) | We spread the word about Dymension and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Dymension updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Dymension](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(dymension%20)&src=typed_query&f=live) | We spread the word about Dymension and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1659" height="1040" alt="image" src="https://github.com/user-attachments/assets/bfde5aa5-0559-4cc5-9db8-24db396ca932" />
 
 ### Daily News
