@@ -111,7 +111,7 @@
 
 ## 2025
 
-### Cosmos Daily
+### 📰Cosmos Daily
 
 <img width="1547" height="1277" alt="image" src="https://github.com/user-attachments/assets/b963e0a5-3f6b-4057-a3f3-ee8852fd76d3" />
 
@@ -151,11 +151,11 @@
 
 ## 2024 
 
-### Celestia Weekly
+### 📰Celestia Weekly
 > Celestia-dedicated digital newspaper:
 - **02.11** - [Link](https://x.com/CosmosEcosystem/status/1852685561607156038)
 
-### Cosmos Daily
+### 📰Cosmos Daily
 > Cosmos Ecosystem Daily digital newspaper:
 - **13.12** - [Link](https://x.com/CosmosEcosystem/status/1867515615071941089)
 - **12.12** - [Link](https://x.com/CosmosEcosystem/status/1867132905006280899)
@@ -191,7 +191,7 @@
 
 ## 2023
 
-### Cosmos Daily
+### 📰Cosmos Daily
 > Cosmos Ecosystem Daily digital newspaper:
 - **14.12** - [Link](https://x.com/CosmosEcosystem/status/1735262070852256168/photo/1)
 - **29.11** - [Link](https://x.com/CosmosEcosystem/status/1729853640037290178/photo/1)
@@ -202,7 +202,7 @@
 - **27.09** - [Link](https://x.com/CosmosEcosystem/status/1706951665893433384/photo/1)
 - **06.06** - [Link](https://x.com/CosmosEcosystem/status/1677043293123690496/photo/1)
 
-### Weekly News
+###📰 Weekly News
 > Cosmos Ecosystem Weekly digital newspaper:
 - **27.10** - [Link](https://x.com/CosmosEcosystem/status/1717907900218122445/photo/1)
 - **20.10** - [Link](https://x.com/CosmosEcosystem/status/1715410764792463801/photo/1)
