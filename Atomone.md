@@ -50,7 +50,7 @@ We’re about to deliver the following **ASAP**:
 
 <img width="2080" height="873" alt="image" src="https://github.com/user-attachments/assets/9f086eaa-539f-4215-8b17-1801d7a62f82" />
 
-
+## We add ATOM One to [restake](https://restake.app/atomone/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
   </details>
 
 # 🧠Humanitarian Contributions
