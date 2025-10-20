@@ -29,6 +29,8 @@ We provide ongoing technical support and contributions for the Babylon project.
 
 ### We also supported the project on [testnet](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 
+## We add Babylon to [restake](https://restake.app/babylon/bbnvaloper1q3m4m0zmrhkw7zdldehcu8raxsmdpxp0npp52s)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
