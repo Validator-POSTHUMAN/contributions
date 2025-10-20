@@ -39,7 +39,6 @@ including flagship networks like Cosmos.
 
 <img width="2197" height="1305" alt="image" src="https://github.com/user-attachments/assets/c39babad-ebc9-4da6-bf65-8504e099427a" />
 
-### We develop [Sputnik Network](https://sputnik.exchange/), and we added $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
 ### We add Cosmos to [restake](https://restake.app/cosmoshub/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 
@@ -210,17 +209,14 @@ including flagship networks like Cosmos.
 - Juno channel-37
 </details>
 
-### Public goods:<br/>
-We work on, support and maintain:
-### ` These tools are provided following things:Transfer tokens of Cosmos Ecosystem in Telegram and Twitter without paying any fees. Tracking and comparing of 50+ Cosmos and non-Cosmos assets.`
+### Public goods:
+### These tools are provided following things:Transfer tokens of Cosmos Ecosystem in Telegram and Twitter without paying any fees. Tracking and comparing of 50+ Cosmos and non-Cosmos assets. We added $ATOM to:
 - [Sputnik Network](https://t.me/SputnikNetworkBot) 
 - [Sputnik Price Bot](https://t.me/SputnikPriceBot)
-- [Sputnik Exchange](https://sputnik.exchange/) <br/>
-</details>
+- [Sputnik Exchange](https://sputnik.exchange/)
 
 ## We also supported Cosmos on [testnet](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 <img width="2176" height="1445" alt="image" src="https://github.com/user-attachments/assets/7cc5a812-baf6-4641-90f6-dd02a68e69a9" />
-
 
 # 🧠Humanitarian Contributions
 
