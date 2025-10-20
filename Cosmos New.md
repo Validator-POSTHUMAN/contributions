@@ -212,6 +212,12 @@ We work on, support and maintain:
 
 
 # Humanitarian Contributions <br/>
+
+## We launched quest and task campaign about [Cosmos on Centrifuge Platform](https://centrifuge.digital/cosmos), 300 participants.
+
+<img width="2861" height="813" alt="image" src="https://github.com/user-attachments/assets/ee8a165a-3d36-4721-97c9-42fd9cff6af1" />
+
+
 Here's the section full of various humanitarian contriburions and some of them are:
 
 Videos, infographics, community development, public events speeches and participation, education, evangelism and more
