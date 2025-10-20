@@ -36,7 +36,8 @@
 
 <img width="1959" height="890" alt="image" src="https://github.com/user-attachments/assets/a0f1c411-e7bf-4e05-b53c-eec9fd9733c5" />
 
-
+## We add Celestia to [restake](https://restake.app/celestia/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
+  
   </details>
 
 # 🧠Humanitarian Contributions
