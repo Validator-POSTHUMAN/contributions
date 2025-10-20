@@ -11,6 +11,7 @@
 
 <img width="2198" height="1425" alt="image" src="https://github.com/user-attachments/assets/be7e79d3-a217-4ed8-95d0-20f6602fa887" />
 
+## We add Akash to [restake](https://restake.app/akash/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 
 # 🧠Humanitarian Contributions
 
