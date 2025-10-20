@@ -71,7 +71,7 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Namada updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Namada](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(namada%20)&src=typed_query&f=live) | We spread the word about Namada and its updates since genesis. |
 
 
-## Media Presence  
+## 📰Media Presence  
 <img width="1557" height="1597" alt="image" src="https://github.com/user-attachments/assets/05da1498-cf74-4164-9a5b-5b49bc0818bf" />
 
 ### Cosmos Weekly Updates Featuring Namada  
