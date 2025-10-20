@@ -97,7 +97,8 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting HumansAi and its updates since genesis. | [Query CosmosEcosystem tweets about HumansAi](https://x.com/search?q=from%3ACosmosEcosystem%20(humansdotai%20)&src=typed_query&f=live) | We spread the word about HumansAi and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover HumansAi updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about HumansAi](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(humansdotai%20)&src=typed_query&f=live) | We spread the word about HumansAi and its updates since genesis. |
 
-#Cosmos News 
+# 📰Cosmos News 
+
 <img width="2073" height="1587" alt="image" src="https://github.com/user-attachments/assets/2fcea21f-45f8-4d53-b73b-d15624359f1d" />
 
 - [20.10.2024](https://x.com/CosmosEcosystem/status/1848026611007848843)
