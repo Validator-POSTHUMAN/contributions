@@ -24,6 +24,8 @@
 - **Block Explorer** [for Stargaze](https://explorer.posthuman.digital/stargaze)
   </details>
 
+## We add Stargaze to [restake](https://restake.app/stargaze/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
