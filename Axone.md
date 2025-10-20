@@ -6,6 +6,8 @@
 - **POSTHUMAN validates Axone**  
   [Axone Validator Details](https://axone.valopers.com/validators/axonevaloper1ydnn9wtnlmw99zr66s6p9k7pg48zgjewk4pw53)
 
+## We add Axone to [restake](https://restake.app/axone/axonevaloper1ydnn9wtnlmw99zr66s6p9k7pg48zgjewk4pw53)
+
   # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
