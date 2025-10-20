@@ -81,10 +81,10 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Starname and its updates since genesis. | [Query CosmosEcosystem tweets about Starname](https://x.com/search?q=from%3ACosmosEcosystem%20(starname_me%20)&src=typed_query&f=live) | We spread the word about Starname and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Starname updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Starname](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(starname_me%20)&src=typed_query&f=live) | We spread the word about Starname and its updates since genesis. |
 
-### Starname Daily
+# 📰Starname Daily
 <img width="2440" height="1335" alt="image" src="https://github.com/user-attachments/assets/e8fa3d40-304f-4006-9307-951379c8c2e6" />
  
- Cosmos Ecosystem Daily digital newspaper
+## 📰Cosmos Ecosystem Daily digital newspaper
 
  - [12.08.2023](https://x.com/CosmosEcosystem/status/1733090615527620694)
  - [18.03.2023](https://x.com/CosmosEcosystem/status/1637074148747800577)
