@@ -8,6 +8,9 @@
 ### We added $STRD token into Sputnik Network Bot! 
 We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
+## Alpha of Block Explorer for Stride
+- **Block Explorer** [for Stride](https://explorer.posthuman.digital/stride)
+
 *We stop to validate Stride after [proposal 1014](https://www.mintscan.io/cosmos/proposals/1014)*
 
 
