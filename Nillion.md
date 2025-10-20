@@ -31,6 +31,7 @@
 
 ## We also supported Nillion on [testnet](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
 
+## We add Nillion to [restake](https://restake.app/nillion/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78)
 
 # 🧠Humanitarian Contributions
 
