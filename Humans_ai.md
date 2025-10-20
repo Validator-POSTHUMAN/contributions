@@ -29,6 +29,8 @@
 
 <img width="2251" height="1415" alt="image" src="https://github.com/user-attachments/assets/236c65b9-0335-4184-b27d-48196a8f7d9f" />
 
+## We add HumansAi to [restake](https://restake.app/humans/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
+
   </details>
 
 # 🧠Humanitarian Contributions
