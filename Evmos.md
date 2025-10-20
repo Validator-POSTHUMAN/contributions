@@ -16,6 +16,12 @@ Including Validation, RPC nodes, Free tools for Community etc.
 - We've added $EVMOS to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $EVMOS in X and Telegram, and also p2p-exchange $EVMOS directly in Telegram!| News in [X](https://X.com/SputnikNetwork/status/1535044628902182920)
   </details>
 
+## Alpha of Block Explorer for Evmos
+- **Block Explorer** [for Evmos](https://explorer.posthuman.digital/evmos)
+
+<img width="2203" height="1388" alt="image" src="https://github.com/user-attachments/assets/720ac13a-4690-4456-bb04-cbff83c2b172" />
+
+
 *We stoped to validate Evmos on 24th of September 2025, by the [wish of the community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A68)*
 
   
