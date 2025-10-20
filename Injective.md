@@ -30,6 +30,13 @@
 
 We'll add $INJ to Sputnik Exchange and to Sputnik Network. And users would be able to send tips with $INJ in Twitter and Telegram, and also p2p-exchange $INJ directly in Telegram!
 
+
+## Alpha of Block Explorer for Injective
+- **Block Explorer** [for Injective](https://explorer.posthuman.digital/injective)
+
+<img width="2242" height="1404" alt="image" src="https://github.com/user-attachments/assets/0d4ae57a-6c5e-4193-a618-c66099589158" />
+
+
 *We stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)*
 
 
