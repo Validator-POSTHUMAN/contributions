@@ -6,6 +6,7 @@
 - **POSTHUMAN validates Nibiru**  
   [Nibiru Validator Details](https://explorer.nibiru.fi/cataclysm-1/staking/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6)
 
+## We add Nibiru to [restake](https://restake.app/nibiru/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6)
 
 # 🧠Humanitarian Contributions
 
