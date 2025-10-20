@@ -64,7 +64,7 @@ Including Validation, RPC nodes, Free tools for Community etc.
 | Cosmos Ecosystem X | 35k followers. We have been promoting Cyber Network and its updates since genesis. | [Query CosmosEcosystem tweets about Evmos](https://x.com/search?q=from%3ACosmosEcosystem%20(evmos%20)&src=typed_query&f=live) | We spread the word about Evmos and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Evmos updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Evmos](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Evmos%20)&src=typed_query&f=live) | We spread the word about Evmos and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
   <img width="2489" height="1369" alt="image" src="https://github.com/user-attachments/assets/33d0b4a8-50ba-479a-b862-4b3fbb6be888" />
 
 -	[22 JANUARY 22](https://X.com/CosmosEcosystem/status/1484649432050249735)
