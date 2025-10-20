@@ -11,6 +11,9 @@ Now we have relayer which working in two directions
 [Relayer link](https://ping.pub/odin/account/odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t)
 - Osmosis
 
+## Alpha of Block Explorer for Odin Protocol
+- **Block Explorer** [for Odin Protocol](https://explorer.posthuman.digital/odin)
+
 *We stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)*
   
 # 🧠Humanitarian Contributions
