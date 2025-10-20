@@ -29,6 +29,7 @@
 
 <img width="1417" height="624" alt="image" src="https://github.com/user-attachments/assets/77f05b59-e2a2-4912-b0e6-073d9efa98e5" />
 
+## We add Elys to [restake](https://restake.app/elys/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 
 # 🧠Humanitarian Contributions
 
