@@ -21,6 +21,7 @@ Now we have several relayers which working in two directions
 
 <img width="2206" height="1515" alt="image" src="https://github.com/user-attachments/assets/d7e44826-871f-41ed-83fe-0dab1d4060d8" />
 
+## We add Fetch to [restake](https://restake.app/fetchhub/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 
 # 🧠Humanitarian Contributions
 
