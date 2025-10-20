@@ -75,7 +75,7 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 | Cosmos Ecosystem X | 35k followers. We have been promoting Stride and its updates since genesis. | [Query CosmosEcosystem tweets about Stride](https://x.com/search?q=from%3ACosmosEcosystem%20(stride_zone%20)&src=typed_query&f=live) | We spread the word about Stride and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Stride updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Stride](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(stride_zone%20)&src=typed_query&f=live) | We spread the word about Stride and its updates since genesis. |
 
-## Cosmos News
+## 📰Cosmos News
 <img width="2453" height="1443" alt="image" src="https://github.com/user-attachments/assets/4692f735-d9d2-4c83-ab5a-bce92f469282" />
 
 ### NEWS 2025
