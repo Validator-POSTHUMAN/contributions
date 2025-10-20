@@ -8,6 +8,8 @@
 
   ## Alpha of Block Explorer for Cyber
 - **Block Explorer** [for Cyber](https://explorer.posthuman.digital/bostrom)
+
+## We add Cyber to [restake](https://restake.app/bostrom/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
   
 # 🧠Humanitarian Contributions
 
