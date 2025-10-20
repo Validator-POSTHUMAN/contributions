@@ -72,13 +72,13 @@ We've added $TORI to Sputnik Exchange and to Sputnik Network. Now users can send
 | POSTHUMAN X        | 7.5k followers. We actively cover Teritori updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Teritori](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(TeritoriNetwork%20)&src=typed_query&f=live) | We spread the word about Teritori and its updates since genesis. |
 
 
-### Teritori Weekly
+### 📰Teritori Weekly
 ![image](https://user-images.githubusercontent.com/92199696/205450646-402e216e-d66a-45be-a2a8-6d6391b02d1e.png)
 - [13 NOV 22](https://twitter.com/CosmosEcosystem/status/1591824858140528641)
 - [25 NOV 22](https://x.com/CosmosEcosystem/status/1596206565169954816)
 - [10 DEC 22](https://x.com/CosmosEcosystem/status/1601609883937558530)
 
-### Daily News with Teritori mentioned 
+### 📰Daily News with Teritori mentioned 
 ![image](https://user-images.githubusercontent.com/92199696/205450718-ad7a9bea-393b-4ae7-a656-dac2b71aa54f.png)
 
 - [07 OCT 22](https://twitter.com/CosmosEcosystem/status/1578427122296578053?t=s-dIeemsEfaCbOROTw7ieA&s=19)
