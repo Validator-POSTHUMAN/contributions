@@ -19,6 +19,9 @@ Now we have several relayers which working in two directions
 - Injective channel-41
 - Juno channel-37
 
+## Alpha of Block Explorer for Persistence
+- **Block Explorer** [for Persistence](https://explorer.posthuman.digital/persistence)
+
 # 🧠Humanitarian contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
