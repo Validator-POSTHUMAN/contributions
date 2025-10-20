@@ -22,6 +22,9 @@
 
 ## Alpha of Block Explorer for Zetachain
 - **Block Explorer** [for ZetaChain](https://explorer.posthuman.digital/zetachain)
+
+<img width="2222" height="1368" alt="image" src="https://github.com/user-attachments/assets/0898911c-b2a8-4a8e-8727-16f8b1c9dea2" />
+
   </details>
 
 ## We also supported Zetachain on [testnet](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
