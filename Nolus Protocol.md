@@ -42,6 +42,8 @@
 
 ## We launched quest and task campaign about [Nolus on Centrifuge Platform](https://centrifuge.digital/nolusprotocol), 300 participants.
 
+<img width="2872" height="1722" alt="image" src="https://github.com/user-attachments/assets/db7c407f-f59b-4392-8259-3023327cba72" />
+
 ## We spread the information about Nolus among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
