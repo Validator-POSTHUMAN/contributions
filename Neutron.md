@@ -59,6 +59,10 @@ Now we have relayer which working in two directions
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
+## We launched quest and task campaign about [Neutron on Centrifuge Platform](https://centrifuge.digital/neutron), 300 participants.
+
+<img width="2869" height="653" alt="image" src="https://github.com/user-attachments/assets/5221184b-eb3a-4665-b276-19ef8d574cc7" />
+
 ## We spread the information about Neutron among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers) 
 
