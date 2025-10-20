@@ -11,6 +11,7 @@
 
 <img width="2213" height="1443" alt="image" src="https://github.com/user-attachments/assets/29789008-6727-4625-8fe1-e4ad322ad4e2" />
 
+## We add Firmachain to [restake](https://restake.app/firmachain/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 
 # 🧠Humanitarian Contributions
 
