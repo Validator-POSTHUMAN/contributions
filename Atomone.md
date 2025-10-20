@@ -80,7 +80,8 @@ We’re about to deliver the following **ASAP**:
 
   
 
-# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/atomone). more than 300 participants.
+# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/atomone), more than 300 participants.
+<img width="2883" height="671" alt="image" src="https://github.com/user-attachments/assets/813bf55f-6706-4e74-854a-769468d3d457" />
 
 ## We spread the information about ATOM One among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
