@@ -25,6 +25,7 @@
 
 <img width="2133" height="1347" alt="image" src="https://github.com/user-attachments/assets/1383431d-e9b7-4309-99e4-290868b1622c" />
 
+## We add ORAIchain to [restake](https://restake.app/oraichain/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 
 # 🧠Humanitarian Contributions
 
