@@ -39,8 +39,9 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
+<img src="https://img.youtube.com/vi/0gbCnqRd4IY/maxresdefault.jpg" alt="" loading="lazy" />
 
-
+- [Voice of the Ecosystem #138 - Astroport, the Future of Space, and a Little News](https://www.youtube.com/watch?v=0gbCnqRd4IY)
 
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Astroport and other Cosmos Ecosystem projects! 
