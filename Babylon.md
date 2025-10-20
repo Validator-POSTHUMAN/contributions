@@ -93,7 +93,7 @@ We provide ongoing technical support and contributions for the Babylon project.
 | Cosmos Ecosystem X | 35k followers. We have been promoting Babylon and its updates since genesis. | [Query CosmosEcosystem tweets about Babylon](https://x.com/search?q=from%3ACosmosEcosystem%20(babylonlabs_io%20)&src=typed_query&f=live) | We spread the word about Babylon and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Babylon updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Babylon](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(babylonlabs_io%20)&src=typed_query&f=live) | We spread the word about Babylon and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="2483" height="1466" alt="image" src="https://github.com/user-attachments/assets/0778acd6-54bf-4fb4-91c4-a859628b20b3" />
 
 
