@@ -26,6 +26,8 @@
 - **Block Explorer** [for Kyve](https://explorer.posthuman.digital/kyve)
   </details>
 
+## We add Kyve to [restake](https://restake.app/kyve/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
