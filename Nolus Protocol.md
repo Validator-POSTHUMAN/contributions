@@ -13,6 +13,7 @@
 
 <img width="2211" height="1374" alt="image" src="https://github.com/user-attachments/assets/677a6ab1-a7b1-4c93-84bd-a7ac2000b34e" />
 
+## We add Nolus to [restake](https://restake.app/nolus/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 
 # 🧠Humanitarian Contributions
 
