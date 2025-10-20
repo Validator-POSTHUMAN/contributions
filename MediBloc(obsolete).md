@@ -40,7 +40,7 @@
 - https://t.me/Crypto_Base_Chat |  ~4000 members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
-## Informational Contributions
+## 📰Informational Contributions
 - POSTHUMAN translated MediBloc whitepaper into russian language: https://antropocosmist.medium.com/medibloc-white-paper-rus-4217a8e4febf
 
 - POSTHUMAN provide informational support with [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) to MediBloc
