@@ -14,6 +14,8 @@ Now we have several relayers which working in two directions
 [Relayer link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e)
 - BeeZee
 
+## We add CryptoDungeon to [restake](https://restake.app/dungeon/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
