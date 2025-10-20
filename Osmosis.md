@@ -36,6 +36,9 @@ Now we have several relayers which working in two directions (to osmosis and out
 
 [Relayer Address](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
 
+## Alpha of Block Explorer for Osmosis
+- **Block Explorer** [for Osmosisl](https://explorer.posthuman.digital/osmosis)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
