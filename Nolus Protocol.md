@@ -11,6 +11,9 @@
 ## Alpha of Block Explorer for Nolus
 - **Block Explorer** [for Nolus](https://explorer.posthuman.digital/nolus)
 
+<img width="2211" height="1374" alt="image" src="https://github.com/user-attachments/assets/677a6ab1-a7b1-4c93-84bd-a7ac2000b34e" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
