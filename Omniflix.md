@@ -50,6 +50,11 @@
 
 ## We're top 1 channel by the amount of videos on [Omniflix TV](https://omniflix.tv/cryptobase)! 
 
+
+## We launched quest and task campaign about [Omniflix on Centrifuge Platform](https://centrifuge.digital/omniflix), 300 participants.
+
+<img width="2901" height="525" alt="image" src="https://github.com/user-attachments/assets/037d6aa9-f954-498c-ac04-238e76312853" />
+
 ## Community Development
 
 - We run Omniflix [Russian-Speaking Community-Group](https://t.me/OmniFlix_ru)
