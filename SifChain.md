@@ -23,6 +23,9 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networ
 
 - We've added Restake Support for $ROWAN on [EcoStake](https://twitter.com/POSTHUMAN_DVS/status/1563433230631866370)
 
+## Alpha of Block Explorer for SifChain
+- **Block Explorer** [for SifChain](https://explorer.posthuman.digital/sifchain)
+
 *We stoped to validate SifChain on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A51)*
 
 # 🧠Humanitarian Contributions
