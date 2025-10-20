@@ -11,6 +11,8 @@ We develop [Sputnik Network](https://sputnik.exchange/), and we added $STRD into
 ## Alpha of Block Explorer for Stride
 - **Block Explorer** [for Stride](https://explorer.posthuman.digital/stride)
 
+## We add Stride to [restake](https://restake.app/stride/stridevaloper1yqc0eg2ntxj2lnw99hgl0egaw27cp3f2kwa94q)
+
 *We stop to validate Stride after [proposal 1014](https://www.mintscan.io/cosmos/proposals/1014)*
 
 
