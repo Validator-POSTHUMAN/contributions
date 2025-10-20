@@ -6,6 +6,12 @@
 - **POSTHUMAN validates Planq**  
   [Planq Validator Details](https://ping.pub/planq/staking/plqvaloper16td3fn39hv0a0haaayfzl28rgfdfn8yt08jg38)
 
+## Alpha of Block Explorer for Planq
+- **Block Explorer** [for Planq](https://explorer.posthuman.digital/planq)
+
+<img width="2188" height="1395" alt="image" src="https://github.com/user-attachments/assets/ff110c71-0ccd-44bf-93ee-e0ab88b288bc" />
+
+
   # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
