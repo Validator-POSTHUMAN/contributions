@@ -82,7 +82,7 @@ We always include Injective in our [Weekly](https://twitter.com/CosmosEcosystem/
 | Cosmos Ecosystem X | 35k followers. We have been promoting Injective for a long time. | [Query CosmosEcosystem tweets about Injective](https://x.com/search?q=from%3ACosmosEcosystem%20Injective&src=typed_query&f=live) | We spread the word about Injective for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Injective updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about Injective](https://x.com/search?q=from%3APOSTHUMAN_DVS%20Injective&src=typed_query&f=live) | We spread the word about Injective for a long time. |
 
-### News
+# 📰Cosmos News
 
 ## 2021 <br/>
 - [19 NOV 21](https://twitter.com/CosmosEcosystem/status/1461720436841058318?t=vJYZrinAlVKm_c5L6RJKpA&s=09) 
