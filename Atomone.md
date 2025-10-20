@@ -156,7 +156,7 @@ We’re about to deliver the following **ASAP**:
   - [Trading begins announcement](https://x.com/CosmosEcosystem/status/1876339943594962996)
   - [Trading updates](https://x.com/CosmosEcosystem/status/1876951786667364713)
 
-## Cosmos News
+## 📰Cosmos News
 <img width="1595" height="1619" alt="image" src="https://github.com/user-attachments/assets/35b8233a-6cf9-4272-89bf-f9874ae5df8d" />
 
 - **Weekly News**
