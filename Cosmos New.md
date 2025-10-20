@@ -204,6 +204,12 @@ We work on, support and maintain:
 
 # We also supported Cosmos on [testnet](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 
+## Alpha of Block Explorer for Cosmos
+- **Block Explorer** [for Cosmos](https://explorer.posthuman.digital/cosmos)
+
+<img width="2197" height="1305" alt="image" src="https://github.com/user-attachments/assets/c39babad-ebc9-4da6-bf65-8504e099427a" />
+
+
 
 # Humanitarian Contributions <br/>
 Here's the section full of various humanitarian contriburions and some of them are:
