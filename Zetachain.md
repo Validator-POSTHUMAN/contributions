@@ -30,6 +30,7 @@
 ## We also supported Zetachain on [testnet](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 <img width="2038" height="1169" alt="image" src="https://github.com/user-attachments/assets/084c2cb2-b9e0-4bcf-a5d9-2f5c223f193c" />
 
+## We add Zetachain to [restake](https://restake.app/zetachain/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 
 # 🧠Humanitarian Contributions
 
