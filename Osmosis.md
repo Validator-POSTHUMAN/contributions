@@ -41,6 +41,7 @@ Now we have several relayers which working in two directions (to osmosis and out
 
 <img width="2173" height="1393" alt="image" src="https://github.com/user-attachments/assets/66574f49-d7aa-4f9f-90d1-05f997c1ecd9" />
 
+## We add Osmosis to [restake](https://restake.app/osmosis/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 
 # 🧠Humanitarian Contributions
 
