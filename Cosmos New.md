@@ -11,6 +11,9 @@ design, marketing, and content creation, we ensure the
 security and reliability of various Cosmos SDK chains, 
 including flagship networks like Cosmos.
 
+# We are the largest contributors to Cosmos and the Cosmos Ecosystem. You can see the full list of our contributions [HERE](https://github.com/Validator-POSTHUMAN/contributions)!
+
+
 # 🛠Technical Contributions
 - **POSTHUMAN validates Cosmos Hub mainnet**  
   [Cosmos Hub Validator Details](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
@@ -36,8 +39,7 @@ including flagship networks like Cosmos.
 
 <img width="2197" height="1305" alt="image" src="https://github.com/user-attachments/assets/c39babad-ebc9-4da6-bf65-8504e099427a" />
 
-
-### We're validating [Cosmos Hub](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
+### We develop [Sputnik Network](https://sputnik.exchange/), and we added $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 
 ### We add Cosmos to [restake](https://restake.app/cosmoshub/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 
@@ -216,26 +218,112 @@ We work on, support and maintain:
 - [Sputnik Exchange](https://sputnik.exchange/) <br/>
 </details>
 
-# We also supported Cosmos on [testnet](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
+## We also supported Cosmos on [testnet](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
+<img width="2176" height="1445" alt="image" src="https://github.com/user-attachments/assets/7cc5a812-baf6-4641-90f6-dd02a68e69a9" />
 
 
+# 🧠Humanitarian Contributions
 
+Here's part of various humanitarian contriburions and some of them are:
 
+Videos, infographics, community development, public events speeches and participation, education, evangelism and more
 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
-# Humanitarian Contributions <br/>
+| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
+|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
+| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
+|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
+|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
+|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
+|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
+|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
+| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
+|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
 
 ## We launched quest and task campaign about [Cosmos on Centrifuge Platform](https://centrifuge.digital/cosmos), 300 participants.
 
 <img width="2861" height="813" alt="image" src="https://github.com/user-attachments/assets/ee8a165a-3d36-4721-97c9-42fd9cff6af1" />
 
 
-Here's the section full of various humanitarian contriburions and some of them are:
 
-Videos, infographics, community development, public events speeches and participation, education, evangelism and more
+## We spread the information about Agoric among russian-speaking community of Cosmos Ecosystem:
+### YouTube
+This is our big part of humanitarian side of our contibutions for Osmosis:
+We have several YouTube channels: 
+1. [CryptoBase](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A)
+2. [PostHuman](https://www.youtube.com/c/POSTHUMAN)
+3. [CryptoSlovo](https://www.youtube.com/c/CryptoSlovo/videos) 
 
-<details>
-  <summary>Our Humanitarian Contributions List:</summary>
+
+## Videos 
+<img width="2526" height="1411" alt="image" src="https://github.com/user-attachments/assets/815fb9aa-e7c9-44c3-a8f3-8d29fa224e23" />
+
+Content creation is what we are truly passionate about, as well as validation. Our goal is to provide informational and educational support not only via text but also through videos! Here are a couple of examples of what we do: we have two YouTube channels. 
+
+> One is Russian-speaking - [CRYPTOBASE](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) with approximately 10k subscribers. Our videos are educational and informational, featuring guests who are founders, creators, developers, and enthusiasts. We cater not only to Russian speakers but also to English speakers, always providing timely translations for them. We've hosted guests such as Omniflix, Persistence, Archway, Asset Mantle, Injective, Warden Protocol, Massa, Sei, CryptoDungeons, Odin, Quasar, and many more founders and community developers of Cosmos Ecosystem projects on our special, Cosmos Ecosystem dedicated community calls. We have been doing this weekly for over 121 weeks in a row!
+
+> Second one is [POSTHUMAN YouTube Channel](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A). It's still is under development and doesn't have any specific structure for now and from the first look, might appear as chaotic and random, but there are collection of videos from conferences, interviews with projects and founders, tutorials and recordings (take it as the video version of portfolio/github) of our POSTHUMAN community calls. 
+
+
+Also we participate and discuss about Osmosis on other channels:
+
+[FORKLOG](https://www.youtube.com/c/forklog/videos) VIDEOS: In this videos PostHuman validator represented by Vladimir Ponimajushij and Vladimir Synthetic explaining crypto in simple way on fridays for a big ForkLog Channel with 54k subscribers! 
+- CryptoAidrops and Regulations [in Russia](https://youtu.be/7Fr_H1Ew9bo?t=4167)<br/>
+- Video about responsibility of [Validators and Delegators](https://youtu.be/p5DFMneEEzY?t=833)<br/>
+- How to receive your first [crypto for free](https://youtu.be/4q6GpcctvcU?t=462)<br/>
+- [What is liquidity pool at Osmosis? | Fork The System](https://youtu.be/Vn5-_1P4rPs)<br/>
+- [Difference between Coin and Token on example of Osmosis | Fork The System](https://youtu.be/6wobl104wqc)<br/>
+- [Difference between CEX and DEX on example of Osmosis | Fork The System](https://youtu.be/wKQ7NyRD4ZQ)<br/>
+![22332](https://user-images.githubusercontent.com/92199696/166913955-c6274abf-69a0-4172-8316-8cfbe6b17155.jpg)<br/>
+
+
+[CRYPTOLODES](https://www.youtube.com/c/CryptoLodes/videos) VIDEOS:
+In this videos PostHuman validator represented by Vladimir Ponimajushij and Valentin Medniyy as Cosmos Ecosystem experts and we talks a lot about Cosmos Ecosystem on this show with Osmosis Mentioning: - 
+- [Cosmos Talks 2 ](https://www.youtube.com/watch?v=PdJfP-cHJME)
+- [Cosmos Talks 3 ](https://www.youtube.com/watch?v=7wQLv1xEY-Y)
+- [Cosmos Talks 4](https://www.youtube.com/watch?v=wS1h2PkhwN8)
+- [Cosmos Talks 5](https://www.youtube.com/watch?v=OM5jjQA4wCU) 
+- [Cosmos Talks 6](https://www.youtube.com/watch?v=PMSnSWP2hgY)
+- [Cosmos Talks 7](https://www.youtube.com/watch?v=vjUvzYJrw3k)
+- [Cosmos Talks 8](https://www.youtube.com/watch?v=OkcToiATIDk)
+- [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
+![3333333](https://user-images.githubusercontent.com/92199696/166915211-779fcbd5-4bf3-432e-8e0d-6f8d278b7412.jpg)
+
+
+### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Agoric and other Cosmos Ecosystem projects! 
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
+[==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
+
+## Community
+
+We develop Cosmos Ecosystem Russian-speaking community since 2019. From that point, we created and contributed to multiple Telegram channels. It's pretty much tough to count all the replies and things we answered about Cosmos and related to it topics. But, feel free to inpect it! 
+
+Few of our largest Russian-speaking communities, where we're always happy to support everyone:
+
+- https://t.me/CosmosEcosystem_ru | ~6000 members
+- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+
+
 
 ## Community Development
 
@@ -250,8 +338,29 @@ Videos, infographics, community development, public events speeches and particip
 ## Real-life events and organization
 
 ## Evangelism
- </details>
 
-# Economical contributions 
 
-Here's the list of projects we provide liquidity
+  ### Our contributions for the growth of the Osmosis community.
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Osmosis and its updates since genesis. | [Query CosmosEcosystem tweets about Osmosis](https://x.com/search?q=from%3ACosmosEcosystem%20(osmosiszone%20)&src=typed_query&f=live) | We spread the word about Osmosis and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Osmosis updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Osmosis](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(osmosiszone%20)&src=typed_query&f=live) | We spread the word about Osmosis and its updates since genesis. |
+
+## We utilize our Twitter(X) medias to support informational awareness about the Cosmos Ecosystem and beyond. Cosmos Hub is always in our news, retweets and infographic materials.
+
+### 📰News Mentions
+
+## Evangelism
+- We participate in as many as possible Cosmos Conferences and capturing moments to share with community about these events and deliver all the insights from there to our communities! 
+- We always write about Cosmos at our Twitter Accounts [Vladimir Ponimajushij](https://twitter.com/ponimajushij), [POSTHUMAN Twitter](https://twitter.com/POSTHUMAN_DVS), [Valentin Medniyy Twitter](https://twitter.com/ZametkiHodlera), [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem)
+- Vladimir Ponimajushij participate in different online crypto-conferences as a speaker. For example, He was a speaker at [CoInvest Conference](https://coinvest.events/), that have been organized by [CoinPost](https://t.me/Coin_Post) - the biggest Crypto Channel in Telegram. It was a paid conference, so only people who bought ticket could see online, and here is a [video from his speech](https://youtu.be/Z_crcY4NGA4), and he spoke about Cosmos Ecosystem a lot!
+Here is the translation of Vladi's [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
+And here is a [presentation in Russian](https://docs.google.com/presentation/d/1Hlh5lPUhM1EK-dV5vmkjQi4PYUbJc9bidaDEtG22M7A/edit?usp=sharing)
+- We sponsored [Airdrop Tracker Cosmosdrops.io](https://cosmosdrops.io/en/), where people can check their addresses for airdrops eligibility. Webpage is working on 2 languages RU and ENG right now.
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+
