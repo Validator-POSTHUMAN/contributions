@@ -85,7 +85,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Stargaze and its updates actively. | [Query CosmosEcosystem tweets about Stargaze](https://x.com/search?q=from%3ACosmosEcosystem%20(StargazeZone%20)&src=typed_query&f=live) | Continuously supported Stargaze through consistent updates and coverage. |
 | POSTHUMAN X        | 7.5k followers. We highlight Stargaze news and ecosystem efforts regularly. | [Query POSTHUMAN_DVS tweets about Stargaze](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(StargazeZone%20)&src=typed_query&f=live) | Long-standing advocate for Stargaze development and adoption. |
 
-### Cosmos Ecosystem News
+### 📰Cosmos Ecosystem News
 
 <img width="1664" height="1667" alt="image" src="https://github.com/user-attachments/assets/5b4a31cb-4b8e-4e75-9f74-724a7466914f" />
 
