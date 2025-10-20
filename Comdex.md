@@ -77,7 +77,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting COMDEX and its updates since genesis. | [Query CosmosEcosystem tweets about COMDEX](https://x.com/search?q=from%3ACosmosEcosystem%20(ComdexOfficial%20)&src=typed_query&f=live) | We spread the word about COMDEX and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover COMDEX updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about COMDEX](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(ComdexOfficial%20)&src=typed_query&f=live) | We spread the word about COMDEX and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1664" height="1078" alt="image" src="https://github.com/user-attachments/assets/4e2b9850-1dc7-47fe-a038-9068768d9d90" />
 
 - [29.05.2025](https://x.com/CosmosEcosystem/status/1928107066280808639)
