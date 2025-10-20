@@ -209,7 +209,7 @@ including flagship networks like Cosmos.
 </details>
 
 ### Public goods:
-### These tools are provided following things:Transfer tokens of Cosmos Ecosystem in Telegram and Twitter without paying any fees. Tracking and comparing of 50+ Cosmos and non-Cosmos assets. We added $ATOM to:
+### These tools are provided following things: Transfer tokens of Cosmos Ecosystem in Telegram and Twitter without paying any fees. Tracking and comparing of 50+ Cosmos and non-Cosmos assets. We added $ATOM to:
 - [Sputnik Network](https://t.me/SputnikNetworkBot) 
 - [Sputnik Price Bot](https://t.me/SputnikPriceBot)
 - [Sputnik Exchange](https://sputnik.exchange/)
@@ -247,7 +247,7 @@ Videos, infographics, community development, public events speeches and particip
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
-## We launched quest and task campaign about [Cosmos on Centrifuge Platform](https://centrifuge.digital/cosmos), 300 participants.
+## We launched quest and task campaign about [Cosmos on Centrifuge Platform](https://centrifuge.digital/cosmos)
 
 <img width="2861" height="813" alt="image" src="https://github.com/user-attachments/assets/ee8a165a-3d36-4721-97c9-42fd9cff6af1" />
 
