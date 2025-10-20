@@ -16,6 +16,12 @@ Now we have several relayers which working in two directions
 - Juno Network
 - Osmosis
 
+## Alpha of Block Explorer for Fetch
+- **Block Explorer** [for Fetch](https://explorer.posthuman.digital/fetchhub)
+
+<img width="2206" height="1515" alt="image" src="https://github.com/user-attachments/assets/d7e44826-871f-41ed-83fe-0dab1d4060d8" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
