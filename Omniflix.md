@@ -20,6 +20,7 @@
 
 <img width="2200" height="1375" alt="image" src="https://github.com/user-attachments/assets/45a18b8d-0aac-4d69-9dec-63e874bcf31c" />
 
+## We add Omniflix to [restake](https://restake.app/omniflixhub/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 
 # 🧠Humanitarian Contributions
 
