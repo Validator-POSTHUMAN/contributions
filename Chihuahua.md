@@ -77,7 +77,7 @@ Now we have several relayers which working in two directions
 | Cosmos Ecosystem X | 35k followers. We have been promoting Chihuahua and its updates since genesis. | [Query CosmosEcosystem tweets about Chihuahua](https://x.com/search?q=from%3ACosmosEcosystem%20(ChihuahuaChain%20)&src=typed_query&f=live) | We spread the word about Chihuahua and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Chihuahua updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Chihuahua](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(ChihuahuaChain%20)&src=typed_query&f=live) | We spread the word about Chihuahua and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1631" height="1667" alt="image" src="https://github.com/user-attachments/assets/afa1a58c-bd58-4404-b2cb-eab1c969b1af" />
 
 - [19.02.2025](https://x.com/CosmosEcosystem/status/1892282561402999126)
