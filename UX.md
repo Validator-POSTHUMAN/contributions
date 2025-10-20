@@ -8,6 +8,9 @@
 
 - We are Navigators of [Sputnik Network](https://sputnik.exchange/), and we added $UX to https://t.me/SputnikPriceBot
 
+## Alpha of Block Explorer for UX
+- **Block Explorer** [for UX](https://explorer.posthuman.digital/umee)
+
 *We stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)*
 
 # 🧠Humanitarian Contributions
