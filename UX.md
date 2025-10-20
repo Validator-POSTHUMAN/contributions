@@ -79,7 +79,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting UX and its updates since genesis. | [Query CosmosEcosystem tweets about UX](https://x.com/search?q=from%3ACosmosEcosystem%20(ux_xyz%20)&src=typed_query&f=live) | We spread the word about UX and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover UX updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about UX](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(ux_xyz%20)&src=typed_query&f=live) | We spread the word about UX and its updates since genesis. |
 
-### Cosmos News
+## 📰Cosmos News
 <img width="2231" height="1567" alt="image" src="https://github.com/user-attachments/assets/6d7c4c58-77d2-47c5-a840-0ea950cfe43f" />
 
 - [15.04.2025](https://x.com/CosmosEcosystem/status/1912864686229315764)
