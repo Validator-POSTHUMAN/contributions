@@ -11,6 +11,7 @@
 
 <img width="2191" height="1404" alt="image" src="https://github.com/user-attachments/assets/33e15698-6302-44a5-8519-56a49b356cf5" />
 
+## We add Aura to [restake](https://restake.app/aura/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 
 # 🧠Humanitarian Contributions
 
