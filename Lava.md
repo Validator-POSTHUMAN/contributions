@@ -15,6 +15,8 @@
 
 ## We also supported Lava on [testnet](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 
+## We add Lava to [restake](https://restake.app/lava/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
