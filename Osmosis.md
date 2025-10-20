@@ -92,7 +92,7 @@ Now we have several relayers which working in two directions (to osmosis and out
 - Cosmos [Stats infographics](https://twitter.com/CosmosEcosystem/status/1660634547040526337/) (issued from time-to-time)
 - Retweets, Quotes 
 
-### [Cosmos Ecosystem Twitter 2025](https://twitter.com/CosmosEcosystem) 
+### 📰[Cosmos Ecosystem Twitter 2025](https://twitter.com/CosmosEcosystem) 
 - https://x.com/CosmosEcosystem/status/1939665974736933224
 - https://x.com/CosmosEcosystem/status/1939002899826364902
 - https://x.com/CosmosEcosystem/status/1937505218490695955
@@ -138,7 +138,7 @@ Now we have several relayers which working in two directions (to osmosis and out
 - https://x.com/CosmosEcosystem/status/1875574582691967243
 - https://x.com/CosmosEcosystem/status/1875235762515669341
 
-### [Cosmos Ecosystem Twitter 2024](https://twitter.com/CosmosEcosystem) 
+### 📰[Cosmos Ecosystem Twitter 2024](https://twitter.com/CosmosEcosystem) 
 - https://twitter.com/CosmosEcosystem/status/1786736395953865114/
 - https://twitter.com/CosmosEcosystem/status/1784187665534902523/
 - https://twitter.com/CosmosEcosystem/status/1783520089565790239/
