@@ -14,6 +14,12 @@ Now we have several relayers which working in two directions
 - Juno Network
 - Injective
 
+## Alpha of Block Explorer for Chihuahua
+- **Block Explorer** [for Chihuahua](https://explorer.posthuman.digital/chihuahua)
+
+<img width="2210" height="1368" alt="image" src="https://github.com/user-attachments/assets/bf3f289b-bf88-4d7c-b1ed-1769152506b7" />
+
+
 *We stoped to validate Chihuahua on 15th of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A61)*
   
 # 🧠Humanitarian Contributions
