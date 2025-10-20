@@ -86,7 +86,7 @@ We provide informational support with [twitter account of Cosmos Ecosystem](http
 | Cosmos Ecosystem X | 35k followers. We have been promoting G-Bridge and its updates since genesis. | [Query CosmosEcosystem tweets about G-Bridge](https://x.com/search?q=from%3ACosmosEcosystem%20(gravity_bridge%20)&src=typed_query&f=live) | We spread the word about G-Bridge and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover G-Bridge updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about G-Bridge](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(gravity_bridge%20)&src=typed_query&f=live) | We spread the word about G-Bridge and its updates since genesis. |
 
-# Cosmos News:
+# 📰Cosmos News:
 ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/38581319/b18f905e-eb35-4328-bbb1-296c9926ec4f)
 
 - [27.01.2025](https://x.com/CosmosEcosystem/status/1883884675124646234)
