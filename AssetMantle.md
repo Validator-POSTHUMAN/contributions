@@ -17,6 +17,8 @@ Including Validation, Free tools for Community etc.
 ## Alpha of Block Explorer for AssetMantle
 - **Block Explorer** [for AssetMantle](https://explorer.posthuman.digital/assetmantle)
 
+## We add AssetMantle to [restake](https://restake.app/assetmantle/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
