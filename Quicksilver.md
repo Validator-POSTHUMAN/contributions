@@ -4,7 +4,10 @@
 
 # 🛠Technical Contributions
 - **POSTHUMAN validates Quicksilver mainnet**  
-  [Quicksilver Validator Details]()
+  [Quicksilver Validator Details](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
+
+## Alpha of Block Explorer for Quicksilver
+- **Block Explorer** [for Quicksilver](https://explorer.posthuman.digital/quicksilver)
 
 
 # 🧠Humanitarian Contributions  
