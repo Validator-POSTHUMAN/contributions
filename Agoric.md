@@ -25,6 +25,8 @@
 - **Block Explorer** [for Agoric](https://explorer.posthuman.digital/agoric)
 <img width="2219" height="1413" alt="image" src="https://github.com/user-attachments/assets/b579a87c-0059-45f0-9e1e-11158eeabdfe" />
 
+## We added Agoric to [restake](https://restake.app/agoric/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
+
   </details>
 
 ### Relayers 
