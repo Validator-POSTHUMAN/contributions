@@ -24,6 +24,7 @@ Now we have several relayers which working in two directions
 
 <img width="2205" height="1313" alt="image" src="https://github.com/user-attachments/assets/6e837839-0673-44ea-9016-3bf66ad93d3e" />
 
+## We add Persistence to [restake](https://restake.app/persistence/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 
 # 🧠Humanitarian contributions
 
