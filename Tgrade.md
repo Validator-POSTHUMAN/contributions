@@ -55,7 +55,7 @@
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
   
-## Tgrade Mentioned In Cosmos News :
+## 📰Tgrade Mentioned In Cosmos News :
   <img width="1668" height="1670" alt="image" src="https://github.com/user-attachments/assets/eb824a65-c089-4271-b370-ccbdf4fd3215" />
 
 - [2 JULY 22](https://twitter.com/CosmosEcosystem/status/1543282596876099593)
@@ -69,7 +69,7 @@
 - [21 OCT 22](https://x.com/CosmosEcosystem/status/1583556585682395137)
 
  
- ## Tgrade Mentioned Announcements 
+ ## 📰Tgrade Mentioned Announcements 
   
 - [POSTHUMAN VALIDATOR PREMIUM VIDEO ANNOUNCEMENT](https://twitter.com/POSTHUMAN_DVS/status/1541398162711142400)
 - [5 JULY 22](https://twitter.com/CosmosEcosystem/status/1544353290707783680)
