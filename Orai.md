@@ -53,7 +53,7 @@
 
   
 
-# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain)
+# We launched a community quest program on the [Centrifuge platform.](https://centrifuge.digital/oraichain), 300 participants.
 <img width="2681" height="779" alt="image" src="https://github.com/user-attachments/assets/f91c5dcd-c00b-4d38-a3c0-ff159fc3bab7" />
 
 
