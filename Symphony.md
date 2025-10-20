@@ -6,6 +6,8 @@
 - **POSTHUMAN validates Symphony**  
   [Symphony Validator Details](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu)
 
+## We add Symphony to [restake](https://restake.app/symphony/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu)
+
   # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
