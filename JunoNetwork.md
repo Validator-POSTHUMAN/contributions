@@ -154,7 +154,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 ![image](https://user-images.githubusercontent.com/92199696/200621660-10a1ed2c-863a-4397-8327-971a2229c0c0.png) <br/>
 
 
-## COSMOS NEWS 
+## 📰COSMOS NEWS 
 
 ![image](https://user-images.githubusercontent.com/92199696/187020324-317c896b-9c85-4529-934d-d88d375394cb.png) <br/>
 
