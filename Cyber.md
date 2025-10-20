@@ -73,7 +73,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Cyber Network and its updates since genesis. | [Query CosmosEcosystem tweets about Cyber](https://x.com/search?q=from%3ACosmosEcosystem%20(cyber_devs%20OR%20BostromOR%20BOOT)&src=typed_query&f=live) | We spread the word about Cyber and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Cyber updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Cyber](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(cyber_devs%20OR%20BostromOR%20BOOT)&src=typed_query&f=live) | We spread the word about Cyber and its updates since genesis. |
 
-## Cosmos News
+## 📰Cosmos News
 <img width="1934" height="1574" alt="image" src="https://github.com/user-attachments/assets/43b650a9-2e75-46fe-b79d-dc3202272c31" />
 
 - **Weekly News**
