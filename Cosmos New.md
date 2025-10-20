@@ -1,37 +1,49 @@
 ![1v (7)](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/e74d0b2f-6d93-4b2a-8150-58ee59edc550)
 # The list of contributions for the [Cosmos Hub](https://cosmos.network/)
 
-<details>
-  <summary>Our Team:</summary>
+[POSTHUMAN](https://posthuman.digital/) stands as the pioneer distributed validator, 
+committed to providing dedicated, highly experienced, 
+and community-oriented Proof-of-Stake (PoS) chains 
+validation services since 2019.
+With a core team comprising 13 highly qualified 
+individuals across diverse fields including development, 
+design, marketing, and content creation, we ensure the 
+security and reliability of various Cosmos SDK chains, 
+including flagship networks like Cosmos.
 
-- [Vladimir Ponmimajushij Competencies](https://github.com/Antropocosmist/my_competencies)
-- [Vladimir Synthetic Competencies](https://www.instagram.com/synth_etic_/)
-- [Valentin Medniyy Competencies](https://github.com/Medniyy)
-- [Eugeniy Yakovishin Competencies](https://github.com/evgen3000)
-- [Danil Milyutin Competencies](https://github.com/danilmilyutin)
-- Secret Member😎
-- Testnet Guru 🥷
-- This character is unexplored👽
+# 🛠Technical Contributions
+- **POSTHUMAN validates Cosmos Hub mainnet**  
+  [Cosmos Hub Validator Details](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
+<img width="2158" height="911" alt="image" src="https://github.com/user-attachments/assets/13ee57c8-b7da-4ed8-8835-b837d69f5068" />
 
-### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-  </details>
+ ### At the moment, we provide the following services for Cosmos Hub:
+</div>
 
-# Technical Contributions
+- **RPC**: [https://rpc.cosmos.posthuman.digital](https://rpc.cosmos.posthuman.digital) 
+- **REST**: [https://rest.cosmos.posthuman.digital](https://rest.cosmos.posthuman.digital)  
+- **gRPC**: [https://grpc.cosmos.posthuman.digital](https://grpc.cosmos.posthuman.digital)  
+- **Peer**: 6d581e53245f7f81c24a20392b60256a7e59de59@135.181.227.236:26656
 
-<details>
-  <summary>Our Technical Contributions List:</summary>
+### Additional Resources:
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/cosmoshub?tab=state-sync)  
+- **Cosmos Hub on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/cosmoshub)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/cosmoshub?tab=install-guide)
+- **IBC Relayers**: [Link](https://nodes.posthuman.digital/chains/cosmoshub?tab=ibc-relayers)
+- **Peers**: [Link](https://nodes.posthuman.digital/chains/cosmoshub?tab=peers)
+
+## Alpha of Block Explorer for Cosmos Hub
+- **Block Explorer** [for Cosmos Hub](https://explorer.posthuman.digital/cosmos/staking)
+
+<img width="2197" height="1305" alt="image" src="https://github.com/user-attachments/assets/c39babad-ebc9-4da6-bf65-8504e099427a" />
+
 
 ### We're validating [Cosmos Hub](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 
-## We add Cosmos to [restake](https://restake.app/cosmoshub/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
+### We add Cosmos to [restake](https://restake.app/cosmoshub/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 
 ### As a IBC-provider for Cosmos Ecosystem project we maintain IBC-relayers for these chains in Cosmos Ecosystem:
 
-<details>
-  <summary>Here's the list of them:</summary>
-
 # IBC Relayers: 
-`There's a list of IBC relayers currently provided by POSTHUMAN validator:`
 ### 1. Gravity Bridge
 [Relayer link](https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4)
 - Chihuahua Chain
@@ -206,10 +218,8 @@ We work on, support and maintain:
 
 # We also supported Cosmos on [testnet](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 
-## Alpha of Block Explorer for Cosmos
-- **Block Explorer** [for Cosmos](https://explorer.posthuman.digital/cosmos)
 
-<img width="2197" height="1305" alt="image" src="https://github.com/user-attachments/assets/c39babad-ebc9-4da6-bf65-8504e099427a" />
+
 
 
 
