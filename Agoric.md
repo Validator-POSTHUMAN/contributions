@@ -88,7 +88,7 @@ Now we have several relayers which working in two directions
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
-### News Mentions
+### 📰News Mentions
 <img width="1531" height="1625" alt="image" src="https://github.com/user-attachments/assets/755e88f6-89e1-4dd7-b251-d111879503e2" />
 
 - **Cosmos News Weekly mentioning Agoric**
