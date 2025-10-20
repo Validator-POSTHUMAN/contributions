@@ -78,7 +78,7 @@ Including Validation, Free tools for Community etc.
 | POSTHUMAN X        | 7.5k followers. We actively cover AssetMantle updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about AssetMantle](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(AssetMantle%20OR%20MNTL)&src=typed_query&f=live) | We spread the word about AssetMantle and its updates since genesis. |
 
 
-## Cosmos News
+## 📰Cosmos News
 <img width="1621" height="925" alt="image" src="https://github.com/user-attachments/assets/1c954f9e-41c7-4350-9e3b-2ee286206251" />
 
 - **Weekly News**
