@@ -26,6 +26,9 @@
 
 ## Alpha of Block Explorer for HumansAi
 - **Block Explorer** [for HumansAi](https://explorer.posthuman.digital/humans)
+
+<img width="2251" height="1415" alt="image" src="https://github.com/user-attachments/assets/236c65b9-0335-4184-b27d-48196a8f7d9f" />
+
   </details>
 
 # 🧠Humanitarian Contributions
