@@ -6,6 +6,9 @@
 - **POSTHUMAN validates Firmachain**  
   [Firmachain Validator Details](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 
+## Alpha of Block Explorer for Firmachain
+- **Block Explorer** [for Firmachain](https://explorer.posthuman.digital/firmachain)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md):  
