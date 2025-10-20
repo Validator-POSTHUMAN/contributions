@@ -9,6 +9,9 @@
 ## Alpha of Block Explorer for Firmachain
 - **Block Explorer** [for Firmachain](https://explorer.posthuman.digital/firmachain)
 
+<img width="2213" height="1443" alt="image" src="https://github.com/user-attachments/assets/29789008-6727-4625-8fe1-e4ad322ad4e2" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md):  
