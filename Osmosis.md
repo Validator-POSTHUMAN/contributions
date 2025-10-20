@@ -39,6 +39,9 @@ Now we have several relayers which working in two directions (to osmosis and out
 ## Alpha of Block Explorer for Osmosis
 - **Block Explorer** [for Osmosisl](https://explorer.posthuman.digital/osmosis)
 
+<img width="2173" height="1393" alt="image" src="https://github.com/user-attachments/assets/66574f49-d7aa-4f9f-90d1-05f997c1ecd9" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
