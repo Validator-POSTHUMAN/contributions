@@ -91,7 +91,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Initia and its updates since genesis. | [Query CosmosEcosystem tweets about Initia](https://x.com/search?q=from%3ACosmosEcosystem%20(Initia%20)&src=typed_query&f=live) | We spread the word about Initia and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Initia updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Initia](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Initia%20)&src=typed_query&f=live) | We spread the word about Initia and its updates since genesis. |
 
-# Cosmos News
+# 📰Cosmos News
 <img width="1571" height="1613" alt="image" src="https://github.com/user-attachments/assets/4a763a95-4955-4ac9-9fd7-81a77f3ac5e2" />
 
 - [25.06.2025](https://x.com/CosmosEcosystem/status/1937874131250557058)
