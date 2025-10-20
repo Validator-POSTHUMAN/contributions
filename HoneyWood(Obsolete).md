@@ -66,7 +66,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting HoneyWood and its updates since genesis. | [Query CosmosEcosystem tweets about HoneyWood](https://x.com/search?q=from%3ACosmosEcosystem%20(HoneyWood%20)&src=typed_query&f=live) | We spread the word about HoneyWood and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover HoneyWood updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about HoneyWood](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(HoneyWood%20)&src=typed_query&f=live) | We spread the word about HoneyWood and its updates since genesis. |
 
-## Cosmos News
+## 📰Cosmos News
 <img width="1607" height="903" alt="image" src="https://github.com/user-attachments/assets/ca422219-e876-4ca7-8e3d-57ace7213d7d" />
 
 - [News About HoneyWood](https://x.com/CosmosEcosystem/status/1631299152234553345)
