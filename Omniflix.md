@@ -15,6 +15,12 @@
 
 ### We validate [Omniflix Testnet](https://www.skynetexplorers.com/flixnet-4)
 
+## Alpha of Block Explorer for OmniFlix
+- **Block Explorer** [for OmniFlix](https://explorer.posthuman.digital/omniflixhub)
+
+<img width="2200" height="1375" alt="image" src="https://github.com/user-attachments/assets/45a18b8d-0aac-4d69-9dec-63e874bcf31c" />
+
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
