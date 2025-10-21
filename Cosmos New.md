@@ -247,6 +247,10 @@ Videos, infographics, community development, public events speeches and particip
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
+## We organized and invited Cosmos Hub Manager to the Interchain Summit 2025 in Berlin
+<img width="2500" height="1419" alt="image" src="https://github.com/user-attachments/assets/e6acbc71-51bd-4ea3-8112-cd4f5a966996" />
+
+
 ## We launched quest and task campaign about [Cosmos on Centrifuge Platform](https://centrifuge.digital/cosmos)
 
 <img width="2861" height="813" alt="image" src="https://github.com/user-attachments/assets/ee8a165a-3d36-4721-97c9-42fd9cff6af1" />
