@@ -112,6 +112,7 @@ Here is not the full list of our contributions:
 - [Solana](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Solana.md)
 - [Story](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Story.md)
 - [Stargaze](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stargaze.md)
+- [Starknet](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starknet.md)
 - [Starname](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Starname.md)
 - [Stride](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Stride.md)
 - [Symphony](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Symphony.md)
