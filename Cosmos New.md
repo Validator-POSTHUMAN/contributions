@@ -386,6 +386,9 @@ Few of our largest Russian-speaking communities, where we're always happy to sup
 ## We utilize our Twitter(X) medias to support informational awareness about the Cosmos Ecosystem and beyond. Cosmos Hub is always in our news, retweets and infographic materials.
 
 ### 📰News Mentions
+<img width="1659" height="1600" alt="image" src="https://github.com/user-attachments/assets/47ed5384-cb22-4754-8b48-f7f6e8a7e770" />
+
+## We've been making infographic news about Cosmos and Cosmos Ecosystem for over 5 years now. The news is available at this [LINK](https://x.com/search?q=from%3ACosmosEcosystem%20(news)&src=typed_query&f=live)
 
 ## Evangelism
 - We participate in as many as possible Cosmos Conferences and capturing moments to share with community about these events and deliver all the insights from there to our communities! 
