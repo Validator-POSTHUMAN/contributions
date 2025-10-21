@@ -28,7 +28,7 @@ Here is not the full list of our contributions:
 - [Cerberus Zone](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CerberusZone.md)
 - [Chihuahua Chain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Chihuahua.md)
 - [Comdex](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Comdex.md)
-- [Cosmos Hub](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cosmos%20New.md)
+- [COSMOS HUB](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Cosmos%20New.md)
 - [Crescent Network](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crescent_Network.md)
 - [Cryptodungeon](https://github.com/Validator-POSTHUMAN/contributions/blob/main/CryptoDungeon.md)
 - [CryptoComChain](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Crypto_com.md)
