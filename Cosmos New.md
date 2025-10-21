@@ -372,7 +372,7 @@ Few of our largest Russian-speaking communities, where we're always happy to sup
 
 
 
-  ### Our contributions for the growth of the Osmosis community.
+  ### Our contributions for the growth of Cosmos Hub community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
