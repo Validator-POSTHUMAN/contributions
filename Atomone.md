@@ -107,8 +107,12 @@ We’re about to deliver the following **ASAP**:
 
  - **Who pumped up AtomOne?**
    [Watch here](https://youtu.be/bWDdJWFpMwE)
+   
 - **Voice of the Ecosystem #197 | AtomONE — a fixed Cosmos Hub?**
    [Watch here](https://youtu.be/IGQ9ccIoYQY)
+
+- **Сosmos Founder Transforms Atom into Atone**
+   [Watch here](https://www.youtube.com/watch?v=Yx07AVw0wvY)
  
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
