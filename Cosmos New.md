@@ -406,6 +406,10 @@ Few of our largest Russian-speaking communities, where we're always happy to sup
 Here is the translation of Vladi's [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
 And here is a [presentation in Russian](https://docs.google.com/presentation/d/1Hlh5lPUhM1EK-dV5vmkjQi4PYUbJc9bidaDEtG22M7A/edit?usp=sharing)
 - We sponsored [Airdrop Tracker Cosmosdrops.io](https://cosmosdrops.io/en/), where people can check their addresses for airdrops eligibility. Webpage is working on 2 languages RU and ENG right now.
+- We also sponsors of many events important to Cosmos Ecosystem, more details [HERE](https://posthuman.digital/sponsorship)
+
+<img width="1482" height="1508" alt="image" src="https://github.com/user-attachments/assets/0d93c009-38c7-4bef-8943-520e60d627aa" />
+
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
