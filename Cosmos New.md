@@ -359,6 +359,15 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [How to send magic transaction](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B0%D0%B9%D1%80%D0%B4%D1%80%D0%BE%D0%BF-%D0%BE%D1%82-persistence-%D0%B8-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-magic-transaction-bd8e2f680589)
 - [Cosmostation Wallet vs Trust Wallet](https://antropocosmist.medium.com/cosmostation-wallet-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-trust-wallet-d0f9e588fd84)
 
+
+## Validator School
+Posthuman and Sputnik Foundation launch a Validator School, which will help you acquire the necessary knowledge to validate blockchains, and will provide full online support from the beginning to the launch of the validator.
+The most capable students will be able to synchronize with the DVS.
+We have trained several hundred students!
+More info [HERE](https://github.com/Distributed-Validators-Synctems/Validator-School)
+
+![111photo_2025-10-22_14-14-33](https://github.com/user-attachments/assets/9cc0453a-6f70-47a7-86d1-6a15c7898503)
+
 ## Community
 
 We develop Cosmos Ecosystem Russian-speaking community since 2019. From that point, we created and contributed to multiple Telegram channels. It's pretty much tough to count all the replies and things we answered about Cosmos and related to it topics. But, feel free to inpect it! 
