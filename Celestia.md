@@ -80,6 +80,7 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 <img width="2549" height="1408" alt="image" src="https://github.com/user-attachments/assets/e809f380-918e-495f-8850-44a5ea306a50" />
 
+- [HIBACHI AIRDROP](https://youtu.be/cD7fwMOLruk)
 - [Celestia: 5 Applications That Are Already Using Modular Blockchain](https://www.youtube.com/watch?v=Blk_0updEak)
 - [How to stake TIA and for what we need it?](https://youtu.be/rgxf114MlQ4?si=LwAJAhQ66NXuZvnD)
 - [WHAT IS CELESTIA AND HOW DOES IT SOLVE THE ECONOMIC PROBLEM](https://youtu.be/6US-6QYSJ48?si=QlGmK_Czftku0UzA)
@@ -242,6 +243,7 @@
 ## POSTHUMAN (YouTube Channel)
 
 ### 2025
+- **22.10** - [Link](https://youtu.be/cD7fwMOLruk)
 - **27.09** - [Link](https://www.youtube.com/watch?v=Blk_0updEak)
 - **06.09** - [Link](https://www.youtube.com/watch?v=5GMcuT5b_pA)
 
