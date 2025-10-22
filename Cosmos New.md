@@ -362,7 +362,7 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 
 ## Validator School
 Posthuman and Sputnik Foundation launch a Validator School, which will help you acquire the necessary knowledge to validate blockchains, and will provide full online support from the beginning to the launch of the validator.
-The most capable students will be able to synchronize with the DVS.
+The most capable students will be able to synchronize with the Distributed Validators Synctems.
 We have trained several hundred students!
 More info [HERE](https://github.com/Distributed-Validators-Synctems/Validator-School)
 
