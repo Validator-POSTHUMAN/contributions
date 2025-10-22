@@ -320,19 +320,19 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 
 [==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d)
 
-## Guides. Wallets. Staking. DeFi:
+## Guides. Wallets. Staking. DeFi. We have prepared detailed instructions:
 
 <img width="2616" height="1543" alt="image" src="https://github.com/user-attachments/assets/c14a0bcc-3f15-4a94-9574-d242cfcd1531" />
 
 [==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYyWPjcrD7OkdbVTEz0cGOPv)
 
-## CryptoBase School:
+## CryptoBase School. Explain everything in simple terms:
 
 <img width="2520" height="1584" alt="image" src="https://github.com/user-attachments/assets/7dcdda07-4118-4ecf-9568-a153b0cf90ea" />
 
 [==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYyT0D377y4DsIVViBXzbSKW)
 
-## Cosmos Stuff:
+## Cosmos Stuff. All sorts of interesting things in a simple format:
 
 <img width="2557" height="1540" alt="image" src="https://github.com/user-attachments/assets/bf4f48b9-f0f6-4da5-87be-0ba5cbfa6f59" />
 
@@ -343,6 +343,13 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 <img width="2579" height="1497" alt="image" src="https://github.com/user-attachments/assets/6eb9bf2f-5890-47bf-8120-6de612c2eaf8" />
 
 [==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYy2RAj36hF2hUYQkMNsgvhr)
+
+## Weird News. Cosmos Ecosystem News in Cartoon Format:
+
+[==>Go to playlist<==](https://www.youtube.com/playlist?list=PLgQFzABJoJYyTyhM_IjyLbP7yZmgV-T99)
+
+<img width="2614" height="1337" alt="image" src="https://github.com/user-attachments/assets/74900ea6-383c-4a45-9ca8-4e620aa14cb9" />
+
 
 ## Guides, examples, a small part:
 
