@@ -389,6 +389,10 @@ We have several YouTube channels:
 
 
 ### 2025, 2024+late 2023 Videos:
+
+<img src="https://img.youtube.com/vi/7UYackpbs7k/maxresdefault.jpg" alt="" loading="lazy" />
+
+- [OSMOSIS - A BIG REVIEW](https://youtu.be/7UYackpbs7k)
 - [OSMOSIS - A TRUE COSMIC HUB. FROM DEX TO GIANT](https://www.youtube.com/watch?v=AYbHUSrjKWw)
 - [Osmocon Paris 2023](https://www.youtube.com/watch?v=FmTdUpjI3OE&t=55s)
 - [Nebular Summit 2023 Interview with ARC](https://youtu.be/qPJQ2q8RF6A)
