@@ -35,7 +35,7 @@
 - **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=snapshots)
 
 # Alpha of Block Explorer for Celestia:
-- **Block Explorer** [for Celestia:](https://celestia-explorer.posthuman.digital/)
+- **Block Explorer** [for Celestia:](https://explorer.posthuman.digital/celestia)
 
 ## We add Celestia to [restake](https://restake.app/celestia/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 
