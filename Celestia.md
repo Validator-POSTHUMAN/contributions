@@ -12,7 +12,8 @@
 
 ### At the moment, we provide the following services for the Celestia:
 </div>
-
+- **POSTHUMAN validates Celestia mainnet**  
+  [Celestia Validator Details](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - **Type**: mainnet  
 - **Chain ID**: celestia  
 - **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.celestia-mainnet.posthuman.digital) 
