@@ -113,7 +113,10 @@ We’re about to deliver the following **ASAP**:
 
 - **Сosmos Founder Transforms Atom into Atone**
    [Watch here](https://www.youtube.com/watch?v=Yx07AVw0wvY)
- 
+
+- **SALES WILL BE POWERFUL. COSMOS WILL NEVER BE THE SAME. FACTS YOU DIDN'T KNOW.ATONE POWER**
+   [Watch here](https://www.youtube.com/watch?v=MgVYYlfinyo)
+   
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
