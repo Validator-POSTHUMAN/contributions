@@ -63,6 +63,9 @@ Now we have several relayers which working in two directions
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
+### We launched quest and task campaign about [Agoric on Centrifuge Platform](https://centrifuge.digital/agoric), 300 participants.
+<img width="2876" height="601" alt="image" src="https://github.com/user-attachments/assets/0a224e2e-a3c3-4d34-b520-1ee9b68bc020" />
+
 ## We spread the information about Agoric among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers) 
 
