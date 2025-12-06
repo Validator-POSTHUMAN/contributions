@@ -116,6 +116,9 @@ We’re about to deliver the following **ASAP**:
 
 - **SALES WILL BE POWERFUL. COSMOS WILL NEVER BE THE SAME. FACTS YOU DIDN'T KNOW. ATONE POWER**
    [Watch here](https://www.youtube.com/watch?v=MgVYYlfinyo)
+
+- **Ecosystem Voice #204 with Jae Kwon - What is Atom One?**
+  [Watch here](https://www.youtube.com/watch?v=EzQExYDYE14)
    
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
