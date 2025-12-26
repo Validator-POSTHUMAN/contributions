@@ -114,7 +114,7 @@
 - [Voice of the Ecosystem #178 - Meet with Hlib Kanunnikov from Celestia](https://youtu.be/MHXRSu40NTA?si=Q3pe2oAH9eA89cW7)
 - [Voice of the Ecosystem #160 - Meet with Theo.Jeans from Celestine Sloth Society](https://youtu.be/WgpLeWj98-E?si=BJ1Kd_PswYMXAhnA)
 - [Workshops Setting up Celestia LightNode](https://www.youtube.com/watch?v=nadajBxYlgY&t=4s) - [Announcement](https://x.com/synctems/status/1848311413309137153)
-- [An overview of the Plume project from the Celestia ecosystem](https://youtu.be/pLangoWBmHg)
+- [An overview of the Plume project from the Celestia Ecosystem](https://youtu.be/pLangoWBmHg)
 - [An overview of the Towns project from the Celestia Ecosystem](https://youtu.be/kYWSdgJgkK0)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Celestia and other Cosmos Ecosystem projects! 
