@@ -9,7 +9,7 @@ Including Validation, Free tools for Community etc.
 
 - Also we've implemented support for Ethereum external chain.
 
-We working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkBot without any support
+- We are working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkBot without any support
 
 ![image](https://user-images.githubusercontent.com/92199696/205491037-51fa4cfb-f604-4acc-9a43-66cad0fca7c2.png)
 
@@ -22,7 +22,15 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 
 ## We add Axelar to [restake](https://restake.app/axelar/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 
-
+## We added Axelar to our services: https://nodes.posthuman.digital/chains/axelar
+- rpc: https://rpc.axelar.posthuman.digital/:443
+- rest: https://rest.axelar.posthuman.digital:443
+- grpc: https://grpc.axelar.posthuman.digital:443
+- peer: 77f21eee88ff4f895ff79dbdabb3e726c3f5eba5@peer.axelar.posthuman.digital:50656
+- snapshots: https://snapshots.axelar.posthuman.digital:443
+- [Installation Guide](https://nodes.posthuman.digital/chains/axelar?tab=installation-guide)
+- [State Sync](https://nodes.posthuman.digital/chains/axelar?tab=state-sync)
+  
  # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
