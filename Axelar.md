@@ -42,12 +42,12 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
 | **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
 |                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
-| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
-|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
-|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | 6000k+ members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | Posthuman Channel in English                               | 300+ members           | [Link](https://t.me/posthumannews)                |
+|                  | Posthuman Channel in Russian                    | 1.5k+ members           | [Link](https://t.me/posthumanrus)                      |
 |                  | Cosmos Trading in Russian                | 800+ members           | [Link](https://t.me/+VRrR54qVXZKNq494)              |
-|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
-|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | English-speaking POSTHUMAN Community     | 1k+ members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k+ members             | [Link](https://t.me/CosmosEcosystem)                 |
 |                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
 | **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
 |                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
