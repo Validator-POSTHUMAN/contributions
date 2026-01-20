@@ -22,6 +22,8 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 
 ## We add Axelar to [restake](https://restake.app/axelar/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 
+## (Mail2Telegram Bot](https://github.com/Validator-POSTHUMAN/mail2telegram), to notify you about emails from Axelar in Telegram
+
 ## We added Axelar to our services: https://nodes.posthuman.digital/chains/axelar
 - rpc: https://rpc.axelar.posthuman.digital/:443
 - rest: https://rest.axelar.posthuman.digital:443
