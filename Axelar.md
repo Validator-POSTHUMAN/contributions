@@ -33,8 +33,6 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 - [Installation Guide](https://nodes.posthuman.digital/chains/axelar?tab=installation-guide)
 - [State Sync](https://nodes.posthuman.digital/chains/axelar?tab=state-sync)
 
-## We created [IMAP to Telegram forwarder for Axelar](https://github.com/Validator-POSTHUMAN/mail2telegram). Monitors email inbox and forwards messages from specified senders to Telegram.
-
  # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
 
