@@ -77,6 +77,7 @@ Here is not the full list of our contributions:
 - [MediBloc](https://github.com/Validator-POSTHUMAN/contributions/blob/main/MediBloc.md)
 - [Migaloo](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Migaloo.md)
 - [Mina Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Mina.md)
+- [Monad](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Monad.md)
 # N
 - [Nesa](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nesa.md)
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
