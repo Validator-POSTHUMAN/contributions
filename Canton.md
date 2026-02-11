@@ -8,6 +8,8 @@
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=mainnet-installation-guide)
 - **OneLiner**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=one-liner)
 
+### We also support project on [testnet](https://lighthouse.testnet.cantonloop.com/validators/POSTHUMAN%3A%3A122085c0a9d210389c49e8c3d104905179cb703e0840a9ce0b84632c22324dd36697)
+<img width="2690" height="1640" alt="image" src="https://github.com/user-attachments/assets/6e0c22e6-4827-4e68-b69b-541d95cae154" />
 
 # 🧠Humanitarian Contributions
 
