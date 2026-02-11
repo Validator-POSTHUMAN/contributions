@@ -1,7 +1,9 @@
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/504a2129-d488-47ec-82fe-d8f763738909" />
 
 # POSTHUMAN contributions for [Canton](https://www.cantonscan.com/party/POSTHUMAN-validator-1%3A%3A1220c96e07336860952d541206b74e38779ecfa2271b48de6df6015bdb1e285d53c1)
 
 # 🛠Technical Contributions
+- **Type**: mainnet  
 ### At the moment, we provide the following services for Canton:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=mainnet-installation-guide)
 - **OneLiner**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=one-liner)
@@ -42,7 +44,7 @@
 
 <img width="1844" height="1030" alt="image" src="https://github.com/user-attachments/assets/209a4b9e-0a49-4d82-9a5a-d027c61a36d1" />
 
-  - [Canton Network – Internet of Global Finance](https://www.youtube.com/watch?v=Pw-Gga7l448)
+  - [Canton Network – Internet of Global Finance](https://www.youtube.com/watch?v=L2Vx15xSC-g&t=11s)
  
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about CantonNetwork! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
