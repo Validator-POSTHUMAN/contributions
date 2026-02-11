@@ -3,6 +3,7 @@
 # POSTHUMAN contributions for [Monad](https://www.monad.xyz/)
 
 # 🛠Technical Contributions
+## We added Monad to our services: https://nodes.posthuman.digital/chains/monad
 ### At the moment, we provide the following services for Monad:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/monad?tab=install-guide)
 - **Monitoring**: [Link](https://nodes.posthuman.digital/chains/monad?tab=monitoring)
