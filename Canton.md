@@ -4,6 +4,7 @@
 
 # 🛠Technical Contributions
 - **Type**: mainnet  
+## We added Canton to our services: https://nodes.posthuman.digital/chains/canton-mainnet
 ### At the moment, we provide the following services for Canton:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=mainnet-installation-guide)
 - **OneLiner**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=one-liner)
