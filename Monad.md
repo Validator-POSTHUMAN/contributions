@@ -1,4 +1,4 @@
-![Banner](<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/f345368f-61a9-4358-9dd2-29fc68ecc2eb" />)
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/f345368f-61a9-4358-9dd2-29fc68ecc2eb" />
 
 # POSTHUMAN contributions for [Monad](https://www.monad.xyz/)
 
