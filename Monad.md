@@ -1,6 +1,4 @@
-![Banner](<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/f345368f-61a9-4358-9dd2-29fc68ecc2eb" />
-)
-
+![Banner](<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/f345368f-61a9-4358-9dd2-29fc68ecc2eb" />)
 
 # POSTHUMAN contributions for [Monad](https://www.monad.xyz/)
 
@@ -52,13 +50,13 @@
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
-- https://t.me/Crypto_Base_Chat |  ~4000 members
+- https://t.me/CryptoBase_chat |  ~4000 members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Our contributions for the growth of Monad community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Celestia and its updates since genesis. | [Query CosmosEcosystem tweets about Monad](https://x.com/search?q=from%3ACosmosEcosystem%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Celestia updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Monad](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
+| Cosmos Ecosystem X | 35k followers. We have been promoting Monad and its updates since genesis. | [Query CosmosEcosystem tweets about Monad](https://x.com/search?q=from%3ACosmosEcosystem%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Monad updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Monad](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
 
