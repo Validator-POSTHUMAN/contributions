@@ -3,9 +3,9 @@
 
 # 🛠Technical Contributions
 ### At the moment, we provide the following services for Canton:
-- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/monad?tab=install-guide)
-- **Monitoring**: [Link](https://nodes.posthuman.digital/chains/monad?tab=monitoring)
-- **Decenrralize Map**: [Link](https://nodes.posthuman.digital/chains/monad?tab=decentralize-map)
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=mainnet-installation-guide)
+- **OneLiner**: [Link](https://nodes.posthuman.digital/chains/canton-mainnet?tab=one-liner)
+
 
 # 🧠Humanitarian Contributions
 
@@ -40,11 +40,11 @@
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
-  <img width="2272" height="1265" alt="image" src="https://github.com/user-attachments/assets/b2a56c65-3b50-4d2e-98ed-36e4ef4fd16e" />
+<img width="1844" height="1030" alt="image" src="https://github.com/user-attachments/assets/209a4b9e-0a49-4d82-9a5a-d027c61a36d1" />
 
-  - [Monad - EVM at maximum speed!](https://www.youtube.com/watch?v=Pw-Gga7l448)
+  - [Canton Network – Internet of Global Finance](https://www.youtube.com/watch?v=Pw-Gga7l448)
  
-### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Monad! 
+### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about CantonNetwork! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
@@ -56,12 +56,12 @@
 - https://t.me/CryptoBase_chat |  ~4000 members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
-### Our contributions for the growth of Monad community.
+### Our contributions for the growth of CantonNetwork community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Monad and its updates since genesis. | [Query CosmosEcosystem tweets about Monad](https://x.com/search?q=from%3ACosmosEcosystem%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Monad updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Monad](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
+| Cosmos Ecosystem X | 35k followers. We have been promoting CantonNetwork and its updates since genesis. | [Query CosmosEcosystem tweets about CantonNetwork](https://x.com/search?q=from%3ACosmosEcosystem%20(CantonNetwork)&src=typed_query&f=live) | We spread the word about CantonNetwork and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover CantonNetwork updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CantonNetwork](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(CantonNetwork)&src=typed_query&f=live) | We spread the word about CantonNetwork and its updates since genesis. |
 
 
 
