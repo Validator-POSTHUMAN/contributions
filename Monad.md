@@ -7,7 +7,7 @@
 ### At the moment, we provide the following services for Monad:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/monad?tab=install-guide)
 - **Monitoring**: [Link](https://nodes.posthuman.digital/chains/monad?tab=monitoring)
-- **Decenrralize Map**: [Link](https://nodes.posthuman.digital/chains/monad?tab=decentralize-map)
+- **Decentralize Map**: [Link](https://nodes.posthuman.digital/chains/monad?tab=decentralize-map)
 
 # 🧠Humanitarian Contributions
 
