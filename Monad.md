@@ -35,13 +35,13 @@
 ### Videos about Monad
 
 #### In russian
-- **YouTube** (12k subscribers)  
-  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
+  - [Monad - EVM at maximum speed!](https://www.youtube.com/watch?v=Pw-Gga7l448)
 
   <img width="2272" height="1265" alt="image" src="https://github.com/user-attachments/assets/b2a56c65-3b50-4d2e-98ed-36e4ef4fd16e" />
 
 #### In english
-  - [Monad - EVM at maximum speed!](https://www.youtube.com/watch?v=Pw-Gga7l448)
+ 
   - [Monad: The Next Level EVM](https://www.youtube.com/watch?v=vEpY5qeT31k)
  
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Monad! 
