@@ -50,11 +50,11 @@
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 
-# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+# We're developing Russian Language Communities in Telegram, spread the information about project:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
-- https://t.me/CryptoBase_chat |  ~4000 members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+- https://t.me/CryptoBase_chat |  ~450 members
 
 ### Our contributions for the growth of Monad community.
 
