@@ -54,7 +54,8 @@
   
 ## Videos
 <img width="2213" height="1194" alt="image" src="https://github.com/user-attachments/assets/18715a5a-104e-43c2-bda0-b56ce33f224c" />
-- [Provenance](https://www.youtube.com/watch?v=ICD8U_Kg6c4&t=2s)
+
+[Provenance](https://www.youtube.com/watch?v=ICD8U_Kg6c4&t=2s)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Provenance and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
