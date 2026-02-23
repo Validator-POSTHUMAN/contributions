@@ -80,6 +80,7 @@ Here is not the full list of our contributions:
 - [Mina Protocol](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Mina.md)
 - [Monad](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Monad.md)
 # N
+- [Near](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Near.md)
 - [Nesa](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Nesa.md)
 - [Namada](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Namada.md)
 - [Neutron](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Neutron.md)
