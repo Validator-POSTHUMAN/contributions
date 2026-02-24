@@ -53,6 +53,7 @@ Here is not the full list of our contributions:
 # G
 - [Galactica](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Galactica.md)
 - [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Gravity_bridge.md)
+- [GnoLand](https://github.com/Validator-POSTHUMAN/contributions/blob/main/gno-land.md)
 # H
 - [HoneyWood](https://github.com/Validator-POSTHUMAN/contributions/blob/main/HoneyWood.md)
 - [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Humans_ai.md)
