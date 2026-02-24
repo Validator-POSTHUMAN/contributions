@@ -47,7 +47,7 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
-## We spread the information about Story among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Near among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
