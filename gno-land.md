@@ -60,7 +60,7 @@ Also, plans for gno.land:
 
   
 ## Videos
-- **Ecosystem Voice #204 with Jae Kwon - What is Atom One?**
+- **Ecosystem Voice #204 with Jae Kwon**
   [Watch here](https://www.youtube.com/watch?v=EzQExYDYE14)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about GnoLand and other projects! 
