@@ -11,7 +11,7 @@
 - **GRPC**: https://grpc.shentu.posthuman.digital:443
 - **Peer**: 77f21eee88ff4f895ff79dbdabb3e726c3f5eba5@peer.shentu.posthuman.digital:50656
 
-  ### At the moment, we provide the following services for Gnoland:
+  ### At the moment, we provide the following services for Shentu:
 
 - **Install Guide**: [Link](https://nodes.posthuman.digital/chains/shentu?tab=installation-guide)
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/shentu?tab=state-sync)
@@ -44,7 +44,7 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
-## We spread the information about Gnoland among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Shentu among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
