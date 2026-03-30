@@ -64,7 +64,7 @@
  
 
 
-  ### Our contributions for the growth of the Shentu community.
+  ### Our contributions for the growth of the Espresso community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
