@@ -43,6 +43,7 @@ Here is not the full list of our contributions:
 # E
 - [Elixir](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elixir.md)
 - [Elys](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Elys.md)
+- [Espresso](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Espresso.md)
 - [Evmos](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Evmos.md)
 # F
 - [Fetch.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/FetchAI.md)
@@ -53,7 +54,7 @@ Here is not the full list of our contributions:
 # G
 - [Galactica](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Galactica.md)
 - [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Gravity_bridge.md)
-- [GnoLand](https://github.com/Validator-POSTHUMAN/contributions/blob/main/gno-land.md)
+- [GnoLand](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Gno-land.md)
 # H
 - [HoneyWood](https://github.com/Validator-POSTHUMAN/contributions/blob/main/HoneyWood.md)
 - [Humans.ai](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Humans_ai.md)
