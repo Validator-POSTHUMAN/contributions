@@ -78,11 +78,6 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting PushChain and its updates since genesis. | [Query CosmosEcosystem tweets about PushChain](https://x.com/search?q=from%3ACosmosEcosystem%20(PushChain%20)&src=typed_query&f=live) | We spread the word about PushChain and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover PushChain updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about PushChain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(PushChain%20)&src=typed_query&f=live) | We spread the word about PushChain  and its updates since genesis. |
 
-# 📰Cosmos News
-<img width="1560" height="1563" alt="image" src="https://github.com/user-attachments/assets/52c0dcc7-8748-4950-91fd-1ce92fd8e814" />
-
-
-- [02.03.2026](https://x.com/CosmosEcosystem/status/2028659452354994621?s=20)
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
