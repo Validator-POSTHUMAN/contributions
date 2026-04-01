@@ -4,6 +4,8 @@
 
 # 🛠Technical Contributions
 ## We added Monad to our services: https://nodes.posthuman.digital/chains/monad
+<img width="1940" height="925" alt="image" src="https://github.com/user-attachments/assets/cd8d8f92-4cc8-4699-b7dc-e0c05795c307" />
+
 ### At the moment, we provide the following services for Monad:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/monad?tab=install-guide)
 - **Monitoring**: [Link](https://nodes.posthuman.digital/chains/monad?tab=monitoring)
