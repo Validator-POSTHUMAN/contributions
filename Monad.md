@@ -49,6 +49,8 @@
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
+### We've added Monad to the [Centrifuge quest platform](https://centrifuge.digital/monad), and community is already completing quests!
+<img width="2866" height="568" alt="image" src="https://github.com/user-attachments/assets/4cf3a627-aeb5-4e6f-9921-51a1bc46be78" />
 
 # We're developing Russian Language Communities in Telegram, spread the information about project:
 
