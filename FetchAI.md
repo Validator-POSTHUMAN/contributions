@@ -13,6 +13,10 @@
 ## We added Fetch to our services: https://nodes.posthuman.digital/chains/fetchhub
 <img width="2167" height="888" alt="image" src="https://github.com/user-attachments/assets/db921b2b-aa01-46db-a320-cc0fd9704b67" />
 ### At the moment, we provide the following services for Fetch:
+- **RPC**: [https://rpc.fetch.posthuman.digital:443](https://rpc.fetch.posthuman.digital:443) 
+- **REST**: [https://rest.fetch.posthuman.digital:443](https://rest.fetch.posthuman.digital:443)  
+- **gRPC**: [https://grpc.fetch.posthuman.digital:443](https://grpc.fetch.posthuman.digital:443)  
+- **Peer**: 0584f51f43be88dec1f9790b1321975af2e6606c@peer.fetch.posthuman.digital:43656
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/fetchhub?tab=installation-guide)
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/fetchhub?tab=state-sync)
 - **Snapshots**: [Link](https://nodes.posthuman.digital/chains/fetchhub?tab=snapshots)
