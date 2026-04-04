@@ -78,6 +78,9 @@
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
+### We've added Firmachain to the [Centrifuge quest platform](https://centrifuge.digital/firnachain), and community is already completing quests!
+<img width="2864" height="366" alt="image" src="https://github.com/user-attachments/assets/fb3b1213-e036-4f50-a21c-3d2523424b8d" />
+
   ### Our contributions for the growth of the Firmachain community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
