@@ -99,6 +99,9 @@ Now we have several relayers which working in two directions
   - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
+### We've added Fetch to the [Centrifuge quest platform](https://centrifuge.digital/fetch), and community is already completing quests!
+<img width="2890" height="438" alt="image" src="https://github.com/user-attachments/assets/8c1cd9e6-f11a-42ee-81bf-391f89fd0b4b" />
+
 ### Our contributions for the growth of the Fetch community
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
