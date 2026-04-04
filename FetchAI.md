@@ -10,6 +10,13 @@
 - We added $FET to [Sputnik Exchange](https://sputnik.exchange/), now users can send tips with $FET in X
 - We added $FET to [Sputnik Network Bot](https://t.me/SputnikNetworkBot), now users can send, receive and p2p-exchange $FET directly [in Telegram](https://X.com/SputnikNetwork/status/1420848326304583690)
 
+## We added Monad to our services: https://nodes.posthuman.digital/chains/fetchhub
+<img width="2167" height="888" alt="image" src="https://github.com/user-attachments/assets/db921b2b-aa01-46db-a320-cc0fd9704b67" />
+### At the moment, we provide the following services for Fetch:
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/fetchhub?tab=installation-guide)
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/fetchhub?tab=state-sync)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/fetchhub?tab=snapshots)
+
 ### Relayers 
 Now we have several relayers which working in two directions
 [Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
