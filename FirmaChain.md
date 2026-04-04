@@ -6,6 +6,16 @@
 - **POSTHUMAN validates Firmachain**  
   [Firmachain Validator Details](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 
+## We added Firmachain to our services: https://nodes.posthuman.digital/chains/firmachain
+<img width="2287" height="855" alt="image" src="https://github.com/user-attachments/assets/72ff0808-792a-465d-b66a-bcc3c573f252" />
+
+
+### At the moment, we provide the following services for Firmachain:
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/firmachain?tab=installation-guide)
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/firmachain?tab=state-sync)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/firmachain?tab=snapshots)
+
+
 ## Alpha of Block Explorer for Firmachain
 - **Block Explorer** [for Firmachain](https://explorer.posthuman.digital/firmachain)
 
