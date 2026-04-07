@@ -79,7 +79,7 @@
   - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
 
 ### We've added Firmachain to the [Centrifuge quest platform](https://centrifuge.digital/firnachain), and community is already completing quests!
-<img width="2864" height="366" alt="image" src="https://github.com/user-attachments/assets/fb3b1213-e036-4f50-a21c-3d2523424b8d" />
+<img width="2913" height="345" alt="image" src="https://github.com/user-attachments/assets/8c513f95-c431-46f9-aa75-9114ae0e1bcf" />
 
   ### Our contributions for the growth of the Firmachain community.
 
