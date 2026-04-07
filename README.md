@@ -53,6 +53,7 @@ Here is not the full list of our contributions:
 - [Furya](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Furya.md)
 # G
 - [Galactica](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Galactica.md)
+- [Genlayer](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Genlayer.md)
 - [Gravity Bridge](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Gravity_bridge.md)
 - [GnoLand](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Gno-land.md)
 # H
