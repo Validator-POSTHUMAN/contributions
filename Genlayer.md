@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/f345368f-61a9-4358-9dd2-29fc68ecc2eb" />
+<img width="1500" height="500" alt="Без имени" src="https://github.com/user-attachments/assets/a942962d-4654-45fd-ab10-d6a8aee37447" />
 
 # POSTHUMAN contributions for [Genlayer](https://www.genlayer.com/)
 
