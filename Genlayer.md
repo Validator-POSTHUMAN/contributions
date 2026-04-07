@@ -47,12 +47,13 @@
 ### Videos about Genlayer
  
 ### We have a weekly community audio/video chats with 200+videos where we speak about different projects and also spread the word about Genlayer! 
-<img width="2858" height="596" alt="image" src="https://github.com/user-attachments/assets/91015af2-938d-4ddf-b554-f2d991a0633a" />
+<img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
+
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
 ### We've added Genlayer to the [Centrifuge quest platform](https://centrifuge.digital/genlayer), and community is already completing quests!
-<img width="2866" height="568" alt="image" src="https://github.com/user-attachments/assets/4cf3a627-aeb5-4e6f-9921-51a1bc46be78" />
+<img width="2858" height="596" alt="image" src="https://github.com/user-attachments/assets/91015af2-938d-4ddf-b554-f2d991a0633a" />
 
 # We're developing Russian Language Communities in Telegram, spread the information about project:
 
