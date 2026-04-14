@@ -50,6 +50,7 @@
 
 
 - [Near Protocol](https://www.youtube.com/watch?v=vbQCSujpQvY)
+- [On-Chain AI](https://youtu.be/oa7TpxrJvIc)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Near and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
