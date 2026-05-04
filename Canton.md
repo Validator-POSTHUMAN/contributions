@@ -66,7 +66,7 @@
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting CantonNetwork and its updates since genesis. | [Query CosmosEcosystem tweets about CantonNetwork](https://x.com/search?q=from%3ACosmosEcosystem%20(CantonNetwork)&src=typed_query&f=live) | We spread the word about CantonNetwork and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover CantonNetwork updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CantonNetwork](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(CantonNetwork)&src=typed_query&f=live) | We spread the word about CantonNetwork and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover CantonNetwork updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about CantonNetwork](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(%40CantonFdn%20OR%20%40CantonNetwork%20OR%20Canton%20OR%20%24CC)&src=typed_query&f=live) | We spread the word about CantonNetwork and its updates since genesis. |
 
 ### 📰Cosmos Daily
 <img width="1655" height="1663" alt="image" src="https://github.com/user-attachments/assets/01958aee-0c6b-4767-a3bb-adcc7643b99f" />
