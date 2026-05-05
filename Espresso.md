@@ -71,6 +71,16 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting Espresso and its updates since genesis. | [Query CosmosEcosystem tweets about Espresso](https://x.com/search?q=from%3ACosmosEcosystem%20(EspressoSys%20)&src=typed_query&f=live) | We spread the word about Espresso and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Espresso updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Espresso](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Espresso%20OR%20%24ESP%20OR%20ESP%20OR%20%40EspressoSys%20OR%20%40espressoFNDN)&src=typed_query&f=live) | We spread the word about Espresso and its updates since genesis. |
 
+### 🚀 Validator Invitation – Espresso Network
+
+We have invited fellow validators and Distributed Validators Synctems (DVS) Validator School alumni to join the Espresso Network as validators, following the Espresso Foundation’s announcement to onboard 30+ new validators.
+
+### 🔗 Announcements & References
+
+* Twitter Announcement: [https://x.com/POSTHUMAN_DVS/status/2050185904745033829](https://x.com/POSTHUMAN_DVS/status/2050185904745033829)
+* Retweet by DVS: [https://x.com/synctems/status/2050233042757726651](https://x.com/synctems/status/2050233042757726651)
+* Telegram (English): [https://t.me/posthumannews/1565](https://t.me/posthumannews/1565)
+* Telegram (Russian): [https://t.me/posthumanrus/1661](https://t.me/posthumanrus/1661)
 
 
 # Economical Contributions
