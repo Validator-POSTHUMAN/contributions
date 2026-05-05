@@ -86,7 +86,7 @@
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Fuel and its updates since genesis. | [Query CosmosEcosystem tweets about Fuel](https://x.com/search?q=from%3ACosmosEcosystem%20(fuel_network%20)&src=typed_query&f=live) | We spread the word about Fuel and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Fuel updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Fuel](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(fuel_network%20)&src=typed_query&f=live) | We spread the word about Fuel and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Fuel updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Fuel](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(%40fuel_network%20OR%20Fuel%20OR%20%24FUEL)&src=typed_query&f=live) | We spread the word about Fuel and its updates since genesis. |
 
 
 # Economical Contributions
