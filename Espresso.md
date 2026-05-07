@@ -73,7 +73,7 @@
 
 ### 🚀 Validator Invitation – Espresso Network
 
-We have invited fellow validators and Distributed Validators Synctems (DVS) Validator School alumni to join the Espresso Network as validators, following the Espresso Foundation’s announcement to onboard 30+ new validators.
+We have invited fellow validators and Distributed Validators Synctems (DVS) [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School) alumni to join the Espresso Network as validators, following the Espresso Foundation’s announcement to onboard 30+ new validators.
 
 ### 🔗 Announcements & References
 
