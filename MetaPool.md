@@ -36,6 +36,15 @@
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 
+### Social Media
+
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7.5k followers)
+
+
+# We had teamed up with  [Build Buddies](https://x.com/build_buddies) and MetaPool to facilitate 4 IRL events in 4 amazing cities across 3 beautiful countries in Asia 🌏
+📍 Saigon - Vietnam 🇻🇳
+📍 Surabaya & Jakarta - Indonesia 🇮🇩
+📍 Ahmedabad - India 🇮🇳
 
 
 # Economical Contributions
@@ -44,8 +53,5 @@
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
   
 
-### Social Media
-
-  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7.5k followers)
 
   
