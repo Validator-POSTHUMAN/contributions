@@ -1,5 +1,8 @@
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/78442751-060d-4b9e-8584-6afd6695c4b1" />
 
+##
+## POSTHUMAN had chosen by Metapool as NEAR validator with   [Node Studio 3 program](https://validators.metapool.app/leaderboard) . This helped to established as a [NEAR validator](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Near.md)
+
 # POSTHUMAN contributions for [MetaPool](https://www.metapool.app/)
 
 # 🧠Humanitarian Contributions
@@ -31,6 +34,15 @@
 ## We spread the information about MetaPool among russian-speaking community:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+
+
+
+
+# Economical Contributions
+ We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+
+ ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+  
 
 ### Social Media
 
