@@ -46,6 +46,9 @@
 📍 Surabaya & Jakarta - Indonesia 🇮🇩
 📍 Ahmedabad - India 🇮🇳
 
+<img width="1370" height="724" alt="image" src="https://github.com/user-attachments/assets/7b9e618e-c97b-4fb5-8c2b-0d3e9ac66a99" />
+
+Announcemnt : https://x.com/POSTHUMAN_DVS/status/2052592369166389346
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
