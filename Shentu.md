@@ -2,6 +2,10 @@
 
 # POSTHUMAN contributions for [Shentu](https://shentu.org/)
 
+# AI contributions
+
+- [Shentu-skill for node maintaining](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/tree/main/shentu)
+
 # 🛠 Technical Contributions
 - **POSTHUMAN validates Shentu**  
 <img width="2215" height="904" alt="image" src="https://github.com/user-attachments/assets/88f3d610-bbee-426d-8bd2-5204a7ff8330" />
