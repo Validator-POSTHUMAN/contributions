@@ -12,6 +12,18 @@
 
 # 🧠Humanitarian Contributions
 
+### Social Media
+- **X (Twitter)**  
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+
+
+| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
+|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Cosmos Ecosystem X | 35k followers. We have been promoting Starknet and its updates since genesis. | [Query CosmosEcosystem tweets about Starknet](https://x.com/search?q=from%3ACosmosEcosystem%20(Starknet%20)&src=typed_query&f=live) | We spread the word about Starknet and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Starknet updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Starknet](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(%40Starknet%20OR%20%40StarkWareLtd%20OR%20Starknet%20OR%20StarkWare%20OR%20STRK%20OR%20%24STRK)&src=typed_query&f=live) | We spread the word about Starknet and its updates since genesis. |
+
+
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
@@ -48,16 +60,6 @@
 - https://t.me/CosmosEcosystem_ru | ~6000 members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
-### Social Media
-- **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
-  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
-
-
-| Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
-|--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Starknet and its updates since genesis. | [Query CosmosEcosystem tweets about Starknet](https://x.com/search?q=from%3ACosmosEcosystem%20(Starknet%20)&src=typed_query&f=live) | We spread the word about Starknet and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Starknet updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Starknet](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(%40Starknet%20OR%20%40StarkWareLtd%20OR%20Starknet%20OR%20StarkWare%20OR%20STRK%20OR%20%24STRK)&src=typed_query&f=live) | We spread the word about Starknet and its updates since genesis. |
 
 # Economical Contributions
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
