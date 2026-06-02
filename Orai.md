@@ -36,12 +36,10 @@
 | **Twitter**      | Cosmos Ecosystem X                      | 34.5k followers        | [Link](https://x.com/CosmosEcosystem)                 |
 |                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
 | **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~6k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
-|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
-|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
-|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
-|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | CryptoBase                               | +450 members           | [Link](https://t.me/CryptoBase_chat)                |
+|                  | Cosmos DEX in Russian                    | +700 members           | [Link](https://t.me/Osmosis_ru)                      |
+|                  | English-speaking POSTHUMAN Community     | +900 members           | [Link](https://t.me/posthumanchat)                   |
 |                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
-|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
 | **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
 |                  | English-speaking POSTHUMAN              | 650 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
 | **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
@@ -70,7 +68,7 @@
 | Cosmos Ecosystem X | 35k followers. We have been promoting ORAIchain for a long time. | [Query CosmosEcosystem tweets about ORAIchain](https://x.com/search?q=from%3ACosmosEcosystem%20(oraichain%20OR%20orai%20OR%20ORAI)&src=typed_query&f=live) | We spread the word about ORAIchain for a long time. |
 | POSTHUMAN X        | 7.5k followers. We actively cover ORAIchain updates and ecosystem news for a long time. | [Query POSTHUMAN_DVS tweets about ORAIchain](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(oraichain%20OR%20orai%20OR%20ORAI)&src=typed_query&f=live) | We spread the word about ORAIchain for a long time. |
 
-## We spread the information about Zetachain among russian-speaking community of Cosmos Ecosystem:
+## We spread the information about Orai Chain among russian-speaking community of Cosmos Ecosystem:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
   <img width="2515" height="1409" alt="image" src="https://github.com/user-attachments/assets/dcf0f3b0-aef4-4f57-bf78-e6d6dfb6e0a1" />
