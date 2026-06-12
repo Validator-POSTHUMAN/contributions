@@ -76,7 +76,7 @@
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Lava and its updates since genesis. | [Query CosmosEcosystem tweets about Lava](https://x.com/search?q=from%3ACosmosEcosystem%20(Lava%20OR%20lavanetxyz%20OR%20%24LAVA)&src=typed_query&f=live) | We spread the word about Lava and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Lava updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Lava](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(lavanetxyz%20)&src=typed_query&f=live) | We spread the word about Lava and its updates since genesis. |
+| POSTHUMAN X        | 7.5k followers. We actively cover Lava updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Lava](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Lava%20OR%20lavanetxyz%20OR%20%24LAVA)&src=typed_query&f=live) | We spread the word about Lava and its updates since genesis. |
 
 # 📰Cosmos News
 <img width="1982" height="1594" alt="image" src="https://github.com/user-attachments/assets/752a4155-eda3-490c-a76c-51c959dfe228" />
