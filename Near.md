@@ -38,17 +38,18 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
 
-## We spread the information about Near among russian-speaking community of Cosmos Ecosystem:
-- **YouTube** (12k subscribers)  
-  [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+## We spread the information about Near among the community:
+- **YouTube** 
+  [CryptoBase](https://www.youtube.com/@CRYPTOBASED) (12k subscribers)  
+  [POSTHUMAN DVS](https://www.youtube.com/@POSTHUMANDVS) (680 subscribers)
 
   
 ## Videos
-<img width="2206" height="1213" alt="image" src="https://github.com/user-attachments/assets/2b0067a5-26ed-4d1e-8385-e001673d2205" />
 
-
-- [Near Protocol](https://www.youtube.com/watch?v=vbQCSujpQvY)
-- [On-Chain AI](https://youtu.be/oa7TpxrJvIc)
+- [Near Protocol in english](https://youtu.be/iGYYJrkDLac)
+- [On-Chain AI in english](https://youtu.be/oa7TpxrJvIc)
+- [Near Protocol in russian](https://youtu.be/vbQCSujpQvY)
+- [On-Chain AI in russian](https://youtu.be/oa7TpxrJvIc)
 
 ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Near and other projects! 
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
