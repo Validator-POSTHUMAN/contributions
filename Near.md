@@ -60,13 +60,15 @@
 # We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
 
 - https://t.me/CosmosEcosystem_ru | ~6000 members
-- https://t.me/CryptoBase_chat |  ~4000 members
-- https://t.me/CosmosEcosystemNews_ru |  ~2000 members
+- https://t.me/CryptoBase_chat |  ~470 members
+- https://t.me/CosmosEcosystemNews_ru |  ~1700 members
+- https://t.me/posthumanrus |  ~1400 members
+- https://t.me/posthumanchat |  ~900 members
 
 ### Social Media
 - **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
-  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (34k followers)  
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (8k followers)
 
   ### Our contributions for the growth of the Near community.
 
