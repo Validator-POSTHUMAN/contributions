@@ -13,11 +13,8 @@
 - **Type**: mainnet  
 - **Chain ID**: celestia  
 - **RPC**: [https://rpc-celestia-mainnet.posthuman.digital](https://rpc-celestia-mainnet.posthuman.digital) 
-- **RPC-archival**: [https://rpc-celestia-mainnet-archive.posthuman.digital](https://rpc-celestia-mainnet-archive.posthuman.digital)
 - **REST**: [https://rest-celestia-mainnet.posthuman.digital](https://rest-celestia-mainnet.posthuman.digital) 
-- **REST-archival**: [https://rest-celestia-mainnet-archive.posthuman.digital](https://rest-celestia-mainnet-archive.posthuman.digital)
 - **gRPC**: [https://grpc-celestia-mainnet.posthuman.digital](https://grpc-celestia-mainnet.posthuman.digital)  
-- **gRPC-archival**: [https://grpc-celestia-mainnet-archive.posthuman.digital](https://grpc-celestia-mainnet-archive.posthuman.digital)
 - **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
 
 ### Additional Resources:
@@ -41,11 +38,8 @@
 - **Type**: testnet
 - **Chain ID**: celestia  
 - **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
-- **RPC-archival**: [https://rpc-celestia-testnet-archive.posthuman.digital](https://rpc-celestia-testnet-archive.posthuman.digital)
 - **REST**: [https://rest-celestia-testnet.posthuman.digital](https://rest-celestia-testnet.posthuman.digital) 
-- **REST-archival**: [https://rpc-celestia-testnet-archive.posthuman.digital](https://rpc-celestia-testnet-archive.posthuman.digital)
 - **gRPC**: [https://grpc-celestia-testnet.posthuman.digital](https://grpc-celestia-testnet.posthuman.digital)  
-- **gRPC-archival**: [https://rpc-celestia-testnet-archive.posthuman.digital](https://rpc-celestia-testnet-archive.posthuman.digital)
 - **Peer**: `f57805e824e984467f8b1f2560a5ef4c80077ed5@207.121.49.100:11656`
 
 ### Additional Resources for Celestia Testnet:
