@@ -21,10 +21,7 @@
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
 - **Celestia Lightnode Setup Tutorial**: [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/celestia%20light%20node%20setup%20tutorial.md)
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
-- **Bridge node RPC**:  [Link](https://bridge-celestia-mainnet.posthuman.digital)
-- **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
 - **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
 - **Snapshots**: [Link](https://snapshots.posthuman.digital/)
 
@@ -36,10 +33,8 @@
 ### We also supported project on [testnet](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
 
 - **Type**: testnet
-- **Chain ID**: celestia  
+- **Chain ID**: mocha-4  
 - **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
-- **REST**: [https://rest-celestia-testnet.posthuman.digital](https://rest-celestia-testnet.posthuman.digital) 
-- **gRPC**: [https://grpc-celestia-testnet.posthuman.digital](https://grpc-celestia-testnet.posthuman.digital)  
 - **Peer**: `52d364fac77753f5ab0df76b6b21ad519e759aa9@135.181.227.236:39656`
 
 ### Additional Resources for Celestia Testnet:
@@ -47,9 +42,6 @@
 - **Celestia Full Node Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=full-node-setup)
 - **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
-- **Bridge node RPC**:  [Link](https://bridge-celestia-testnet.posthuman.digital)
-- **Bridge node id**: `12D3KooWR6eCBXNcxgehiUHrzK3UQS1yGDpHgxM77eb5u4ieUi` 
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
 - **Snapshots**: [Link](https://snapshots.posthuman.digital/)
 - **One Liner**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
