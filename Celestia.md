@@ -57,17 +57,15 @@
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
-| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
-|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
-| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~8k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
-|                  | CryptoBase                               | 4.1k members           | [Link](https://t.me/Crypto_Base_Chat)                |
-|                  | Cosmos DEX in Russian                    | 1.2k members           | [Link](https://t.me/Osmosis_ru)                      |
-|                  | Cosmos Trading in Russian                | 2.2k members           | [Link](https://t.me/CosmicSpeculations)              |
+| **Twitter**      | Cosmos Ecosystem X                      | 34.1k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+|                  | POSTHUMAN X                              | 7.5k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
+| **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~6k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
+|                  | CryptoBase                               | 450 members           | [Link](https://t.me/CryptoBase_chat)                |
 |                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
 |                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
 |                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
 | **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
-|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+|                  | English-speaking POSTHUMAN              | 650 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
 | **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
 |                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
 |                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
@@ -75,6 +73,7 @@
 |                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
 | **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+
 
 ### We launched quest and task campaign about [Celestia on Centrifuge Platform](https://centrifuge.digital/celestia). Also within [Posthuman company](https://centrifuge.digital/posthuman), Celestia quests, 300 participants.
 <img width="1659" height="459" alt="image" src="https://github.com/user-attachments/assets/1778456a-2139-4bb4-9d3d-d752ea4314ae" />
