@@ -2,6 +2,13 @@
 
 # POSTHUMAN contributions for [Monad](https://www.monad.xyz/)
 
+# dApp
+
+We are developing MonadApp - A single entry point to the Monad ecosystem, where users can access all services in one place: from staking and liquid staking to exchanges and ecosystem overview:
+<img width="1640" height="1027" alt="Screenshot 2026-06-30 at 19 23 20" src="https://github.com/user-attachments/assets/9317616a-ec7d-4c6d-9493-14e79aa534b8" />
+
+## [https://stakemon.xyz/](https://stakemon.xyz/)
+
 # 🛠Technical Contributions
 ## We added Monad to our services: https://nodes.posthuman.digital/chains/monad
 <img width="1940" height="925" alt="image" src="https://github.com/user-attachments/assets/cd8d8f92-4cc8-4699-b7dc-e0c05795c307" />
