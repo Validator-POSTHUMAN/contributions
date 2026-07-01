@@ -15,7 +15,7 @@
 - **RPC**: [https://rpc-celestia-mainnet.posthuman.digital](https://rpc-celestia-mainnet.posthuman.digital) 
 - **REST**: [https://rest-celestia-mainnet.posthuman.digital](https://rest-celestia-mainnet.posthuman.digital) 
 - **gRPC**: [https://grpc-celestia-mainnet.posthuman.digital](https://grpc-celestia-mainnet.posthuman.digital)  
-- **Peer**: `2cc7330049bc02e4276668c414222593d52eb718@135.181.227.236:40656`  
+- **Peer**: `955c18c98d5012ee510a0485bf1a6c23b18caae4@5.61.208.27:41656`  
 
 ### Additional Resources:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
@@ -35,7 +35,7 @@
 - **Type**: testnet
 - **Chain ID**: mocha-4  
 - **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
-- **Peer**: `52d364fac77753f5ab0df76b6b21ad519e759aa9@135.181.227.236:39656`
+- **Peer**: `35a5096e5ab65c0a4ebeb721663e18dc2c51dd85@135.181.227.236:39656`
 
 ### Additional Resources for Celestia Testnet:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
