@@ -1,6 +1,6 @@
 # Monad Liquid Staking Pools: Validator Integration Research
 
-![Monad liquid staking pools abstract cover](assets/monad-lst-research-cover.svg)
+![Monad liquid staking pools research cover](assets/monad-lst-research-cover.png)
 
 Last updated: 2026-07-01
 
