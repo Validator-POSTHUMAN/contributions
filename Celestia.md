@@ -35,7 +35,7 @@
 - **Type**: testnet
 - **Chain ID**: mocha-4  
 - **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
-- **Peer**: `35a5096e5ab65c0a4ebeb721663e18dc2c51dd85@135.181.227.236:39656`
+- **Peer**: `35a5096e5ab65c0a4ebeb721663e18dc2c51dd85@173.208.0.15:39656`
 
 ### Additional Resources for Celestia Testnet:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
