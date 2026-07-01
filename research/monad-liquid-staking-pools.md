@@ -22,7 +22,7 @@ questions and help LST teams make validator onboarding easier to evaluate.
 | Protocol | Token | Validator onboarding signal | Priority | Notes for validators |
 | --- | --- | --- | --- | --- |
 | shMonad / FastLane | shMON | Clear public validator docs and direct onboarding path. | Very high | Best documented validator path. Delegation is tied to revenue generation and on-chain stake allocation. Requires beneficiary / coinbase flow, dedicated fullnodes, and MEV sidecar. |
-| Kintsu | sMON | Positive team response and DAO / registry-based validator curation. | High | Promising route for validators that can participate in a registry / governance-driven delegation process. Exact operational requirements should be confirmed during onboarding. |
+| Kintsu | sMON | Positive team response and DAO / registry-based validator curation. | High | Promising route for validators that can participate in a registry / governance-driven delegation process. Docs state validators must deposit KSU and MON as collateral; exact amounts should be confirmed during onboarding. |
 | Magma | gMON | Batch / whitelist style validator inclusion. | Medium-high | Strong LST product and gVault concept. Validators should prepare a profile and wait for the next inclusion batch or whitelist review. |
 | aPriori | aprMON | Product is strong, validator onboarding path is not clear from public docs. | Low-medium | Worth tracking, but validators should verify official contact channels before relying on this route. |
 | Moonmace | mcMON | Public scoring model exists, but onboarding and community signal are weak. | Low | Useful as a watchlist item. Needs clearer validator process and stronger execution signal. |
@@ -154,7 +154,7 @@ onboarding process than a simple whitelist form.
 Validators should clarify:
 
 - whether validator registry onboarding is open;
-- whether collateral is required;
+- exact KSU and MON collateral requirements;
 - whether governance / voting weight affects delegation;
 - how validator performance is measured;
 - how stake targets are updated.
@@ -163,6 +163,9 @@ Validators should clarify:
 
 - Kintsu appears promising for validators willing to engage with DAO / registry
   mechanics.
+- Kintsu docs state that validators must deposit both KSU and MON as
+  collateral to permissionlessly add themselves to the validator registry.
+  The public docs reviewed do not specify exact collateral amounts.
 - The technical and governance requirements should be confirmed directly before
   treating the opportunity as production-ready.
 - Validators may need a communication plan, not only node-side changes.
@@ -184,6 +187,8 @@ confirmed directly with the Kintsu team.
   https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture.md
 - DAO and governance:
   https://docs.kintsu.xyz/the-kintsu-protocol/dao-and-governance.md
+- Kintsu FAQ:
+  https://docs.kintsu.xyz/resources/faqs.md
 - Official contract addresses:
   https://docs.kintsu.xyz/the-kintsu-protocol/official-contract-addresses.md
 - Kintsu GitHub: https://github.com/WaterCoolerStudiosInc
