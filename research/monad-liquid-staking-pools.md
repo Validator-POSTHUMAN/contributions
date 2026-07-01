@@ -40,8 +40,8 @@ not investment advice or a final judgment on any protocol.
 | Protocol | Onboarding clarity | Team / channel signal | Delegation upside | Operational fit | Overall |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | shMonad / FastLane | 5 | 5 | 5 | 4 | 5 |
-| Kintsu | 4 | 4 | 4 | 3 | 4 |
-| Magma | 3 | 3 | 4 | 4 | 3.5 |
+| Kintsu | 4 | 5 | 4 | 3 | 4 |
+| Magma | 3 | 4 | 4 | 4 | 3.75 |
 | aPriori | 1 | 2 | 4 | 2 | 2 |
 | Moonmace | 2 | 1 | 2 | 3 | 1.5 |
 
