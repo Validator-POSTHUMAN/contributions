@@ -18,6 +18,11 @@ We are developing MonadApp - A single entry point to the Monad ecosystem, where 
 - **Monitoring**: [Link](https://nodes.posthuman.digital/chains/monad?tab=monitoring)
 - **Decentralize Map**: [Link](https://nodes.posthuman.digital/chains/monad?tab=decentralize-map)
 
+### Research
+
+- **Monad Liquid Staking Pools: Validator Integration Research**:
+  [Link](research/monad-liquid-staking-pools.md)
+
 # 🧠Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md):  
@@ -73,4 +78,3 @@ We are developing MonadApp - A single entry point to the Monad ecosystem, where 
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Monad and its updates since genesis. | [Query CosmosEcosystem tweets about Monad](https://x.com/search?q=from%3ACosmosEcosystem%20(monad)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Monad updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Monad](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(%40monad%20OR%20Monad%20OR%20%40monad_eco%20OR%20%24MON%20OR%20MON)&src=typed_query&f=live) | We spread the word about Monad and its updates since genesis. |
-
