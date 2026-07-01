@@ -1,5 +1,7 @@
 # Monad Liquid Staking Pools: Validator Integration Research
 
+![Monad liquid staking pools abstract cover](assets/monad-lst-research-cover.svg)
+
 Last updated: 2026-07-01
 
 This public research brief is for Monad validators, LST teams, and ecosystem
