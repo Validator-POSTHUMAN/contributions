@@ -44,8 +44,12 @@
 
 ## We add Juno to [restake](https://restake.app/juno/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 
-### We've launched our $PHMN token on Juno Network <br/>
-| [Tokenomics ENG](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6) | [Tokenomics RU](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94) | [FAQ ENG](https://antropocosmist.medium.com/phmn-faq-ca65522b5c8d) | [FAQ RU](https://antropocosmist.medium.com/phmn-faq-rus-3512227b7443) | [Token Info Mintscan](https://www.mintscan.io/juno/wasm/contract/juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l) | [Liquidity Pool JunoSwap](https://junoswap.com/pools/JUNO-PHMN)| [PHMN RU AMA](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | [PHMN ENG AMA](https://www.youtube.com/watch?v=0lzDFbjK-ik&t=3s)| [Liquidity Adding Process Video](https://www.youtube.com/watch?v=1AU-qurmsoU)| 
+### PHMN originally launched on Juno Network <br/>
+PHMN originally launched on Juno as a CW20 token. That old token is now deprecated after the 2026 PHMN migration. The active PHMN token is the Cosmos Hub TokenFactory denom `factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN`.
+
+Current references: [PHMN migration rules](https://github.com/Validator-POSTHUMAN/new-phmn) | [Official migration statement](https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md) | [New POSTHUMAN DAS](https://daodao.zone/dao/cosmos1lj6knrgumqr5a9jxmkqeag476gmzgn24mv0w3548tyw6a5ryr7ms6xl599)
+
+Historical Juno-era references: | [Tokenomics ENG](https://antropocosmist.medium.com/phmn-tokenomics-f3b7116331e6) | [Tokenomics RU](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94) | [FAQ ENG](https://antropocosmist.medium.com/phmn-faq-ca65522b5c8d) | [FAQ RU](https://antropocosmist.medium.com/phmn-faq-rus-3512227b7443) | [Old Token Info Mintscan](https://www.mintscan.io/juno/wasm/contract/juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l) | [Old Liquidity Pool JunoSwap](https://junoswap.com/pools/JUNO-PHMN)| [PHMN RU AMA](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | [PHMN ENG AMA](https://www.youtube.com/watch?v=0lzDFbjK-ik&t=3s)| [Liquidity Adding Process Video](https://www.youtube.com/watch?v=1AU-qurmsoU)| 
 
 ### We've launched our own DAS (Decentralized Autonomous Synchronization) on [DAODAO](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)<br/>
 [DAS Medium Doc](https://antropocosmist.medium.com/posthuman-das-is-created-578253c8e226) | [DAS AMA ENG](https://www.youtube.com/watch?v=HF-8gEocZ7o&t=11s) | [DAS AMA RU](https://www.youtube.com/watch?v=-RI1eD2zjng&t=1s) | 
@@ -102,7 +106,7 @@ Now users can send tips with $JUNO in Twitter and Telegram, and also p2p-exchang
 ## DAODAO
 <br/>
 
-> Currently, POSTHUMAN is in the process of decentralization. For now - it's operated by the POSTHUMAN SubDAOs, under the POSTHUMAN DAS - decentralized autonomous synchronization. And this one is honorably mentioned in DAODAO's Featured DAO's list. POSTHUMAN DAS and $PHMN token are based on Juno Network. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
+> Currently, POSTHUMAN is in the process of decentralization. It was originally operated through POSTHUMAN SubDAOs under the Juno-era POSTHUMAN DAS. After the 2026 PHMN migration, the active POSTHUMAN DAS and PHMN token moved to the Cosmos Hub / TokenFactory setup. <br/> ![image](https://github.com/Validator-POSTHUMAN/contributions/assets/92199696/fd33c1f8-5a50-4a1d-adbd-f0878db808cf)
 
 - [What is a DAO? How to use DAODAO to create and manage a DAO. All on the Juno Network!](https://www.youtube.com/watch?v=4zyJuGFn-mQ)
 
