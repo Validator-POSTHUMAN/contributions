@@ -9,19 +9,15 @@
 
 
 
-  ### At the moment, we provide the following services for Provenance:
+### Current public tools for Provenance
 
-- **RPC**: [https://rpc.provenance.posthuman.digital:443](https://rpc.provenance.posthuman.digital:443) 
-- **REST**: [https://rest.provenance.posthuman.digital:443](https://rest.provenance.posthuman.digital:443)  
-- **gRPC**: [https://grpc.provenance.posthuman.digital:443](https://grpc.provenance.posthuman.digital:443)  
-- **Peer**: 7bf1c608994f3f0b6b65aa52072d164c9d8a7f4d@peer.provenance.posthuman.digital:44656
+- **Install Guide**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/provenance?tab=installation-guide)
+- **AI Skill**: [Provenance operations skill](https://nodes.posthuman.digital/chains/provenance?tab=skill)
 
-- **Install Guide**: [Link](https://nodes.posthuman.digital/chains/provenance?tab=installation-guide)  
-- **State Sync**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/provenance?tab=state-sync)
-- **Snapsgots**: [Link](https://nodes.posthuman.digital/chains/provenance?tab=snapshots)
+Public RPC, REST, gRPC, peer, state-sync, and snapshot services are temporarily withheld while the backend is fully resynchronized and revalidated.
 
 
-# 🧠Humanitarian Contributions
+# 🧠 Humanitarian Contributions
 
 ### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
 
@@ -47,7 +43,7 @@
 |                  | Sputnik Network Version 2.0              | -                      | -                                                     |
 
   
-## We spread the information about Near among russian-speaking community of Cosmos Ecosystem:
+## We spread information about Provenance among the Russian-speaking Cosmos ecosystem community:
 - **YouTube** (12k subscribers)  
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
@@ -87,5 +83,4 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
 
