@@ -11,10 +11,11 @@
 
 ### Current public tools for Provenance
 
+- **RPC**: [https://rpc.provenance.posthuman.digital](https://rpc.provenance.posthuman.digital/status)
 - **Install Guide**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/provenance?tab=installation-guide)
 - **AI Skill**: [Provenance operations skill](https://nodes.posthuman.digital/chains/provenance?tab=skill)
 
-Public RPC, REST, gRPC, peer, state-sync, and snapshot services are temporarily withheld while the backend is fully resynchronized and revalidated.
+Public REST, gRPC, peer, state-sync, and snapshot services remain temporarily withheld while their backends are fully resynchronized and revalidated.
 
 
 # 🧠 Humanitarian Contributions
@@ -83,4 +84,3 @@ Public RPC, REST, gRPC, peer, state-sync, and snapshot services are temporarily 
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
