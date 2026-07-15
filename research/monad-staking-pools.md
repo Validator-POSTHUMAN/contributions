@@ -1,4 +1,4 @@
-# Monad Liquid Staking Pools: Validator Integration Research
+# Monad Staking Pools: Validator Integration Research
 
 ![Monad liquid staking pools research cover](assets/monad-lst-research-cover.png)
 

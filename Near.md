@@ -12,6 +12,12 @@
 
 - **Install Guide**: [Link](https://nodes.posthuman.digital/chains/near?tab=install-guide)  
 - **Monitoring**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/near?tab=monitoring)
+- **Staking Pools and Delegation Research**: [Link](https://nodes.posthuman.digital/chains/near?tab=staking-pools)
+
+### Research
+
+- **NEAR Staking Pools and Validator Delegation Research**:
+  [GitHub report](https://github.com/Validator-POSTHUMAN/contributions/blob/main/research/near-staking-pools.md)
 
 
 # 🧠Humanitarian Contributions
@@ -83,5 +89,4 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
 

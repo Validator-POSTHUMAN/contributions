@@ -20,8 +20,8 @@ We are developing MonadApp - A single entry point to the Monad ecosystem, where 
 
 ### Research
 
-- **Monad Liquid Staking Pools: Validator Integration Research**:
-  [Link](research/monad-liquid-staking-pools.md)
+- **Monad Staking Pools: Validator Integration Research**:
+  [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/research/monad-staking-pools.md)
 - **Monad FastLane Sidecar Guide for Validators**:
   [Link](guides/monad-fastlane-sidecar-guide.md)
 - **FastLane Sidecar AI Skill**:
