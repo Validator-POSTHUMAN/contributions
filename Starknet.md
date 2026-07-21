@@ -24,18 +24,19 @@
 | POSTHUMAN X        | 7.5k followers. We actively cover Starknet updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Starknet](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(%40Starknet%20OR%20%40StarkWareLtd%20OR%20Starknet%20OR%20StarkWare%20OR%20STRK%20OR%20%24STRK)&src=typed_query&f=live) | We spread the word about Starknet and its updates since genesis. |
 
 
-### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
+### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md):  
 
 | **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
 |------------------|------------------------------------------|------------------------|--------------------------------------------------------|
-| **Twitter**      | Cosmos Ecosystem X                      | 33.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
+| **Twitter**      | Cosmos Ecosystem X                      | 34.1k followers        | [Link](https://x.com/CosmosEcosystem)                 |
 |                  | POSTHUMAN X                              | 7.5k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
 | **Telegram**     | Russian-speaking Cosmos Ecosystem        | ~6k members            | [Link](https://t.me/CosmosEcosystem_ru)              |
-|                  | Cosmos DEX in Russian                    | +700 members           | [Link](https://t.me/Osmosis_ru)                      |
-|                  | English-speaking POSTHUMAN Community     | +900 members           | [Link](https://t.me/posthumanchat)                   |
-|                  | Cosmos Ecosystem English                 | +1000 members             | [Link](https://t.me/CosmosEcosystem)                 |
-| **YouTube**      | CryptoBase Russian-speaking              | 11.9k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
-|                  | English-speaking POSTHUMAN              | +650 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
+|                  | CryptoBase                               | 450 members           | [Link](https://t.me/CryptoBase_chat)                |
+|                  | English-speaking POSTHUMAN Community     | 1.2k members           | [Link](https://t.me/posthumanchat)                   |
+|                  | Cosmos Ecosystem English                 | 1k members             | [Link](https://t.me/CosmosEcosystem)                 |
+|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
+| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
+|                  | English-speaking POSTHUMAN              | 650 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
 | **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
 |                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
 |                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
