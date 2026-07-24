@@ -3,21 +3,34 @@
 # POSTHUMAN contributions for [XRPL](https://xrpl.org/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates XRPL**  
-  [XRPL Validator Details]()
+
+- **POSTHUMAN operates XRPL EVM public infrastructure and is preparing for
+  validator admission.**
+
 <img width="1960" height="956" alt="image" src="https://github.com/user-attachments/assets/9889c5e7-4a4b-4cc0-9b6e-6d7c12ea1c47" />
 
-  ### At the moment, we provide the following services for XRPL
-</div>
+### Mainnet services
 
-- **RPC**: [https://rpc.exrp.posthuman.digital](https://rpc.exrp.posthuman.digital) 
-- **REST**: [https://rest.exrp.posthuman.digital](https://rest.exrp.posthuman.digital)  
-- **gRPC**: [https://grpc.exrp.posthuman.digital](https://grpc.exrp.posthuman.digital)  
-- **Peer**: 522e624a77123c67762b5c1ff70ac20d377b0179@135.181.227.236:61656
+- **CometBFT RPC**: <https://rpc.exrp.posthuman.digital>
+- **REST**: <https://rest.exrp.posthuman.digital>
+- **gRPC**: `grpc.exrp.posthuman.digital:443`
+- **EVM JSON-RPC**: <https://rpc.exrp.posthuman.digital/evm>
+- **Peer**:
+  `522e624a77123c67762b5c1ff70ac20d377b0179@135.181.232.241:62656`
+- **Snapshots**: <https://snapshots.exrp.posthuman.digital>
+
+### Testnet services
+
+- **CometBFT RPC**: <https://rpc.exrp-testnet.posthuman.digital>
+- **REST**: <https://rest.exrp-testnet.posthuman.digital>
+- **gRPC**: `grpc.exrp-testnet.posthuman.digital:443`
+- **EVM JSON-RPC**: <https://rpc.exrp-testnet.posthuman.digital/evm>
+- **Peer**:
+  `e80a91daedb88e1dc429ab60036b3819bb48057d@135.181.227.236:61656`
+- **Snapshots**: <https://snapshots.exrp-testnet.posthuman.digital>
 
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/exrp?tab=state-sync)  
-- **Zetachain on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/exrp)
+- **XRPL EVM on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/exrp)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/exrp?tab=installation-guide)
 - **Snapshots**: [Link](https://nodes.posthuman.digital/chains/exrp?tab=snapshots)
 
@@ -25,7 +38,7 @@
 - **Block Explorer** [for XRPL](https://explorer.posthuman.digital/)
   </details>
   
-## Also we supported XPRL testnet
+## XRPL EVM Testnet support
 <img width="1955" height="702" alt="image" src="https://github.com/user-attachments/assets/4b1d9dde-3a38-4940-bd1c-6fb7cfd90a9d" />
 
 # 🧠Humanitarian Contributions
