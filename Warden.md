@@ -7,19 +7,9 @@
   [Warden Validator Details](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
   <img width="1981" height="871" alt="image" src="https://github.com/user-attachments/assets/18a06780-2280-413c-ac9d-f3314846c481" />
 
-  ### At the moment, we provide the following services for Warden:
-</div>
-
-- **RPC**: [https://rpc.warden-testnet.posthuman.digital](https://rpc.warden-testnet.posthuman.digital) 
-- **REST**: [https://rest.warden-testnet.posthuman.digital](https://rest.warden-testnet.posthuman.digital)  
-- **gRPC**: [https://grpc.warden-testnet.posthuman.digital](https://grpc.warden-testnet.posthuman.digital)  
-- **Peer**: 4ba715e890aeceb9fef100c7c404004d1d711f37@46.4.52.158:656
-
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/warden-testnet?tab=state-sync)
 - **Warden on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/warden-testnet)
-- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/warden-testnet?tab=state-sync)
-- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/warden-testnet?tab=snapshots)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/warden-testnet?tab=installation-guide)
 - **Oracle Slinky Setup**: [Link](https://nodes.posthuman.digital/chains/warden-testnet?tab=oracle-slinky-setup-guide)
 
 ## Alpha of Block Explorer for Warden

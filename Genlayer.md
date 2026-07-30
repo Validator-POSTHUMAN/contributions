@@ -9,11 +9,9 @@
 
 
 ### At the moment, we provide the following services for Genlayer:
-- **RPC**: [https://rpc.genlayer.posthuman.digital:443](https://rpc.genlayer.posthuman.digital:443)
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/genlayer?tab=install-guide)
 - **Troubleshooting**: [Link](https://nodes.posthuman.digital/chains/genlayer?tab=troubleshooting)
 - **Useful commands**: [Link](https://nodes.posthuman.digital/chains/genlayer?tab=useful-commands)
-- **Snapshots**: [Link](https://snapshots.genlayer.posthuman.digital:443)
 - **Genlayer toolkit**: [Link](https://github.com/Validator-POSTHUMAN/genlayer-toolkit)
 - **Failover Architecture**: [Link](https://github.com/Validator-POSTHUMAN/Failover-Architecture/blob/main/README.md)
 - **Dashboard monitor**: [Link](https://github.com/Validator-POSTHUMAN/dashboard-monitor)
@@ -67,4 +65,3 @@
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Cosmos Ecosystem X | 35k followers. We have been promoting Genlayer and its updates since genesis. | [Query CosmosEcosystem tweets about Genlayer](https://x.com/search?q=from%3ACosmosEcosystem%20(GenLayer)&src=typed_query&f=live) | We spread the word about Genlayer and its updates since genesis. |
 | POSTHUMAN X        | 7.5k followers. We actively cover Genlayer updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Genlayer](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(GenLayer)&src=typed_query&f=live) | We spread the word about Genlayer and its updates since genesis. |
-

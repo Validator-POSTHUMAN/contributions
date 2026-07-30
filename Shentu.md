@@ -10,16 +10,7 @@
 - **POSTHUMAN validates Shentu**  
 <img width="2215" height="904" alt="image" src="https://github.com/user-attachments/assets/88f3d610-bbee-426d-8bd2-5204a7ff8330" />
 
-- **RPC**: https://rpc.shentu.posthuman.digital:443
-- **Rest**: https://rest.shentu.posthuman.digital:443
-- **GRPC**: https://grpc.shentu.posthuman.digital:443
-- **Peer**: 77f21eee88ff4f895ff79dbdabb3e726c3f5eba5@peer.shentu.posthuman.digital:50656
-
-  ### At the moment, we provide the following services for Shentu:
-
 - **Install Guide**: [Link](https://nodes.posthuman.digital/chains/shentu?tab=installation-guide)
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/shentu?tab=state-sync)
-- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/shentu?tab=snapshots)
 
 
 # 🧠Humanitarian Contributions
@@ -90,6 +81,5 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
 
 

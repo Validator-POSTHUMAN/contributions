@@ -10,14 +10,7 @@
 <img width="2287" height="855" alt="image" src="https://github.com/user-attachments/assets/72ff0808-792a-465d-b66a-bcc3c573f252" />
 
 
-### At the moment, we provide the following services for Firmachain:
-- **RPC**: [https://rpc.firmachain.posthuman.digital:443](https://rpc.firmachain.posthuman.digital:443) 
-- **REST**: [https://rest.firmachain.posthuman.digital:443](https://rest.firmachain.posthuman.digital:443)  
-- **gRPC**: [https://grpc.firmachain.posthuman.digital:443](https://grpc.firmachain.posthuman.digital:443)  
-- **Peer**: 3168796330fb85ab21f797f0e2df84e7a98e1983@peer.firmachain.posthuman.digital:49656
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/firmachain?tab=installation-guide)
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/firmachain?tab=state-sync)
-- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/firmachain?tab=snapshots)
 
 
 ## Alpha of Block Explorer for Firmachain

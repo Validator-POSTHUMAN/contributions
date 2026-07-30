@@ -7,17 +7,7 @@
 <img width="2255" height="906" alt="image" src="https://github.com/user-attachments/assets/ff374e07-e41f-4f1f-80a1-0be89bfcdc4c" />
 
 
-- **RPC**: https://rpc.push.posthuman.digital:443
-- **Rest**: https://rest.shentu.posthuman.digital:443
-- **GRPC**: https://rest.push.posthuman.digital:443
-- **Json-RPC**: https://json-rpc.push.posthuman.digital:443
-- **Peer**: 7bf1c608994f3f0b6b65aa52072d164c9d8a7f4d@peer.push.posthuman.digital:50656
-
-  ### At the moment, we provide the following services for PushChain:
-
 - **Install Guide**: [Link](https://nodes.posthuman.digital/chains/pchain?tab=installation-guide)
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/pchain?tab=state-sync)
-- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/pchain?tab=snapshots)
 
 
 # 🧠Humanitarian Contributions
@@ -83,6 +73,5 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
 
 

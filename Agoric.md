@@ -6,20 +6,10 @@
   [Agoric Validator Details](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 <img width="2204" height="899" alt="image" src="https://github.com/user-attachments/assets/c6d81df1-5b52-4abe-8f45-a2faeb92ec99" />
 
- ### At the moment, we provide the following services for Agoric:
-</div>
-
-- **RPC**: [https://rpc.agoric.posthuman.digital](https://rpc.agoric.posthuman.digital) 
-- **REST**: [https://rest.agoric.posthuman.digital](https://rest.agoric.posthuman.digital)  
-- **gRPC**: [https://grpc.agoric.posthuman.digital](https://grpc.agoric.posthuman.digital)  
-- **Peer**: a31df340e2a186a0541cdb5099a1cca6eab67c75@135.181.61.154:12756
-
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=peers)  
 - **Agoric on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/agoric)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=installation-guide)
 - **IBC Relayers**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=IBC-Relayers)
-- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/agoric?tab=snapshot-service)
 
 ## Alpha of Block Explorer for Agoric
 - **Block Explorer** [for Agoric](https://explorer.posthuman.digital/agoric)

@@ -7,16 +7,7 @@
   [Zetachain Validator Details](https://hub.zetachain.com/staking)
 <img width="2138" height="1026" alt="image" src="https://github.com/user-attachments/assets/55108dbd-9103-430f-9d62-a488b3e846e8" />
 
-  ### At the moment, we provide the following services for Zetachain:
-</div>
-
-- **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.zetachain.posthuman.digital) 
-- **REST**: [https://rest.zetachain.posthuman.digital](https://rest.zetachain.posthuman.digital)  
-- **gRPC**: [https://grpc.zetachain.posthuman.digital](https://grpc.zetachain.posthuman.digital)  
-- **Peer**: `adcc85296ada06f1b8de81e7b26e063ff1474760@157.180.4.156:26656
-
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/zetachain?tab=state-sync)  
 - **Zetachain on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/zetachain)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/zetachain?tab=installation-guide)
 

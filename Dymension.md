@@ -8,20 +8,10 @@
 
 <img width="2317" height="929" alt="image" src="https://github.com/user-attachments/assets/101af032-c87c-4db4-93e2-5e9d7962e21c" />
 
- ### At the moment, we provide the following services for Dymension:
-</div>
-
-- **RPC**: [https://rpc.dymension.posthuman.digital](https://rpc.dymension.posthuman.digital) 
-- **REST**: [https://rest.dymension.posthuman.digital](https://rest.dymension.posthuman.digital)  
-- **gRPC**: [https://grpc.dymension.posthuman.digital](https://grpc.dymension.posthuman.digital)  
-- **Peer**: 82a81ed97ee8fe5a8bfa26446737865333eadca1@46.39.246.50:36656
-
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/dymension?tab=state-sync)  
 - **Dymension on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/dymension)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/dymension?tab=installation-guide)
 - **Dymension to our proposal service**: [Link](https://proposals.posthuman.digital/?bc=dymension_1100-1)
-- **Peers**: [Link](https://nodes.posthuman.digital/chains/dymension?tab=peers)
 
 ## Alpha of Block Explorer for Dymension
 - **Block Explorer** [for Dymension](https://explorer.posthuman.digital/dymension)

@@ -7,16 +7,7 @@
   [Stargaze Validator Details](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)  
 
   <img width="2153" height="927" alt="image" src="https://github.com/user-attachments/assets/dbaec13c-23fb-4854-b42c-78be470fc0a2" />
-### At the moment, we provide the following services for the Stargaze:
-</div>
-
-- **RPC**: [https://rpc.stargaze.posthuman.digital:443](https://rpc.stargaze.posthuman.digital:443) 
-- **REST**: [https://rest.stargaze.posthuman.digital:443](https://rest.stargaze.posthuman.digital:443)  
-- **gRPC**: [https://grpc.stargaze.posthuman.digital:443]([https://grpc.zetachain.posthuman.digital](https://grpc.stargaze.posthuman.digital:443))  
-- **Peer**: e87e6dc4a941f35b2ad39a75a18fefbccf5d9072@46.39.246.50:10656
-
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/stargaze?tab=state-sync)  
 - **Stargaze on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/stargaze)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/stargaze?tab=installation-guide)
 
@@ -206,4 +197,3 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
   ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-

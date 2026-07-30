@@ -10,19 +10,6 @@
   
 We provide ongoing technical support and contributions for the Babylon project.
 
-</div>
-
-- **RPC**: [https://rpc.babylon.posthuman.digital](https://rpc.babylon.posthuman.digital) 
-- **REST**: [https://rest-api.babylon.posthuman.digital](https://rest-api.babylon.posthuman.digital)  
-- **gRPC**: [https://grpc.babylon.posthuman.digital](https://grpc.babylon.posthuman.digital)  
-- **Peer**: 70d302558183535e220a725d463597ade72e130d@95.217.229.104:60656
-
-### Additional Resources:
-- **Genesis and Addrbook**: [Link](https://nodes.posthuman.digital/chains/babylon-testnet?tab=genesis-and-addrbook)
-- **Snapshot Service**: [Link](https://nodes.posthuman.digital/chains/babylon-testnet?tab=snapshot-service)
-- **Babylonn on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/babylon-testnet)
-- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/babylon-testnet?tab=installation-guide)
-
 ## Alpha of Block Explorer for Babylon
 - **Block Explorer** [for Babylon](https://explorer.posthuman.digital/babylon-testnet)
   </details>
@@ -187,4 +174,3 @@ While gathering all Babylon-related news, we were surprised to find the earliest
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
