@@ -1,112 +1,126 @@
 ![1v (6)](https://user-images.githubusercontent.com/92199696/195659349-109c51b4-1af4-419f-927e-0c629e1acce6.png)
-# The list of contributions for the [Axelar](https://axelar.network)
+
+# POSTHUMAN Contributions to [Axelar](https://axelar.network)
 
 # 🛠 Technical Contributions
 
-- We validate Axelar Chain in Mainnet [Validator's link](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
+- We operate an [Axelar mainnet validator](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l).
 
 - We operate Axelar `vald` and `tofnd` and maintain external-chain voting
   infrastructure.
 
 ## Axelar Validator Operations AI Skill
 
-- [Open-source Axelar validator skill](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/tree/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar)
+- [Open-source Axelar validator skill](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/tree/f9b0b74e1be8d7399721059371a72e8017164a69/axelar)
 - Validator-neutral inventory schema and safety evals.
 - Healthcheck for `axelard`, `vald`, `tofnd`, broadcaster funding, recent
   consensus signatures, external-chain maintainer state, and stale consensus.
 
 ## Axelar Safe Recovery Kit
 
-- [Recovery reference](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/references/safe-recovery.md)
-- [Restore and archive-validation evidence](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/references/recovery-validation.md)
-- [Snapshot verifier](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/scripts/axelar-snapshot-verify.sh)
-- [Deterministic verifier tests](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/scripts/axelar-snapshot-verify-test.sh)
+- [Recovery reference](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f9b0b74e1be8d7399721059371a72e8017164a69/axelar/references/safe-recovery.md)
+- [Restore and archive-validation evidence](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f9b0b74e1be8d7399721059371a72e8017164a69/axelar/references/recovery-validation.md)
+- [Snapshot verifier](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f9b0b74e1be8d7399721059371a72e8017164a69/axelar/scripts/axelar-snapshot-verify.sh)
+- [Deterministic verifier tests](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f9b0b74e1be8d7399721059371a72e8017164a69/axelar/scripts/axelar-snapshot-verify-test.sh)
 - Full-download, trusted SHA-256, LZ4 integrity, safe archive-layout,
   signer-state, staged extraction, rollback, and external-signing gates.
-- A tested upstream improvement is being prepared for
-  [axelar-core issue #1039](https://github.com/axelarnetwork/axelar-core/issues/1039),
-  where consensus can fail while the built-in health check still reports
-  success.
 
-- We are working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkBot without any support
+## Upstream `axelar-core` Contributions
+
+- [PR #2382 — fail health check on stale consensus](https://github.com/axelarnetwork/axelar-core/pull/2382)
+  addresses [issue #1039](https://github.com/axelarnetwork/axelar-core/issues/1039)
+  by checking catching-up state, height, block time, and consensus freshness.
+- [PR #2383 — use decode hooks in health check](https://github.com/axelarnetwork/axelar-core/pull/2383)
+  fixes a panic on valid Linea `finality_override = "confirmation"`
+  configuration and returns normal health-check errors for genuine decode
+  failures.
+- Both focused patches include regression tests and passed local package,
+  race, vet, full-suite, build, and clean-apply checks before publication.
+
+## Sputnik Network
+
+We added AXL support to [Sputnik Network Bot](https://t.me/SputnikNetworkBot)
+without project funding.
 
 ![image](https://user-images.githubusercontent.com/92199696/205491037-51fa4cfb-f604-4acc-9a43-66cad0fca7c2.png)
 
-We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send tips with $AXL in Twitter and Telegram, and also p2p-exchange $AXL directly in Telegram!| [News in Twitter](https://twitter.com/SputnikNetwork/status/1592164428476473345)
+We added $AXL to Sputnik Exchange and Sputnik Network. Users can send AXL tips
+on X and Telegram and use the Telegram P2P exchange.
+[Announcement](https://twitter.com/SputnikNetwork/status/1592164428476473345)
 
-## Alpha of Block Explorer for Axelar
+## Axelar Block Explorer
+
 - **Block Explorer** [for Axelar](https://explorer.posthuman.digital/axelar)
 
 <img width="2200" height="1356" alt="image" src="https://github.com/user-attachments/assets/4c76ff86-0468-4d90-9167-16e33d72ebb0" />
 
-## We add Axelar to [restake](https://restake.app/axelar/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
+## We added Axelar to [Restake](https://restake.app/axelar/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 
-## [Mail2Telegram Bot](https://github.com/Validator-POSTHUMAN/mail2telegram), to notify you about emails from Axelar in Telegram
+## Mail2Telegram
 
-## We added Axelar to our services: https://nodes.posthuman.digital/chains/axelar
-- rpc: https://rpc.axelar.posthuman.digital/:443
-- rest: https://rest.axelar.posthuman.digital:443
-- grpc: https://grpc.axelar.posthuman.digital:443
-- peer: 77f21eee88ff4f895ff79dbdabb3e726c3f5eba5@peer.axelar.posthuman.digital:50656
-- snapshots: https://snapshots.axelar.posthuman.digital:443
+[Mail2Telegram](https://github.com/Validator-POSTHUMAN/mail2telegram) forwards
+Axelar operational email notifications to Telegram.
+
+## Public Axelar Services
+
+Service hub: https://nodes.posthuman.digital/chains/axelar
+
+- RPC: https://rpc.axelar.posthuman.digital
+- REST: https://rest.axelar.posthuman.digital
+- gRPC: grpc.axelar.posthuman.digital:443
+- Peer: adece904395c55d4fd1c2581b0d7a9be899f5a9d@peer.axelar.posthuman.digital:64656
+- Snapshots: https://snapshots.axelar.posthuman.digital
 - [Installation Guide](https://nodes.posthuman.digital/chains/axelar?tab=installation-guide)
 - [Safe Snapshot Recovery](https://nodes.posthuman.digital/chains/axelar?tab=snapshots)
 - [Axelar AI Validator Skill](https://nodes.posthuman.digital/chains/axelar?tab=skill)
 
- # 🧠Humanitarian Contributions
- Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
+# 🧠 Community and Educational Contributions
 
-### Community [Superpowers](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md): 
+Including community growth, ecosystem education, media, and Axelar news
+coverage.
 
-| **Platform**    | **Community/Channel Name**                | **Followers/Members** | **Link**                                                |
-|------------------|------------------------------------------|------------------------|--------------------------------------------------------|
-| **Twitter**      | Cosmos Ecosystem X                      | 34.8k followers        | [Link](https://x.com/CosmosEcosystem)                 |
-|                  | POSTHUMAN X                              | 7.2k followers         | [Link](https://x.com/POSTHUMAN_DVS)                  |
-| **Telegram**     | Russian-speaking Cosmos Ecosystem        | 6000k+ members            | [Link](https://t.me/CosmosEcosystem_ru)              |
-|                  | Posthuman Channel in English                               | 300+ members           | [Link](https://t.me/posthumannews)                |
-|                  | Posthuman Channel in Russian                    | 1.5k+ members           | [Link](https://t.me/posthumanrus)                      |
-|                  | Cosmos Trading in Russian                | 800+ members           | [Link](https://t.me/+VRrR54qVXZKNq494)              |
-|                  | English-speaking POSTHUMAN Community     | 1k+ members           | [Link](https://t.me/posthumanchat)                   |
-|                  | Cosmos Ecosystem English                 | 1k+ members             | [Link](https://t.me/CosmosEcosystem)                 |
-|                  | Cosmos Ecosystem Emoji Pack              | Over 100+ projects     | [Link](https://t.me/addemoji/CosmosEcosystem)        |
-| **YouTube**      | CryptoBase Russian-speaking              | 12k subscribers      | [Link](https://www.youtube.com/@CRYPTOBASED)         |
-|                  | English-speaking POSTHUMAN              | 550 subscribers        | [Link](https://www.youtube.com/@POSTHUMANDVS)        |
-| **In Production**| POSTHUMAN Website                       | -                      | [Link](https://posthuman.digital/)                   |
-|                  | POSTHUMAN Validator Services (12 chains) | -                      | [Link](https://nodes.posthuman.digital/)             |
-|                  | Validator School (100+ graduates)        | -                      | [Link](https://github.com/Distributed-Validators-Synctems/Validator-School) |
-|                  | Centrifuge Users Engagement Platform     | -                      | [Link](https://centrifuge.digital/)                  |
-|                  | POSTHUMAN Explorer                       | -                      | [Link](https://explorer.posthuman.digital/)           |
-| **Coming Soon**  | Metarchy Web3 Game                       | -                      | -                                                     |
-|                  | Sputnik Network Version 2.0              | -                      | -                                                     |
+Current channel inventory and audience figures are maintained on the
+[POSTHUMAN Superpowers page](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/superpowers.md).
 
-## We launched quest and task campaign about [Axelar on Centrifuge Platform](https://centrifuge.digital/axelar), 300 participants.
+## Historical Axelar Quest Campaign
 
- <img width="2875" height="719" alt="image" src="https://github.com/user-attachments/assets/6aab432d-288d-4820-b0c0-e32b2109dbc2" />
+We launched an Axelar quest and task campaign on the Centrifuge platform with
+300 participants. The original campaign page is currently unavailable; the
+campaign screenshot is preserved below.
 
- ## We spread the information about Axelar among russian-speaking community of Cosmos Ecosystem:
-- **YouTube** (12k subscribers)  
+<img width="2875" height="719" alt="image" src="https://github.com/user-attachments/assets/6aab432d-288d-4820-b0c0-e32b2109dbc2" />
+
+## Russian-language Media and Education
+
+- **YouTube** (11.4k subscribers)
   [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
 
 ## Videos
-  - [Cosmos Ecosystem Insider Chat #37. New Bot. Rebus Drop, Where Did the Evmos Interest Go?, Axelar](https://www.youtube.com/watch?v=OOYZ0XnS3t4)
 
-  ### Also we have a weekly community audio/video chats with 200+videos where we speak about Cosmos Ecosystem Projects and also spread the word about Axelar and other Cosmos Ecosystem projects! 
+- [Cosmos Ecosystem Insider Chat #37. New Bot. Rebus Drop, Where Did the Evmos Interest Go?, Axelar](https://www.youtube.com/watch?v=OOYZ0XnS3t4)
+
+We also host recurring Cosmos ecosystem audio/video discussions that include
+Axelar news and education.
+
 <img width="2585" height="1572" alt="image" src="https://github.com/user-attachments/assets/840856a4-0856-47b1-a3df-f54635130e7e" />
 
 [==>Go to playlist<==](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G)
 
-# We're creating and working with Russian Language Communities in Telegram, spread the information about project. Also we're administrators of these groups:
+## Russian-language Telegram Communities
 
-- https://t.me/CosmosEcosystem_ru | ~6000 members
-- https://t.me/Crypto_Base_Chat |  ~4000 members
+We maintain and contribute to these communities:
+
+- https://t.me/CosmosEcosystem_ru | ~8k members
+- https://t.me/Crypto_Base_Chat | ~4.1k members
 - https://t.me/CosmosEcosystemNews_ru |  ~2000 members
 
 ### Social Media
 - **X (Twitter)**  
-  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (35k followers)  
-  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7k followers)
+  - [Cosmos Ecosystem](https://x.com/CosmosEcosystem) (34.8k followers)
+  - [POSTHUMAN](https://x.com/POSTHUMAN_DVS) (7.2k followers)
 
 ## Contributions for Axelar Network
+
 <img width="1684" height="1664" alt="image" src="https://github.com/user-attachments/assets/55e90ffa-a532-4fe4-8164-3902d99a5f24" />
 
 ### Special Infographics  
@@ -134,16 +148,18 @@ Covering news from the Axelar Ecosystem:
 - [Weekly News about Axelar](https://x.com/CosmosEcosystem/status/1857817790763159999)  
 
 
-</details>
-
 ### Our contributions for the growth of the Axelar community.
 
 | Name               | Description                                              | Relevant URLs                                                                                      | Additional Details                                          |
 |--------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Cosmos Ecosystem X | 35k followers. We have been promoting Axelar Network and its updates since genesis. | [Query CosmosEcosystem tweets about Axelar Network](https://x.com/search?q=from%3ACosmosEcosystem%20(Axelar%20OR%20axelar%20OR%20%24AXL)&src=typed_query&f=live) | We spread the word about Axelar Network and its updates since genesis. |
-| POSTHUMAN X        | 7.5k followers. We actively cover Axelar Network updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Axelar Network](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Axelar%20OR%20axelar%20OR%20%24AXL)&src=typed_query&f=live) | We spread the word about Axelar Network and its updates since genesis. |
+| Cosmos Ecosystem X | 34.8k followers. We have been promoting Axelar Network and its updates since genesis. | [Query CosmosEcosystem tweets about Axelar Network](https://x.com/search?q=from%3ACosmosEcosystem%20(Axelar%20OR%20axelar%20OR%20%24AXL)&src=typed_query&f=live) | We spread the word about Axelar Network and its updates since genesis. |
+| POSTHUMAN X        | 7.2k followers. We actively cover Axelar Network updates and ecosystem news since genesis. | [Query POSTHUMAN_DVS tweets about Axelar Network](https://x.com/search?q=from%3APOSTHUMAN_DVS%20(Axelar%20OR%20axelar%20OR%20%24AXL)&src=typed_query&f=live) | We spread the word about Axelar Network and its updates since genesis. |
 
-# Economical Contributions
- We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
+# Economic Contributions
 
-  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
+We plan to distribute a share of validator income to delegators.
+[Details](https://posthuman.digital/phmn)
+
+## About POSTHUMAN
+
+[Learn more about our team](https://posthuman.digital/team).
