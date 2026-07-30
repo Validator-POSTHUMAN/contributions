@@ -1,13 +1,32 @@
 ![1v (6)](https://user-images.githubusercontent.com/92199696/195659349-109c51b4-1af4-419f-927e-0c629e1acce6.png)
 # The list of contributions for the [Axelar](https://axelar.network)
 
-# 🛠Technical Contributions
-Including Validation, Free tools for Community etc. 
-  
+# 🛠 Technical Contributions
 
 - We validate Axelar Chain in Mainnet [Validator's link](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 
-- Also we've implemented support for Ethereum external chain.
+- We operate Axelar `vald` and `tofnd` and maintain external-chain voting
+  infrastructure.
+
+## Axelar Validator Operations AI Skill
+
+- [Open-source Axelar validator skill](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/tree/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar)
+- Validator-neutral inventory schema and safety evals.
+- Healthcheck for `axelard`, `vald`, `tofnd`, broadcaster funding, recent
+  consensus signatures, external-chain maintainer state, and stale consensus.
+
+## Axelar Safe Recovery Kit
+
+- [Recovery reference](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/references/safe-recovery.md)
+- [Restore and archive-validation evidence](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/references/recovery-validation.md)
+- [Snapshot verifier](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/scripts/axelar-snapshot-verify.sh)
+- [Deterministic verifier tests](https://github.com/Validator-POSTHUMAN/AI-skills-for-networks/blob/f42a0e9b9b5e403edc54df5c53a5b9d221070ca0/axelar/scripts/axelar-snapshot-verify-test.sh)
+- Full-download, trusted SHA-256, LZ4 integrity, safe archive-layout,
+  signer-state, staged extraction, rollback, and external-signing gates.
+- A tested upstream improvement is being prepared for
+  [axelar-core issue #1039](https://github.com/axelarnetwork/axelar-core/issues/1039),
+  where consensus can fail while the built-in health check still reports
+  success.
 
 - We are working on Sputnik Network, and we added $AXL to https://t.me/SputnikNetworkBot without any support
 
@@ -31,7 +50,8 @@ We've added $AXL to Sputnik Exchange and to Sputnik Network. Now users can send 
 - peer: 77f21eee88ff4f895ff79dbdabb3e726c3f5eba5@peer.axelar.posthuman.digital:50656
 - snapshots: https://snapshots.axelar.posthuman.digital:443
 - [Installation Guide](https://nodes.posthuman.digital/chains/axelar?tab=installation-guide)
-- [State Sync](https://nodes.posthuman.digital/chains/axelar?tab=state-sync)
+- [Safe Snapshot Recovery](https://nodes.posthuman.digital/chains/axelar?tab=snapshots)
+- [Axelar AI Validator Skill](https://nodes.posthuman.digital/chains/axelar?tab=skill)
 
  # 🧠Humanitarian Contributions
  Including Community Growth (Twitter, Telegram, Youtube, Medium etc.), Evangelism, Education etc. 
@@ -127,4 +147,3 @@ Covering news from the Axelar Ecosystem:
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
   ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
