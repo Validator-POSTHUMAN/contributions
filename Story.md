@@ -8,15 +8,12 @@
 <img width="2331" height="990" alt="image" src="https://github.com/user-attachments/assets/f8508734-b9bf-4ba0-80a3-909c745904e2" />
 
 
-  ### At the moment, we provide the following services for Story:
+  ### Legacy Story service status
 </div>
 
-- **RPC**: [https://rpc.story.posthuman.digital](https://rpc.story.posthuman.digital) 
-- **REST**: [https://rest.story.posthuman.digital](https://rest.story.posthuman.digital)  
-- **RPC_ws**: [wss://rpc.story.posthuman.digital/websocket](wss://rpc.story.posthuman.digital/websocket)  
-- **Evm_json_rpc**: [https://evm.story.posthuman.digital(https://evm.story.posthuman.digital)  
-- **Evm_ws**: [wss://wss.story.posthuman.digital](wss://wss.story.posthuman.digital)  
-- **Peer**: 8a69935f34827dd81c721c63c69bfc54c849d028@46.4.52.158:26656
+- POSTHUMAN's legacy Story RPC, REST, EVM, WebSocket, peer, and snapshot
+  services are retired. The contribution record remains available as project
+  history.
 
 ### Additional Resources:
 - **Snapshots**: [Link](https://nodes.posthuman.digital/chains/story-testnet?tab=snapshot-service)  
@@ -116,5 +113,4 @@
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
 
