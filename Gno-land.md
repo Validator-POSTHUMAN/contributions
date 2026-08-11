@@ -10,12 +10,11 @@
   ### At the moment, we provide the following services for Gnoland:
 
 - **Install Guide**: [Link](https://nodes.posthuman.digital/chains/gno?tab=installation-guide)
-- **Topaz RPC**: https://rpc-gnoland.posthuman.digital
-- **Topaz snapshots**: https://snapshots-gnoland.posthuman.digital
+- **Sapphire RPC**: https://rpc-gnoland.posthuman.digital
+- **Sapphire snapshots**: https://snapshots-gnoland.posthuman.digital
+- **GNO·SCOPE Sapphire explorer**: https://gnoland.app/
 
-Topaz services are available at https://nodes.posthuman.digital/chains/gno
-
-gno.land will be added to block explorer - explorer.posthuman.digital
+Sapphire guides and public infrastructure are available at https://nodes.posthuman.digital/chains/gno
 
 Adena Wallet added to centrifuge.digital - will be added full functionality of gno.land to centrifuge
 
@@ -109,5 +108,4 @@ Also, plans for gno.land:
  We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
-
 
