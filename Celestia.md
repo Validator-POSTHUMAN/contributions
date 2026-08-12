@@ -12,7 +12,7 @@
   
 - **Type**: mainnet  
 - **Chain ID**: celestia  
-- **RPC**: [https://rpc-celestia-mainnet.posthuman.digital](https://rpc-celestia-mainnet.posthuman.digital) 
+- **RPC fallback (PublicNode)**: [https://celestia-rpc.publicnode.com](https://celestia-rpc.publicnode.com)
 - **REST**: [https://rest-celestia-mainnet.posthuman.digital](https://rest-celestia-mainnet.posthuman.digital) 
 - **gRPC**: [https://grpc-celestia-mainnet.posthuman.digital](https://grpc-celestia-mainnet.posthuman.digital)  
 - **Peer**: `2cc7330049bc02e4276668c414222593d52eb718@135.181.227.236:40656`
