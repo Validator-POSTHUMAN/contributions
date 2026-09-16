@@ -14,7 +14,6 @@ retired on 2026-07-16.
 ### Additional Resources:
 - **Kyve on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/kyve)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/kyve?tab=installation-guide)
-- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/kyve?tab=snapshots)
 
 ## Alpha of Block Explorer for Kyve
 - **Block Explorer** [for Kyve](https://explorer.posthuman.digital/kyve)

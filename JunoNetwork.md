@@ -10,16 +10,14 @@
 ### At the moment, we provide the following services for Juno:
 </div>
 
-- **RPC**: [https://rpc.juno.posthuman.digital](https://rpc.juno.posthuman.digital) 
-- **REST**: [https://rest.juno.posthuman.digital](https://rest.juno.posthuman.digital)  
-- **gRPC**: [https://grpc.juno.posthuman.digital](https://grpc.juno.posthuman.digital)  
 - **Peer**: 113a11ad866cddddea40ddf9b56fde43f03d7499@135.181.227.236:12656
 
+POSTHUMAN's public RPC, REST, gRPC, state-sync and snapshot services for Juno
+were retired on 2026-09-17. The validator and the peer remain.
+
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/juno?tab=state-sync)
 - **Juno on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/juno)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/juno?tab=installation-guide)
-- **Snapshot service**: [Link](https://nodes.posthuman.digital/chains/juno?tab=snapshots)
 
 ## Alpha of Block Explorer for Juno
 - **Block Explorer** [for Juno](https://explorer.posthuman.digital/juno/)
