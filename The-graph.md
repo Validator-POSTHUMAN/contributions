@@ -3,15 +3,20 @@
 # POSTHUMAN contributions for [TheGraph](https://thegraph.com/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates TheGraph**  
-  [TheGraph Validator Details](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)
+- **POSTHUMAN runs an Indexer on TheGraph**  
+  [TheGraph Indexer Details](https://thegraph.com/explorer/profile/0x0874e792462406dc12EE96b75E52A3BdbBA3a123?view=Indexing&chain=arbitrum-one)
 <img width="1992" height="865" alt="image" src="https://github.com/user-attachments/assets/9ea1f9ef-9f9f-43af-b446-eda092d67d92" />
 
 
   ### At the moment, we provide the following services for TheGraph:
   
 - **TheGraph on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/the-graph)
-- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/the-graph)
+- **Installation guide**: [Link](https://nodes.posthuman.digital/chains/the-graph?tab=installation-guide)
+- **Delegation guide**: [Link](https://nodes.posthuman.digital/chains/the-graph?tab=delegation)
+- **Monitoring guide**: [Link](https://nodes.posthuman.digital/chains/the-graph?tab=monitoring)
+- **Security hardening**: [Link](https://nodes.posthuman.digital/chains/the-graph?tab=security-hardening)
+- **Ecosystem tooling review**: [Link](https://nodes.posthuman.digital/chains/the-graph?tab=tooling)
+- **AI agent skill**: [Link](https://nodes.posthuman.digital/chains/the-graph?tab=skill)
 
 # 🧠Humanitarian Contributions
 
