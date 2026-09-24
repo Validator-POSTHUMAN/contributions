@@ -3,18 +3,18 @@
 # POSTHUMAN contributions for [Gnoland](https://gno.land/)
 
 # 🛠 Technical Contributions
-- **POSTHUMAN validates Gnoland Testnet**  
+- **POSTHUMAN runs public Gnoland mainnet infrastructure**  
 <img width="1560" height="727" alt="image" src="https://github.com/user-attachments/assets/bb63d67e-0edc-48a7-8255-ce3c964ecb53" />
 
 
   ### At the moment, we provide the following services for Gnoland:
 
 - **Install Guide**: [Link](https://nodes.posthuman.digital/chains/gno?tab=installation-guide)
-- **Pearl RPC**: https://rpc-gnoland.posthuman.digital
-- **Pearl snapshots**: https://snapshots-gnoland.posthuman.digital
-- **GNO·SCOPE Pearl explorer**: https://gnoland.app/
+- **Mainnet RPC**: https://rpc-gnoland.posthuman.digital
+- **Mainnet snapshots**: https://snapshots-gnoland.posthuman.digital
+- **GNO·SCOPE mainnet explorer**: https://gnoland.app/
 
-Pearl guides and public infrastructure are available at https://nodes.posthuman.digital/chains/gno
+Mainnet guides and public infrastructure are available at https://nodes.posthuman.digital/chains/gno
 
 Adena Wallet added to centrifuge.digital - will be added full functionality of gno.land to centrifuge
 
