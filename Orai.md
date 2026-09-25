@@ -8,14 +8,14 @@
 
 ## At the moment, we provide the following services for the ORAIchain:
 
-POSTHUMAN validates Oraichain. We no longer publish public RPC, REST, gRPC or
-peer endpoints for this network.
+- **Validator.** POSTHUMAN validates ORAIchain —
+  [stake with us](https://explorer.posthuman.digital/oraichain/staking/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
+- [Installation guide](https://nodes.posthuman.digital/chains/oraichain?tab=installation-guide)
+- [Network page](https://nodes.posthuman.digital/chains/oraichain)
+- Governance tool is coming soon
 
-## Other services:
-- Services: https://nodes.posthuman.digital/chains/oraichain
-- [Instalation Guide](https://nodes.posthuman.digital/chains/oraichain?tab=installation-guide)
-- [Snapshots](https://nodes.posthuman.digital/chains/oraichain?tab=snapshots)
-- Govenance tool is coming soon
+POSTHUMAN does not run public RPC, REST, gRPC, peer or snapshot endpoints for
+ORAIchain.
 
 ## Alpha of Block Explorer for ORAIchain
 - **Block Explorer** [for ORAIchain](https://explorer.posthuman.digital/oraichain)
