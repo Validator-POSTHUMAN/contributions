@@ -8,15 +8,12 @@
 
 ## At the moment, we provide the following services for the ORAIchain:
 
-- rpc: https://rpc.oraichain.posthuman.digital
-- rest: https://rest.oraichain.posthuman.digital
-- grpc: https://grpc.oraichain.posthuman.digital
-- peer: 07dde93a5ea10fc4623ef421d0de0e2b5b556e80@157.180.4.156:36657
+POSTHUMAN validates Oraichain. We no longer publish public RPC, REST, gRPC or
+peer endpoints for this network.
 
 ## Other services:
 - Services: https://nodes.posthuman.digital/chains/oraichain
 - [Instalation Guide](https://nodes.posthuman.digital/chains/oraichain?tab=installation-guide)
-- [State Sync](https://nodes.posthuman.digital/chains/oraichain?tab=state-sync)
 - [Snapshots](https://nodes.posthuman.digital/chains/oraichain?tab=snapshots)
 - Govenance tool is coming soon
 
