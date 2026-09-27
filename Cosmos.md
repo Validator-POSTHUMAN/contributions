@@ -24,7 +24,7 @@ including flagship networks like Cosmos.
 - **RPC**: [https://rpc.cosmos.posthuman.digital](https://rpc.cosmos.posthuman.digital) 
 - **REST**: [https://rest.cosmos.posthuman.digital](https://rest.cosmos.posthuman.digital)  
 - **gRPC**: [https://grpc.cosmos.posthuman.digital](https://grpc.cosmos.posthuman.digital)  
-- **Peer**: 6d581e53245f7f81c24a20392b60256a7e59de59@135.181.227.236:26656
+- **Peer**: 6d581e53245f7f81c24a20392b60256a7e59de59@peer.cosmos.posthuman.digital:26656
 
 ### Additional Resources:
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/cosmoshub?tab=state-sync)  

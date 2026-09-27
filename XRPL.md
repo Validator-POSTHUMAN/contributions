@@ -26,7 +26,7 @@
 - **gRPC**: `grpc.exrp-testnet.posthuman.digital:443`
 - **EVM JSON-RPC**: <https://rpc.exrp-testnet.posthuman.digital/evm>
 - **Peer**:
-  `e80a91daedb88e1dc429ab60036b3819bb48057d@135.181.227.236:61656`
+  `e80a91daedb88e1dc429ab60036b3819bb48057d@peer.exrp.posthuman.digital:61656`
 - **Snapshots**: <https://snapshots.exrp-testnet.posthuman.digital>
 
 ### Additional Resources:
