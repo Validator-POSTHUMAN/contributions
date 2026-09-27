@@ -12,10 +12,11 @@
   
 - **Type**: mainnet  
 - **Chain ID**: celestia  
-- **RPC fallback (PublicNode)**: [https://celestia-rpc.publicnode.com](https://celestia-rpc.publicnode.com)
+- **RPC**: [https://rpc-celestia-mainnet.posthuman.digital](https://rpc-celestia-mainnet.posthuman.digital) — pruned public node, roughly ten days of blocks, no transaction index
+- **RPC fallback (PublicNode)**: [https://celestia-rpc.publicnode.com](https://celestia-rpc.publicnode.com) — for reads older than our retained window
 - **REST**: [https://rest-celestia-mainnet.posthuman.digital](https://rest-celestia-mainnet.posthuman.digital) 
 - **gRPC**: [https://grpc-celestia-mainnet.posthuman.digital](https://grpc-celestia-mainnet.posthuman.digital)  
-- **Peer**: `2cc7330049bc02e4276668c414222593d52eb718@135.181.227.236:40656`
+- **Peer**: `9f21a4f163710710aa7932e1832a257ef326186f@peer-celestia-mainnet.posthuman.digital:40656`
 
 ### Additional Resources:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
@@ -23,7 +24,7 @@
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
 - **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
-- **Snapshots**: [Link](https://snapshots.posthuman.digital/celestia-mainnet/)
+- **Snapshots**: [Link](https://snapshots-celestia-mainnet.posthuman.digital/)
 
 # Alpha of Block Explorer for Celestia:
 - **Block Explorer** [for Celestia](https://explorer.posthuman.digital/celestia)
@@ -37,7 +38,7 @@
 - **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
 - **REST**: [https://rest-celestia-testnet.posthuman.digital](https://rest-celestia-testnet.posthuman.digital)
 - **gRPC**: [https://grpc-celestia-testnet.posthuman.digital](https://grpc-celestia-testnet.posthuman.digital)
-- **Peer**: `8a8e7ed15c91f31532d098ae55b0ad9ff5aa5ac1@135.181.227.236:39656`
+- **Peer**: `dbd78d7c61f1789814685d5ed37fb39ff054177d@peer-celestia-testnet.posthuman.digital:39656`
 
 ### Additional Resources for Celestia Testnet:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
@@ -45,7 +46,7 @@
 - **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
-- **Snapshots**: [Link](https://snapshots.posthuman.digital/celestia-testnet/)
+- **Snapshots**: none published for Mocha-5. The older `celestia-testnet` bundle is for the retired Mocha-4 chain and is not compatible.
 - **One Liner**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
 
 # Alpha of Block Explorer for Celestia Testnet:
