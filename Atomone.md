@@ -6,9 +6,9 @@
 <img width="2038" height="921" alt="image" src="https://github.com/user-attachments/assets/5ed02c35-16bf-490c-b089-9ba2b53a7eaf" />
 
 ## Validator Operations
-**We Validate Govgen and AtomOne**
+**Historical validator operations: GovGen and AtomOne**
 ### AtomOne
-- Validator Address: [atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
+- The former POSTHUMAN validator was tombstoned and jailed on 2026-09-30. Do not delegate to it. No replacement validator is promoted here until it enters the active set and the operator approves the change.
 ### Govgen
 - Validator Address: [govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
 - *We stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)*
@@ -17,13 +17,13 @@
 ### AtomOne Services:
 - **Type:** Mainnet  
 - **Chain ID:** `atomone-1`  
-- **RPC:** [https://rpc.atomone.posthuman.digital:443](https://rpc.atomone.posthuman.digital:443)  
-- **REST:** [https://rest.atomone.posthuman.digital:443](https://rest.atomone.posthuman.digital:443)  
-- **gRPC:** [https://grpc.atomone.posthuman.digital:443](https://grpc.atomone.posthuman.digital:443)  
-- **Seed Node:** `16bd427bd598e25c9d78e60e6b9c12d7cc8eeb84@8.52.247.236:56656`
+- **RPC:** `https://rpc.atomone.posthuman.digital:443` — offline; the node is fenced after the tombstone.
+- **REST:** `https://rest.atomone.posthuman.digital:443` — offline.
+- **gRPC:** `https://grpc.atomone.posthuman.digital:443` — offline.
+- **Seed Node:** Not advertised while the old node is fenced.
 
 ### Additional Resources:
-- **State Sync**: [Link](https://nodes.posthuman.digital/chains/atomone?tab=state-sync)  
+- **State Sync:** Unavailable from the fenced POSTHUMAN node. Do not use its historical state-sync instructions.
 - **ATOM One on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/atomone)
 - **Installation guide**: [Link](https://nodes.posthuman.digital/chains/atomone?tab=installation-guide)
 - **Snapshot service:** [https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service](https://nodes.posthuman.digital/chains/atomone?tab=snapshot-service)
@@ -50,7 +50,8 @@ We’re about to deliver the following **ASAP**:
 
 <img width="2080" height="873" alt="image" src="https://github.com/user-attachments/assets/9f086eaa-539f-4215-8b17-1801d7a62f82" />
 
-## We add ATOM One to [restake](https://restake.app/atomone/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
+## REStake
+New REStake grants to the former POSTHUMAN AtomOne validator are disabled. Existing grants should be reviewed and may be revoked; no replacement validator is recommended here.
   </details>
 
 # 🧠Humanitarian Contributions
