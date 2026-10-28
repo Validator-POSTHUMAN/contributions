@@ -24,21 +24,20 @@
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
 - **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
-- **Snapshots**: [Link](https://snapshots-celestia-mainnet.posthuman.digital/)
+- **Snapshots**: [Publication status and recovery boundaries](https://nodes.posthuman.digital/chains/celestia?tab=snapshots) — POSTHUMAN's archive was stale at the 2026-10-28 check; verify before use.
 
 # Alpha of Block Explorer for Celestia:
 - **Block Explorer** [for Celestia](https://explorer.posthuman.digital/celestia)
 
 ## We add Celestia to [restake](https://restake.app/celestia/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 
-### We also supported project on [testnet](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
+### We also support [Mocha-5 testnet](https://explorer.posthuman.digital/celestia-testnet/staking/celestiavaloper10eqlwgqrn73kvw5t4ss8ns7wxmvpvt96ujakst)
 
 - **Type**: testnet
-- **Chain ID**: mocha-4  
+- **Chain ID**: mocha-5
 - **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
 - **REST**: [https://rest-celestia-testnet.posthuman.digital](https://rest-celestia-testnet.posthuman.digital)
 - **gRPC**: [https://grpc-celestia-testnet.posthuman.digital](https://grpc-celestia-testnet.posthuman.digital)
-- **Peer**: `dbd78d7c61f1789814685d5ed37fb39ff054177d@peer-celestia-testnet.posthuman.digital:39656`
 
 ### Additional Resources for Celestia Testnet:
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
@@ -46,8 +45,7 @@
 - **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
-- **Snapshots**: none published for Mocha-5. The older `celestia-testnet` bundle is for the retired Mocha-4 chain and is not compatible.
-- **One Liner**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
+- **Snapshots**: [Mocha-5 external snapshot source and verification](https://nodes.posthuman.digital/chains/celestia-testnet?tab=snapshots). POSTHUMAN does not publish a Mocha-5 archive; the older `celestia-testnet` bundle is retired Mocha-4 data.
 
 # Alpha of Block Explorer for Celestia Testnet:
 - **Block Explorer** [for Celestia Testnet](https://explorer.posthuman.digital/celestia-testnet)
