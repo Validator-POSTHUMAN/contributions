@@ -24,7 +24,7 @@
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
 - **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
-- **Snapshots**: [Publication status and recovery boundaries](https://nodes.posthuman.digital/chains/celestia?tab=snapshots) — POSTHUMAN's archive was stale at the 2026-10-28 check; verify before use.
+- **Snapshots**: [Publication status and recovery boundaries](https://nodes.posthuman.digital/chains/celestia?tab=snapshots) — Publication resumed on 2026-11-11, but the new archive has not passed a current end-to-end restore test; verify before use.
 
 # Alpha of Block Explorer for Celestia:
 - **Block Explorer** [for Celestia](https://explorer.posthuman.digital/celestia)
