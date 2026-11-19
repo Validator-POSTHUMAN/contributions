@@ -2,11 +2,13 @@
 
 # POSTHUMAN contributions for [Union](https://union.build/)
 
-# 🛠 Technical Contributions
-- **POSTHUMAN validates Union**  
-  [Union Validator Details](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
+> **Retired on 2026-11-18:** POSTHUMAN no longer provides Union validation or REStake support. This page preserves historical contributions; it is not an offer of current staking services or future validator-income distributions.
 
-## We add Union to [restake](https://restake.app/union/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
+# 🛠 Technical Contributions
+- **POSTHUMAN previously validated Union**
+  [Historical Union Validator Details](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
+
+## We previously added Union to [REStake](https://restake.app/union/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 
 # 🧠Humanitarian Contributions
 
@@ -84,9 +86,6 @@
 - [14.01.2025](https://x.com/CosmosEcosystem/status/1879079130698031372)
 - [26.09.2024](https://x.com/CosmosEcosystem/status/1839292895674904582)
 - [01.07.2024](https://x.com/CosmosEcosystem/status/1807795558272446508)
-
-# Economical Contributions
- We're about distribute part of 20% of our validator's income to our delegators [Details](https://posthuman.digital/phmn)
 
  ### ***[Feel free to learn more about our team](https://posthuman.digital/team)***
 
